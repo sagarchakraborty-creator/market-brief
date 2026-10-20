@@ -38,6 +38,20 @@
         <span class="onair" id="onair">Off air</span>
       </span>
     </div>
+    <nav class="tabs" aria-label="Sections">
+      <button class="tab" id="tabToday" aria-pressed="true">Today's brief</button>
+      <button class="tab" id="tabFollow" aria-pressed="false">Following <span class="count" id="followCount" hidden></span></button>
+    </nav>
+
+    <section id="followView" hidden>
+      <h1>Stories you're following</h1>
+      <div class="edition">Each story is tracked from where it began, and updated every morning with the day's news.</div>
+      <ul class="stories-list" id="storyList"></ul>
+      <p class="note follow-help">To follow another story, ask Claude from the phone app or your PC, for example "Track the Tata Motors demerger". To stop, say "Stop tracking the Jio IPO".</p>
+    </section>
+
+    <div id="readerView">
+    <button class="back" id="backBtn" hidden>‹ All stories</button>
     <h1 id="headline">Your daily financial news, read aloud</h1>
     <div class="edition" id="edition">Loading today's bulletin…</div>
     <div class="editions" id="editions"></div>
@@ -49,6 +63,7 @@
 
     <ol class="rundown" id="rundown"></ol>
     <div class="empty" id="empty" hidden></div>
+    </div>
 
     <details class="settings">
       <summary>Voice and speed</summary>

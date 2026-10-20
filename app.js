@@ -25,7 +25,12 @@ function spokenFix(s) {
 function splitSentences(p) {
   const out = (p.match(/[^.!?]+(?:[.!?]+["'’”)]?|$)/g) || [p]).map(s => s.trim()).filter(Boolean);
   // Merge fragments created by decimals or initials ("2.5", "U.S.") back into their sentence.
-  return out.reduce((a, s) => { if (a.length && /\d\.$|\b[A-Z]\.$/.test(a[a.length - 1]) && /^[\d A-Z]/.test(s)) a[a.length - 1] += s; else a.push(s); return a; }, []);
+  return out.reduce((a, s) => {
+    const prev = a[a.length - 1];
+    if (prev && ((/\d\.$/.test(prev) && /^\d/.test(s)) || (/\b[A-Z]\.$/.test(prev) && /^[A-Z]\./.test(s)))) a[a.length - 1] += s;
+    else a.push(s);
+    return a;
+  }, []);
 }
 const words = t => t.split(/\s+/).length;
 const mins = w => Math.max(1, Math.round(w / WPM));
@@ -42,7 +47,8 @@ function showBrief(b) {
   segs.forEach(s => total += words(s.script || ''));
   $('headline').textContent = b.headline || 'Your daily financial news';
   const n = segs.reduce((a, s) => a + (s.stories || []).length, 0);
-  $('edition').textContent = `${longDate(b.date)} · ${b.edition || 'Daily'} edition · ${mins(total)} min · ${n} stories from ET, Moneycontrol, Business Standard and Livemint`;
+  $('edition').textContent = b.kind === 'story' ? `${b.byline} · ${mins(total)} min`
+    : `${longDate(b.date)} · ${b.edition || 'Daily'} edition · ${mins(total)} min · ${n} stories from ET, Moneycontrol, Business Standard and Livemint`;
   let para = -1;                      // paragraphs count across the bulletin, matching the audio's timings
   $('rundown').innerHTML = segs.map((s, i) => {
     const paras = (s.script || '').split(/\n\s*\n/).map(p => p.trim()).filter(Boolean);
@@ -50,7 +56,7 @@ function showBrief(b) {
     const start = clock(before); before += words(s.script || '');
     const stories = (s.stories || []).map(st => `<li><a href="${esc(st.link)}" target="_blank" rel="noopener">${esc(st.title)}<small>${esc(st.source)} ↗</small></a></li>`).join('');
     return `<li class="seg" data-seg="${i}">
-      <button class="seg-head" data-seg="${i}"><span class="seg-time">${start}</span><span class="seg-title">${esc(s.title)}</span><span class="seg-len">${mins(words(s.script || ''))} min</span></button>
+      <button class="seg-head" data-seg="${i}"><span class="seg-time">${start}</span><span class="seg-title">${esc(s.title)}${s.isNew ? '<span class="badge">New</span>' : ''}</span><span class="seg-len">${mins(words(s.script || ''))} min</span></button>
       <div class="script">${html}${stories ? `<details class="stories"><summary>Read the ${(s.stories || []).length} stories</summary><ul>${stories}</ul></details>` : ''}</div>
     </li>`;
   }).join('');
@@ -59,7 +65,7 @@ function showBrief(b) {
   pos = saved.date === b.date && saved.i < sents.length ? saved.i : 0;
   fillReaders();
   renderPos();
-  $('editions').innerHTML = briefs.length > 1 ? briefs.map(x => `<button class="ed" data-date="${esc(x.date)}" aria-pressed="${x.date === b.date}">${esc(shortDate(x.date))}</button>`).join('') : '';
+  $('editions').innerHTML = b.kind !== 'story' && briefs.length > 1 ? briefs.map(x => `<button class="ed" data-date="${esc(x.date)}" aria-pressed="${x.date === b.date}">${esc(shortDate(x.date))}</button>`).join('') : '';
 }
 
 function renderPos() {
@@ -81,7 +87,7 @@ function renderPos() {
   document.querySelector(`.seg[data-seg="${cur.seg}"]`)?.classList.add('current');
   $('nowTitle').textContent = segs[cur.seg].title;
   $('nowSub').textContent = `Section ${cur.seg + 1} of ${segs.length}`;
-  $('startTitle').textContent = pos > 0 ? `Resume: ${segs[cur.seg].title}` : "Play today's brief";
+  $('startTitle').textContent = pos > 0 ? `Resume: ${segs[cur.seg].title}` : brief.kind === 'story' ? 'Play the story' : "Play today's brief";
   $('startSub').textContent = pos > 0 ? 'Picks up where you stopped' : `${segs.length} sections, starting with ${segs[0].title}`;
   if (playing && el) { const r = el.getBoundingClientRect(); if (r.top < 60 || r.bottom > innerHeight - 140) el.scrollIntoView({ block: 'center', behavior: 'smooth' }); }
 }
@@ -177,7 +183,7 @@ function mediaMeta() {
   const seg = (brief.segments || [])[(sents[pos] || {}).seg ?? 0];
   navigator.mediaSession.metadata = new MediaMetadata({
     title: seg ? seg.title : 'Market Brief', artist: 'Market Brief',
-    album: `${longDate(brief.date)} · ${brief.edition || 'Daily'} edition`,
+    album: brief.kind === 'story' ? brief.headline : `${longDate(brief.date)} · ${brief.edition || 'Daily'} edition`,
     artwork: [{ src: 'icons/icon-192.png', sizes: '192x192', type: 'image/png' }, { src: 'icons/icon-512.png', sizes: '512x512', type: 'image/png' }]
   });
 }
@@ -251,10 +257,77 @@ async function loadIndex() {
     showEmpty("Couldn't load the bulletin", "Check your connection. Once you've opened a bulletin, it plays offline too.");
     return;
   }
+  loadStories();
+  if (view !== 'today') return;
   if (!briefs.length) { $('edition').textContent = ''; showEmpty("Today's bulletin isn't here yet", 'A fresh bulletin is written every morning at 7:30 AM.'); return; }
   if (playing) return;                                            // don't swap the edition mid-listen
   await openDate(briefs[0].date);
 }
+
+// Following: stories tracked from the beginning. stories/index.json lists them, stories/<slug>.json holds
+// each one's summary, timeline (oldest first) and what to watch. A story plays like a bulletin.
+let view = 'today';                   // 'today' | 'list' | 'story'
+let stories = [];
+const entryKey = e => e.date + '|' + e.title;
+function unseen(st) {
+  const seen = store.get('seen:' + st.slug, null);
+  return seen ? (st.keys || []).filter(k => !seen.includes(k)).length : 0;
+}
+async function loadStories() {
+  try { stories = (await getJSON('./stories/index.json')).stories || []; } catch { stories = []; }
+  // A story seen for the first time starts with nothing marked new; later updates get the badge.
+  stories.forEach(s => { if (!store.get('seen:' + s.slug, null)) store.set('seen:' + s.slug, s.keys || []); });
+  const fresh = stories.filter(s => unseen(s) > 0).length;
+  $('followCount').textContent = fresh; $('followCount').hidden = !fresh;
+  if (view === 'list') renderStoryList();
+}
+function renderStoryList() {
+  $('storyList').innerHTML = stories.length ? stories.map(s => {
+    const u = unseen(s);
+    return `<li><button class="story-card" data-slug="${esc(s.slug)}">
+      <b>${esc(s.title)}${u ? `<span class="badge">${u} new</span>` : ''}</b>
+      <span>${esc(s.latest || '')}</span>
+      <small>Since ${esc(longYear(s.started))} · ${s.entries} updates · last on ${esc(shortDate(s.lastDate))}</small>
+    </button></li>`;
+  }).join('') : '<li class="empty"><b>No stories yet</b>Ask Claude to track a story and it will appear here.</li>';
+}
+function longYear(d) { return new Date(d + 'T00:00:00').toLocaleDateString('en-IN', { day: 'numeric', month: 'short', year: 'numeric' }); }
+
+function storyAsBrief(st) {
+  const seen = store.get('seen:' + st.slug, null);
+  const timeline = st.timeline || [];
+  return {
+    kind: 'story', date: 'story-' + st.slug, headline: st.title,
+    byline: `Followed since ${longYear(st.started)} · ${timeline.length} updates · last on ${shortDate(timeline.length ? timeline[timeline.length - 1].date : st.started)}`,
+    segments: [
+      { title: 'The story so far', script: st.summary || '', stories: [] },
+      ...timeline.map(e => ({ title: `${longYear(e.date)} · ${e.title}`, script: e.text, stories: e.sources || [],
+                              isNew: !!seen && !seen.includes(entryKey(e)) })),
+      { title: 'What to watch', script: st.watch || '', stories: [] }
+    ].filter(s => s.script)
+  };
+}
+async function openStory(slug) {
+  try {
+    const st = await getJSON(`./stories/${slug}.json`);
+    view = 'story'; setView();
+    showBrief(storyAsBrief(st));
+    store.set('seen:' + slug, (st.timeline || []).map(entryKey));
+    loadStories();
+    scrollTo(0, 0);
+  } catch { showEmpty("Couldn't open that story", 'Check your connection and try again.'); }
+}
+function setView() {
+  $('tabToday').setAttribute('aria-pressed', view === 'today');
+  $('tabFollow').setAttribute('aria-pressed', view !== 'today');
+  $('followView').hidden = view !== 'list';
+  $('readerView').hidden = view === 'list';
+  $('backBtn').hidden = view !== 'story';
+}
+$('tabToday').onclick = () => { if (view === 'today') return; stop(); view = 'today'; setView(); loadIndex(); scrollTo(0, 0); };
+$('tabFollow').onclick = () => { if (view !== 'story') stop(); view = 'list'; setView(); renderStoryList(); loadStories(); scrollTo(0, 0); };
+$('backBtn').onclick = () => $('tabFollow').onclick();
+$('storyList').onclick = e => { const c = e.target.closest('.story-card'); if (c) { stop(); openStory(c.dataset.slug); } };
 
 $('play').onclick = $('bigPlay').onclick = () => playing ? stop() : play();
 $('next').onclick = () => jumpSeg(1);
@@ -315,7 +388,7 @@ fillVoices();
 loadIndex();
 
 // ---------- 3. PWA plumbing ----------
-const APP_VERSION = '1.2.0';
+const APP_VERSION = '1.3.0';
 const versionLabel = document.getElementById('versionLabel');
 if (versionLabel) versionLabel.textContent = `Version ${APP_VERSION}`;
 

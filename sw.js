@@ -2,7 +2,7 @@
  * - Bump VERSION on every release of the app files (not needed for new bulletins).
  * - Add every file the app needs offline to PRECACHE (relative paths only).
  */
-const VERSION = '1.2.0';
+const VERSION = '1.3.0';
 const CACHE = `market-brief-${VERSION}`;
 const BRIEFS = 'market-brief-bulletins';   // bulletins outlive app versions
 
@@ -44,7 +44,7 @@ self.addEventListener('fetch', event => {
   if (req.headers.has('range') || req.destination === 'audio' || req.url.endsWith('.mp3')) return;
 
   // Bulletins change every morning: network first, keep a copy for offline listening
-  if (new URL(req.url).pathname.includes('/briefs/')) {
+  if (/\/(briefs|stories)\//.test(new URL(req.url).pathname)) {
     event.respondWith(
       fetch(req)
         .then(res => {

@@ -40,6 +40,22 @@ button, select { font: inherit; color: inherit; }
 .onair.live::before { background: var(--live); animation: pulse 1.4s ease-in-out infinite; }
 @keyframes pulse { 50% { opacity: .3; } }
 
+.tabs { display: flex; gap: 6px; margin-top: 16px; border-bottom: 1px solid var(--line); }
+.tab { background: none; border: 0; border-bottom: 2px solid transparent; margin-bottom: -1px; padding: 10px 4px; min-height: 44px;
+       font: 700 15px/1 var(--display); font-stretch: 88%; color: var(--muted); cursor: pointer; display: inline-flex; align-items: center; gap: 6px; }
+.tab + .tab { margin-left: 14px; }
+.tab[aria-pressed="true"] { color: var(--ink); border-bottom-color: var(--accent); }
+.count { font: 500 11px/1 var(--mono); background: var(--accent); color: var(--accent-ink); border-radius: 999px; padding: 3px 6px; }
+.back { background: none; border: 0; padding: 12px 0 0; min-height: 44px; font: 500 13px/1 var(--mono); color: var(--accent); cursor: pointer; }
+.stories-list { list-style: none; padding: 0; margin: 22px 0 0; border-top: 1px solid var(--line); }
+.story-card { display: grid; gap: 4px; width: 100%; text-align: left; background: none; border: 0; border-bottom: 1px solid var(--line);
+              padding: 16px 0; cursor: pointer; min-width: 0; }
+.story-card b { font: 700 20px/1.2 var(--display); font-stretch: 88%; display: flex; align-items: center; gap: 8px; }
+.story-card span { color: var(--muted); font-size: 14px; }
+.story-card small { font: 500 11px/1.4 var(--mono); color: var(--muted); letter-spacing: .02em; }
+.badge { font: 600 10px/1 var(--mono); letter-spacing: .06em; text-transform: uppercase; background: var(--live); color: #fff;
+         border-radius: 4px; padding: 3px 5px; vertical-align: 3px; margin-left: 6px; }
+.follow-help { margin-top: 18px; color: var(--muted); }
 h1 { font: 700 clamp(30px, 8vw, 44px)/1.05 var(--display); font-stretch: 85%; letter-spacing: -.01em;
      margin: 22px 0 8px; text-wrap: balance; }
 .edition { font: 500 12px/1.5 var(--mono); color: var(--muted); letter-spacing: .02em; }
