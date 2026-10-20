@@ -7,7 +7,8 @@
 
 // ---------- 1. Bulletin player ----------
 const $ = id => document.getElementById(id);
-const RATES = [0.9, 1, 1.1, 1.25, 1.4];
+const RATES = [0.5, 0.8, 0.9, 1, 1.1, 1.25, 1.4];
+const ACCENTS = { 'en-IN': 'Indian English', 'en-GB': 'British English', 'en-US': 'American English' };
 const WPM = 165;                      // typical speaking pace at 1×, used for durations
 
 let briefs = [];                      // [{date, edition, headline}] newest first, from briefs/index.json
@@ -82,18 +83,19 @@ function renderPos() {
   if (playing && el) { const r = el.getBoundingClientRect(); if (r.top < 60 || r.bottom > innerHeight - 140) el.scrollIntoView({ block: 'center', behavior: 'smooth' }); }
 }
 
-// Speech: the phone's own voices, best Indian-English natural voice first.
-function voices() { return speechSynthesis.getVoices().filter(v => /^en/i.test(v.lang)); }
-function score(v) {
-  return (/en[-_]IN/i.test(v.lang) ? 3 : /en[-_](GB|US|AU)/i.test(v.lang) ? 1 : 0)
-       + (/natural|online|neural|enhanced|premium/i.test(v.name) ? 4 : 0) + (/google/i.test(v.name) ? 2 : 0);
-}
+// Speech: the phone's own voices for the chosen accent, most natural voice first.
+let accent = 'en-IN';
+const sameAccent = v => v.lang.replace('_', '-').toLowerCase() === accent.toLowerCase();
+function voices() { return speechSynthesis.getVoices().filter(sameAccent); }
+function score(v) { return (/natural|online|neural|enhanced|premium/i.test(v.name) ? 4 : 0) + (/google/i.test(v.name) ? 2 : 0); }
 function fillVoices() {
-  const vs = voices(); if (!vs.length) return;
+  const vs = voices();
+  $('accentHelp').hidden = vs.length > 0 || !speechSynthesis.getVoices().length;
+  if (!vs.length) { $('voice').innerHTML = `<option value="">Phone's default ${esc(ACCENTS[accent])} voice</option>`; return; }
   const saved = store.get('voice', null);
   const sorted = vs.slice().sort((a, b) => score(b) - score(a));
   const pick = vs.find(v => v.name === saved) || sorted[0];
-  $('voice').innerHTML = sorted.map(v => `<option value="${esc(v.name)}"${v === pick ? ' selected' : ''}>${esc(v.name)} (${esc(v.lang)})</option>`).join('');
+  $('voice').innerHTML = sorted.map(v => `<option value="${esc(v.name)}"${v === pick ? ' selected' : ''}>${esc(v.name)}</option>`).join('');
 }
 const currentVoice = () => voices().find(v => v.name === $('voice').value) || null;
 
@@ -105,7 +107,8 @@ function speakFrom(i) {
   store.set('pos', { date: brief.date, i: pos });
   renderPos();
   const u = new SpeechSynthesisUtterance(spokenFix(sents[pos].text));
-  const v = currentVoice(); if (v) { u.voice = v; u.lang = v.lang; } else u.lang = 'en-IN';
+  const v = currentVoice(); if (v) u.voice = v;
+  u.lang = accent;                    // with no matching voice, the phone picks its own voice for this accent
   u.rate = rate;
   const nextSeg = sents[pos + 1] && sents[pos + 1].seg !== sents[pos].seg;
   u.onend = () => { if (my === gen) setTimeout(() => { if (my === gen) speakFrom(pos + 1); }, nextSeg ? 900 : 120); };
@@ -181,6 +184,10 @@ $('rate').onclick = () => {
   $('rate').textContent = rate + '×'; if (playing) speakFrom(pos);
 };
 $('voice').onchange = () => { store.set('voice', $('voice').value); if (playing) speakFrom(pos); };
+$('accent').onchange = () => {
+  accent = $('accent').value; store.set('accent', accent); store.remove('voice');
+  fillVoices(); if (playing) speakFrom(pos);
+};
 $('rundown').onclick = e => {
   if (e.target.closest('a, summary')) return;
   const s = e.target.closest('.s');
@@ -213,13 +220,16 @@ const store = {
 };
 
 rate = store.get('rate', 1);
+if (!RATES.includes(rate)) rate = 1;
 $('rate').textContent = rate + '×';
+accent = ACCENTS[store.get('accent', 'en-IN')] ? store.get('accent', 'en-IN') : 'en-IN';
+$('accent').innerHTML = Object.entries(ACCENTS).map(([k, n]) => `<option value="${k}"${k === accent ? ' selected' : ''}>${n}</option>`).join('');
 speechSynthesis.onvoiceschanged = fillVoices;
 fillVoices();
 loadIndex();
 
 // ---------- 3. PWA plumbing ----------
-const APP_VERSION = '1.0.0';
+const APP_VERSION = '1.1.0';
 const versionLabel = document.getElementById('versionLabel');
 if (versionLabel) versionLabel.textContent = `Version ${APP_VERSION}`;
 

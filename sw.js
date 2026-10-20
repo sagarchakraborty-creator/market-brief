@@ -2,7 +2,7 @@
  * - Bump VERSION on every release of the app files (not needed for new bulletins).
  * - Add every file the app needs offline to PRECACHE (relative paths only).
  */
-const VERSION = '1.0.0';
+const VERSION = '1.1.0';
 const CACHE = `market-brief-${VERSION}`;
 const BRIEFS = 'market-brief-bulletins';   // bulletins outlive app versions
 
@@ -14,7 +14,8 @@ const PRECACHE = [
   './manifest.json',
   './icons/icon-192.png',
   './icons/icon-512.png',
-  './icons/icon-512-maskable.png'
+  './icons/icon-512-maskable.png',
+  './icons/apple-touch-icon.png'
 ];
 
 self.addEventListener('install', event => {

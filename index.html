@@ -8,11 +8,11 @@
 
   <!-- PWA: manifest + theme colour -->
   <link rel="manifest" href="manifest.json">
-  <meta name="theme-color" content="#0b7a5c">
+  <meta name="theme-color" content="#0a2350">
 
   <!-- Icons (relative paths: the app lives under /market-brief/) -->
   <link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
-  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
 
   <!-- iPhone home-screen support -->
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -53,8 +53,10 @@
     <details class="settings">
       <summary>Voice and speed</summary>
       <div class="row">
+        <label>Accent <select id="accent"></select></label>
         <label>Voice <select id="voice"></select></label>
-        <p class="note">The most natural voices are the ones marked Natural, Online, Enhanced or Google. On an iPhone you can download better voices in Settings › Accessibility › Spoken Content › Voices › English (India). The screen stays on while the brief plays, because phones pause spoken text when the screen locks.</p>
+        <p class="note" id="accentHelp" hidden>This phone has no voice for this accent yet, so it uses its default one. On Android: Settings › System › Languages › Text-to-speech › Google › Install voice data › English (India). On iPhone: Settings › Accessibility › Spoken Content › Voices › English › India.</p>
+        <p class="note">The most natural voices are the ones marked Natural, Online, Enhanced or Google. The screen stays on while the brief plays, because phones pause spoken text when the screen locks.</p>
       </div>
     </details>
 
