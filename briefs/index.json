@@ -1,5 +1,9 @@
 {
-  "briefs": [
-    { "date": "2026-10-20", "edition": "Evening", "headline": "Jio's record IPO opens tomorrow as markets take a Dussehra break" }
-  ]
+    "briefs":  [
+                   {
+                       "date":  "2026-10-20",
+                       "edition":  "Evening",
+                       "headline":  "Jio\u0027s record IPO opens tomorrow as markets take a Dussehra break"
+                   }
+               ]
 }
