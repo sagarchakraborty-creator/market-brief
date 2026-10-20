@@ -53,10 +53,14 @@
     <details class="settings">
       <summary>Voice and speed</summary>
       <div class="row">
-        <label>Accent <select id="accent"></select></label>
-        <label>Voice <select id="voice"></select></label>
-        <p class="note" id="accentHelp" hidden>This phone has no voice for this accent yet, so it uses its default one. On Android: Settings › System › Languages › Text-to-speech › Google › Install voice data › English (India). On iPhone: Settings › Accessibility › Spoken Content › Voices › English › India.</p>
-        <p class="note">The most natural voices are the ones marked Natural, Online, Enhanced or Google. The screen stays on while the brief plays, because phones pause spoken text when the screen locks.</p>
+        <label>Reader <select id="reader"></select></label>
+        <p class="note" id="audioNote">The Google voices keep playing when the screen locks or you switch apps, with play, pause and skip on your lock screen.</p>
+        <div class="row" id="phoneOpts">
+          <label>Accent <select id="accent"></select></label>
+          <label>Voice <select id="voice"></select></label>
+          <p class="note" id="accentHelp" hidden>This phone has no voice for this accent yet, so it uses its default one. On Android: Settings › System › Languages › Text-to-speech › Google › Install voice data › English (India). On iPhone: Settings › Accessibility › Spoken Content › Voices › English › India.</p>
+          <p class="note">The phone voice stops when the screen locks, so the screen stays on while it reads.</p>
+        </div>
       </div>
     </details>
 

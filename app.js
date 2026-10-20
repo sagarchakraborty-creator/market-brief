@@ -43,9 +43,10 @@ function showBrief(b) {
   $('headline').textContent = b.headline || 'Your daily financial news';
   const n = segs.reduce((a, s) => a + (s.stories || []).length, 0);
   $('edition').textContent = `${longDate(b.date)} · ${b.edition || 'Daily'} edition · ${mins(total)} min · ${n} stories from ET, Moneycontrol, Business Standard and Livemint`;
+  let para = -1;                      // paragraphs count across the bulletin, matching the audio's timings
   $('rundown').innerHTML = segs.map((s, i) => {
     const paras = (s.script || '').split(/\n\s*\n/).map(p => p.trim()).filter(Boolean);
-    const html = paras.map(p => '<p>' + splitSentences(p).map(t => { sents.push({ seg: i, text: t }); return `<span class="s" data-i="${sents.length - 1}">${esc(t)} </span>`; }).join('') + '</p>').join('');
+    const html = paras.map(p => { para++; return '<p>' + splitSentences(p).map(t => { sents.push({ seg: i, para, text: t }); return `<span class="s" data-i="${sents.length - 1}" data-p="${para}">${esc(t)} </span>`; }).join('') + '</p>'; }).join('');
     const start = clock(before); before += words(s.script || '');
     const stories = (s.stories || []).map(st => `<li><a href="${esc(st.link)}" target="_blank" rel="noopener">${esc(st.title)}<small>${esc(st.source)} ↗</small></a></li>`).join('');
     return `<li class="seg" data-seg="${i}">
@@ -56,6 +57,7 @@ function showBrief(b) {
   $('empty').hidden = true; $('start').hidden = false;
   const saved = store.get('pos', {});
   pos = saved.date === b.date && saved.i < sents.length ? saved.i : 0;
+  fillReaders();
   renderPos();
   $('editions').innerHTML = briefs.length > 1 ? briefs.map(x => `<button class="ed" data-date="${esc(x.date)}" aria-pressed="${x.date === b.date}">${esc(shortDate(x.date))}</button>`).join('') : '';
 }
@@ -74,7 +76,8 @@ function renderPos() {
     return;
   }
   const el = document.querySelector(`.s[data-i="${pos}"]`);
-  if (el && (playing || pos > 0)) el.classList.add('now');
+  // The audio is timed by paragraph, so it lights up the whole paragraph being read.
+  if (el && (playing || pos > 0)) (track() ? document.querySelectorAll(`.s[data-p="${cur.para}"]`) : [el]).forEach(e => e.classList.add('now'));
   document.querySelector(`.seg[data-seg="${cur.seg}"]`)?.classList.add('current');
   $('nowTitle').textContent = segs[cur.seg].title;
   $('nowSub').textContent = `Section ${cur.seg + 1} of ${segs.length}`;
@@ -100,6 +103,7 @@ function fillVoices() {
 const currentVoice = () => voices().find(v => v.name === $('voice').value) || null;
 
 function speakFrom(i) {
+  if (track()) { audioFrom(i); return; }
   speechSynthesis.cancel();
   const my = ++gen;
   pos = i;
@@ -117,16 +121,92 @@ function speakFrom(i) {
 }
 function finish() { stop(); pos = sents.length; store.set('pos', { date: brief.date, i: pos }); renderPos(); }
 
+// Audio: the bulletin recorded each morning in Google's Indian-English voices. Real audio keeps
+// playing with the screen locked, and the lock screen gets play, pause and skip controls.
+const audio = new Audio();
+audio.preload = 'metadata';
+let reader = 'phone';                 // 'female' | 'male' | 'phone'
+const track = () => reader !== 'phone' && brief?.audio?.[reader]?.url ? brief.audio[reader] : null;
+const audioLength = () => isFinite(audio.duration) ? audio.duration : (track()?.duration || 0);
+function paraAt(t) { const ps = track().paras; let k = 0; while (k + 1 < ps.length && ps[k + 1] <= t + 0.05) k++; return k; }
+
+function fillReaders() {
+  const a = brief?.audio || {};
+  const opts = [];
+  if (a.female?.url) opts.push(['female', 'Google voice, female (plays in background)']);
+  if (a.male?.url) opts.push(['male', 'Google voice, male (plays in background)']);
+  opts.push(['phone', "Phone's own voice"]);
+  const want = store.get('reader', 'female');
+  reader = opts.some(o => o[0] === want) ? want : opts[0][0];
+  $('reader').innerHTML = opts.map(([k, n]) => `<option value="${k}"${k === reader ? ' selected' : ''}>${n}</option>`).join('');
+  $('phoneOpts').hidden = reader !== 'phone';
+  $('audioNote').hidden = opts.length === 1;
+  const tr = track();
+  if (tr) { if (audio.src !== tr.url) audio.src = tr.url; }
+  else if (audio.getAttribute('src')) { audio.removeAttribute('src'); audio.load(); }
+}
+
+function audioFrom(i) {
+  gen++;
+  pos = i;
+  if (pos >= sents.length) { finish(); return; }
+  store.set('pos', { date: brief.date, i: pos });
+  renderPos(); mediaMeta();
+  const t = track().paras[sents[pos].para] ?? 0;
+  const go = () => { audio.currentTime = t; audio.playbackRate = rate; audio.play().catch(() => stop()); };
+  audio.readyState >= 1 ? go() : audio.addEventListener('loadedmetadata', go, { once: true });
+}
+audio.addEventListener('timeupdate', () => {
+  if (!track() || !audioLength()) return;
+  $('prog').style.width = Math.min(100, audio.currentTime / audioLength() * 100) + '%';
+  if (!playing) return;
+  const k = paraAt(audio.currentTime);
+  if (sents[pos]?.para !== k) {
+    pos = sents.findIndex(s => s.para === k);
+    store.set('pos', { date: brief.date, i: pos });
+    renderPos(); mediaMeta();
+  }
+});
+audio.addEventListener('ended', () => { if (track()) finish(); });
+// Paused or resumed from outside the app (lock screen, headphones, a phone call)
+audio.addEventListener('pause', () => { if (playing && track() && !audio.ended) { playing = false; setIcons(); } });
+audio.addEventListener('play', () => { if (!playing && track()) { playing = true; setIcons(); } });
+
+function mediaMeta() {
+  if (!('mediaSession' in navigator) || !brief) return;
+  const seg = (brief.segments || [])[(sents[pos] || {}).seg ?? 0];
+  navigator.mediaSession.metadata = new MediaMetadata({
+    title: seg ? seg.title : 'Market Brief', artist: 'Market Brief',
+    album: `${longDate(brief.date)} · ${brief.edition || 'Daily'} edition`,
+    artwork: [{ src: 'icons/icon-192.png', sizes: '192x192', type: 'image/png' }, { src: 'icons/icon-512.png', sizes: '512x512', type: 'image/png' }]
+  });
+}
+if ('mediaSession' in navigator) {
+  const on = (action, fn) => { try { navigator.mediaSession.setActionHandler(action, fn); } catch {} };
+  on('play', () => play());
+  on('pause', () => stop());
+  on('nexttrack', () => jumpSeg(1));
+  on('previoustrack', () => jumpSeg(-1));
+  on('seekbackward', d => { audio.currentTime = Math.max(0, audio.currentTime - (d.seekOffset || 15)); });
+  on('seekforward', d => { audio.currentTime = Math.min(audioLength(), audio.currentTime + (d.seekOffset || 15)); });
+  on('seekto', d => { audio.currentTime = d.seekTime; });
+}
+
 async function holdScreen() {
   try { if (navigator.wakeLock && !wake) { wake = await navigator.wakeLock.request('screen'); wake.addEventListener('release', () => wake = null); } } catch {}
 }
 function play() {
   if (!sents.length) return;
-  playing = true; setIcons(); holdScreen();
-  speakFrom(pos >= sents.length ? 0 : pos);
+  playing = true; setIcons();
+  const tr = track();
+  if (!tr) { holdScreen(); speakFrom(pos >= sents.length ? 0 : pos); return; }
+  // Resume mid-paragraph when the audio is already where we left it
+  if (pos < sents.length && audio.currentTime > 0 && paraAt(audio.currentTime) === sents[pos].para) {
+    audio.playbackRate = rate; audio.play().catch(() => stop()); mediaMeta(); renderPos();
+  } else audioFrom(pos >= sents.length ? 0 : pos);
 }
 function stop() {
-  playing = false; gen++; speechSynthesis.cancel(); setIcons();
+  playing = false; gen++; speechSynthesis.cancel(); audio.pause(); setIcons();
   if (wake) { wake.release().catch(() => {}); wake = null; }
 }
 function jumpSeg(d) {
@@ -181,7 +261,13 @@ $('next').onclick = () => jumpSeg(1);
 $('prev').onclick = () => jumpSeg(-1);
 $('rate').onclick = () => {
   rate = RATES[(RATES.indexOf(rate) + 1) % RATES.length]; store.set('rate', rate);
-  $('rate').textContent = rate + '×'; if (playing) speakFrom(pos);
+  $('rate').textContent = rate + '×';
+  if (track()) audio.playbackRate = rate; else if (playing) speakFrom(pos);
+};
+$('reader').onchange = () => {
+  const was = playing; stop();
+  store.set('reader', $('reader').value); fillReaders(); renderPos();
+  if (was) play();
 };
 $('voice').onchange = () => { store.set('voice', $('voice').value); if (playing) speakFrom(pos); };
 $('accent').onchange = () => {
@@ -194,7 +280,7 @@ $('rundown').onclick = e => {
   const h = e.target.closest('.seg-head');
   const i = s ? +s.dataset.i : h ? sents.findIndex(x => x.seg === +h.dataset.seg) : -1;
   if (i < 0) return;
-  if (!playing) { playing = true; setIcons(); holdScreen(); }
+  if (!playing) { playing = true; setIcons(); if (!track()) holdScreen(); }
   speakFrom(i);
 };
 $('editions').onclick = e => { const b = e.target.closest('.ed'); if (b) openDate(b.dataset.date); };
@@ -229,7 +315,7 @@ fillVoices();
 loadIndex();
 
 // ---------- 3. PWA plumbing ----------
-const APP_VERSION = '1.1.0';
+const APP_VERSION = '1.2.0';
 const versionLabel = document.getElementById('versionLabel');
 if (versionLabel) versionLabel.textContent = `Version ${APP_VERSION}`;
 
