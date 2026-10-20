@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Market Brief</title>
+  <meta name="description" content="A daily Indian financial news bulletin from ET, Moneycontrol, Business Standard and Livemint, read aloud.">
+
+  <!-- PWA: manifest + theme colour -->
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#0b7a5c">
+
+  <!-- Icons (relative paths: the app lives under /market-brief/) -->
+  <link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+
+  <!-- iPhone home-screen support -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Market Brief">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@75..100,500..800&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=IBM+Plex+Mono:wght@500&display=swap">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="offlineBar" class="banner banner-warn" hidden>You're offline. The last bulletin you opened still plays.</div>
+  <div id="updateBar" class="banner banner-info" hidden>
+    New version ready. <button id="reloadBtn" class="link">Tap to refresh</button>
+  </div>
+
+  <div class="page">
+    <div class="mast">
+      <span class="brand">Market Brief</span>
+      <span class="mast-right">
+        <button id="installBtn" class="install" hidden>Install</button>
+        <span class="onair" id="onair">Off air</span>
+      </span>
+    </div>
+    <h1 id="headline">Your daily financial news, read aloud</h1>
+    <div class="edition" id="edition">Loading today's bulletin…</div>
+    <div class="editions" id="editions"></div>
+
+    <div class="start" id="start" hidden>
+      <button class="big" id="bigPlay" aria-label="Play the bulletin"><svg viewBox="0 0 24 24" id="bigIcon"><path d="M7 4v16l13-8z"/></svg></button>
+      <div class="start-text"><b id="startTitle">Play today's brief</b><span id="startSub"></span></div>
+    </div>
+
+    <ol class="rundown" id="rundown"></ol>
+    <div class="empty" id="empty" hidden></div>
+
+    <details class="settings">
+      <summary>Voice and speed</summary>
+      <div class="row">
+        <label>Voice <select id="voice"></select></label>
+        <p class="note">The most natural voices are the ones marked Natural, Online, Enhanced or Google. On an iPhone you can download better voices in Settings › Accessibility › Spoken Content › Voices › English (India). The screen stays on while the brief plays, because phones pause spoken text when the screen locks.</p>
+      </div>
+    </details>
+
+    <footer class="app-footer"><span id="versionLabel"></span></footer>
+  </div>
+
+  <div class="bar">
+    <div class="bar-in">
+      <div class="progress"><i id="prog"></i></div>
+      <div class="now"><b id="nowTitle">Nothing playing</b><span id="nowSub">Tap play to start</span></div>
+      <div class="ctl">
+        <button class="rnd" id="prev" aria-label="Previous section"><svg viewBox="0 0 24 24"><path d="M6 5h2v14H6zM20 5v14L9 12z"/></svg></button>
+        <button class="rnd play" id="play" aria-label="Play"><svg viewBox="0 0 24 24" id="playIcon"><path d="M7 4v16l13-8z"/></svg></button>
+        <button class="rnd" id="next" aria-label="Next section"><svg viewBox="0 0 24 24"><path d="M16 5h2v14h-2zM4 5v14l11-7z"/></svg></button>
+        <button class="rate" id="rate" aria-label="Playback speed">1×</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
