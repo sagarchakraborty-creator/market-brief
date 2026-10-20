@@ -1,0 +1,54 @@
+{
+    "stories":  [
+                    {
+                        "slug":  "jio-ipo",
+                        "title":  "The Jio IPO",
+                        "started":  "2019-08-12",
+                        "updatedAt":  "2026-10-20T21:45:00+05:30",
+                        "lastDate":  "2026-10-20",
+                        "latest":  "Brokerages weigh in on the eve of the IPO",
+                        "entries":  14,
+                        "keys":  [
+                                     "2019-08-12|Ambani first promises a Jio listing",
+                                     "2020-04-22|Facebook buys nearly 10 percent of Jio",
+                                     "2020-07-15|Google takes a 7.73 percent stake",
+                                     "2025-07-09|Reuters: no Jio IPO in 2025",
+                                     "2025-08-29|Ambani targets a listing by mid 2026",
+                                     "2026-01-09|Jio weighs selling a 2.5 percent stake",
+                                     "2026-04-29|War in West Asia clouds the timeline",
+                                     "2026-05-21|Jio switches to an all new share issue",
+                                     "2026-06-19|Draft prospectus filed at the annual meeting",
+                                     "2026-08-28|Market regulator clears the IPO",
+                                     "2026-10-03|Reports point to an October 21 opening",
+                                     "2026-10-14|Price band set for a record offer",
+                                     "2026-10-19|Anchor investors put in 8,110 crore rupees",
+                                     "2026-10-20|Brokerages weigh in on the eve of the IPO"
+                                 ]
+                    },
+                    {
+                        "slug":  "india-us-trade-deal",
+                        "title":  "The India–US trade deal",
+                        "started":  "2025-02-13",
+                        "updatedAt":  "2026-10-20T21:45:00+05:30",
+                        "lastDate":  "2026-10-20",
+                        "latest":  "Rubio in Mumbai says the deal is very close",
+                        "entries":  14,
+                        "keys":  [
+                                     "2025-02-13|Modi and Trump launch the trade talks",
+                                     "2025-03-26|First round of talks held in New Delhi",
+                                     "2025-04-02|Trump announces a 26 percent tariff on India",
+                                     "2025-07-30|A 25 percent tariff on India is announced",
+                                     "2025-08-06|Russian oil penalty takes tariffs to 50 percent",
+                                     "2025-09-16|Talks resume in New Delhi",
+                                     "2026-02-02|Trump announces a deal and an 18 percent tariff",
+                                     "2026-02-06|Framework for an interim deal is agreed",
+                                     "2026-02-20|US Supreme Court strikes down the tariffs",
+                                     "2026-03-11|New US probe covers India and signing is put off",
+                                     "2026-05-24|Rubio says a deal is on the verge in New Delhi",
+                                     "2026-10-02|Greer says a deal is not imminent",
+                                     "2026-10-15|Goyal says first part is in legal drafting",
+                                     "2026-10-20|Rubio in Mumbai says the deal is very close"
+                                 ]
+                    }
+                ]
+}
