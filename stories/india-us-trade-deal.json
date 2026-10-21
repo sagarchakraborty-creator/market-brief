@@ -2,9 +2,9 @@
   "slug": "india-us-trade-deal",
   "title": "The India–US trade deal",
   "started": "2025-02-13",
-  "updatedAt": "2026-10-20T21:45:00+05:30",
+  "updatedAt": "2026-10-21T09:00:00+05:30",
   "status": "active",
-  "summary": "India and the United States began work on a Bilateral Trade Agreement in February 2025. The goal was to more than double two-way trade to 500 billion dollars by 2030. Talks soon ran into trouble. By late August 2025, American tariffs on most Indian goods had climbed to 50 percent, including a penalty over India's purchases of Russian oil.\n\nIn February 2026, the two sides agreed a framework for a first, interim deal. Washington cut its tariff on Indian goods to 18 percent and dropped the oil penalty. Weeks later, the US Supreme Court struck down the tariffs that the deal was built around. That sent negotiators back to the table. In October 2026, Commerce Minister Piyush Goyal said the first part of the trade deal was finalised and in legal drafting. On 20 October, Secretary of State Marco Rubio said in Mumbai that the two sides were very, very close.",
+  "summary": "India and the United States began work on a Bilateral Trade Agreement in February 2025. The goal was to more than double two-way trade to 500 billion dollars by 2030. Talks soon ran into trouble. By late August 2025, American tariffs on most Indian goods had climbed to 50 percent, including a penalty over India's purchases of Russian oil.\n\nIn February 2026, the two sides agreed a framework for a first, interim deal. Washington cut its tariff on Indian goods to 18 percent and dropped the oil penalty. Weeks later, the US Supreme Court struck down the tariffs that the deal was built around. That sent negotiators back to the table. In October 2026, Commerce Minister Piyush Goyal said the first part of the trade deal was finalised and in legal drafting. On 20 October, Secretary of State Marco Rubio said in Mumbai that the two sides were very, very close. A day later, President Trump said the deal was pretty close.",
   "watch": "Marco Rubio's India visit runs until 22 October, with a stop at the Jamnagar refinery. US Trade Representative Jamieson Greer has said President Trump and Prime Minister Modi may speak again soon. The open questions are a signing date, the final tariff rate India gets compared with rivals like Vietnam, access for American dairy, the outcome of US trade investigations, and India's Russian oil purchases. US midterm elections fall on 3 November.",
   "timeline": [
     {
@@ -119,10 +119,21 @@
     {
       "date": "2026-10-20",
       "title": "Rubio in Mumbai says the deal is very close",
-      "text": "Marco Rubio held talks with S Jaishankar in Mumbai at the start of a three-day visit. Rubio said the two sides were very, very close, with a small number of items left to wrap up. India has said its final tariff rate should be similar to those of rivals such as Vietnam.",
+      "text": "Marco Rubio held talks with S Jaishankar in Mumbai at the start of a three-day visit. Rubio said the two sides were very, very close, with a small number of items left to wrap up. He called India a refining superpower, urged it to buy more American energy and defence equipment, and said the US delegation would discuss producing oil in Venezuela with Reliance. India has said its final tariff rate should be similar to those of rivals such as Vietnam.",
       "sources": [
+        { "title": "Rubio urges India to boost US energy, defence buys amid strained ties", "source": "Business Standard", "link": "https://www.business-standard.com/economy/news/india-is-a-refining-superpower-can-process-venezuelan-oil-marco-rubio-126102000549_1.html" },
+        { "title": "Rubio says India-US trade deal is ‘very, very close’ after Jaishankar meeting", "source": "Economic Times", "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/rubio-says-india-us-trade-deal-is-very-very-close-after-jaishankar-meeting/articleshow/135068984.cms" },
         { "title": "Rubio and Jaishankar hold talks in Mumbai as US and India aim to finalize trade deal", "source": "ABC News, from AP", "link": "https://abcnews.com/International/wireStory/rubio-jaishankar-hold-talks-mumbai-us-india-aim-137406921" },
         { "title": "Rubio begins India visit, to hold crucial talks with Jaishankar in Mumbai", "source": "Business Standard", "link": "https://www.business-standard.com/external-affairs-defence-security/news/rubio-begins-india-visit-to-hold-crucial-talks-with-jaishankar-in-mumbai-126102000134_1.html" }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "title": "Trump says the deal is pretty close",
+      "text": "As reported on 21 October, President Trump said a trade deal with India was pretty close, and would be very different from earlier pacts. The US ambassador, Sergio Gor, said Washington aims to lift two-way trade above 500 billion dollars within three years, from a record 240 billion dollars.",
+      "sources": [
+        { "title": "India-US trade deal ‘pretty close’, Trump says; will be very different from earlier pacts", "source": "Economic Times", "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-us-trade-deal-pretty-close-trump-says-will-be-very-different-from-earlier-pacts/articleshow/135080169.cms" },
+        { "title": "US targets $500 bn bilateral trade with India in three years, says Ambassador Sergio Gor", "source": "Economic Times", "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/us-targets-500-bn-bilateral-trade-with-india-in-three-years-says-ambassador-sergio-gor/articleshow/135079166.cms" }
       ]
     }
   ]

@@ -4,10 +4,10 @@
                         "slug":  "jio-ipo",
                         "title":  "The Jio IPO",
                         "started":  "2019-08-12",
-                        "updatedAt":  "2026-10-20T21:45:00+05:30",
-                        "lastDate":  "2026-10-20",
-                        "latest":  "Brokerages weigh in on the eve of the IPO",
-                        "entries":  14,
+                        "updatedAt":  "2026-10-21T09:00:00+05:30",
+                        "lastDate":  "2026-10-21",
+                        "latest":  "The offer opens to the public",
+                        "entries":  15,
                         "keys":  [
                                      "2019-08-12|Ambani first promises a Jio listing",
                                      "2020-04-22|Facebook buys nearly 10 percent of Jio",
@@ -22,17 +22,18 @@
                                      "2026-10-03|Reports point to an October 21 opening",
                                      "2026-10-14|Price band set for a record offer",
                                      "2026-10-19|Anchor investors put in 8,110 crore rupees",
-                                     "2026-10-20|Brokerages weigh in on the eve of the IPO"
+                                     "2026-10-20|Brokerages weigh in on the eve of the IPO",
+                                     "2026-10-21|The offer opens to the public"
                                  ]
                     },
                     {
                         "slug":  "india-us-trade-deal",
                         "title":  "The India–US trade deal",
                         "started":  "2025-02-13",
-                        "updatedAt":  "2026-10-20T21:45:00+05:30",
-                        "lastDate":  "2026-10-20",
-                        "latest":  "Rubio in Mumbai says the deal is very close",
-                        "entries":  14,
+                        "updatedAt":  "2026-10-21T09:00:00+05:30",
+                        "lastDate":  "2026-10-21",
+                        "latest":  "Trump says the deal is pretty close",
+                        "entries":  15,
                         "keys":  [
                                      "2025-02-13|Modi and Trump launch the trade talks",
                                      "2025-03-26|First round of talks held in New Delhi",
@@ -47,7 +48,8 @@
                                      "2026-05-24|Rubio says a deal is on the verge in New Delhi",
                                      "2026-10-02|Greer says a deal is not imminent",
                                      "2026-10-15|Goyal says first part is in legal drafting",
-                                     "2026-10-20|Rubio in Mumbai says the deal is very close"
+                                     "2026-10-20|Rubio in Mumbai says the deal is very close",
+                                     "2026-10-21|Trump says the deal is pretty close"
                                  ]
                     }
                 ]
