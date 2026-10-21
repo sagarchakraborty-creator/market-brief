@@ -57,7 +57,8 @@ function showBrief(b) {
     const stories = (s.stories || []).map(st => `<li><a href="${esc(st.link)}" target="_blank" rel="noopener">${esc(st.title)}<small>${esc(st.source)} ↗</small></a></li>`).join('');
     return `<li class="seg" data-seg="${i}">
       <button class="seg-head" data-seg="${i}"><span class="seg-time">${start}</span><span class="seg-title">${esc(s.title)}${s.isNew ? '<span class="badge">New</span>' : ''}</span><span class="seg-len">${mins(words(s.script || ''))} min</span></button>
-      <div class="script">${html}${stories ? `<details class="stories"><summary>Read the ${(s.stories || []).length} stories</summary><ul>${stories}</ul></details>` : ''}</div>
+      <div class="script">${html}${stories ? `<details class="stories"><summary>Read the ${(s.stories || []).length} stories</summary><ul>${stories}</ul></details>` : ''}
+        <button class="ask" data-seg="${i}">Get more detail</button></div>
     </li>`;
   }).join('');
   $('empty').hidden = true; $('start').hidden = false;
@@ -347,7 +348,49 @@ $('accent').onchange = () => {
   accent = $('accent').value; store.set('accent', accent); store.remove('voice');
   fillVoices(); if (playing) speakFrom(pos);
 };
+// Detail requests: the app has no server, so a request is either filed as an issue on the app's GitHub
+// repo (Claude checks those every two hours and answers in the Following tab) or copied for the Claude app.
+const REPO = 'sagarchakraborty-creator/market-brief';
+let askSeg = null;
+function askContext() {
+  const s = brief.segments[askSeg];
+  const from = brief.kind === 'story' ? `story "${brief.headline}"` : `${longDate(brief.date)} ${brief.edition || ''} bulletin`;
+  const text = (s.script || '').replace(/\s+/g, ' ').trim();
+  return { from, section: s.title, text: text.length > 1200 ? text.slice(0, 1200) + '…' : text, stories: s.stories || [] };
+}
+function openAsk(seg) {
+  askSeg = seg;
+  const c = askContext();
+  $('askFrom').textContent = `${c.section} · ${c.from}`;
+  $('askText').textContent = c.text;
+  $('askQ').value = '';
+  $('askMsg').textContent = '';
+  $('askSheet').showModal();
+  $('askQ').focus();
+}
+function requestBody(q) {
+  const c = askContext();
+  return [`**What I want to know:** ${q}`, '', `**From:** ${c.section} (${c.from})`, '', `**Context:** ${c.text}`,
+          ...(c.stories.length ? ['', '**Articles:**', ...c.stories.map(st => `- ${st.title} (${st.source}) ${st.link}`)] : [])].join('\n');
+}
+$('askSend').onclick = () => {
+  const q = $('askQ').value.trim();
+  if (!q) { $('askMsg').textContent = 'Type what you want to know first.'; $('askQ').focus(); return; }
+  const title = `Detail: ${q.length > 70 ? q.slice(0, 70) + '…' : q}`;
+  const url = `https://github.com/${REPO}/issues/new?labels=detail-request&title=${encodeURIComponent(title)}&body=${encodeURIComponent(requestBody(q))}`;
+  window.open(url, '_blank', 'noopener');
+  $('askMsg').textContent = 'GitHub opened in a new tab. Tap "Create" there to send it. The answer appears in Following within about two hours.';
+};
+$('askCopy').onclick = async () => {
+  const q = $('askQ').value.trim() || 'Explain this in more detail.';
+  const text = `Market Brief detail request. ${requestBody(q).replace(/\*\*/g, '')}\n\nResearch this and add it to my Following tab (news-player/story-tracker.md).`;
+  try { await navigator.clipboard.writeText(text); $('askMsg').textContent = 'Copied. Paste it into the Claude app to send it to your PC session.'; }
+  catch { $('askMsg').textContent = "Couldn't copy on this phone. Use Send request instead."; }
+};
+$('askClose').onclick = () => $('askSheet').close();
+
 $('rundown').onclick = e => {
+  const ask = e.target.closest('.ask'); if (ask) { openAsk(+ask.dataset.seg); return; }
   if (e.target.closest('a, summary')) return;
   const s = e.target.closest('.s');
   const h = e.target.closest('.seg-head');
@@ -388,7 +431,7 @@ fillVoices();
 loadIndex();
 
 // ---------- 3. PWA plumbing ----------
-const APP_VERSION = '1.3.0';
+const APP_VERSION = '1.4.0';
 const versionLabel = document.getElementById('versionLabel');
 if (versionLabel) versionLabel.textContent = `Version ${APP_VERSION}`;
 

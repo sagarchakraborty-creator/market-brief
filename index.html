@@ -95,6 +95,23 @@
     </div>
   </div>
 
+  <dialog class="sheet" id="askSheet" aria-labelledby="askTitle">
+    <form method="dialog" class="sheet-in" onsubmit="return false">
+      <h2 id="askTitle">Get more detail</h2>
+      <div class="ask-from" id="askFrom"></div>
+      <p class="ask-text" id="askText"></p>
+      <label for="askQ">What do you want to know?</label>
+      <textarea id="askQ" rows="3" placeholder="e.g. Why are foreign investors selling, and who is buying?"></textarea>
+      <div class="sheet-actions">
+        <button type="button" class="btn-primary" id="askSend">Send request</button>
+        <button type="button" class="btn-plain" id="askCopy">Copy for Claude</button>
+        <button type="button" class="btn-plain" id="askClose">Cancel</button>
+      </div>
+      <p class="note" id="askMsg" aria-live="polite"></p>
+      <p class="note">Send request files it on your GitHub, signed in as you. Claude checks every two hours from 8 AM to 10 PM, researches it from the beginning, and adds it to Following. Copy for Claude is for an answer straight away in the Claude app.</p>
+    </form>
+  </dialog>
+
   <script src="app.js"></script>
 </body>
 </html>

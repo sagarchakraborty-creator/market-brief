@@ -2,7 +2,7 @@
  * - Bump VERSION on every release of the app files (not needed for new bulletins).
  * - Add every file the app needs offline to PRECACHE (relative paths only).
  */
-const VERSION = '1.3.0';
+const VERSION = '1.4.0';
 const CACHE = `market-brief-${VERSION}`;
 const BRIEFS = 'market-brief-bulletins';   // bulletins outlive app versions
 

@@ -91,6 +91,26 @@ details.stories a { color: var(--ink); text-decoration: none; font-size: 14px; l
 details.stories a:hover { color: var(--accent); }
 details.stories small { display: block; font: 500 11px/1.4 var(--mono); color: var(--muted); }
 
+.ask { margin-top: 10px; background: none; border: 1px solid var(--line); border-radius: 999px; padding: 0 14px; min-height: 36px;
+       font: 500 12px/1 var(--mono); color: var(--accent); cursor: pointer; }
+.ask:hover { border-color: var(--accent); }
+.sheet { border: 0; padding: 0; width: min(560px, 100%); max-width: 100%; margin: auto auto 0; border-radius: 16px 16px 0 0;
+         background: var(--surface); color: var(--ink); max-height: 90vh; }
+.sheet::backdrop { background: rgba(0, 0, 0, .45); }
+.sheet-in { display: grid; gap: 10px; padding: 20px max(16px, env(safe-area-inset-left, 0px)) calc(20px + env(safe-area-inset-bottom, 0px)); }
+.sheet h2 { margin: 0; font: 700 22px/1.2 var(--display); font-stretch: 88%; }
+.ask-from { font: 500 12px/1.4 var(--mono); color: var(--muted); }
+.ask-text { margin: 0; font-size: 14px; color: var(--muted); max-height: 7.5em; overflow: auto; border-left: 3px solid var(--line); padding-left: 10px; }
+.sheet label { font: 500 13px/1.4 var(--mono); }
+.sheet textarea { width: 100%; font: 16px/1.4 var(--read); padding: 10px; border: 1px solid var(--line); border-radius: 10px;
+                  background: var(--bg); color: var(--ink); resize: vertical; }
+.sheet .note:empty { display: none; }
+.sheet .note { margin: 0; }
+.sheet-actions { display: flex; flex-wrap: wrap; gap: 8px; }
+.btn-primary { min-height: 44px; padding: 0 18px; border: 0; border-radius: 10px; background: var(--accent); color: var(--accent-ink);
+               font: 700 15px/1 var(--display); cursor: pointer; }
+.btn-plain { min-height: 44px; padding: 0 14px; border: 1px solid var(--line); border-radius: 10px; background: transparent;
+             font: 600 14px/1 var(--display); cursor: pointer; }
 .empty { padding: 28px 0; color: var(--muted); }
 .empty b { display: block; color: var(--ink); font: 700 20px/1.3 var(--display); font-stretch: 90%; margin-bottom: 6px; }
 
