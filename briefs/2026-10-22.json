@@ -1,0 +1,341 @@
+{
+    "date":  "2026-10-22",
+    "edition":  "Morning",
+    "generatedAt":  "2026-10-22T09:10:00+05:30",
+    "headline":  "Jio IPO booked over 3 times on day one as oil tops 110 dollars",
+    "segments":  [
+                     {
+                         "title":  "The big picture",
+                         "script":  "Good morning. It\u0027s Thursday, the twenty-second of October, and this is your Market Brief.\n\nThree things matter most today. First, the Jio Platforms share sale got off to a flying start. It was fully subscribed within about 100 minutes, and ended day one booked more than three times over.\n\nSecond, the Reserve Bank\u0027s tone has hardened. Minutes of its policy meeting, where all six members voted to raise the repo rate by a quarter point to 5.5 percent, show inflation is spreading. Nomura now expects another hike in December.\n\nAnd third, oil is back above 110 dollars a barrel after Houthi attacks in Saudi Arabia, and Indian shares are set for a weak start.",
+                         "stories":  [
+                                         {
+                                             "title":  "Jio Platforms IPO fully subscribed in 100 mins; booked 3.16x on Day 1",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/ipo/jio-platforms-ipo-subscription-qib-retail-anchor-investor-126102100328_1.html"
+                                         },
+                                         {
+                                             "title":  "RBI flags widening inflation risks, puts rate cuts on ice",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/rbi-flags-widening-inflation-risks-puts-rate-cuts-on-ice/articleshow/135103555.cms"
+                                         },
+                                         {
+                                             "title":  "Oil prices rise as Houthi attacks in Saudi Arabia fuel supply concerns",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/commodities/oil-prices-rise-as-houthi-attacks-in-saudi-arabia-fuel-supply-concerns-126102200066_1.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "How markets closed",
+                         "script":  "To the last session, on Wednesday. It was a day of wild swings. The Sensex rallied in early trade, then fell about 1,400 points from its high before late buying trimmed the damage. It closed down 143 points. The Nifty lost about 78 points to end at 22,811, just holding the 22,800 mark.\n\nThe real pain was in the broader market. The Nifty Midcap and Smallcap indices each fell more than 2 percent, and the Economic Times says midcaps have now entered correction territory. Around 8 lakh crore rupees of market value was wiped out. Defence stocks fell about 3 percent, and gold lenders such as Manappuram and IIFL Finance dropped up to 6 percent as gold hit a one-week low.\n\nOn the other side, IT stocks added about 77,000 crore rupees in value, while banks and financials lost around 81,000 crore rupees as bond yields climbed. The 10-year government bond yield closed at 7.44 percent, its highest since November 2022. The Reserve Bank also rejected all bids at a Treasury bill auction as short-term yields surged.\n\nForeign institutional investors were net buyers, at around 1,022 crore rupees. Domestic institutions bought about 1,614 crore rupees.\n\nThis morning, GIFT Nifty was around 22,682, pointing to a negative open, and Asian markets are lower. Analysts quoted by Moneycontrol see support at 22,800 to 22,700, and say a close below that could open the way to 22,500. On the upside, 23,000 is the level to reclaim, with Monday\u0027s high of 23,175 a key resistance. The volatility index is at a four-month high.",
+                         "stories":  [
+                                         {
+                                             "title":  "Taking Stock: Nifty ends above 22,800 on late buying; Sensex sheds 143 points",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/taking-stock-nifty-ends-above-22-800-on-late-buying-sensex-sheds-143-points-14056698.html"
+                                         },
+                                         {
+                                             "title":  "Market rally fizzles as Sensex cracks 1400 pts from day\u0027s high; key reasons",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/why-are-markets-rising-today-sensex-up-800-pts-intraday-nifty-tops-23-100-126102100246_1.html"
+                                         },
+                                         {
+                                             "title":  "Market sell-off deepens as midcaps enter correction zone",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/midcaps-enter-correction-as-sell-off-deepens/articleshow/135103421.cms"
+                                         },
+                                         {
+                                             "title":  "Ahead of Market: 10 things that will decide stock market action on Thursday",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/135096044.cms"
+                                         },
+                                         {
+                                             "title":  "IT stocks gain ₹77,000 crore in value as banking shares weigh on Nifty",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/it-stocks-gain-77-000-crore-in-value-as-banking-shares-weigh-on-nifty-126102101234_1.html"
+                                         },
+                                         {
+                                             "title":  "RBI rejects all bids at govt\u0027s T-bill auction as short-term yields surge",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/rbi-rejects-all-bids-at-treasury-bill-auction-as-short-term-yields-surge-126102101191_1.html"
+                                         },
+                                         {
+                                             "title":  "Muthoot Finance, Manappuram, other gold financier stocks fall up to 6% as precious metal hits one-week low",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/muthoot-finance-manappuram-other-gold-financier-stocks-fall-up-to-6-as-precious-metal-hits-one-week-low-14056900.html"
+                                         },
+                                         {
+                                             "title":  "Nifty India Defence index slips 3%; Unimech, Axiscades, Dynamatic tank 7%",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/nifty-india-defence-index-slips-3-unimech-axiscades-dynamatic-tank-7-126102100526_1.html"
+                                         },
+                                         {
+                                             "title":  "First Tick: Top global cues to watch in today\u0027s trade",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/first-tick-top-global-cues-to-watch-in-today-s-trade-22-14056699.html"
+                                         },
+                                         {
+                                             "title":  "Technical View: Selling pressure may intensify below 22,700 on Nifty 50, 54,400 on Bank Nifty; VIX hits over 4-month high, market breadth weakens",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/technical-view-selling-pressure-may-intensify-below-22-700-on-nifty-50-54-400-on-bank-nifty-vix-hits-over-4-month-high-market-breadth-weakens-14056824.html"
+                                         },
+                                         {
+                                             "title":  "D-St set for a negative opening as GIFT Nifty signals weak start",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/135102916.cms"
+                                         },
+                                         {
+                                             "title":  "Stock market outlook today, 22 Oct: Sensex, Nifty prediction",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-21-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11792629655970.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "IPOs and deals",
+                         "script":  "Now to the Jio offer. The 30,213 crore rupee issue was fully subscribed in about 100 minutes, the fastest of India\u0027s mega issues. By the close it was booked 3.16 times. Large institutions bid for more than nine times their quota and non-institutional investors 1.68 times, but retail investors only 0.73 times. The Economic Times puts day one bids at around 70,000 crore rupees, ahead of the LIC and NSE issues. Mint reports a grey market premium that suggests listing gains of about 22 percent, though grey market prices are unofficial. The offer closes tomorrow, with listing expected on the twenty-eighth.\n\nAlso open until tomorrow is Paras Healthcare, which had a muted start at 0.15 times on day one. Analysts quoted by Business Standard say occupancy and execution are the things to watch.\n\nMore issues are lined up. Edelweiss\u0027s alternatives arm, EAAA India Alternatives, opens a 1,200 crore rupee issue on Monday, the twenty-sixth, at 1,585 to 1,665 rupees a share. SFC Environmental Technologies, a wastewater treatment firm, opens a 668 crore rupee issue on the twenty-seventh, at 313 to 330 rupees.\n\nOn deals, Persistent Systems has launched a qualified institutional placement of up to 4,265 crore rupees, with a floor price of 5,550 rupees a share. And the Economic Times reports that banks are now funding takeovers worth over 10,000 crore rupees after the Reserve Bank eased acquisition finance rules, with State Bank of India and others lending up to 75 percent of deal values.",
+                         "stories":  [
+                                         {
+                                             "title":  "Jio IPO attracts Rs 70,000 crore in bids on day 1, outpaces LIC, NSE issues",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-bids-hit-70000-crore-on-day-1-outpaces-nse-lic-gic-issues/articleshow/135103495.cms"
+                                         },
+                                         {
+                                             "title":  "Jio Platforms IPO draws Rs 3.2 lakh crore in total demand, sets mega-issue record",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/jio-platforms-ipo-draws-rs-3-2-lakh-crore-in-total-demand-sets-mega-issue-record-14056865.html"
+                                         },
+                                         {
+                                             "title":  "IPO GMP race: Reliance Jio Platforms IPO vs Paras Healthcare IPO - Check grey market winner",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/ipo-gmp-race-reliance-jio-platforms-ipo-vs-paras-healthcare-ipo-check-grey-market-winner-11792598142454.html"
+                                         },
+                                         {
+                                             "title":  "Paras Healthcare IPO: Occupancy, execution key monitorable, say analysts",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/paras-healthcare-ipo-analysts-mixed-say-occupancy-execution-key-watch-126102100464_1.html"
+                                         },
+                                         {
+                                             "title":  "Upcoming IPO: Edelweiss unit EAAA India Alternatives\u0027 ₹1,200 cr public issue to open on Oct 26",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/ipo/upcoming-ipo-edelweiss-unit-eaaa-india-alternatives-rs-1-200-cr-public-issue-to-open-on-oct-26-top-things-to-know-11792596892239.html"
+                                         },
+                                         {
+                                             "title":  "SFC Environmental Technologies IPO opens Oct 27, price band at ₹313-330",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/sfc-environmental-technologies-ipo-opens-oct-27-price-band-at-313-330-126102100484_1.html"
+                                         },
+                                         {
+                                             "title":  "Persistent Systems launches Rs 4,265-cr QIP; floor price set at Rs 5,550/share",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/persistent-systems-launches-rs-4265-cr-qip-floor-price-set-at-rs-5550/share/articleshow/135097602.cms"
+                                         },
+                                         {
+                                             "title":  "Indian banks open cheque books for ₹10,000 crore-plus in M\u0026A funding after RBI rule change",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/indian-banks-open-cheque-books-for-10000-crore-plus-in-ma-funding-after-rbi-rule-change/articleshow/135103483.cms"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Results roundup",
+                         "script":  "To results. Among lenders, Mahindra Finance\u0027s September quarter profit jumped 55 percent to 882 crore rupees, on higher volumes and lower credit costs. Its business assets grew 15 percent to 1.47 lakh crore rupees. Aditya Birla Sun Life AMC went the other way, with profit down 8.4 percent to 221 crore rupees as expenses rose 21 percent.\n\nIn consumer businesses, PC Jeweller\u0027s profit rose 58 percent to 331 crore rupees, on sales of about 1,054 crore rupees, and the company says it is now debt-free after repaying its banks early. Indian Hotels, the Tata group\u0027s hotel company, grew profit 19 percent to about 380 crore rupees, on revenue of about 2,484 crore rupees. Vishal Mega Mart\u0027s profit rose just 3.7 percent to about 158 crore rupees, and the stock fell 6 percent as the shift in the festive season squeezed margins. Just Dial\u0027s profit fell nearly 10 percent to about 108 crore rupees, and its shares slid 6 percent.\n\nIn cement, UltraTech\u0027s profit rose 21 percent to about 1,494 crore rupees. Jefferies says a recovery in cement prices is the key trigger. Eternal also reported strong growth in revenue and profit.\n\nToday\u0027s list is long. Swiggy, Hindustan Petroleum, Adani Energy Solutions, Adani Total Gas and Colgate-Palmolive India are among more than 50 companies reporting.",
+                         "stories":  [
+                                         {
+                                             "title":  "Mahindra Finance Q2 net profit surges 55% to Rs 882 crore on volumes, lower credit cost",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/mahindra-finance-q2-net-profit-surges-55-to-rs-882-crore-on-volumes-lower-credit-cost/articleshow/135094556.cms"
+                                         },
+                                         {
+                                             "title":  "Aditya Birla AMC Q2 net profit dips 8.4% to Rs 221 crore",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/aditya-birla-amc-q2-net-profit-dips-8-4-to-rs-221-crore/articleshow/135103619.cms"
+                                         },
+                                         {
+                                             "title":  "PC Jewellers Q2 Results: Net profit shoots up 58% to Rs 331 crore; company says it is now debt-free",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/pc-jewellers-q2-results-net-profit-shoots-up-58-to-rs-331-crore-company-says-it-is-now-debt-free/articleshow/135094111.cms"
+                                         },
+                                         {
+                                             "title":  "IHCL Q2 Results: Tata Group-owned hotel chain\u0027s net profit jumps 19% to Rs 379 crore",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/ihcl-q2-results-tata-group-owned-hotel-chains-net-profit-jumps-19-to-rs-379-crore/articleshow/135094055.cms"
+                                         },
+                                         {
+                                             "title":  "Vishal Mega Mart falls 6% as festive shift weighs on margins, SSSG in Q2",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/vishal-mega-mart-falls-6-as-festive-shift-weighs-on-margins-sssg-in-q2-126102100565_1.html"
+                                         },
+                                         {
+                                             "title":  "Just Dial share price slides 6% as Q2 profit falls 10%, margins contract",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/just-dial-share-price-slides-6-as-q2-profit-falls-10-margins-contract-126102100362_1.html"
+                                         },
+                                         {
+                                             "title":  "UltraTech up 3% post Q2; Jefferies says cement price recovery key catalyst",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/ultratech-up-3-post-q2-jefferies-says-cement-price-recovery-key-catalyst-126102100281_1.html"
+                                         },
+                                         {
+                                             "title":  "Stocks in news: Reliance Industries, Eternal, Alkem Labs, BEL, HPCL, Swiggy and GMDC",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-reliance-industries-eternal-alkem-labs-bel-hpcl-swiggy-and-gmdc/articleshow/135102947.cms"
+                                         },
+                                         {
+                                             "title":  "Q2 results 2026 today, schedule: Swiggy, Adani Energy, HPCL 53 more firms to declare quarterly earnings",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/q2-results-2026-today-schedule-swiggy-adani-energy-hpcl-53-more-firms-to-declare-quarterly-earnings-oct-22-tue-list-11792636869326.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Economy and policy",
+                         "script":  "Now the economy, and the Reserve Bank. Minutes of the policy committee show inflation is top of mind. Governor Sanjay Malhotra spoke of a generalisation of inflation, with many items running above 4 percent. He said the length and extent of the rate hike cycle will depend on how growth and inflation develop. The Reserve Bank has raised its growth forecast for this financial year to 7.1 percent, from 6.7 percent. Nomura expects another quarter point hike in December. And former governor C Rangarajan told Moneycontrol that with both inflation and the rupee under pressure, the degree of tightening may have to be higher.\n\nOn the data, core sector output grew 7.9 percent in September, a 30-month high, led by a sharp rebound in coal and higher iron ore and refinery output. But oil is weighing on the import bill. India\u0027s crude imports cost 90.6 billion dollars between April and September, up 46 percent, and the Indian crude basket has averaged about 121 dollars a barrel in October.\n\nOn trade, Commerce Minister Piyush Goyal heads to Germany and the Netherlands, with the India and European Union trade talks on the agenda.",
+                         "stories":  [
+                                         {
+                                             "title":  "Inflation remains top of mind, MPC minutes show",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/policy/inflation-remains-top-of-mind-mpc-minutes-show/articleshow/135094903.cms"
+                                         },
+                                         {
+                                             "title":  "Extent of rate hike cycle to depend on growth-inflation outlook: RBI Governor",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/policy/extent-of-rate-hike-cycle-to-depend-on-growth-inflation-outlook-rbi-governor/articleshow/135092338.cms"
+                                         },
+                                         {
+                                             "title":  "India\u0027s economy stays resilient at 7.1%, but rising inflation raises a red flag, says RBI\u0027s Sanjay Malhotra",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/indicators/indias-economy-stays-resilient-at-7-1-but-rising-inflation-raises-a-red-flag-says-rbis-sanjay-malhotra/articleshow/135091927.cms"
+                                         },
+                                         {
+                                             "title":  "Nomura expects 25 bps RBI rate hike in December, says minutes focus on growth, inflation, not forex",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/nomura-expects-25-bps-rbi-rate-hike-in-december-says-minutes-focus-on-growth-inflation-not-forex-14057244.html"
+                                         },
+                                         {
+                                             "title":  "\u0027We have a two-fold problem: Inflation and the rupee. Perhaps the degree of tightening may have to be higher\u0027",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/opinion/we-have-a-two-fold-problem-inflation-and-the-rupee-perhaps-the-degree-of-tightening-may-have-to-be-higher-14056588.html"
+                                         },
+                                         {
+                                             "title":  "Core sector growth at 30-month high of 7.9% in Sep as coal output rebounds",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/industry/news/core-sector-growth-at-30-month-high-of-7-9-in-sep-as-coal-output-rebounds-126102101072_1.html"
+                                         },
+                                         {
+                                             "title":  "India\u0027s crude import bill surges 46% to $90.6 billion in April-September on elevated oil prices",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/india-s-crude-import-bill-surges-46-to-90-6-billion-in-april-september-on-elevated-oil-prices-14056582.html"
+                                         },
+                                         {
+                                             "title":  "Piyush Goyal to explore trade, investment avenues in Germany \u0026 Netherlands",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/foreign-trade/piyush-goyal-to-explore-trade-investment-avenues-in-germany-netherlands/articleshow/135100125.cms"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Around the world",
+                         "script":  "Around the world, oil again. Brent rose about 1.2 percent to around 110 dollars a barrel, and US crude to about 98 dollars, after Houthi attacks in Saudi Arabia killed three people. Washington has ordered some diplomats\u0027 families to leave. At home, Indian Oil plans to buy less West Asian crude under its annual deals.\n\nOn Wall Street, stocks rose on strong AI-linked earnings. The Nasdaq gained more than 1 percent, and SpaceX jumped 7 percent on its results and talk of a merger with Tesla. The US 10-year yield is around 5.12 percent, and France\u0027s 10-year yield has hit 5 percent. The Federal Reserve meets on the twenty-eighth.\n\nAsia is weaker this morning. Asian shares fell about 0.8 percent, with South Korea\u0027s Kospi down nearly 2 percent on worries over AI spending. China\u0027s main index is on the edge of a bear market, down about 20 percent from its June high.",
+                         "stories":  [
+                                         {
+                                             "title":  "Oil prices rise as Houthi attacks in Saudi Arabia fuel supply concerns",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/commodities/oil-prices-rise-as-houthi-attacks-in-saudi-arabia-fuel-supply-concerns-126102200066_1.html"
+                                         },
+                                         {
+                                             "title":  "Indian Oil to trim West Asian oil imports under annual deals amid Iran war",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/indian-oil-to-trim-west-asian-oil-imports-under-annual-deals-amid-iran-war-126102100579_1.html"
+                                         },
+                                         {
+                                             "title":  "Brent oil around $110 | SpaceX rallies 7% | M\u0026M finance, Indian Hotels earnings in focus",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/videos/business/markets/brent-oil-around-110-spacex-rallies-7-m-m-finance-indian-hotels-earnings-in-focus-14057220.html"
+                                         },
+                                         {
+                                             "title":  "Stocks rise on AI-led earnings, France\u0027s 10-year bond yield hits 5%",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/stocks-rise-on-ai-led-earnings-france-s-10-year-bond-yield-hits-5-14057072.html"
+                                         },
+                                         {
+                                             "title":  "Asia stocks fall on mixed megacap earnings, oil rises",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/markets/global-markets/asia-stocks-slip-after-mixed-megacap-results-oil-rises-14057089.html"
+                                         },
+                                         {
+                                             "title":  "China stocks set for bear market as AI trade, policy hopes fade",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/markets/global-markets/china-stocks-set-for-bear-market-as-ai-trade-policy-hopes-fade-14057098.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Stories you\u0027re following",
+                         "script":  "An update on the Jio IPO you\u0027re following. It was fully subscribed in about 100 minutes and booked 3.16 times on day one, but retail investors have yet to fill their quota.\n\nAnd on the India and US trade deal you\u0027re following. Marco Rubio toured Reliance\u0027s Jamnagar refinery with Mukesh Ambani, discussing energy, technology and data centres, as his India visit wraps up today.",
+                         "stories":  [
+                                         {
+                                             "title":  "Jio Platforms IPO fully subscribed in 100 mins; booked 3.16x on Day 1",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/ipo/jio-platforms-ipo-subscription-qib-retail-anchor-investor-126102100328_1.html"
+                                         },
+                                         {
+                                             "title":  "Rubio, Mukesh Ambani discuss energy, technology partnerships at Jamnagar",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/rubio-mukesh-ambani-discuss-energy-technology-partnerships-at-jamnagar-126102101510_1.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Your money",
+                         "script":  "Finally, your money, starting with tax. Tax audit reports for assessment year 2026-27 were due on the twenty-first of October. Returns for audited taxpayers are due on the twenty-first of November.\n\nIf you sold a house and bought another, Mint notes that the capital gains exemption under Section 54, which is Section 82 of the new Income Tax Act, can be denied or withdrawn if its conditions are not met. Mint also points out that large UPI transfers don\u0027t by themselves trigger tax notices, but unexplained bank credits can draw scrutiny.\n\nFor salaried readers, the EPF wage ceiling is set to rise from 15,000 to 25,000 rupees, which could change take-home pay.\n\nOn gold, prices in India have fallen nearly 5 percent in a month. Kaynat Chainwala of Kotak Neo says gold could test 4,000 dollars an ounce if oil extends its rally and lifts inflation.\n\nTwo banking alerts. State Bank of India is investigating a suspected dark web leak of customer records, and says its core operations are unaffected. HDFC Bank has begun an internal probe into alleged leaks of confidential information.\n\nOne date for your calendar. Today is the last day to buy shares of Tech Mahindra, IRFC, LTM and several others to be eligible for dividends and corporate actions with a record date of tomorrow. Tech Mahindra has also proposed a one-for-one bonus issue.\n\nThat\u0027s your brief. Today, watch whether the Nifty can hold 22,800 as oil reacts to the Gulf, and whether retail investors step up on day two of the Jio offer. Results from Swiggy and Hindustan Petroleum are due, and bond yields remain the thing to watch for bank stocks. Have a good Thursday.",
+                         "stories":  [
+                                         {
+                                             "title":  "Last date alert! Income tax audit deadline ends today: Who must file? What happens if you miss the due date?",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/last-date-alert-income-tax-audit-deadline-ends-today-who-must-file-what-happens-if-you-miss-the-due-date-11792576287410.html"
+                                         },
+                                         {
+                                             "title":  "Sold a house and bought another within 2 years? Here\u0027s when capital gains could still be taxable – Section 54 rules",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/sold-a-house-and-bought-another-within-2-years-heres-when-capital-gains-could-still-be-taxable-section-54-rules-11792628518697.html"
+                                         },
+                                         {
+                                             "title":  "Which transactions can trigger notice from Income Tax Department? Know rules for large cash deposits and UPI transfers",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/which-transactions-can-trigger-notice-from-income-tax-department-know-rules-for-large-cash-deposits-and-upi-transfers-11792602941785.html"
+                                         },
+                                         {
+                                             "title":  "Will your take-home salary increase or decrease as EPF wage ceiling rises from ₹15k to ₹25k?",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/policy/will-your-take-home-salary-increase-or-decrease-as-epf-wage-ceiling-rises-from-15k-to-25k/videoshow/135088969.cms"
+                                         },
+                                         {
+                                             "title":  "Wedding Season 2026: Gold prices crashed over 5% in a month — Should you buy jewellery now or wait?",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/wedding-season-2026-gold-prices-crashed-over-5-in-a-month-should-you-buy-jewellery-now-or-wait-experts-suggest-11792571511976.html"
+                                         },
+                                         {
+                                             "title":  "Gold may test 4,000-mark if oil extends rally; US Fed moves eyed: Kotak Neo",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/gold-may-test-4-000-mark-if-oil-extends-rally-us-fed-moves-eyed-kotak-neo-126102100567_1.html"
+                                         },
+                                         {
+                                             "title":  "SBI investigates dark web leak of 3.8 lakh records",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/sbi-investigates-dark-web-leak-of-3-8-lakh-records/articleshow/135103455.cms"
+                                         },
+                                         {
+                                             "title":  "HDFC Bank begins probe into alleged internal data leak",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-begins-probe-into-alleged-internal-data-leak/articleshow/135103464.cms"
+                                         },
+                                         {
+                                             "title":  "Dividend, stock split: Last chance to buy today - LTM, IRFC, Modison, TechM and Azad India Mobility shares",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/dividend-stock-split-last-chance-to-buy-today-ltm-irfc-modison-techm-and-azad-india-mobility-shares-11792604084403.html"
+                                         }
+                                     ]
+                     }
+                 ]
+}
