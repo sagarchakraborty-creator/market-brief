@@ -1,0 +1,301 @@
+{
+    "date":  "2026-10-23",
+    "edition":  "Morning",
+    "generatedAt":  "2026-10-23T08:58:00+05:30",
+    "headline":  "Oil near 113 dollars, rate hike bets build, and Jio\u0027s final day",
+    "segments":  [
+                     {
+                         "title":  "The big picture",
+                         "script":  "Good morning. It\u0027s Friday, the twenty-third of October, and this is your Market Brief.\n\nThree things matter most today. First, oil. Brent crude has climbed to a five-month high of around 113 dollars a barrel after Houthi attacks on Saudi Arabia, and that pushed Indian shares lower for a third straight session. Second, interest rates. The minutes of the Reserve Bank\u0027s last policy meeting have convinced economists that two more rate hikes are coming, in December and February. And third, it\u0027s the last day to bid in the Jio Platforms IPO, which has already drawn demand of about 3.7 lakh crore rupees.\n\nAdd to that a packed results day, with Infosys, Dr Reddy\u0027s and JSW Steel reporting, and three new listings this morning. Let\u0027s begin.",
+                         "stories":  [
+                                         {
+                                             "title":  "Oil little changed as supply concern lingers amid Houthi attacks on Saudi",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/commodities/oil-little-changed-as-supply-concern-lingers-amid-houthi-attacks-on-saudi-126102300065_1.html"
+                                         },
+                                         {
+                                             "title":  "MPC minutes: Two more interest rate hikes on cards, maybe even a third",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/mpc-minutes-two-more-interest-rate-hikes-on-cards-maybe-even-a-third/articleshow/135131110.cms"
+                                         },
+                                         {
+                                             "title":  "Nasdaq dives 2.6% | Brent oil climbs to $113 | Swiggy disappoints in Q2",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/videos/business/markets/nasdaq-dives-2-6-brent-oil-climbs-to-113-swiggy-disappoints-in-q2-14058185.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "How markets closed",
+                         "script":  "Thursday was another tough session. The Sensex lost over 460 points, and the Nifty fell 124 points, or just over half a percent, to 22,687. Oil-sensitive stocks led the decline as Brent crossed 112 dollars, and companies listed on the BSE lost about 3 lakh crore rupees in market value in a single day. Both indices are now down about 2 percent this week.\n\nNow to the money flows. Provisional data show foreign institutional investors sold a net 3,459 crore rupees of Indian shares on Thursday, while domestic institutions bought 2,891 crore rupees. So far this year, foreign investors have sold a net 4.57 lakh crore rupees, and domestic institutions have bought 6.93 lakh crore.\n\nAmong individual names, eMudhra hit a second straight 20 percent lower circuit after a leak of private keys tied to its web security certificates. The IT ministry has formed a special team to investigate. And Swiggy hit a record low, down 46 percent from its IPO price, ahead of results the market found disappointing.\n\nFor today, GIFT Nifty points to a firmer start, trading around 22,800, about 165 points above Thursday\u0027s futures close. Analysts quoted by Moneycontrol see resistance in the 22,800 to 22,900 zone, and crucial support at 22,500. A break below that, they say, could drag the index towards 22,200 to 22,300. For Bank Nifty, the level they\u0027re watching is 54,400.",
+                         "stories":  [
+                                         {
+                                             "title":  "Oil price surge keeps Nifty in red, Sensex sheds 460 points on Thursday",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/oil-price-surge-keeps-nifty-in-red-sensex-sheds-460-points-on-thursday-126102201522_1.html"
+                                         },
+                                         {
+                                             "title":  "Ahead of Market: 10 things that will decide stock market action on Friday",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/135122517.cms"
+                                         },
+                                         {
+                                             "title":  "FIIs net sell Rs 3,459 crore while DIIs buy Rs 2,891 crore-worth Indian equities on Oct 22",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/fiis-net-sell-rs-3-459-crore-while-diis-buy-rs-2-891-crore-worth-indian-equities-on-oct-22-14057901.html"
+                                         },
+                                         {
+                                             "title":  "eMudhra share price hits second straight 20% lower circuit; at 52-week low",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/emudhra-share-price-hits-second-straight-20-lower-circuit-at-52-week-low-126102200784_1.html"
+                                         },
+                                         {
+                                             "title":  "Swiggy slips 26% in 1 month, hits record low; stock down 46% from IPO price",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/swiggy-slips-26-in-1-month-hits-record-low-stock-down-46-from-ipo-price-126102200468_1.html"
+                                         },
+                                         {
+                                             "title":  "Stock market outlook today, 23 Oct: Sensex, Nifty prediction",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-23-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11792716174246.html"
+                                         },
+                                         {
+                                             "title":  "Technical View: Nifty 50 below 22,500 could strengthen bearish grip amid elevated VIX, oil prices; 54,400 crucial for Bank Nifty",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/technical-view-nifty-50-below-22-500-could-strengthen-bearish-grip-amid-elevated-vix-oil-prices-54-400-crucial-for-bank-nifty-14057739.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "IPOs and deals",
+                         "script":  "Three companies make their stock market debut today. Zetwerk Manufacturing, whose 5,012 crore rupee IPO combined new shares worth 2,830 crore with a sale by existing holders. Bonfiglioli Transmissions, with an issue of about 2,534 crore rupees, all of it a sale by existing shareholders. And Sahajanand Medical Technologies, a 475 crore rupee issue, also entirely a sale by existing holders. On Thursday, Fusion CX listed at 305 rupees, a premium of about five and a half percent to its issue price of 289 but closed almost flat.\n\nOne date for your calendar. Bombay Coated and Special Steels opens a 183 crore rupee IPO on the twenty-ninth of October.\n\nOn deals, the Swiss bank UBS has taken a 4.8 percent stake in 360 ONE WAM by exercising warrants, over a year after it moved its Indian wealth business to the firm. And Sun Pharma raised 7,816 crore rupees through two five-year bonds, with coupons of 8.05 and 8.2 percent.",
+                         "stories":  [
+                                         {
+                                             "title":  "Zetwerk Manufacturing Business shares to list today: Check GMP ahead of debut",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/zetwerk-manufacturing-business-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/135131780.cms"
+                                         },
+                                         {
+                                             "title":  "Bonfiglioli Transmissions shares to list today: Check GMP ahead of debut",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/bonfiglioli-transmissions-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/135131771.cms"
+                                         },
+                                         {
+                                             "title":  "Sahajanand Medical Technologies shares to list today: Check GMP ahead of debut",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/sahajanand-medical-technologies-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/135131726.cms"
+                                         },
+                                         {
+                                             "title":  "Fusion CX debuts at 5.5% premium",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/fusion-cx-debuts-at-5-5-premium/articleshow/135131473.cms"
+                                         },
+                                         {
+                                             "title":  "Bombay Coated and Special Steels to launch Rs 183-crore IPO on October 29",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/ipo/bombay-coated-and-special-steels-to-launch-rs-183-crore-ipo-on-october-29-14057823.html"
+                                         },
+                                         {
+                                             "title":  "UBS Group AG acquires 4.8% stake in 360 ONE WAM after exercising warrants",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/ubs-group-ag-acquires-4-8-stake-in-360-one-wam-after-exercising-warrants/articleshow/135131354.cms"
+                                         },
+                                         {
+                                             "title":  "Sun Pharma accepts bids worth ₹7,816 crore for two five-year bonds",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/sun-pharma-raises-78-16-billion-through-two-five-year-bond-issues-126102201054_1.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Results roundup",
+                         "script":  "Now to results. In metals, Jindal Stainless grew profit 11 percent to 898 crore rupees in the September quarter, but cut its volume growth outlook for this financial year to 4 to 6 percent, from 7 to 9 percent earlier. Hindustan Petroleum\u0027s profit fell 6 percent, even as revenue rose 26 percent. It\u0027s back in profit after a heavy loss in the June quarter, but still in the red for the half-year because of high crude prices.\n\nIn finance, CreditAccess Grameen\u0027s profit jumped fourfold to 502 crore rupees, helped by lower credit costs, and it raised its profitability guidance. Its assets under management grew 19.5 percent. On the other side, M\u0026M Financial reported a 55 percent jump in profit, yet the stock fell as much as 10 percent to a 52-week low, as brokerages cut their targets over margin pressure, higher funding costs and risks to rural cash flows.\n\nIn consumer goods, Colgate-Palmolive posted a 4.2 percent rise in profit to 342 crore rupees, on revenue growth of 12.2 percent, and declared a dividend of 24 rupees a share.\n\nToday brings the big ones. Analysts quoted by Business Standard expect Infosys\u0027s profit to rise about 10 percent, with the focus on any change to its revenue guidance for the year. For JSW Steel, analysts see adjusted profit growing 60 to 110 percent from a year ago. Dr Reddy\u0027s also reports.",
+                         "stories":  [
+                                         {
+                                             "title":  "Jindal Stainless Q2 net profit rises 11% to Rs 898 crore",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/jindal-stainless-q2-net-profit-rises-11-to-rs-898-crore/articleshow/135131699.cms"
+                                         },
+                                         {
+                                             "title":  "HPCL reports 6% decline in profit for Q2 amidst rising fuel prices",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/hpcl-reports-6-decline-in-profit-for-q2-amidst-rising-fuel-prices/articleshow/135131574.cms"
+                                         },
+                                         {
+                                             "title":  "CreditAccess Grameen Q2 profit jumps fourfold to Rs 502 crore",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/creditaccess-grameen-q2-profit-jumps-fourfold-to-rs-502-crore/articleshow/135121186.cms"
+                                         },
+                                         {
+                                             "title":  "M\u0026M Financial shares fall up to 10% to hit 52-week low despite 55% YoY profit in Q2; brokerages cut target price",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/m-m-financial-shares-fall-up-to-10-to-hit-52-week-low-despite-55-yoy-profit-in-q2-brokerages-cut-target-price-14057760.html"
+                                         },
+                                         {
+                                             "title":  "Colgate Palmolive Q2 results: Profit up 4.2% YoY at Rs 342 crore, revenue rises 12.2%; declares Rs 24 dividend",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/colgate-palmolive-q2-results-profit-up-4-2-yoy-at-rs-342-crore-revenue-rises-12-2-declares-rs-24-dividend-14057861.html"
+                                         },
+                                         {
+                                             "title":  "Infosys Q2 results preview: Analysts see PAT rising 10%; guidance in focus",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/infosys-q2-results-preview-analysts-see-pat-rising-10-guidance-in-focus-126102200709_1.html"
+                                         },
+                                         {
+                                             "title":  "JSW Steel Q2 results preview: Adj. PAT could grow 60-110% YoY, say analysts",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/jsw-steel-q2-results-preview-adj-pat-could-grow-60-110-yoy-say-analysts-126102200722_1.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Economy and policy",
+                         "script":  "The Reserve Bank\u0027s minutes have shifted expectations. Economists now expect a quarter-point hike in both December and February, and don\u0027t rule out a third in April if crude stays above 100 dollars. Barclays says the chance of a December hike has gone up, and now sees rates peaking at 6 percent in this cycle. Former Governor C Rangarajan told Moneycontrol that India faces a two-fold problem of inflation and the rupee, and the tightening may have to be stronger.\n\nCash is getting tight too. The banking system\u0027s liquidity surplus shrank to just 541 crore rupees as of the twenty-first, and the overnight call rate rose to 5.65 percent, 15 basis points above the repo rate.\n\nThe oil bill tells the story. India\u0027s crude import bill rose 46 percent to 90.6 billion dollars between April and September. The Indian crude basket has averaged about 121 dollars a barrel this October, against 65 dollars a year ago. India is also buying more from West Asia, which supplied 54 percent of its crude in September, while Russian imports fell.\n\nNow, tax. Two GST changes arrive on the first of November. Small e-commerce sellers get simplified registration, and can declare an e-commerce warehouse as their principal place of business, so they can sell across states without physical offices. Refunds will be issued automatically, and a minimum threshold for show-cause notices should cut litigation. Separately, the government plans to revamp GST return forms to curb mismatches between reported sales and tax paid. Draft forms open for public feedback from the first of November, with the changes taking effect on the first of April 2027.\n\nOn trade, Commerce Minister Piyush Goyal said the India and European Union trade pact should be signed by the end of this year, and could be in force between January and March.",
+                         "stories":  [
+                                         {
+                                             "title":  "MPC minutes: Two more interest rate hikes on cards, maybe even a third",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/mpc-minutes-two-more-interest-rate-hikes-on-cards-maybe-even-a-third/articleshow/135131110.cms"
+                                         },
+                                         {
+                                             "title":  "\u0027We have a two-fold problem: Inflation and the rupee. Perhaps the degree of tightening may have to be higher\u0027",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/opinion/we-have-a-two-fold-problem-inflation-and-the-rupee-perhaps-the-degree-of-tightening-may-have-to-be-higher-14056588.html"
+                                         },
+                                         {
+                                             "title":  "Banking liquidity surplus shrinks to Rs 541 crore as cash crunch increases",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/banking-liquidity-surplus-shrinks-to-rs-541-crore-as-cash-crunch-increases/articleshow/135131128.cms"
+                                         },
+                                         {
+                                             "title":  "India\u0027s crude import bill surges 46% to $90.6 billion in April-September on elevated oil prices",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/india-s-crude-import-bill-surges-46-to-90-6-billion-in-april-september-on-elevated-oil-prices-14056582.html"
+                                         },
+                                         {
+                                             "title":  "India\u0027s West Asia oil imports hit pre-war levels; Russian crude falls",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/india-s-west-asia-oil-imports-hit-pre-war-levels-russian-crude-falls-126102200409_1.html"
+                                         },
+                                         {
+                                             "title":  "GST reforms from November 1 to simplify e-commerce seller registration, fast-track refunds",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/policy/gst-reforms-from-november-1-to-simplify-e-commerce-seller-registration-fast-track-refunds/articleshow/135117652.cms"
+                                         },
+                                         {
+                                             "title":  "GST return forms likely to be tweaked to curb mismatches",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/policy/gst-return-forms-likely-to-be-tweaked-to-curb-mismatches/articleshow/135125817.cms"
+                                         },
+                                         {
+                                             "title":  "India-EU FTA may be operational in January-March, says Piyush Goyal",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/india-eu-fta-may-come-into-effect-in-january-march-says-piyush-goyal-126102201530_1.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Around the world",
+                         "script":  "Wall Street had a rough night. The Nasdaq fell 2.6 percent, its steepest drop since early June, as investors dumped artificial intelligence stocks. Meta slid over 6 percent after raising its spending plans to as much as 145 billion dollars, despite strong revenue.\n\nBrent crude is little changed this morning at about 113 dollars, after a 4 percent surge, on supply worries following Houthi attacks on Saudi Arabia. Asian shares are lower, with the broad regional index heading for a fourth straight weekly loss. Gold is holding near a three-month low, around 4,110 dollars an ounce, as investors sell it to cover losses elsewhere.\n\nIn China, growth rebounded faster than expected, with industrial output up 5.5 percent in September. And memory chip maker Solidigm scrapped a 10 billion dollar IPO, dragging SK Hynix down 3 percent.",
+                         "stories":  [
+                                         {
+                                             "title":  "US stocks fall as oil surge fuels inflation fears; Meta slides 6.2%, Nasdaq 100 drops 2.2%",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/nasdaq-100-drops-1-8-as-meta-tumbles-and-oil-prices-climb-14057948.html"
+                                         },
+                                         {
+                                             "title":  "Meta share price: Stock slumps 7.5% despite upbeat Q3 results; why is Facebook parent falling?",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/meta-share-price-stock-slumps-7-5-despite-upbeat-q3-results-why-is-facebook-parent-falling-11792689825393.html"
+                                         },
+                                         {
+                                             "title":  "Oil little changed as supply concern lingers amid Houthi attacks on Saudi",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/commodities/oil-little-changed-as-supply-concern-lingers-amid-houthi-attacks-on-saudi-126102300065_1.html"
+                                         },
+                                         {
+                                             "title":  "Asian shares slip as tech rout boosts bonds, dents rate hike bets",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/asian-shares-slip-as-tech-rout-boosts-bonds-dents-rate-hike-bets-126102300074_1.html"
+                                         },
+                                         {
+                                             "title":  "Gold Holds Near Three-Month Low as AI Jitters Fuel Volatility",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/gold-holds-near-three-month-low-as-ai-jitters-fuel-volatility-11792715984506.html"
+                                         },
+                                         {
+                                             "title":  "Gold, silver extend losses as crude oil prices rise amid West Asia tenions",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/commodities/gold-silver-extend-losses-as-crude-oil-prices-rise-amid-west-asia-tenions-126102200543_1.html"
+                                         },
+                                         {
+                                             "title":  "China\u0027s growth rebound tops forecasts to close in on annual goal",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/china-s-growth-rebound-tops-forecasts-to-close-in-on-annual-goal-14055036.html"
+                                         },
+                                         {
+                                             "title":  "SK Hynix shares sink 3% as Solidigm scraps $10 billion IPO on regulatory hurdles",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/sk-hynix-shares-sink-3-as-solidigm-scraps-10-billion-ipo-on-regulatory-hurdles-14058175.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Stories you\u0027re following",
+                         "script":  "An update on the Jio IPO you\u0027re following. On day two, the offer was subscribed 5.57 times. Big institutions bid for 13.29 times their quota, wealthy individuals for nearly six times, and retail investors for 1.54 times, so the retail portion is now full. Moneycontrol puts total demand at about 3.73 lakh crore rupees. Bidding closes today, with allotment expected on Monday and listing next Wednesday.",
+                         "stories":  [
+                                         {
+                                             "title":  "Jio Platforms IPO subscribed 5.57x on day 2; QIBs led with 13.29x bids",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/jio-platforms-ipo-subscribed-5-57x-on-day-2-qibs-led-with-13-29x-bids-126102201448_1.html"
+                                         },
+                                         {
+                                             "title":  "Jio IPO draws Rs 3.73 lakh crore in total demand as overall subscription crosses 5.5x",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/jio-ipo-draws-rs-3-58-lakh-crore-in-total-demand-as-overall-subscription-reaches-nearly-5x-14057771.html"
+                                         },
+                                         {
+                                             "title":  "Reliance Jio IPO subscription status day 1, day 2",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-subscription-status-day-1-day-2-check-qib-nii-retail-employee-ril-shareholders-wise-data-details-11792681049708.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Your money",
+                         "script":  "Now, your money. The market regulator, Sebi, has warned investors about invitation-only WhatsApp groups that hand out stock tips in the name of free education. It flagged fake profit claims, planted messages, overseas numbers and suspicious trading apps, and urged investors to deal only with registered intermediaries.\n\nSome relief for traders. From the twenty-second of February 2027, clients who deliver shares early can use that value for later trades without putting up extra margin.\n\nIf you bank with ICICI, note that charges on cash transactions beyond the free limit, on demand drafts and on returned auto-debits change from the first of December. The free monthly limits stay the same. Indian Bank has raised rates on its 555-day and 777-day special deposits by 15 basis points from today, following the Reserve Bank\u0027s October rate hike.\n\nOn Yes Bank\u0027s additional tier one bonds, after the Supreme Court reversed the 8,415 crore rupee write-down, sources say the bank is unlikely to pay coupons this year, insisting the decision is its own to make.\n\nAnd one win for policyholders. Delhi\u0027s state consumer commission rejected HDFC ERGO\u0027s appeal over a dengue claim of nearly 18 lakh rupees, ruling that a two-year waiting period didn\u0027t apply because dengue wasn\u0027t on the list of specified illnesses.\n\nThat\u0027s the brief for this Friday. Today, watch whether the Nifty can hold 22,500 and end its three-day slide, how Zetwerk, Bonfiglioli and Sahajanand open, and the final day of bidding for Jio. After the bell come Infosys, Dr Reddy\u0027s and JSW Steel, and keep one eye on crude through it all. Have a good weekend.",
+                         "stories":  [
+                                         {
+                                             "title":  "Sebi warns investors against fraudulent WhatsApp stock tip groups",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/sebi-warns-investors-against-fraudulent-whatsapp-stock-tip-groups-126102201541_1.html"
+                                         },
+                                         {
+                                             "title":  "SEBI eases margin burden on clients using early pay-in facility in cash segment",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/sebi-eases-margin-burden-on-clients-using-early-pay-in-facility-in-cash-segment-14057796.html"
+                                         },
+                                         {
+                                             "title":  "This bank to revise service charges from 1 December: Check new demand draft and cash transaction fees",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/this-bank-to-revise-service-charges-from-1-december-check-new-demand-draft-and-cash-transaction-fees-11792721900440.html"
+                                         },
+                                         {
+                                             "title":  "Indian Bank raises special term deposit rates by 15 bps from October 23",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/indian-bank-raises-special-term-deposit-rates-by-15-bps-from-october-23-126102201451_1.html"
+                                         },
+                                         {
+                                             "title":  "Yes Bank unlikely to pay AT1 bond coupons despite bond holders demand, sources say",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/yes-bank-unlikely-to-pay-at1-bond-coupons-despite-bond-holders-demand-sources-say/articleshow/135122504.cms"
+                                         },
+                                         {
+                                             "title":  "Insurer loses appeal over ₹17.99 lakh dengue claim rejected on waiting-period grounds",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/insurer-loses-appeal-over-17-99-lakh-dengue-claim-rejected-on-waiting-period-grounds-what-commission-said-11792661922455.html"
+                                         }
+                                     ]
+                     }
+                 ]
+}
