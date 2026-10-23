@@ -2,10 +2,10 @@
   "slug": "jio-ipo",
   "title": "The Jio IPO",
   "started": "2019-08-12",
-  "updatedAt": "2026-10-22T09:05:00+05:30",
+  "updatedAt": "2026-10-23T08:55:00+05:30",
   "status": "active",
-  "summary": "Mukesh Ambani first promised a Jio listing in 2019. In 2020, Facebook, Google and other global investors bought big stakes in Jio Platforms. The listing then slipped year after year. In August 2025, Ambani set a new target of the first half of 2026, but war in West Asia unsettled markets and pushed the plan back again.\n\nThe draft prospectus finally went to the market regulator on 19 June 2026, and the regulator cleared it on 28 August. The issue is made up only of new shares, and most of the money will repay debt at Reliance Jio Infocomm. On 14 October, Jio set a price band of 1,065 to 1,119 rupees a share. That makes it a record offer of about 30,200 crore rupees. On 19 October, anchor investors put in about 8,110 crore rupees, with bids around 30 times the shares on offer. The offer opened to the public on 21 October and was fully subscribed in about 100 minutes. By the close of day one it was booked 3.16 times, led by big institutions, while retail investors had taken up less than three quarters of their share.",
-  "watch": "The offer closes on Friday, 23 October. Watch whether retail investors and Reliance shareholders, who have their own quota of 2,500 crore rupees, fill their portions on the last two days. Mint reported a grey market premium pointing to listing gains of about 22 percent, though grey market prices are unofficial. Share allotment is expected on 26 October, and listing on 28 October.",
+  "summary": "Mukesh Ambani first promised a Jio listing in 2019. In 2020, Facebook, Google and other global investors bought big stakes in Jio Platforms. The listing then slipped year after year, most recently when war in West Asia unsettled markets in 2026.\n\nThe draft prospectus went to the market regulator on 19 June 2026, and the regulator cleared it on 28 August. The issue is made up only of new shares, and most of the money will repay debt at Reliance Jio Infocomm. At a price band of 1,065 to 1,119 rupees a share, it is a record offer of about 30,200 crore rupees. Anchor investors put in about 8,110 crore rupees on 19 October. The offer opened on 21 October, was fully subscribed in about 100 minutes, and ended day two booked 5.57 times. Big institutions led with 13.29 times their quota, retail investors filled theirs, and Moneycontrol put total demand at about 3.73 lakh crore rupees.",
+  "watch": "Bidding closes on Friday, 23 October. Watch the final subscription numbers, especially for the quota of 2,500 crore rupees set aside for Reliance shareholders. Grey market prices have pointed to listing gains, though they are unofficial. Share allotment is expected on 26 October, and listing on 28 October.",
   "timeline": [
     {
       "date": "2019-08-12",
@@ -142,6 +142,17 @@
         { "title": "IPO GMP race: Reliance Jio Platforms IPO vs Paras Healthcare IPO - Check grey market winner", "source": "Livemint", "link": "https://www.livemint.com/market/stock-market-news/ipo-gmp-race-reliance-jio-platforms-ipo-vs-paras-healthcare-ipo-check-grey-market-winner-11792598142454.html" },
         { "title": "Reliance Jio IPO: Massive ₹30,213 cr issue opens for subscription today | Latest GMP, review, listing price prediction", "source": "Livemint", "link": "https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-massive-30-213-cr-issue-opens-for-subscription-today-latest-gmp-review-listing-price-prediction-11792548066016.html" },
         { "title": "Jio entering public markets to build sustainable business and create immense value: Akash Ambani to Moneycontrol", "source": "Moneycontrol", "link": "https://www.moneycontrol.com/news/business/markets/jio-entering-public-markets-to-build-sustainable-business-and-create-immense-value-akash-ambani-to-moneycontrol-14056094.html" }
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "title": "Retail quota filled on day two",
+      "text": "On day two, the offer was subscribed 5.57 times, up from 3.16 times on day one. Big institutions bid for 13.29 times their quota, non-institutional investors for 5.97 times and retail investors for 1.54 times, so the retail portion was filled. Moneycontrol put total demand at about 3.73 lakh crore rupees, with about 2.5 lakh crore rupees of it from institutions.",
+      "sources": [
+        { "title": "Jio Platforms IPO subscribed 5.57x on day 2; QIBs led with 13.29x bids", "source": "Business Standard", "link": "https://www.business-standard.com/markets/news/jio-platforms-ipo-subscribed-5-57x-on-day-2-qibs-led-with-13-29x-bids-126102201448_1.html" },
+        { "title": "Reliance Jio IPO subscription status day 1, day 2: Check QIB, NII, Retail, Employee, RIL Shareholders wise data details", "source": "Livemint", "link": "https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-subscription-status-day-1-day-2-check-qib-nii-retail-employee-ril-shareholders-wise-data-details-11792681049708.html" },
+        { "title": "Jio IPO draws Rs 3.73 lakh crore in total demand as overall subscription crosses 5.5x", "source": "Moneycontrol", "link": "https://www.moneycontrol.com/news/business/markets/jio-ipo-draws-rs-3-58-lakh-crore-in-total-demand-as-overall-subscription-reaches-nearly-5x-14057771.html" },
+        { "title": "Jio Platforms IPO: Retail quota full, subscribed 3.47 times on day two", "source": "Business Standard", "link": "https://www.business-standard.com/markets/ipo/retail-investors-fully-subscribe-ambani-s-jio-ipo-on-second-day-126102200394_1.html" }
       ]
     }
   ]
