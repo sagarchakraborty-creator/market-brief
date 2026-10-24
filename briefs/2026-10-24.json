@@ -1,0 +1,341 @@
+{
+    "date":  "2026-10-24",
+    "edition":  "Morning",
+    "generatedAt":  "2026-10-24T09:10:00+05:30",
+    "headline":  "Small caps\u0027 worst week in two years as Jio IPO closes at a record 22 times",
+    "segments":  [
+                     {
+                         "title":  "The big picture",
+                         "script":  "Good morning. It\u0027s Saturday, the twenty-fourth of October, and this is your Market Brief.\n\nThree things matter most this morning. First, a bruising week on Dalal Street. The Nifty fell for a fourth straight session on Friday and closed below its two-hundred-week moving average, while mid-cap and small-cap stocks had their worst week in nearly two years. Around 25 lakh crore rupees of market value was wiped out in five days.\n\nSecond, the Jio Platforms IPO closed with a record book. It was subscribed a little over 22 times, and it is now India\u0027s largest public offer ever.\n\nThird, oil. Brent crude is above 114 dollars a barrel, and that one number is weighing on the rupee, on bond yields and on every oil-sensitive stock. Let\u0027s get into it.",
+                         "stories":  [
+                                         {
+                                             "title":  "D-Street bleeds! Market value of all BSE-listed firms falls below Rs 450 lakh crore for first time since April. More pain ahead?",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/d-street-bleeds-market-value-of-all-bse-listed-firms-falls-below-rs-450-lakh-crore-for-first-time-since-april-more-pain-ahead/articleshow/135140291.cms"
+                                         },
+                                         {
+                                             "title":  "Small and midcap indices post worst weekly decline in two years",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/small-and-midcap-indices-post-worst-weekly-decline-in-two-years/articleshow/135160009.cms"
+                                         },
+                                         {
+                                             "title":  "Jio Platforms IPO rides institutional demand to 22.19 times subscription",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/jio-platforms-ipo-rides-institutional-demand-to-22-19-times-subscription-126102301595_1.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "How markets closed",
+                         "script":  "Friday was the fourth losing day in a row. The Nifty ended at about 22,600, down a little over half a percent, and the Sensex closed at 73,124. That was after a recovery from the day\u0027s lows, when the Sensex had fallen more than 1,300 points from its high.\n\nThe real damage was in the broader market. The small-cap index sank 2.6 percent on the day and the mid-cap index lost nearly 2.5 percent. Over the week, Business Standard says mid-caps fell 5.6 percent and small-caps 7.3 percent.\n\nRealty and metals took the biggest beating. The Nifty Metal index has lost about 6 percent in four sessions. Capital goods fell nearly 4 percent, and Swiggy crashed after its results. IT was the one corner that held steady, close to flat. Oil-sensitive names such as BPCL, HPCL, IndiGo and the tyre makers fell up to 4 percent as crude climbed.\n\nOn flows, foreign institutional investors were net buyers of about 888 crore rupees on Friday, and domestic institutional investors bought about 3,459 crore rupees. This year so far, foreign investors have sold around 4.5 lakh crore rupees of Indian shares, while domestic institutions have bought more than 6.9 lakh crore rupees.\n\nThe fear gauge, India VIX, jumped about 6 percent to around 17. Now the levels. Moneycontrol\u0027s technical view says the Nifty could slip towards the 22,350 to 22,400 zone, and then 22,180, this month\u0027s low, in the coming monthly expiry week. Bank Nifty support is seen at 53,700. JM Financial says holding 22,000 could set up a rebound, but a break below it risks a fall towards 20,500.",
+                         "stories":  [
+                                         {
+                                             "title":  "Market wrap: Eternal, Apollo Hospital, Shriram Finance, Adani Enterprises among top gainers and losers on Nifty and Sensex on Friday",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-eternal-apollo-hospital-shriram-finance-adani-enterprises-among-top-gainers-and-losers-on-nifty-and-sensex-on-friday/articleshow/135144888.cms"
+                                         },
+                                         {
+                                             "title":  "Closing Bell LIVE: Smallcaps Crash 2.6%, Midcaps Bleed, VIX Jumps | Market Ends the Week in the Red",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/videos/business/markets/closing-bell-live-smallcaps-crash-2-6-midcaps-bleed-vix-jumps-market-ends-the-week-in-the-red-14058568.html"
+                                         },
+                                         {
+                                             "title":  "Tumultuous week: Midcaps and smallcaps suffer worst losses in 20 months",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/tumultuous-week-midcaps-and-smallcaps-suffer-worst-losses-in-20-months-126102301443_1.html"
+                                         },
+                                         {
+                                             "title":  "Lost mettle! VAML, Vedanta, Nalco sink up to 6% as metal index drops 3%",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/lost-mettle-vaml-vedanta-nalco-sink-up-to-6-as-metal-index-drops-3-126102300524_1.html"
+                                         },
+                                         {
+                                             "title":  "BSE Capital Goods index tanks nearly 4%; Hitachi Energy, ABB India slip 6%",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/bse-capital-goods-index-tanks-nearly-4-hitachi-energy-abb-india-slip-6-126102300374_1.html"
+                                         },
+                                         {
+                                             "title":  "BPCL, IndiGo, Apollo Tyres, other crude-sensitive shares fall up to 4% as oil prices surge",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/bpcl-indigo-apollo-tyres-other-crude-sensitive-shares-fall-up-to-4-as-oil-prices-surge-14058584.html"
+                                         },
+                                         {
+                                             "title":  "FIIs net buy Rs 888 crore of Indian equities while DIIs net buy Rs 3459 crore on Oct 23",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/fiis-net-buy-rs-888-crore-of-indian-equities-while-diis-net-buy-rs-3459-crore-14058825.html"
+                                         },
+                                         {
+                                             "title":  "Technical View: Nifty 50 faces further downside if it fails to defend 200-week EMA; Bank Nifty\u0027s 53,700 support in focus as India VIX hits 17",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/technical-view-nifty-50-faces-further-downside-if-it-fails-to-defend-200-week-ema-bank-nifty-s-53-700-support-in-focus-as-india-vix-hits-17-14058642.html"
+                                         },
+                                         {
+                                             "title":  "Only 15% of midcap stocks above 50-DMA: Is buying the dip getting riskier? JM Financial spots signs of leadership shift",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/only-15-of-midcap-stocks-above-50-dma-is-buying-the-dip-getting-riskier-jm-financial-spots-signs-of-leadership-shift/articleshow/135146815.cms"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "IPOs and deals",
+                         "script":  "The Jio Platforms offer closed on Friday subscribed 22.19 times. Qualified institutional buyers bid for about 70.6 times their quota, and retail investors for about 2.7 times. Mint puts total bids at about 4.72 lakh crore rupees, and Moneycontrol says it is the first IPO anywhere to draw more than one crore applications. At about 30,200 crore rupees, it overtakes Hyundai Motor India as the country\u0027s biggest issue.\n\nFriday also brought two very different debuts. Defence electronics maker Tonbo Imaging closed 62 percent above its issue price, while Zetwerk slid more than 20 percent.\n\nOne date for your calendar. EAAA India Alternatives opens its 1,200 crore rupee IPO on Monday, the twenty-sixth, at a price band of 1,585 to 1,665 rupees a share. It has raised 360 crore rupees from anchor investors.\n\nIn deals, UBS has taken a 4.8 percent stake in wealth manager 360 ONE WAM by converting warrants. And Welspun Corp won a 5,500 crore rupee gas pipeline order in the United States, taking its order book to a record 5.25 billion dollars.",
+                         "stories":  [
+                                         {
+                                             "title":  "Mother of all IPOs! Jio Platforms shatters many existing records - Full list here",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/mother-of-all-ipos-jio-platforms-shatters-many-existing-records-full-list-here-11792775064634.html"
+                                         },
+                                         {
+                                             "title":  "Jio IPO sets record with many firsts for an Indian IPO: Here are 7 key milestones",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/ipo/jio-ipo-sets-record-with-many-firsts-for-an-indian-ipo-here-are-6-key-milestones-14058721.html"
+                                         },
+                                         {
+                                             "title":  "Invesco Mutual Fund picks up 3.5% stake in Sahajanand Medical; Yali Capital exits Tonbo Imaging India",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/invesco-mutual-fund-picks-up-3-5-stake-in-sahajanand-medical-yali-capital-exits-tonbo-imaging-india-14058813.html"
+                                         },
+                                         {
+                                             "title":  "Zetwerk shares slide 20% on debut amid widening retail-QIB divide",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/zetwerk-shares-slide-20-on-debut-amid-widening-retail-qib-divide-14058602.html"
+                                         },
+                                         {
+                                             "title":  "EAAA India Alternatives raises Rs 360 crore via anchor book, Rs 1,200-crore IPO to open on October 26",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/ipo/eaaa-india-alternatives-raises-rs-360-crore-via-anchor-book-rs-1-200-crore-ipo-to-open-on-october-26-14058875.html"
+                                         },
+                                         {
+                                             "title":  "UBS acquires 4.8% stake in 360 ONE WAM: What the warrant conversion means for India\u0027s wealth market - Decoded",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/ubs-acquires-4-8-stake-in-360-one-wam-what-the-warrant-conversion-means-for-indias-wealth-market-decoded-11792757365857.html"
+                                         },
+                                         {
+                                             "title":  "1647% return in 5 years: Welspun Corp wins Rs 5,500 cr US gas pipeline order - What\u0027s next for this multibagger stock?",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/1647-return-in-5-years-welspun-corp-wins-rs-5-500-crore-us-gas-pipeline-order-whats-next-for-this-multibagger-stock-11792756720441.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Results roundup",
+                         "script":  "A busy Friday for results. Let\u0027s start with IT. Infosys grew its profit 6 percent to 7,823 crore rupees, on revenue of 49,244 crore rupees. Large deal wins were strong at 5.2 billion dollars. But it trimmed its full-year revenue growth guidance to 1 to 2 percent in constant currency, from 1.5 to 3 percent, and its American shares fell around 6 percent. Chief financial officer Jayesh Sanghrajka warned that pricing pressure will continue into the second half, as clients demand more productivity from AI. Infosys declared an interim dividend of 26 rupees a share.\n\nNow to lenders. IndusInd Bank swung to a standalone profit of 1,176 crore rupees, from a loss of 445 crore a year ago, with gross bad loans down to 2.73 percent. Shriram Finance grew profit 59 percent to 3,677 crore rupees. And SBI Cards profit jumped 75 percent to 778 crore, as bad loan costs fell.\n\nIn metals, JSW Steel\u0027s profit jumped 225 percent to 5,279 crore rupees on record sales, though the stock fell about 3 percent. Jindal Steel\u0027s profit rose 21 percent to 771 crore, on record revenue of 19,448 crore rupees.\n\nIn energy, Adani Power\u0027s profit more than doubled to 6,919 crore rupees. BPCL\u0027s profit fell 21 percent to 4,863 crore, even as revenue rose 29 percent. The standalone refiners shone. Chennai Petroleum roughly tripled its profit to around 2,250 crore rupees, and MRPL\u0027s nearly tripled to 1,881 crore.\n\nTata Motors\u0027 commercial vehicle business posted a standalone profit of 2,138 crore rupees, with revenue up 42 percent. And Dr Reddy\u0027s profit fell 36 percent to 913 crore, on weakness in North America.",
+                         "stories":  [
+                                         {
+                                             "title":  "Infosys Q2 Results: Profit rises 6% YoY to Rs 7,823 crore; co lowers revenue guidance",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/infosys-q2-results-profit-rises-6-yoy-to-rs-7823-crore-co-lowers-revenue-guidance/articleshow/135143193.cms"
+                                         },
+                                         {
+                                             "title":  "Infosys revises FY27 revenue growth guidance between 1-2%; reduces both upper and lower end of the band",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/information-technology/infosys-revises-fy27-revenue-growth-guidance-between-1-2-reduces-both-upper-and-lower-end-of-the-band-14058648.html"
+                                         },
+                                         {
+                                             "title":  "Infosys flags intensifying pricing pressure as clients demand higher AI productivity",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/information-technology/infosys-flags-intensifying-pricing-pressure-as-clients-demand-higher-ai-productivity-14058800.html"
+                                         },
+                                         {
+                                             "title":  "Infosys Q2 results: IT major\u0027s ADR falls 6% after it lowers annual revenue growth guidance",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/infosys-q2-results-it-major-s-adr-falls-6-after-it-lowers-annual-revenue-growth-guidance-14058724.html"
+                                         },
+                                         {
+                                             "title":  "IndusInd Bank Q2 Results: Lender posts profit of Rs 1,176 crore vs Rs 445 crore loss a year ago",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/indusind-bank-q2-results-lender-posts-profit-of-rs-1176-crore-vs-rs-445-crore-loss-a-year-ago/articleshow/135142692.cms"
+                                         },
+                                         {
+                                             "title":  "Shriram Finance Q2 profit jumps 59% YoY to Rs 3,677 crore on strong interest income, lower funding costs",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/shriram-finance-q2-profit-jumps-59-yoy-to-rs-3677-crore-on-strong-interest-income-lower-funding-costs/articleshow/135150195.cms"
+                                         },
+                                         {
+                                             "title":  "SBI Cards Q2 profit jumps 75% YoY to Rs 778 crore as bad loan costs fall sharply",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-cards-q2-profit-jumps-75-yoy-to-rs-778-crore-as-bad-loan-costs-fall-sharply/articleshow/135147815.cms"
+                                         },
+                                         {
+                                             "title":  "JSW Steel Q2 Results: Net profit rockets 225% YoY to Rs 5,279 crore; revenue rises 21%",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-steel-q2-results-net-profit-rockets-225-yoy-to-rs-5279-crore-revenue-rises-21/articleshow/135141641.cms"
+                                         },
+                                         {
+                                             "title":  "Jindal Steel Q2 profit rises 21% as revenue hits record Rs 19,448 crore",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/jindal-steel-q2-profit-rises-21-as-revenue-hits-record-rs-19448-crore/articleshow/135149749.cms"
+                                         },
+                                         {
+                                             "title":  "Adani Power Q2 Results: Profit zooms 134% YoY to Rs 6,919 crore; revenue jumps 45%",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-power-q2-results-cons-profit-zooms-134-yoy-to-rs-6919-crore-revenue-jumps-45/articleshow/135141294.cms"
+                                         },
+                                         {
+                                             "title":  "BPCL Q2 Results: Net profit declines 21% YoY to Rs 4,863 crore, revenue grows 29%",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/bpcl-q2-results-net-profit-declines-21-yoy-to-rs-4863-crore-revenue-grows-29/articleshow/135149653.cms"
+                                         },
+                                         {
+                                             "title":  "Chennai Petroleum vs MRPL: Which PSU refinery stock wins on Q2 profit, revenue, dividends? Experts weigh in on outlook",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/chennai-petroleum-vs-mrpl-which-psu-refinery-stock-wins-on-q2-profit-revenue-dividends-experts-weigh-in-on-outlook-11792771887198.html"
+                                         },
+                                         {
+                                             "title":  "Tata Motors CV posts Rs 2,138 crore Q2 profit",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-motors-cv-posts-rs-2138-crore-q2-profit/articleshow/135154453.cms"
+                                         },
+                                         {
+                                             "title":  "Dr Reddy\u0027s Q2 Results: Net profit falls 36% YoY to Rs 913 crore, revenue declines marginally",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/dr-reddys-q2-results-net-profit-falls-36-yoy-to-rs-913-crore-revenue-declines-marginally/articleshow/135147475.cms"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Economy and policy",
+                         "script":  "The economy itself is holding up. The HSBC flash composite purchasing managers\u0027 index rose to 56.7 in October, a four-month high, led by services. Export orders grew at their fastest pace in six months, though hiring stalled. Business confidence rebounded too, with NCAER\u0027s index rising to 107.8 from 99.8.\n\nBut the strain from oil is showing. India\u0027s crude import bill jumped 46 percent to 90.6 billion dollars in April to September. Forex reserves fell about 5 billion dollars to 721 billion dollars in the week to the sixteenth of October, and Business Standard says they are down 65 billion dollars in six weeks. The rupee ended at 94.94 to the dollar, down 12 paise. Government bond yields have now risen for ten straight weeks, the worst losing streak in 30 years.\n\nRBI Governor Sanjay Malhotra said inflation is staying high while growth slows, and the RBI bulletin flagged inflation risks from the West Asia conflict and El Nino. At the same time, SBI Research says the RBI\u0027s 2.5 lakh crore rupee liquidity injection sends mixed signals while it is tightening policy. The governor also repeated that upper-layer non-bank lenders must list, which keeps the spotlight on Tata Sons.\n\nOn the brighter side, net foreign direct investment rose to 13.8 billion dollars in April to August, from 9.6 billion a year ago. And disinvestment secretary Arunish Chawla said the government will keep cutting its stake in public sector banks towards 75 percent.",
+                         "stories":  [
+                                         {
+                                             "title":  "India private sector growth hits four-month high in Oct: HSBC flash PMI",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/india-flash-pmi-october-private-sector-growth-hsbc-services-manufacturing-126102300397_1.html"
+                                         },
+                                         {
+                                             "title":  "Business confidence rebounds in Q2 after four quarters of moderation: NCAER",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/business-confidence-rebounds-in-q2-after-four-quarters-of-moderation-ncaer-14058666.html"
+                                         },
+                                         {
+                                             "title":  "India\u0027s crude import bill surges 46% to $90.6 billion in April-September on elevated oil prices",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/india-s-crude-import-bill-surges-46-to-90-6-billion-in-april-september-on-elevated-oil-prices-14056582.html"
+                                         },
+                                         {
+                                             "title":  "India\u0027s forex reserves decline $5 bn to $721 bn",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/india-s-forex-reserves-decline-5-bn-to-721-bn-14058758.html"
+                                         },
+                                         {
+                                             "title":  "Govt bonds log worst losing streak in 30 years as crude, US yields rise",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/govt-bonds-log-worst-losing-streak-in-30-years-as-crude-us-yields-rise-126102301399_1.html"
+                                         },
+                                         {
+                                             "title":  "Taking Stock: Markets recover from day\u0027s lows, but sell-off extends to 4th day; Nifty at 22,600",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/taking-stock-markets-recover-from-day-s-lows-but-sell-off-extends-to-4th-day-nifty-at-22-600-14058497.html"
+                                         },
+                                         {
+                                             "title":  "Inflation stays high, growth slows, central bankers face a bigger challenge, says RBI Guv Malhotra",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/policy/inflation-stays-high-growth-slows-central-bankers-face-a-bigger-challenge-says-rbi-guv-malhotra/articleshow/135147071.cms"
+                                         },
+                                         {
+                                             "title":  "RBI flags rising inflation risks from West Asia conflict, El Nino despite resilient Indian economy",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/indicators/rbi-flags-rising-inflation-risks-from-west-asia-conflict-el-nino-despite-resilient-indian-economy/articleshow/135149993.cms"
+                                         },
+                                         {
+                                             "title":  "RBI\u0027s Rs 2.5 trillion liquidity infusion sends mixed signals: SBI Research",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/rbi-s-2-5-trillion-liquidity-infusion-sends-mixed-signals-sbi-research-126102300929_1.html"
+                                         },
+                                         {
+                                             "title":  "Upper-layer NBFCs must list on stock exchanges: RBI Guv Sanjay Malhotra",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/industry/banking/upper-layer-cics-must-list-on-exchanges-says-rbi-governor-sanjay-malhotra-126102301588_1.html"
+                                         },
+                                         {
+                                             "title":  "India\u0027s net FDI inflows rise to $13.8 billion in April-August FY27: RBI",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/india-s-net-fdi-inflows-rise-to-13-8-billion-in-april-august-fy27-rbi-126102301599_1.html"
+                                         },
+                                         {
+                                             "title":  "Target reached, but asset monetisation to continue: DIPAM secretary Arunish Chawla",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/policy/target-reached-but-asset-monetisation-to-continue-dipam-secretary-arunish-chawla/articleshow/135153825.cms"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Around the world",
+                         "script":  "Oil is the story globally too. Brent is above 114 dollars a barrel. Mohammed Imran of Mirae Asset Sharekhan links the latest jump to a deadly drone strike on Saudi Aramco\u0027s Shaybah field. He notes crude is up about 85 percent this year, and says Brent may hit 120 dollars.\n\nHigher oil and rising US bond yields have hit precious metals. Mint reports silver is down about 56,000 rupees a kilo from its August peak, and gold is down around 23,000 rupees per ten grams.\n\nOn energy diplomacy, US Secretary of State Marco Rubio has called India a refining superpower, as Washington looks to Indian refineries to process Venezuelan crude. Refiners, though, tell Business Standard that American barrels stay costly because of record freight rates. Next week brings the US Federal Reserve\u0027s rate decision, and the US midterm elections follow on the third of November.",
+                         "stories":  [
+                                         {
+                                             "title":  "Crude oil up 85% in 2026 poses threat to global economy; Brent may hit $120",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/crude-oil-up-85-in-2026-poses-threat-to-global-economy-brent-may-hit-120-126102300498_1.html"
+                                         },
+                                         {
+                                             "title":  "Silver crashes Rs 56000/kg from August peak; gold slides 23000/10 grams. What\u0027s driving the selloff in precious metals",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/silver-crashes-rs-56000-kg-from-august-peak-gold-slides-23000-10-grams-what-s-driving-the-selloff-in-precious-metals-11792763090890.html"
+                                         },
+                                         {
+                                             "title":  "Why did Marco Rubio call India a refining superpower?",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/why-did-marco-rubio-call-india-a-refining-superpower-14056851.html"
+                                         },
+                                         {
+                                             "title":  "US crude stays costly for India despite Rubio push; Venezuela offers value",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/india-us-venezuela-crude-oil-imports-rubio-refiners-freight-126102300221_1.html"
+                                         },
+                                         {
+                                             "title":  "Business in the Week Ahead: October 26-30, 2026",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/ipo/business-in-the-week-ahead-october-26-30-2026-14058510.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Stories you\u0027re following",
+                         "script":  "An update on the Jio IPO you\u0027re following. Bidding closed on Friday at just over 22 times, with a string of records, and the story\u0027s timeline now includes it. Share allotment is expected on Monday, and the stock is due to list on Wednesday, the twenty-eighth.",
+                         "stories":  [
+                                         {
+                                             "title":  "Reliance Jio IPO overall subscription status, GMP: Day 1, 2, 3 details; allotment, listing date, share price prediction",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-overall-subscription-status-gmp-day-1-2-3-details-allotment-listing-date-share-price-prediction-11792766738298.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Your money",
+                         "script":  "First, an investor warning. The market regulator, the Securities and Exchange Board of India, has ordered Avadhut Sathe Trading Academy and its founder to refund about 546 crore rupees, plus about 68 crore rupees of interest. The money was collected for unregistered investment advice and stock recommendations, given through paid courses and WhatsApp groups. The regulator also levied penalties of 11.5 crore rupees and barred them from the market for two years.\n\nOn tax, the new Form 141 under the Income-tax Act of 2025 replaces four TDS forms. From this tax year, it covers TDS on property purchases, rent, payments to contractors and professionals, and transfers of virtual digital assets.\n\nIf a UPI payment fails but the money leaves your account, RBI rules require the bank to refund it within a set time, and to pay 100 rupees a day as compensation for any delay.\n\nFor Yes Bank\u0027s AT1 bondholders, the Supreme Court has overturned the 2020 write-off, but Mint reports the bank is unlikely to pay this year\u0027s coupons and may seek a review. And with Dhanteras near, remember that a BIS hallmark certifies the purity of the gold, not the diamonds or stones set in it. Bank branches are closed today, the fourth Saturday.\n\nThat\u0027s the brief. Markets are shut for the weekend, so here is what to watch next week. Jio share allotment on Monday and its listing on Wednesday. The EAAA India Alternatives IPO opening on Monday. The monthly derivatives expiry, with the Nifty sitting near key support levels. And above all, crude oil and the US Federal Reserve. Have a restful weekend, and I\u0027ll be back with you tomorrow.",
+                         "stories":  [
+                                         {
+                                             "title":  "Sebi orders Avadhut Sathe Trading Academy and its founder to refund Rs 546 cr",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/sebi-orders-avadhut-sathe-trading-academy-and-its-founder-to-refund-546-cr-126102301645_1.html"
+                                         },
+                                         {
+                                             "title":  "New Form 141 replaces 4 TDS forms for property buyers, rent payments and VDAs: What changed under Income Tax Act 2025",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/new-form-141-replaces-4-tds-forms-for-property-buyers-rent-payments-and-vdas-what-changed-under-income-tax-act-2025-11792757477202.html"
+                                         },
+                                         {
+                                             "title":  "UPI payment failed but money debited? Banks must refund and pay Rs 100 per day compensation under RBI rules",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/upi-payment-failed-but-money-debited-banks-must-refund-and-pay-rs-100-per-day-compensation-under-rbi-rules-11792774013883.html"
+                                         },
+                                         {
+                                             "title":  "Yes Bank AT1 bonds: Supreme Court overturns write-off, but will investors get coupon payments? What\u0027s the entire matter",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/yes-bank-at1-bonds-supreme-court-overturns-write-off-but-will-investors-get-coupon-payments-11792752412594.html"
+                                         },
+                                         {
+                                             "title":  "Dhanteras shopping: A complete guide to buying gold, diamond jewellery safely",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/dhanteras-shopping-a-complete-guide-to-buying-gold-diamond-jewellery-safely-11792760231439.html"
+                                         },
+                                         {
+                                             "title":  "Bank holiday today: Are SBI, HDFC, ICICI, PNB branches closed on 24 October for fourth Saturday? Check RBI calendar",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/bank-holiday-today-sbi-hdfc-icici-pnb-axis-yes-branches-closed-24-october-fourth-saturday-india-check-rbi-calendar-list-11792802825167.html"
+                                         }
+                                     ]
+                     }
+                 ]
+}
