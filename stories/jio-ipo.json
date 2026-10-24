@@ -2,10 +2,10 @@
   "slug": "jio-ipo",
   "title": "The Jio IPO",
   "started": "2019-08-12",
-  "updatedAt": "2026-10-23T08:55:00+05:30",
+  "updatedAt": "2026-10-24T09:05:00+05:30",
   "status": "active",
-  "summary": "Mukesh Ambani first promised a Jio listing in 2019. In 2020, Facebook, Google and other global investors bought big stakes in Jio Platforms. The listing then slipped year after year, most recently when war in West Asia unsettled markets in 2026.\n\nThe draft prospectus went to the market regulator on 19 June 2026, and the regulator cleared it on 28 August. The issue is made up only of new shares, and most of the money will repay debt at Reliance Jio Infocomm. At a price band of 1,065 to 1,119 rupees a share, it is a record offer of about 30,200 crore rupees. Anchor investors put in about 8,110 crore rupees on 19 October. The offer opened on 21 October, was fully subscribed in about 100 minutes, and ended day two booked 5.57 times. Big institutions led with 13.29 times their quota, retail investors filled theirs, and Moneycontrol put total demand at about 3.73 lakh crore rupees.",
-  "watch": "Bidding closes on Friday, 23 October. Watch the final subscription numbers, especially for the quota of 2,500 crore rupees set aside for Reliance shareholders. Grey market prices have pointed to listing gains, though they are unofficial. Share allotment is expected on 26 October, and listing on 28 October.",
+  "summary": "Mukesh Ambani first promised a Jio listing in 2019. In 2020, Facebook, Google and other global investors bought big stakes in Jio Platforms. The listing then slipped year after year, most recently when war in West Asia unsettled markets in 2026.\n\nThe draft prospectus went to the market regulator on 19 June 2026, and the regulator cleared it on 28 August. The issue is made up only of new shares, and most of the money will repay debt at Reliance Jio Infocomm. At a price band of 1,065 to 1,119 rupees a share, it is a record offer of about 30,200 crore rupees. Anchor investors put in about 8,110 crore rupees on 19 October. The offer opened on 21 October and was fully subscribed in about 100 minutes. It closed on 23 October booked 22.19 times, with big institutions at about 70.6 times their quota and retail investors at about 2.7 times. Mint put total bids at about 4.72 lakh crore rupees, and Moneycontrol said it was the first IPO anywhere with more than one crore applications.",
+  "watch": "Share allotment is expected on Monday, 26 October, and the stock is due to list on Wednesday, 28 October. Watch the listing price against the top of the band, 1,119 rupees, and how it trades in a market that fell for four sessions in a row last week.",
   "timeline": [
     {
       "date": "2019-08-12",
@@ -153,6 +153,17 @@
         { "title": "Reliance Jio IPO subscription status day 1, day 2: Check QIB, NII, Retail, Employee, RIL Shareholders wise data details", "source": "Livemint", "link": "https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-subscription-status-day-1-day-2-check-qib-nii-retail-employee-ril-shareholders-wise-data-details-11792681049708.html" },
         { "title": "Jio IPO draws Rs 3.73 lakh crore in total demand as overall subscription crosses 5.5x", "source": "Moneycontrol", "link": "https://www.moneycontrol.com/news/business/markets/jio-ipo-draws-rs-3-58-lakh-crore-in-total-demand-as-overall-subscription-reaches-nearly-5x-14057771.html" },
         { "title": "Jio Platforms IPO: Retail quota full, subscribed 3.47 times on day two", "source": "Business Standard", "link": "https://www.business-standard.com/markets/ipo/retail-investors-fully-subscribe-ambani-s-jio-ipo-on-second-day-126102200394_1.html" }
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "title": "Bidding closes at 22 times, a string of records",
+      "text": "The offer closed on Friday subscribed 22.19 times. Big institutions bid for about 70.6 times their quota, and retail investors for about 2.7 times theirs. Mint put total bids at about 4.72 lakh crore rupees, and Moneycontrol said it was the first IPO anywhere to draw more than one crore applications. At about 30,200 crore rupees, it overtakes Hyundai Motor India as the country's biggest offer.",
+      "sources": [
+        { "title": "Jio Platforms IPO rides institutional demand to 22.19 times subscription", "source": "Business Standard", "link": "https://www.business-standard.com/markets/news/jio-platforms-ipo-rides-institutional-demand-to-22-19-times-subscription-126102301595_1.html" },
+        { "title": "Mother of all IPOs! Jio Platforms shatters many existing records - Full list here", "source": "Livemint", "link": "https://www.livemint.com/market/stock-market-news/mother-of-all-ipos-jio-platforms-shatters-many-existing-records-full-list-here-11792775064634.html" },
+        { "title": "Jio IPO sets record with many firsts for an Indian IPO: Here are 7 key milestones", "source": "Moneycontrol", "link": "https://www.moneycontrol.com/news/business/ipo/jio-ipo-sets-record-with-many-firsts-for-an-indian-ipo-here-are-6-key-milestones-14058721.html" },
+        { "title": "IPO Subscription status comparison: Reliance Jio IPO vs Hyundai IPO vs NSE IPO - Who won the race?", "source": "Livemint", "link": "https://www.livemint.com/market/stock-market-news/ipo-subscription-status-comparison-reliance-jio-ipo-vs-hyundai-ipo-vs-nse-ipo-who-won-the-race-11792769886858.html" }
       ]
     }
   ]
