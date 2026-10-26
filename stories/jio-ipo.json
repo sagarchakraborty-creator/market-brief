@@ -1,170 +1,357 @@
 {
-  "slug": "jio-ipo",
-  "title": "The Jio IPO",
-  "started": "2019-08-12",
-  "updatedAt": "2026-10-24T09:05:00+05:30",
-  "status": "active",
-  "summary": "Mukesh Ambani first promised a Jio listing in 2019. In 2020, Facebook, Google and other global investors bought big stakes in Jio Platforms. The listing then slipped year after year, most recently when war in West Asia unsettled markets in 2026.\n\nThe draft prospectus went to the market regulator on 19 June 2026, and the regulator cleared it on 28 August. The issue is made up only of new shares, and most of the money will repay debt at Reliance Jio Infocomm. At a price band of 1,065 to 1,119 rupees a share, it is a record offer of about 30,200 crore rupees. Anchor investors put in about 8,110 crore rupees on 19 October. The offer opened on 21 October and was fully subscribed in about 100 minutes. It closed on 23 October booked 22.19 times, with big institutions at about 70.6 times their quota and retail investors at about 2.7 times. Mint put total bids at about 4.72 lakh crore rupees, and Moneycontrol said it was the first IPO anywhere with more than one crore applications.",
-  "watch": "Share allotment is expected on Monday, 26 October, and the stock is due to list on Wednesday, 28 October. Watch the listing price against the top of the band, 1,119 rupees, and how it trades in a market that fell for four sessions in a row last week.",
-  "timeline": [
-    {
-      "date": "2019-08-12",
-      "title": "Ambani first promises a Jio listing",
-      "text": "At the Reliance annual general meeting, Mukesh Ambani said Jio and Reliance Retail would move towards a stock market listing. He gave a time frame of within the next five years. This is where the Jio IPO story begins.",
-      "sources": [
-        { "title": "RIL 42nd AGM live updates: Mukesh Ambani launches Jio GigaFiber, Jio Phone 3", "source": "Business Standard", "link": "https://www.business-standard.com/amp/article/markets/ril-42nd-agm-live-updates-mukesh-ambani-launch-jio-gigafiber-jio-phone-3-today-119081200154_1.html" }
-      ]
-    },
-    {
-      "date": "2020-04-22",
-      "title": "Facebook buys nearly 10 percent of Jio",
-      "text": "Facebook agreed to invest 43,574 crore rupees in Jio Platforms. That bought it a stake of 9.99 percent. The deal valued Jio Platforms at about 4.62 lakh crore rupees, and it set off a wave of global investment into the company.",
-      "sources": [
-        { "title": "Facebook Buys 9.99% Stake in Reliance Jio for Rs 43,574 Crore", "source": "The Quint", "link": "https://www.thequint.com/amp/story/tech-and-auto/tech-news/facebook-buys-9-point-9-percent-stake-in-reliance-jio-for-rs-43574-crore" },
-        { "title": "Facebook Buys 9.99% Stake in Jio Platforms for Rs43,574 crore", "source": "Moneylife", "link": "https://www.moneylife.in/article/facebook-buys-999-percentage-stake-in-jio-platforms-for-rs43574-crore/60096.html" }
-      ]
-    },
-    {
-      "date": "2020-07-15",
-      "title": "Google takes a 7.73 percent stake",
-      "text": "At the next annual general meeting, Ambani announced that Google would invest 33,737 crore rupees in Jio Platforms. Google would get a stake of 7.73 percent. Bloomberg later noted that a listing would give big global investors like these a way to exit.",
-      "sources": [
-        { "title": "Google to buy 7.73% stake in Jio Platforms", "source": "Business Standard", "link": "https://www.business-standard.com/article/news-cm/google-to-buy-7-73-stake-in-jio-platforms-120071500756_1.html" },
-        { "title": "Google To Invest Rs 33,737 Crore For A 7.7% Stake In Jio Platforms", "source": "BloombergQuint", "link": "https://www.bloombergquint.com/business/google-picks-up-77-stake-in-jio-platforms-for-rs-33737-crore" }
-      ]
-    },
-    {
-      "date": "2025-07-09",
-      "title": "Reuters: no Jio IPO in 2025",
-      "text": "Reuters reported that Jio would not list in 2025, citing people familiar with the matter. The sources said Jio first wanted more revenue and more subscribers. Analysts already valued the company at more than 100 billion dollars.",
-      "sources": [
-        { "title": "Exclusive-Ambani's Reliance Jio delays India IPO beyond this year, sources say", "source": "Reuters via Yahoo Finance", "link": "https://finance.yahoo.com/news/exclusive-ambanis-reliance-jio-delays-084925039.html" }
-      ]
-    },
-    {
-      "date": "2025-08-29",
-      "title": "Ambani targets a listing by mid 2026",
-      "text": "At the Reliance annual general meeting, Ambani said Jio aimed to list in the first half of 2026. He said Jio was making all arrangements to file for its IPO. He did not say how big a stake would be sold.",
-      "sources": [
-        { "title": "Ambani Targets Reliance Jio's IPO by June Ending Years of Wait", "source": "Bloomberg", "link": "https://news.bloomberglaw.com/capital-markets/mukesh-ambani-seeks-to-take-reliance-jio-public-by-june-2026" },
-        { "title": "Reliance Jio eyes IPO in first half of 2026: Chairman Mukesh Ambani", "source": "Storyboard18", "link": "https://www.storyboard18.com/how-it-works/reliance-jio-eyes-ipo-in-first-half-of-2026-chairman-mukesh-ambani-79861.htm" }
-      ]
-    },
-    {
-      "date": "2026-01-09",
-      "title": "Jio weighs selling a 2.5 percent stake",
-      "text": "Reuters reported that Jio was considering floating about 2.5 percent of the company. That depended on a proposed rule change that would let very large companies sell a smaller slice. The offer could be worth more than 4 billion dollars, and the brokerage Jefferies had valued Jio at about 180 billion dollars.",
-      "sources": [
-        { "title": "Ambani's Reliance Jio considers 2.5% public offering in 2026 India IPO, sources say", "source": "Reuters via MarketScreener", "link": "https://www.marketscreener.com/news/ambani-s-reliance-jio-considers-2-5-public-offering-in-2026-india-ipo-sources-say-ce7e59d2d088f324" }
-      ]
-    },
-    {
-      "date": "2026-04-29",
-      "title": "War in West Asia clouds the timeline",
-      "text": "A report from the research firm CreditSights said the Jio listing could slip to the second half of the financial year, between October 2026 and March 2027. The reason was rising tension in West Asia. That meant the target of the first half of 2026 was likely to be missed.",
-      "sources": [
-        { "title": "Jio IPO may slip to second half of FY27 on geopolitical risks: Report", "source": "Business Standard", "link": "https://www.business-standard.com/companies/news/jio-ipo-may-slip-to-second-half-of-fy27-on-geopolitical-risks-report-126042900568_1.html" },
-        { "title": "Reliance JIO IPO Timeline Likely Pushed to H2 FY27 Amid Geopolitical Tensions: Report", "source": "Angel One", "link": "https://www.angelone.in/news/ipos/reliance-jio-ipo-timeline-likely-pushed-to-h2-fy27-amid-geopolitical-tensions-report" }
-      ]
-    },
-    {
-      "date": "2026-05-21",
-      "title": "Jio switches to an all new share issue",
-      "text": "Bloomberg reported that Jio had slowed its preparations as markets fell about 9 percent below pre war levels. Jio dropped the plan to let existing shareholders sell their stakes. Instead, the IPO would only issue new shares.",
-      "sources": [
-        { "title": "$4 billion Jio IPO hits roadblocks on impact of West Asia conflict", "source": "Business Standard", "link": "https://www.business-standard.com/amp/markets/ipo/4-billion-jio-ipo-hits-roadblocks-on-impact-of-west-asia-conflict-126052101918_1.html" },
-        { "title": "War-Induced Uncertainty May Again Delay Jio's $4 Billion Public Listing", "source": "Free Press Journal", "link": "https://www.freepressjournal.in/business/war-induced-uncertainty-may-again-delay-jios-4-billion-public-listing" }
-      ]
-    },
-    {
-      "date": "2026-06-19",
-      "title": "Draft prospectus filed at the annual meeting",
-      "text": "At the Reliance annual general meeting, Ambani said the Jio board had approved the draft red herring prospectus. It was filed with the market regulator, the Securities and Exchange Board of India, the same day. The plan was a fresh issue of up to 27 crore shares.",
-      "sources": [
-        { "title": "Reliance arm Jio Platforms approves DRHP for proposed IPO", "source": "Business Standard", "link": "https://www.business-standard.com/markets/capital-market-news/reliance-arm-jio-platforms-approves-drhp-for-proposed-ipo-126061900758_1.html" },
-        { "title": "Reliance Jio IPO To Open On Oct 21, Files RHP", "source": "Outlook Business", "link": "https://www.outlookbusiness.com/corporate/reliance-jio-ipo-to-open-on-oct-21-files-rhp" }
-      ]
-    },
-    {
-      "date": "2026-08-28",
-      "title": "Market regulator clears the IPO",
-      "text": "The market regulator issued its observation letter on the draft prospectus, which clears the way for the offer. Early estimates put the issue at around 37,700 crore rupees. The draft prospectus said about 27,500 crore rupees would repay borrowings of Reliance Jio Infocomm.",
-      "sources": [
-        { "title": "RIL says Jio Platforms receives SEBI observation letter for proposed IPO", "source": "Business Standard", "link": "https://www.business-standard.com/markets/capital-market-news/ril-says-jio-platforms-receives-sebi-observation-letter-for-proposed-ipo-126082900085_1.html" },
-        { "title": "Jio Platforms Gets SEBI Approval For ₹37,700 Crore IPO", "source": "Kotak Neo", "link": "https://www.kotakneo.com/news/ipos/jio-platforms-ipo-sebi-approval-rs-37700-crore/" }
-      ]
-    },
-    {
-      "date": "2026-10-03",
-      "title": "Reports point to an October 21 opening",
-      "text": "Citing Moneycontrol, reports said the offer would likely open on 21 October and list on 28 October. Most of the money would go to repay about 27,500 crore rupees of Reliance Jio Infocomm debt. Pricing and valuation were still not decided.",
-      "sources": [
-        { "title": "Jio Platforms IPO Likely To Open October 21; ₹27,500 Crore Debt Repayment Planned", "source": "Free Press Journal", "link": "https://www.freepressjournal.in/business/jio-platforms-ipo-likely-to-open-october-21-27500-crore-debt-repayment-planned" }
-      ]
-    },
-    {
-      "date": "2026-10-14",
-      "title": "Price band set for a record offer",
-      "text": "Jio filed its final prospectus and set a price band of 1,065 to 1,119 rupees a share. At the top of the band, the offer raises about 30,200 crore rupees, the largest IPO in India. Up to 2,500 crore rupees is set aside for Reliance shareholders, and up to 500 crore rupees for employees. Reuters said the top price values Jio at around 10.3 lakh crore rupees.",
-      "sources": [
-        { "title": "Jio Platforms sets IPO price band at Rs 1,065-1,119, targets to raise record Rs 30,213 cr", "source": "ThePrint", "link": "https://theprint.in/economy/jio-platforms-sets-ipo-price-band-at-rs-1065-1119-targets-to-raise-record-rs-30213-cr/3071966/" },
-        { "title": "Reliance Jio IPO To Open On Oct 21, Files RHP", "source": "Outlook Business", "link": "https://www.outlookbusiness.com/corporate/reliance-jio-ipo-to-open-on-oct-21-files-rhp" }
-      ]
-    },
-    {
-      "date": "2026-10-19",
-      "title": "Anchor investors put in 8,110 crore rupees",
-      "text": "Jio raised about 8,110 crore rupees from 212 anchor investors, all at the top price of 1,119 rupees. Bids reportedly topped 2.5 lakh crore rupees, around 30 times the shares on offer. Investors included Singapore's government, the Abu Dhabi Investment Authority and Norway's sovereign fund, while Life Insurance Corporation got about 500 crore rupees of shares.",
-      "sources": [
-        { "title": "Jio Platforms raises Rs 8,110 crore from over 200 anchor investors; draws Rs 2.5 lakh cr demand", "source": "Business Today", "link": "https://www.businesstoday.in/markets/ipo-corner/story/jio-platforms-raises-rs-8110-crore-from-over-200-anchor-investors-draws-rs-2-5-lakh-cr-demand-562601-2026-10-20" },
-        { "title": "Jio Platforms' anchor book draws record ₹2.5 trillion in bids ahead of IPO", "source": "Business Standard", "link": "https://www.business-standard.com/companies/news/jio-platforms-ipo-anchor-investor-quota-nearly-30-times-oversubscribed-126101900538_1.html" }
-      ]
-    },
-    {
-      "date": "2026-10-20",
-      "title": "Brokerages weigh in on the eve of the IPO",
-      "text": "On the eve of the offer, Mint reported that the brokerage Motilal Oswal rated the issue subscribe, both for listing gains and for the long term. It pointed to Jio's market leadership and growth in broadband and enterprise services. Allotment is expected on 26 October, with listing on 28 October.",
-      "sources": [
-        { "title": "Reliance Jio IPO review: Apply or not? Bid now or buy shares post NSE, BSE debut? Check GMP, listing price prediction", "source": "Mint via TradingView", "link": "https://www.tradingview.com/news/moodys:a3e0821ba3cfd:0-reliance-jio-ipo-review-apply-or-not-bid-now-or-buy-shares-post-nse-bse-debut-check-gmp-listing-price-prediction/" },
-        { "title": "Jio Platforms IPO Date, Price, GMP, Review, Details", "source": "Chittorgarh", "link": "https://www.chittorgarh.com/ipo/jio-platforms-ipo/3152/" },
-        { "title": "Jio IPO has lenders, brokerages pushing retail participation with loans, marketing reach out", "source": "Livemint", "link": "https://www.livemint.com/market/india-jio-ipo-lenders-brokerages-push-retail-participation-with-loans-marketing-11792473742375.html" },
-        { "title": "Big-ticket IPOs have struggled to deliver bumper listing gains. Can Mukesh Ambani backed Reliance Jio buck the trend?", "source": "Livemint", "link": "https://www.livemint.com/market/stock-market-news/bigticket-ipos-have-struggled-to-deliver-bumper-listing-gains-can-mukesh-ambani-backed-reliance-jio-buck-the-trend-11792505293980.html" }
-      ]
-    },
-    {
-      "date": "2026-10-21",
-      "title": "The offer opens to the public",
-      "text": "The Jio Platforms offer opened for subscription, aiming to raise about 30,213 crore rupees through a fresh issue of 27 crore shares. It was fully subscribed within about 100 minutes, the fastest of India's mega issues, and ended day one booked 3.16 times. Big institutions bid for 9.42 times their quota, but retail investors took only 0.73 times theirs. The Economic Times put day one bids at about 70,000 crore rupees, ahead of the LIC and NSE issues.",
-      "sources": [
-        { "title": "Jio Platforms IPO fully subscribed in 100 mins; booked 3.16x on Day 1", "source": "Business Standard", "link": "https://www.business-standard.com/markets/ipo/jio-platforms-ipo-subscription-qib-retail-anchor-investor-126102100328_1.html" },
-        { "title": "Jio IPO attracts Rs 70,000 crore in bids on day 1, outpaces LIC, NSE issues", "source": "Economic Times", "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-bids-hit-70000-crore-on-day-1-outpaces-nse-lic-gic-issues/articleshow/135103495.cms" },
-        { "title": "Jio Platforms IPO draws Rs 3.2 lakh crore in total demand, sets mega-issue record", "source": "Moneycontrol", "link": "https://www.moneycontrol.com/news/business/markets/jio-platforms-ipo-draws-rs-3-2-lakh-crore-in-total-demand-sets-mega-issue-record-14056865.html" },
-        { "title": "IPO GMP race: Reliance Jio Platforms IPO vs Paras Healthcare IPO - Check grey market winner", "source": "Livemint", "link": "https://www.livemint.com/market/stock-market-news/ipo-gmp-race-reliance-jio-platforms-ipo-vs-paras-healthcare-ipo-check-grey-market-winner-11792598142454.html" },
-        { "title": "Reliance Jio IPO: Massive ₹30,213 cr issue opens for subscription today | Latest GMP, review, listing price prediction", "source": "Livemint", "link": "https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-massive-30-213-cr-issue-opens-for-subscription-today-latest-gmp-review-listing-price-prediction-11792548066016.html" },
-        { "title": "Jio entering public markets to build sustainable business and create immense value: Akash Ambani to Moneycontrol", "source": "Moneycontrol", "link": "https://www.moneycontrol.com/news/business/markets/jio-entering-public-markets-to-build-sustainable-business-and-create-immense-value-akash-ambani-to-moneycontrol-14056094.html" }
-      ]
-    },
-    {
-      "date": "2026-10-22",
-      "title": "Retail quota filled on day two",
-      "text": "On day two, the offer was subscribed 5.57 times, up from 3.16 times on day one. Big institutions bid for 13.29 times their quota, non-institutional investors for 5.97 times and retail investors for 1.54 times, so the retail portion was filled. Moneycontrol put total demand at about 3.73 lakh crore rupees, with about 2.5 lakh crore rupees of it from institutions.",
-      "sources": [
-        { "title": "Jio Platforms IPO subscribed 5.57x on day 2; QIBs led with 13.29x bids", "source": "Business Standard", "link": "https://www.business-standard.com/markets/news/jio-platforms-ipo-subscribed-5-57x-on-day-2-qibs-led-with-13-29x-bids-126102201448_1.html" },
-        { "title": "Reliance Jio IPO subscription status day 1, day 2: Check QIB, NII, Retail, Employee, RIL Shareholders wise data details", "source": "Livemint", "link": "https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-subscription-status-day-1-day-2-check-qib-nii-retail-employee-ril-shareholders-wise-data-details-11792681049708.html" },
-        { "title": "Jio IPO draws Rs 3.73 lakh crore in total demand as overall subscription crosses 5.5x", "source": "Moneycontrol", "link": "https://www.moneycontrol.com/news/business/markets/jio-ipo-draws-rs-3-58-lakh-crore-in-total-demand-as-overall-subscription-reaches-nearly-5x-14057771.html" },
-        { "title": "Jio Platforms IPO: Retail quota full, subscribed 3.47 times on day two", "source": "Business Standard", "link": "https://www.business-standard.com/markets/ipo/retail-investors-fully-subscribe-ambani-s-jio-ipo-on-second-day-126102200394_1.html" }
-      ]
-    },
-    {
-      "date": "2026-10-23",
-      "title": "Bidding closes at 22 times, a string of records",
-      "text": "The offer closed on Friday subscribed 22.19 times. Big institutions bid for about 70.6 times their quota, and retail investors for about 2.7 times theirs. Mint put total bids at about 4.72 lakh crore rupees, and Moneycontrol said it was the first IPO anywhere to draw more than one crore applications. At about 30,200 crore rupees, it overtakes Hyundai Motor India as the country's biggest offer.",
-      "sources": [
-        { "title": "Jio Platforms IPO rides institutional demand to 22.19 times subscription", "source": "Business Standard", "link": "https://www.business-standard.com/markets/news/jio-platforms-ipo-rides-institutional-demand-to-22-19-times-subscription-126102301595_1.html" },
-        { "title": "Mother of all IPOs! Jio Platforms shatters many existing records - Full list here", "source": "Livemint", "link": "https://www.livemint.com/market/stock-market-news/mother-of-all-ipos-jio-platforms-shatters-many-existing-records-full-list-here-11792775064634.html" },
-        { "title": "Jio IPO sets record with many firsts for an Indian IPO: Here are 7 key milestones", "source": "Moneycontrol", "link": "https://www.moneycontrol.com/news/business/ipo/jio-ipo-sets-record-with-many-firsts-for-an-indian-ipo-here-are-6-key-milestones-14058721.html" },
-        { "title": "IPO Subscription status comparison: Reliance Jio IPO vs Hyundai IPO vs NSE IPO - Who won the race?", "source": "Livemint", "link": "https://www.livemint.com/market/stock-market-news/ipo-subscription-status-comparison-reliance-jio-ipo-vs-hyundai-ipo-vs-nse-ipo-who-won-the-race-11792769886858.html" }
-      ]
-    }
-  ]
+    "slug":  "jio-ipo",
+    "title":  "The Jio IPO",
+    "started":  "2019-08-12",
+    "updatedAt":  "2026-10-26T08:55:00+05:30",
+    "status":  "active",
+    "summary":  "Mukesh Ambani first promised a Jio listing in 2019. In 2020, Facebook, Google and other global investors bought big stakes in Jio Platforms. The listing then slipped year after year, most recently when war in West Asia unsettled markets in 2026.\n\nThe draft prospectus went to the market regulator on 19 June 2026, and the regulator cleared it on 28 August. The issue is made up only of new shares, and most of the money will repay debt at Reliance Jio Infocomm. At a price band of 1,065 to 1,119 rupees a share, it is a record offer of about 30,200 crore rupees. Anchor investors put in about 8,110 crore rupees on 19 October. The offer opened on 21 October and was fully subscribed in about 100 minutes. It closed on 23 October booked 22.19 times, with big institutions at about 70.6 times their quota and retail investors at about 2.7 times. Mint put total bids at about 4.72 lakh crore rupees, and Moneycontrol said it was the first IPO anywhere with more than one crore applications. Over the weekend, Mint reported a grey market premium of about 250 rupees a share, which would point to a listing price of about 1,369 rupees.",
+    "watch":  "Share allotment is due on Monday, 26 October, through KFin Technologies, and the stock is due to list on Wednesday, 28 October, at 10 in the morning. Watch the listing price against the top of the band, 1,119 rupees, and against the grey market\u0027s hint of about 1,369 rupees, in a market that fell for four sessions in a row last week and faces a US Federal Reserve decision the same day.",
+    "timeline":  [
+                     {
+                         "date":  "2019-08-12",
+                         "title":  "Ambani first promises a Jio listing",
+                         "text":  "At the Reliance annual general meeting, Mukesh Ambani said Jio and Reliance Retail would move towards a stock market listing. He gave a time frame of within the next five years. This is where the Jio IPO story begins.",
+                         "sources":  [
+                                         {
+                                             "title":  "RIL 42nd AGM live updates: Mukesh Ambani launches Jio GigaFiber, Jio Phone 3",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/amp/article/markets/ril-42nd-agm-live-updates-mukesh-ambani-launch-jio-gigafiber-jio-phone-3-today-119081200154_1.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "date":  "2020-04-22",
+                         "title":  "Facebook buys nearly 10 percent of Jio",
+                         "text":  "Facebook agreed to invest 43,574 crore rupees in Jio Platforms. That bought it a stake of 9.99 percent. The deal valued Jio Platforms at about 4.62 lakh crore rupees, and it set off a wave of global investment into the company.",
+                         "sources":  [
+                                         {
+                                             "title":  "Facebook Buys 9.99% Stake in Reliance Jio for Rs 43,574 Crore",
+                                             "source":  "The Quint",
+                                             "link":  "https://www.thequint.com/amp/story/tech-and-auto/tech-news/facebook-buys-9-point-9-percent-stake-in-reliance-jio-for-rs-43574-crore"
+                                         },
+                                         {
+                                             "title":  "Facebook Buys 9.99% Stake in Jio Platforms for Rs43,574 crore",
+                                             "source":  "Moneylife",
+                                             "link":  "https://www.moneylife.in/article/facebook-buys-999-percentage-stake-in-jio-platforms-for-rs43574-crore/60096.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "date":  "2020-07-15",
+                         "title":  "Google takes a 7.73 percent stake",
+                         "text":  "At the next annual general meeting, Ambani announced that Google would invest 33,737 crore rupees in Jio Platforms. Google would get a stake of 7.73 percent. Bloomberg later noted that a listing would give big global investors like these a way to exit.",
+                         "sources":  [
+                                         {
+                                             "title":  "Google to buy 7.73% stake in Jio Platforms",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/article/news-cm/google-to-buy-7-73-stake-in-jio-platforms-120071500756_1.html"
+                                         },
+                                         {
+                                             "title":  "Google To Invest Rs 33,737 Crore For A 7.7% Stake In Jio Platforms",
+                                             "source":  "BloombergQuint",
+                                             "link":  "https://www.bloombergquint.com/business/google-picks-up-77-stake-in-jio-platforms-for-rs-33737-crore"
+                                         }
+                                     ]
+                     },
+                     {
+                         "date":  "2025-07-09",
+                         "title":  "Reuters: no Jio IPO in 2025",
+                         "text":  "Reuters reported that Jio would not list in 2025, citing people familiar with the matter. The sources said Jio first wanted more revenue and more subscribers. Analysts already valued the company at more than 100 billion dollars.",
+                         "sources":  [
+                                         {
+                                             "title":  "Exclusive-Ambani\u0027s Reliance Jio delays India IPO beyond this year, sources say",
+                                             "source":  "Reuters via Yahoo Finance",
+                                             "link":  "https://finance.yahoo.com/news/exclusive-ambanis-reliance-jio-delays-084925039.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "date":  "2025-08-29",
+                         "title":  "Ambani targets a listing by mid 2026",
+                         "text":  "At the Reliance annual general meeting, Ambani said Jio aimed to list in the first half of 2026. He said Jio was making all arrangements to file for its IPO. He did not say how big a stake would be sold.",
+                         "sources":  [
+                                         {
+                                             "title":  "Ambani Targets Reliance Jio\u0027s IPO by June Ending Years of Wait",
+                                             "source":  "Bloomberg",
+                                             "link":  "https://news.bloomberglaw.com/capital-markets/mukesh-ambani-seeks-to-take-reliance-jio-public-by-june-2026"
+                                         },
+                                         {
+                                             "title":  "Reliance Jio eyes IPO in first half of 2026: Chairman Mukesh Ambani",
+                                             "source":  "Storyboard18",
+                                             "link":  "https://www.storyboard18.com/how-it-works/reliance-jio-eyes-ipo-in-first-half-of-2026-chairman-mukesh-ambani-79861.htm"
+                                         }
+                                     ]
+                     },
+                     {
+                         "date":  "2026-01-09",
+                         "title":  "Jio weighs selling a 2.5 percent stake",
+                         "text":  "Reuters reported that Jio was considering floating about 2.5 percent of the company. That depended on a proposed rule change that would let very large companies sell a smaller slice. The offer could be worth more than 4 billion dollars, and the brokerage Jefferies had valued Jio at about 180 billion dollars.",
+                         "sources":  [
+                                         {
+                                             "title":  "Ambani\u0027s Reliance Jio considers 2.5% public offering in 2026 India IPO, sources say",
+                                             "source":  "Reuters via MarketScreener",
+                                             "link":  "https://www.marketscreener.com/news/ambani-s-reliance-jio-considers-2-5-public-offering-in-2026-india-ipo-sources-say-ce7e59d2d088f324"
+                                         }
+                                     ]
+                     },
+                     {
+                         "date":  "2026-04-29",
+                         "title":  "War in West Asia clouds the timeline",
+                         "text":  "A report from the research firm CreditSights said the Jio listing could slip to the second half of the financial year, between October 2026 and March 2027. The reason was rising tension in West Asia. That meant the target of the first half of 2026 was likely to be missed.",
+                         "sources":  [
+                                         {
+                                             "title":  "Jio IPO may slip to second half of FY27 on geopolitical risks: Report",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/companies/news/jio-ipo-may-slip-to-second-half-of-fy27-on-geopolitical-risks-report-126042900568_1.html"
+                                         },
+                                         {
+                                             "title":  "Reliance JIO IPO Timeline Likely Pushed to H2 FY27 Amid Geopolitical Tensions: Report",
+                                             "source":  "Angel One",
+                                             "link":  "https://www.angelone.in/news/ipos/reliance-jio-ipo-timeline-likely-pushed-to-h2-fy27-amid-geopolitical-tensions-report"
+                                         }
+                                     ]
+                     },
+                     {
+                         "date":  "2026-05-21",
+                         "title":  "Jio switches to an all new share issue",
+                         "text":  "Bloomberg reported that Jio had slowed its preparations as markets fell about 9 percent below pre war levels. Jio dropped the plan to let existing shareholders sell their stakes. Instead, the IPO would only issue new shares.",
+                         "sources":  [
+                                         {
+                                             "title":  "$4 billion Jio IPO hits roadblocks on impact of West Asia conflict",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/amp/markets/ipo/4-billion-jio-ipo-hits-roadblocks-on-impact-of-west-asia-conflict-126052101918_1.html"
+                                         },
+                                         {
+                                             "title":  "War-Induced Uncertainty May Again Delay Jio\u0027s $4 Billion Public Listing",
+                                             "source":  "Free Press Journal",
+                                             "link":  "https://www.freepressjournal.in/business/war-induced-uncertainty-may-again-delay-jios-4-billion-public-listing"
+                                         }
+                                     ]
+                     },
+                     {
+                         "date":  "2026-06-19",
+                         "title":  "Draft prospectus filed at the annual meeting",
+                         "text":  "At the Reliance annual general meeting, Ambani said the Jio board had approved the draft red herring prospectus. It was filed with the market regulator, the Securities and Exchange Board of India, the same day. The plan was a fresh issue of up to 27 crore shares.",
+                         "sources":  [
+                                         {
+                                             "title":  "Reliance arm Jio Platforms approves DRHP for proposed IPO",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/capital-market-news/reliance-arm-jio-platforms-approves-drhp-for-proposed-ipo-126061900758_1.html"
+                                         },
+                                         {
+                                             "title":  "Reliance Jio IPO To Open On Oct 21, Files RHP",
+                                             "source":  "Outlook Business",
+                                             "link":  "https://www.outlookbusiness.com/corporate/reliance-jio-ipo-to-open-on-oct-21-files-rhp"
+                                         }
+                                     ]
+                     },
+                     {
+                         "date":  "2026-08-28",
+                         "title":  "Market regulator clears the IPO",
+                         "text":  "The market regulator issued its observation letter on the draft prospectus, which clears the way for the offer. Early estimates put the issue at around 37,700 crore rupees. The draft prospectus said about 27,500 crore rupees would repay borrowings of Reliance Jio Infocomm.",
+                         "sources":  [
+                                         {
+                                             "title":  "RIL says Jio Platforms receives SEBI observation letter for proposed IPO",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/capital-market-news/ril-says-jio-platforms-receives-sebi-observation-letter-for-proposed-ipo-126082900085_1.html"
+                                         },
+                                         {
+                                             "title":  "Jio Platforms Gets SEBI Approval For ₹37,700 Crore IPO",
+                                             "source":  "Kotak Neo",
+                                             "link":  "https://www.kotakneo.com/news/ipos/jio-platforms-ipo-sebi-approval-rs-37700-crore/"
+                                         }
+                                     ]
+                     },
+                     {
+                         "date":  "2026-10-03",
+                         "title":  "Reports point to an October 21 opening",
+                         "text":  "Citing Moneycontrol, reports said the offer would likely open on 21 October and list on 28 October. Most of the money would go to repay about 27,500 crore rupees of Reliance Jio Infocomm debt. Pricing and valuation were still not decided.",
+                         "sources":  [
+                                         {
+                                             "title":  "Jio Platforms IPO Likely To Open October 21; ₹27,500 Crore Debt Repayment Planned",
+                                             "source":  "Free Press Journal",
+                                             "link":  "https://www.freepressjournal.in/business/jio-platforms-ipo-likely-to-open-october-21-27500-crore-debt-repayment-planned"
+                                         }
+                                     ]
+                     },
+                     {
+                         "date":  "2026-10-14",
+                         "title":  "Price band set for a record offer",
+                         "text":  "Jio filed its final prospectus and set a price band of 1,065 to 1,119 rupees a share. At the top of the band, the offer raises about 30,200 crore rupees, the largest IPO in India. Up to 2,500 crore rupees is set aside for Reliance shareholders, and up to 500 crore rupees for employees. Reuters said the top price values Jio at around 10.3 lakh crore rupees.",
+                         "sources":  [
+                                         {
+                                             "title":  "Jio Platforms sets IPO price band at Rs 1,065-1,119, targets to raise record Rs 30,213 cr",
+                                             "source":  "ThePrint",
+                                             "link":  "https://theprint.in/economy/jio-platforms-sets-ipo-price-band-at-rs-1065-1119-targets-to-raise-record-rs-30213-cr/3071966/"
+                                         },
+                                         {
+                                             "title":  "Reliance Jio IPO To Open On Oct 21, Files RHP",
+                                             "source":  "Outlook Business",
+                                             "link":  "https://www.outlookbusiness.com/corporate/reliance-jio-ipo-to-open-on-oct-21-files-rhp"
+                                         }
+                                     ]
+                     },
+                     {
+                         "date":  "2026-10-19",
+                         "title":  "Anchor investors put in 8,110 crore rupees",
+                         "text":  "Jio raised about 8,110 crore rupees from 212 anchor investors, all at the top price of 1,119 rupees. Bids reportedly topped 2.5 lakh crore rupees, around 30 times the shares on offer. Investors included Singapore\u0027s government, the Abu Dhabi Investment Authority and Norway\u0027s sovereign fund, while Life Insurance Corporation got about 500 crore rupees of shares.",
+                         "sources":  [
+                                         {
+                                             "title":  "Jio Platforms raises Rs 8,110 crore from over 200 anchor investors; draws Rs 2.5 lakh cr demand",
+                                             "source":  "Business Today",
+                                             "link":  "https://www.businesstoday.in/markets/ipo-corner/story/jio-platforms-raises-rs-8110-crore-from-over-200-anchor-investors-draws-rs-2-5-lakh-cr-demand-562601-2026-10-20"
+                                         },
+                                         {
+                                             "title":  "Jio Platforms\u0027 anchor book draws record ₹2.5 trillion in bids ahead of IPO",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/companies/news/jio-platforms-ipo-anchor-investor-quota-nearly-30-times-oversubscribed-126101900538_1.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "date":  "2026-10-20",
+                         "title":  "Brokerages weigh in on the eve of the IPO",
+                         "text":  "On the eve of the offer, Mint reported that the brokerage Motilal Oswal rated the issue subscribe, both for listing gains and for the long term. It pointed to Jio\u0027s market leadership and growth in broadband and enterprise services. Allotment is expected on 26 October, with listing on 28 October.",
+                         "sources":  [
+                                         {
+                                             "title":  "Reliance Jio IPO review: Apply or not? Bid now or buy shares post NSE, BSE debut? Check GMP, listing price prediction",
+                                             "source":  "Mint via TradingView",
+                                             "link":  "https://www.tradingview.com/news/moodys:a3e0821ba3cfd:0-reliance-jio-ipo-review-apply-or-not-bid-now-or-buy-shares-post-nse-bse-debut-check-gmp-listing-price-prediction/"
+                                         },
+                                         {
+                                             "title":  "Jio Platforms IPO Date, Price, GMP, Review, Details",
+                                             "source":  "Chittorgarh",
+                                             "link":  "https://www.chittorgarh.com/ipo/jio-platforms-ipo/3152/"
+                                         },
+                                         {
+                                             "title":  "Jio IPO has lenders, brokerages pushing retail participation with loans, marketing reach out",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/india-jio-ipo-lenders-brokerages-push-retail-participation-with-loans-marketing-11792473742375.html"
+                                         },
+                                         {
+                                             "title":  "Big-ticket IPOs have struggled to deliver bumper listing gains. Can Mukesh Ambani backed Reliance Jio buck the trend?",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/bigticket-ipos-have-struggled-to-deliver-bumper-listing-gains-can-mukesh-ambani-backed-reliance-jio-buck-the-trend-11792505293980.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "date":  "2026-10-21",
+                         "title":  "The offer opens to the public",
+                         "text":  "The Jio Platforms offer opened for subscription, aiming to raise about 30,213 crore rupees through a fresh issue of 27 crore shares. It was fully subscribed within about 100 minutes, the fastest of India\u0027s mega issues, and ended day one booked 3.16 times. Big institutions bid for 9.42 times their quota, but retail investors took only 0.73 times theirs. The Economic Times put day one bids at about 70,000 crore rupees, ahead of the LIC and NSE issues.",
+                         "sources":  [
+                                         {
+                                             "title":  "Jio Platforms IPO fully subscribed in 100 mins; booked 3.16x on Day 1",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/ipo/jio-platforms-ipo-subscription-qib-retail-anchor-investor-126102100328_1.html"
+                                         },
+                                         {
+                                             "title":  "Jio IPO attracts Rs 70,000 crore in bids on day 1, outpaces LIC, NSE issues",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-bids-hit-70000-crore-on-day-1-outpaces-nse-lic-gic-issues/articleshow/135103495.cms"
+                                         },
+                                         {
+                                             "title":  "Jio Platforms IPO draws Rs 3.2 lakh crore in total demand, sets mega-issue record",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/jio-platforms-ipo-draws-rs-3-2-lakh-crore-in-total-demand-sets-mega-issue-record-14056865.html"
+                                         },
+                                         {
+                                             "title":  "IPO GMP race: Reliance Jio Platforms IPO vs Paras Healthcare IPO - Check grey market winner",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/ipo-gmp-race-reliance-jio-platforms-ipo-vs-paras-healthcare-ipo-check-grey-market-winner-11792598142454.html"
+                                         },
+                                         {
+                                             "title":  "Reliance Jio IPO: Massive ₹30,213 cr issue opens for subscription today | Latest GMP, review, listing price prediction",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-massive-30-213-cr-issue-opens-for-subscription-today-latest-gmp-review-listing-price-prediction-11792548066016.html"
+                                         },
+                                         {
+                                             "title":  "Jio entering public markets to build sustainable business and create immense value: Akash Ambani to Moneycontrol",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/jio-entering-public-markets-to-build-sustainable-business-and-create-immense-value-akash-ambani-to-moneycontrol-14056094.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "date":  "2026-10-22",
+                         "title":  "Retail quota filled on day two",
+                         "text":  "On day two, the offer was subscribed 5.57 times, up from 3.16 times on day one. Big institutions bid for 13.29 times their quota, non-institutional investors for 5.97 times and retail investors for 1.54 times, so the retail portion was filled. Moneycontrol put total demand at about 3.73 lakh crore rupees, with about 2.5 lakh crore rupees of it from institutions.",
+                         "sources":  [
+                                         {
+                                             "title":  "Jio Platforms IPO subscribed 5.57x on day 2; QIBs led with 13.29x bids",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/jio-platforms-ipo-subscribed-5-57x-on-day-2-qibs-led-with-13-29x-bids-126102201448_1.html"
+                                         },
+                                         {
+                                             "title":  "Reliance Jio IPO subscription status day 1, day 2: Check QIB, NII, Retail, Employee, RIL Shareholders wise data details",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-subscription-status-day-1-day-2-check-qib-nii-retail-employee-ril-shareholders-wise-data-details-11792681049708.html"
+                                         },
+                                         {
+                                             "title":  "Jio IPO draws Rs 3.73 lakh crore in total demand as overall subscription crosses 5.5x",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/jio-ipo-draws-rs-3-58-lakh-crore-in-total-demand-as-overall-subscription-reaches-nearly-5x-14057771.html"
+                                         },
+                                         {
+                                             "title":  "Jio Platforms IPO: Retail quota full, subscribed 3.47 times on day two",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/ipo/retail-investors-fully-subscribe-ambani-s-jio-ipo-on-second-day-126102200394_1.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "date":  "2026-10-23",
+                         "title":  "Bidding closes at 22 times, a string of records",
+                         "text":  "The offer closed on Friday subscribed 22.19 times. Big institutions bid for about 70.6 times their quota, and retail investors for about 2.7 times theirs. Mint put total bids at about 4.72 lakh crore rupees, and Moneycontrol said it was the first IPO anywhere to draw more than one crore applications. At about 30,200 crore rupees, it overtakes Hyundai Motor India as the country\u0027s biggest offer.",
+                         "sources":  [
+                                         {
+                                             "title":  "Jio Platforms IPO rides institutional demand to 22.19 times subscription",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/jio-platforms-ipo-rides-institutional-demand-to-22-19-times-subscription-126102301595_1.html"
+                                         },
+                                         {
+                                             "title":  "Mother of all IPOs! Jio Platforms shatters many existing records - Full list here",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/mother-of-all-ipos-jio-platforms-shatters-many-existing-records-full-list-here-11792775064634.html"
+                                         },
+                                         {
+                                             "title":  "Jio IPO sets record with many firsts for an Indian IPO: Here are 7 key milestones",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/ipo/jio-ipo-sets-record-with-many-firsts-for-an-indian-ipo-here-are-6-key-milestones-14058721.html"
+                                         },
+                                         {
+                                             "title":  "IPO Subscription status comparison: Reliance Jio IPO vs Hyundai IPO vs NSE IPO - Who won the race?",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/ipo-subscription-status-comparison-reliance-jio-ipo-vs-hyundai-ipo-vs-nse-ipo-who-won-the-race-11792769886858.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "date":  "2026-10-25",
+                         "title":  "Grey market points to a listing gain",
+                         "text":  "Over the weekend, Mint reported a grey market premium of about 250 rupees a share. On that basis it suggested a possible listing price of about 1,369 rupees, roughly 22 percent above the top of the band. Allotment was set for Monday, the twenty-sixth, through the registrar KFin Technologies, with listing on the NSE and BSE planned for Wednesday, the twenty-eighth, at 10 in the morning. Applicants who get no shares will have their blocked money released, and one lot of 12 shares costs 13,428 rupees at the top price.",
+                         "sources":  [
+                                         {
+                                             "title":  "Jio Platforms IPO allotment status check online by PAN number guide for KFin Tech Registrar Portal on ris.kfintech.com",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/ipo/jio-platforms-ipo-allotment-status-check-online-by-pan-number-guide-for-kfin-tech-registrar-portal-on-riskfintechcom-11792919833250.html"
+                                         },
+                                         {
+                                             "title":  "Jio Platforms IPO listing date and time, share price prediction, expected money gains basis GMP, expected m-cap; Details",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/jio-platforms-ipo-listing-date-and-time-share-price-prediction-expected-money-gains-basis-gmp-expected-m-cap-details-11792924052178.html"
+                                         },
+                                         {
+                                             "title":  "Reliance\u0027s Jio Platforms IPO allotment on Mon, Oct 26: What happens to your money if you get none, one or many lots?",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/ipo/reliances-jio-platforms-ipo-allotment-on-wed-oct-26-what-happens-to-your-money-if-you-get-none-one-or-many-lots-11792937452744.html"
+                                         },
+                                         {
+                                             "title":  "IPO Action: Jio Platforms leads 3 listings this week; 9 issues to raise Rs 2,780 crore",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/ipo/ipo-action-jio-platforms-leads-3-listings-this-week-9-issues-to-raise-rs-2-780-crore-14059623.html"
+                                         }
+                                     ]
+                     }
+                 ]
 }
