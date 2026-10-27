@@ -1,0 +1,301 @@
+{
+    "date":  "2026-10-27",
+    "edition":  "Morning",
+    "generatedAt":  "2026-10-27T09:40:00+05:30",
+    "headline":  "Markets snap losing streak; expiry, big results and the Fed in focus",
+    "segments":  [
+                     {
+                         "title":  "The big picture",
+                         "script":  "Good morning. It\u0027s Tuesday, the twenty-seventh of October, and here is your Market Brief.\n\nThree things matter most today. First, Indian shares bounced back on Monday after four straight days of losses, but the early signals point to a softer start this morning, with monthly futures and options expiry on the calendar. Second, it\u0027s a heavy results day, with Larsen and Toubro, Maruti Suzuki, Bajaj Auto, Tata Steel and Cipla all reporting. And third, the US Federal Reserve begins its two-day meeting today, while Jio Platforms shares land in investors\u0027 accounts ahead of tomorrow\u0027s listing.",
+                         "stories":  [
+                                         {
+                                             "title":  "Stock markets rebound after 4-day slump; Sensex jumps 483 points",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/stock-markets-rebound-after-4-day-slump-sensex-jumps-483-points-126102601657_1.html"
+                                         },
+                                         {
+                                             "title":  "Q2 results 2026 today, schedule: L\u0026T, Maruti Suzuki - 100 more firms to declare quarterly earnings",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/q2-results-2026-today-schedule-l-t-maruti-suzuki-tat-53-more-firms-to-declare-quarterly-earnings-oct-22-tue-lis-11793066756896.html"
+                                         },
+                                         {
+                                             "title":  "Monthly F\u0026O expiry ahead | Oil, US yields cool off | Defence stocks in focus",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/videos/business/markets/monthly-f-o-expiry-ahead-oil-us-yields-cool-off-defence-stocks-in-focus-14060865.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "How markets closed",
+                         "script":  "Monday was a session of two halves. The Nifty opened lower and slid to about 22,387 in early trade. Then buying in financial stocks turned it around. The Sensex closed up 483 points, or about two thirds of a percent, at 73,606. The Nifty gained about 150 points to end near 22,750. Metal, telecom and healthcare shares led the rally.\n\nOn flows, foreign institutional investors sold again, offloading about 1,462 crore rupees of shares. Domestic institutions bought about 2,609 crore rupees, their tenth straight day of buying. And there\u0027s some cheer from the retail side. The Economic Times reports that individual investors came back in September, buying about 10,572 crore rupees of shares after two quiet months.\n\nThe mood is still fragile, though. The Nifty Smallcap 100 has lost about 9 percent in a month, and Mint reports that brokers saw their biggest single-day liquidation of margin-funded positions on Friday. The ten-year government bond yield touched 7.48 percent, its highest since October 2022, on costly oil and firm US yields. The rupee weakened for a third day on Monday, but opened slightly firmer this morning at about 95.16 to the dollar.\n\nAs for this morning, GIFT Nifty is pointing to a fall of around 100 points. Moneycontrol\u0027s analysts see support for the Nifty at 22,500 to 22,400, then 22,200, with resistance at 22,800 to 22,850.",
+                         "stories":  [
+                                         {
+                                             "title":  "Mind-boggling Monday at Indian stock markets: Sensex, Nifty mirror life\u0027s ups and downs",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/mindboggling-monday-at-indian-stock-markets-sensex-nifty-mirror-life-s-ups-and-downs-october-26-trade-details-11793005870431.html"
+                                         },
+                                         {
+                                             "title":  "First Tick: Top global cues to watch in today\u0027s trade",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/first-tick-top-global-cues-to-watch-in-today-s-trade-25-14060208.html"
+                                         },
+                                         {
+                                             "title":  "Retail investors return to equities with Rs 10,572 crore buying in September",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/retail-investors-return-to-equities-with-rs-10572-crore-buying-in-september/articleshow/135221795.cms"
+                                         },
+                                         {
+                                             "title":  "Nifty Smallcap 100 sinks 9% in a month",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/nifty-smallcap-100-sinks-9-in-a-month-buy-the-dip-or-more-pain-ahead-experts-flag-key-levels-stocks-to-watch-11793010867432.html"
+                                         },
+                                         {
+                                             "title":  "Margin funding book sees highest liquidation in a day",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/broker-funding-book-sees-highest-liquidation-in-a-day-11793047831540.html"
+                                         },
+                                         {
+                                             "title":  "Benchmark bond yield nears 7.5% on rising crude oil prices, US cues",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/govt-bond-yields-rise-to-four-year-high-as-crude-us-treasury-yields-weigh-126102601296_1.html"
+                                         },
+                                         {
+                                             "title":  "Currency Check | Rupee opens with marginal gains at 95.16 per dollar",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/currency/currency-check-rupee-opens-with-marginal-gains-at-95-16-per-dollar-asian-peers-mixed-14060648.html"
+                                         },
+                                         {
+                                             "title":  "Trading Plan: Can Nifty 50 defend 22,700, Bank Nifty hold above 54,000",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/trading-plan-can-nifty-50-defend-22-700-bank-nifty-hold-above-54-000-amid-caution-ahead-of-f-o-expiry-14060741.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "IPOs and deals",
+                         "script":  "In the primary market, SFC Environmental Technologies opens its offer today. It is raising about 667 crore rupees at a price band of 313 to 330 rupees a share, and it has already collected over 200 crore rupees from 11 anchor investors. Further out, Mint reports that Sembcorp Industries is considering an IPO of about 3,750 crore rupees for its Indian renewable energy unit in December.\n\nA reminder that not every listing works out. SBI Funds Management slipped 7 percent to a new low after its results, and now trades about 24 percent below its issue price.\n\nOn deals, defence stocks are in focus after the Defence Acquisition Council cleared proposals worth about 2.12 lakh crore rupees. And Sigma Advanced Systems has won an order worth 973 crore rupees.",
+                         "stories":  [
+                                         {
+                                             "title":  "SFC Environmental Technologies raises over Rs 200 crore from 11 anchor investors; IPO opens on October 27",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/ipo/sfc-environmental-technologies-raises-over-rs-200-crore-from-11-anchor-investors-ipo-opens-on-october-27-14060646.html"
+                                         },
+                                         {
+                                             "title":  "Sembcorp Industries mulls Rs 3,750 cr IPO for India unit in Dec 2026",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/sembcorp-industries-mulls-rs-3-750-cr-ipo-for-india-unit-in-dec-2026-firm-profile-top-details-investors-should-know-11793036451582.html"
+                                         },
+                                         {
+                                             "title":  "SBI Funds slips 7%, hits new low post Q2 results; down 24% from issue price",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/sbi-funds-slips-7-hits-new-low-post-q2-results-down-24-from-issue-price-126102600444_1.html"
+                                         },
+                                         {
+                                             "title":  "Stocks in news: Paytm, Tata Consumer, Dalmia Bharat, REC and DCM Shriram",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-paytm-tata-consumer-dalmia-bharat-rec-and-dcm-shriram/articleshow/135216594.cms"
+                                         },
+                                         {
+                                             "title":  "Sigma Advanced Systems shares in focus on Rs 973 crore order win",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/sigma-advanced-systems-shares-in-focus-on-rs-973-crore-order-win-14060493.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Results roundup",
+                         "script":  "Now to the September quarter numbers, starting with healthcare. Mankind Pharma\u0027s profit rose about 38 percent to 716 crore rupees, on revenue of about 4,338 crore rupees, up from about 3,697 crore rupees a year ago.\n\nIn consumer names, Tata Consumer Products grew its profit despite higher costs, but tea volumes were flat on weak demand and a UK business hit by the weather. Its salt business did the heavy lifting, with both volumes and prices up. ITC Hotels had a strong quarter. Profit jumped 51 percent to 201 crore rupees, occupancy rose to 76 percent and revenue per available room grew 21 percent. The shares gained 8 percent.\n\nIn new-age companies, Paytm reported strong profit growth, and Moneycontrol says Bernstein sees up to 33 percent upside while Citi has raised its target price. Ather Energy swung to a small profit of 1.26 crore rupees, against a loss of 154 crore rupees a year ago, and the stock jumped 18 percent.\n\nOn the other side, Dalmia Bharat reported a net loss because of an exceptional charge. Nippon Life India Asset Management\u0027s profit fell 6 percent to about 324 crore rupees, partly due to a settlement with the market regulator, though revenue grew 21 percent. And in real estate, Sunteck Realty\u0027s first-half profit rose 20 percent to 99 crore rupees, with pre-sales of 1,611 crore rupees.",
+                         "stories":  [
+                                         {
+                                             "title":  "Mankind Pharma Q2 profit rises 38% to Rs 716 crore",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/mankind-pharma-q2-profit-rises-38-to-rs-716-crore/articleshow/135222585.cms"
+                                         },
+                                         {
+                                             "title":  "Tata consumer Q2 net profit up despite higher costs, weak tea demand",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-consumer-q2-net-profit-up-despite-higher-costs-weak-tea-demand/articleshow/135222523.cms"
+                                         },
+                                         {
+                                             "title":  "ITC Hotels shares gain 8% as Q2 PAT rises 51% to Rs 201 cr, RevPAR up 21%",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/itc-hotels-shares-gain-8-as-q2-pat-rises-51-to-201-cr-revpar-up-21-126102600738_1.html"
+                                         },
+                                         {
+                                             "title":  "Buy, sell, hold Paytm stock? Brokerages see up to 33% upside after strong Q2 results",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/buy-sell-hold-paytm-stock-brokerages-see-up-to-33-upside-after-strong-q2-results-citi-raises-target-price-14060885.html"
+                                         },
+                                         {
+                                             "title":  "Ather Energy share price zooms 18% on Q2 turnaround, robust revenue growth",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/ather-energy-share-price-zooms-18-on-q2-turnaround-robust-revenue-growth-126102600694_1.html"
+                                         },
+                                         {
+                                             "title":  "Dalmia Bharat: Higher costs cloud near-term outlook",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/moneycontrol-research/dalmia-bharat-higher-costs-cloud-near-term-outlook-14060743.html"
+                                         },
+                                         {
+                                             "title":  "Nippon Life AMC shares: Last chance to buy for Rs 9.50 interim dividend",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/nippon-life-amc-shares-last-chance-to-buy-for-rs-9-50-interim-dividend-record-date-dividend-yield-11793035793393.html"
+                                         },
+                                         {
+                                             "title":  "Sunteck Realty H1FY27 net profit rises 20%, pre-sales up 19%",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/sunteck-realty-h1fy27-net-profit-rises-20-pre-sales-up-19/articleshow/135217893.cms"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Economy and policy",
+                         "script":  "On interest rates, the State Bank of India\u0027s chairman, C S Setty, said he expects the Reserve Bank to raise rates by half a percentage point in December, which he warned could cool consumer borrowing. Meanwhile, an ICICI Bank report says the Reserve Bank has been injecting cash into banks as tighter liquidity pushed up short-term borrowing costs. It sees the ten-year bond yield trading between 7.40 and 7.60 percent in the near term. India\u0027s foreign exchange reserves fell by about 5 billion dollars to around 721 billion dollars in the week to the sixteenth of October.\n\nOn the public finances, Finance Minister Nirmala Sitharaman said the government is committed to cutting the fiscal deficit, and aims to bring public debt down to 50 percent of the economy by 2030. And a development worth noting for markets: the Economic Times reports that the government is seeking views from investors and tax experts on long-term capital gains tax and securities transaction tax, as foreign money keeps leaving. The upcoming budget is seen as the chance to revisit them.\n\nOn trade, exporters get six more months of risk cover. The RELIEF scheme, which helps with higher shipping and insurance costs from the West Asia conflict, now runs to the thirty-first of March 2027. And the government is expected to extend duty-free cotton imports to the end of December, with the crop seen below 29 million bales against demand of over 34 million.\n\nTwo warning signs from the ground. Non-bank lenders such as Shriram Finance and Bajaj Finance are curbing new rural loans in drought-hit areas after a weak monsoon. And a statistics ministry report shows cost overruns of about 3.22 lakh crore rupees across 1,853 ongoing infrastructure projects. On a brighter note, the National Council of Applied Economic Research says business confidence rebounded to 107.8 in the September quarter, from 99.8.",
+                         "stories":  [
+                                         {
+                                             "title":  "Expecting 50 bps rate hike in Dec, may impact credit demand: SBI chief",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/specials/bs-events/expecting-50-bps-rate-hike-in-dec-may-impact-credit-demand-sbi-chief-126102600296_1.html"
+                                         },
+                                         {
+                                             "title":  "RBI steps up liquidity support as tighter cash conditions push up borrowing rates: Report",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/policy/rbi-steps-up-liquidity-support-as-tighter-cash-conditions-push-up-borrowing-rates-report/articleshow/135222948.cms"
+                                         },
+                                         {
+                                             "title":  "India\u0027s forex reserves decline $5 bn to $721 bn",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/india-s-forex-reserves-decline-5-bn-to-721-bn-14058758.html"
+                                         },
+                                         {
+                                             "title":  "Centre committed to reducing fiscal deficit, says FM Nirmala Sitharaman",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/centre-committed-to-reducing-fiscal-deficit-says-fm-nirmala-sitharaman-126102600758_1.html"
+                                         },
+                                         {
+                                             "title":  "Govt seeks investor and expert views on LTCG and STT as it reviews capital market levies amid FPI exodus",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/govt-seeks-investor-and-expert-views-on-ltcg-and-stt-as-it-reviews-capital-market-levies-amid-fpi-exodus/articleshow/135222361.cms"
+                                         },
+                                         {
+                                             "title":  "Exporters get six more months of risk cover amid West Asia turmoil",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/foreign-trade/exporters-get-six-more-months-of-risk-cover-amid-west-asia-turmoil/articleshow/135211390.cms"
+                                         },
+                                         {
+                                             "title":  "India expected to extend duty-free cotton imports through December, sources say",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/agriculture/india-expected-to-extend-duty-free-cotton-imports-through-december-sources-say/articleshow/135208493.cms"
+                                         },
+                                         {
+                                             "title":  "NBFCs curb fresh loans in rural markets as weak monsoon raises repayment risks",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/nbfcs-curb-fresh-loans-in-rural-markets-as-weak-monsoon-raises-repayment-risks/articleshow/135222291.cms"
+                                         },
+                                         {
+                                             "title":  "MoSPI report shows Rs 3.22 lakh crore cost overrun in India\u0027s ongoing infrastructure projects",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/infrastructure/mospi-report-shows-rs-3-22-lakh-crore-cost-overrun-in-indias-ongoing-infrastructure-projects/articleshow/135214317.cms"
+                                         },
+                                         {
+                                             "title":  "Business confidence rebounds in Q2 after four quarters of moderation: NCAER",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/business-confidence-rebounds-in-q2-after-four-quarters-of-moderation-ncaer-14058666.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Around the world",
+                         "script":  "Wall Street started the week higher, lifted by Anthropic\u0027s filing for a stock market listing, which revived appetite for artificial intelligence shares. The Dow rose about 0.3 percent, the S\u0026P 500 about 0.7 percent and the Nasdaq about 0.8 percent. Chip makers such as Nvidia, AMD, Micron and Broadcom gained 2 to 3 percent, and Asian markets are trading higher this morning.\n\nOil is easing on hopes of diplomacy in the Gulf, but attacks in Saudi Arabia keep supply worries alive. Brent crude is at about 115 dollars a barrel, close to a six-month high, and US crude is near 101 dollars. Gold is holding near 4,000 dollars an ounce ahead of the Federal Reserve\u0027s decision, which markets expect to leave rates unchanged. US ten-year yields have slipped back below 5 percent.\n\nElsewhere, Brazil\u0027s main share index plunged as much as 17.3 percent on Monday after President Lula won re-election, its biggest one-day fall ever. This week also brings results from Microsoft, Alphabet and Amazon.",
+                         "stories":  [
+                                         {
+                                             "title":  "Sensex Today | Stock Market LIVE Updates: Nifty at 22,700, Sensex down 100 pts at pre-open",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/stock-market-live-updates-nifty50-share-price-sensex-share-price-crude-fii-gift-nifty-rupee-latest-updates-27-10-2026-alpha-liveblog-14060650.html"
+                                         },
+                                         {
+                                             "title":  "Oil eases on Gulf diplomacy hopes, Saudi attacks keep supply worries alive",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/commodities/oil-eases-on-gulf-diplomacy-hopes-saudi-attacks-keep-supply-worries-alive-126102700075_1.html"
+                                         },
+                                         {
+                                             "title":  "Commodity Corner: Oil slips on hopes of Iran war resolution; gold holds near $4,000 ahead of Fed decision",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/commodity-corner-oil-slips-on-hopes-of-iran-war-resolution-gold-holds-near-4-000-ahead-of-fed-decision-14060649.html"
+                                         },
+                                         {
+                                             "title":  "Brazil\u0027s Ibovespa plunges 17.3% as Lula defeats Bolsonaro in presidential runoff",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/brazils-ibovespa-plunges-17-3-as-lula-defeats-bolsonaro-in-presidential-runoff-biggest-ever-one-day-crash-11793026757972.html"
+                                         },
+                                         {
+                                             "title":  "Anthropic IPO: It\u0027s official now! Artificial intelligence giant files papers to sell shares to public for first time",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/anthropic-ipo-it-s-official-now-artificial-intelligence-giant-files-papers-to-sell-shares-to-public-for-first-time-11793019537204.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Stories you\u0027re following",
+                         "script":  "An update on the Jio IPO you\u0027re following. Allotment was finalised on Monday, and successful applicants should see the shares in their demat accounts today, ahead of tomorrow\u0027s listing at 10 in the morning. The Economic Times and Business Standard report that the 19 banks on the deal share fees of only about 196 crore rupees, or 0.65 percent of the issue, against 1.77 percent on Hyundai\u0027s offer.\n\nAnd on the India and US trade deal, Commerce Minister Piyush Goyal said in the Netherlands that most discussions are over and the agreement is now being fine-tuned. The US ambassador, Sergio Gor, said the major issues have been addressed.",
+                         "stories":  [
+                                         {
+                                             "title":  "Jio IPO falls short of record payday for bankers despite mega issue",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/jio-ipo-falls-short-of-record-payday-for-bankers-despite-mega-issue-126102601649_1.html"
+                                         },
+                                         {
+                                             "title":  "Jio Platforms IPO allotment status finalised! Did you get shares",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/ipo/jio-platforms-ipo-allotment-status-finalised-did-you-get-shares-check-from-direct-kfin-tech-nse-website-links-11793061512269.html"
+                                         },
+                                         {
+                                             "title":  "India, US fine-tuning trade agreement; most discussions over: Goyal",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/india-us-fine-tuning-trade-agreement-most-discussions-over-goyal-126102601056_1.html"
+                                         },
+                                         {
+                                             "title":  "India-US trade deal: Most discussions concluded, fine-tuning underway, says Piyush Goyal",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/economy/policy/india-us-trade-deal-most-discussions-concluded-fine-tuning-underway-says-piyush-goyal-14060406.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Your money",
+                         "script":  "First, a deadline for anyone with undeclared assets abroad. The Central Board of Direct Taxes says about 1,100 taxpayers have applied under the foreign assets disclosure scheme for small taxpayers, which lets them declare unreported foreign assets and income at a 60 percent tax rate. The window closes on the thirty-first of December, and Mint reports the tax department is reaching out to people who bought property in the UAE.\n\nAn interesting indirect tax ruling for your clients in travel. The GST tribunal has allowed Singapore Airlines to recover about 45.92 lakh rupees of GST it paid on cancelled tickets, after it had refunded passengers.\n\nA few dates. Punjab National Bank will close inactive zero-balance accounts after the tenth of November, so anyone who hasn\u0027t used one in over three years needs to complete their know-your-customer details and reactivate it. The next PM Kisan instalment of 2,000 rupees is due on the thirtieth of October.\n\nIf you\u0027re buying gold this Dhanteras, check the six-character hallmark code on the BIS Care app before you pay.\n\nThat\u0027s the brief. Today, watch how the market handles monthly expiry after a weak start, and the results from Larsen and Toubro, Maruti Suzuki, Bajaj Auto, Tata Steel and Cipla. The SFC Environmental offer opens, Jio shares reach investors\u0027 accounts ahead of tomorrow\u0027s listing, and the Fed begins its meeting with oil still near 115 dollars. Have a good day.",
+                         "stories":  [
+                                         {
+                                             "title":  "CBDT receives around 1,100 applications under foreign assets disclosure scheme",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/policy/cbdt-receives-around-1100-applications-under-foreign-assets-disclosure-scheme/articleshow/135214097.cms"
+                                         },
+                                         {
+                                             "title":  "Foreign asset disclosure: I-T dept reaches out to taxpayers with UAE properties as December 31 deadline looms",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/foreign-asset-disclosures-i-t-dept-reaches-out-taxpayers-commercial-residential-uae-properties-december-31-deadline-loom-11793006990834.html"
+                                         },
+                                         {
+                                             "title":  "Flight cancellation refund: Can airlines keep the GST charged on your ticket? Here\u0027s what the tribunal ruled",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/flight-cancellation-refund-can-airlines-keep-the-gst-charged-on-your-ticket-heres-what-the-tribunal-ruled-11793016949344.html"
+                                         },
+                                         {
+                                             "title":  "PNB account holders alert! These accounts will be closed after November 10",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/pnb-account-holders-alert-these-accounts-will-be-closed-after-november-10-here-is-why-11793031827656.html"
+                                         },
+                                         {
+                                             "title":  "PM Kisan 24th instalment Oct 2026 release date confirmed",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/pm-kisan-24th-instalment-2-000-to-hit-accounts-on-october-30-here-is-how-to-check-your-status-11793068342964.html"
+                                         },
+                                         {
+                                             "title":  "Dhanteras 2026: Buying gold jewellery? Here\u0027s how to check purity, verify BIS hallmark",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/dhanteras-2026-buying-gold-jewellery-heres-how-to-check-purity-verify-bis-hallmark-and-avoid-costly-mistakes-11793022735215.html"
+                                         }
+                                     ]
+                     }
+                 ]
+}
