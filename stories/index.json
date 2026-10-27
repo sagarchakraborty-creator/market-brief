@@ -4,10 +4,10 @@
                         "slug":  "jio-ipo",
                         "title":  "The Jio IPO",
                         "started":  "2019-08-12",
-                        "updatedAt":  "2026-10-26T08:55:00+05:30",
-                        "lastDate":  "2026-10-25",
-                        "latest":  "Grey market points to a listing gain",
-                        "entries":  18,
+                        "updatedAt":  "2026-10-27T09:30:00+05:30",
+                        "lastDate":  "2026-10-26",
+                        "latest":  "Allotment done, and a modest bankers\u0027 fee",
+                        "entries":  19,
                         "keys":  [
                                      "2019-08-12|Ambani first promises a Jio listing",
                                      "2020-04-22|Facebook buys nearly 10 percent of Jio",
@@ -26,17 +26,18 @@
                                      "2026-10-21|The offer opens to the public",
                                      "2026-10-22|Retail quota filled on day two",
                                      "2026-10-23|Bidding closes at 22 times, a string of records",
-                                     "2026-10-25|Grey market points to a listing gain"
+                                     "2026-10-25|Grey market points to a listing gain",
+                                     "2026-10-26|Allotment done, and a modest bankers\u0027 fee"
                                  ]
                     },
                     {
                         "slug":  "india-us-trade-deal",
                         "title":  "The India–US trade deal",
                         "started":  "2025-02-13",
-                        "updatedAt":  "2026-10-22T09:05:00+05:30",
-                        "lastDate":  "2026-10-21",
-                        "latest":  "Trump says the deal is pretty close",
-                        "entries":  15,
+                        "updatedAt":  "2026-10-27T09:30:00+05:30",
+                        "lastDate":  "2026-10-26",
+                        "latest":  "Goyal says the deal is being fine-tuned",
+                        "entries":  16,
                         "keys":  [
                                      "2025-02-13|Modi and Trump launch the trade talks",
                                      "2025-03-26|First round of talks held in New Delhi",
@@ -52,7 +53,8 @@
                                      "2026-10-02|Greer says a deal is not imminent",
                                      "2026-10-15|Goyal says first part is in legal drafting",
                                      "2026-10-20|Rubio in Mumbai says the deal is very close",
-                                     "2026-10-21|Trump says the deal is pretty close"
+                                     "2026-10-21|Trump says the deal is pretty close",
+                                     "2026-10-26|Goyal says the deal is being fine-tuned"
                                  ]
                     }
                 ]
