@@ -1,0 +1,351 @@
+{
+    "date":  "2026-10-30",
+    "edition":  "Morning",
+    "generatedAt":  "2026-10-30T09:50:00+05:30",
+    "headline":  "Sensex rallies 905 points; Reliance and Jio report today as tech rout hits Asia",
+    "segments":  [
+                     {
+                         "title":  "The big picture",
+                         "script":  "Good morning. It\u0027s Friday, the thirtieth of October, and here is your Market Brief.\n\nThree things matter most today. First, Dalal Street had its best day in a while on Thursday. The Sensex jumped 905 points after the American central bank held rates and oil eased. But this morning a sharp sell-off in technology shares on Wall Street is spilling into Asia, so the open here is muted.\n\nSecond, it is a big results day. Reliance Industries and Jio Platforms both report today, Jio for the first time as a listed company.\n\nAnd third, the finance ministry estimates the economy grew around 7.35 percent in the September quarter, but it is now calling price stability the top priority for the rest of the year, with oil still above 115 dollars a barrel.",
+                         "stories":  [
+                                         {
+                                             "title":  "Stock Market Close: Sensex ends 905 pts higher, Nifty 50 at 22,936; Realty top sectoral gainer",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/stock-market-live-oct-29-nse-bse-sensex-today-nifty-gift-nifty-jpl-share-price-ipo-today-126102900090_1.html"
+                                         },
+                                         {
+                                             "title":  "Nasdaq Futures Fall 2% On Tech Pain | Crude Steady | RIL, IndiGo, Trent Results In Focus",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/videos/business/markets/nasdaq-futures-fall-2-on-tech-pain-crude-steady-ril-indigo-trent-results-in-focus-14064085.html"
+                                         },
+                                         {
+                                             "title":  "Price stability top policy agenda in H2FY27 amid inflation: FinMin review",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/price-stability-top-policy-agenda-in-h2fy27-amid-inflation-finmin-review-126102901807_1.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "How markets closed",
+                         "script":  "Markets opened lower on Thursday but turned around and closed at the day\u0027s high. The Sensex ended 905 points up at 74,151. The Nifty gained 238 points to close at 22,936. That added nearly five lakh crore rupees to investors\u0027 wealth. Realty was the best sector, with consumer goods close behind. The Adani group rallied up to 6 percent after strong numbers from Adani Enterprises and Adani Ports, and Kotak Mahindra Bank hit a record high, up nearly 30 percent since April.\n\nNow to the money flows. Foreign institutional investors snapped a two-day buying streak and sold shares worth about 943 crore rupees. Domestic institutions bought about 1,924 crore rupees, their second straight day of buying.\n\nThere is a note of caution under the surface. The Economic Times says the ratio of rising to falling shares has hit a seven-month low, with midcap and smallcap indices down this month. And Mint points out that the Sensex and Nifty are still down around 12 to 13 percent this year.\n\nThis morning, the Sensex is roughly flat around 74,200 and the Nifty is just above 22,950. Trent is up about 6 percent after its results, and Equitas Small Finance Bank is down about 11 percent.\n\nThe levels to watch: Moneycontrol\u0027s analysts say the Nifty needs to hold 22,800 to push on towards 23,000 to 23,200, where the fifty-day average sits near 23,164. A break below 22,800 could bring 22,650 and then 22,400 into view.",
+                         "stories":  [
+                                         {
+                                             "title":  "Ahead of Market: 10 things that will decide stock market action on Friday",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/135322160.cms"
+                                         },
+                                         {
+                                             "title":  "Benchmarks rise over 1% on positive Q2 earnings, easing crude prices",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/sensex-nifty-rise-over-1-as-q2-earnings-easing-crude-boost-sentiment-126102901533_1.html"
+                                         },
+                                         {
+                                             "title":  "First Tick: Top global cues to watch in today\u0027s trade",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/first-tick-top-global-cues-to-watch-in-today-s-trade-28-14063342.html"
+                                         },
+                                         {
+                                             "title":  "Adani group stocks rally led by Adani Enterprises, Adani Ports post Q2 show",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/adani-group-stocks-rally-led-by-adani-enterprises-adani-ports-post-q2-show-126102900780_1.html"
+                                         },
+                                         {
+                                             "title":  "Kotak Bank shares gain 30% since April as earnings outlook brightens",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/kotak-mahindra-bank-shares-soar-to-record-high-amid-improving-growth-prospects-earnings-expectations/articleshow/135336078.cms"
+                                         },
+                                         {
+                                             "title":  "Advance-decline ratio hits 7-month low as market breadth weakens",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/market-breadth-hits-seven-month-low-despite-nifty-sensex-gains/articleshow/135336784.cms"
+                                         },
+                                         {
+                                             "title":  "Stock market outlook: Crude oil prices to FPI inflows - 8 triggers that could reverse trend in Sensex, Nifty 50",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/stock-market-outlook-crude-oil-prices-to-fpi-inflows-triggers-that-could-reverse-trend-in-sensex-nifty-50-11793327449431.html"
+                                         },
+                                         {
+                                             "title":  "Sensex Today | Stock Market LIVE Updates: Nifty above 22900, Sensex flat; Vedanta Oil up 12%, Equitas SFB down 11%",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/stock-market-live-updates-nifty50-share-price-sensex-share-price-crude-fii-gift-nifty-rupee-latest-updates-30-10-2026-alpha-liveblog-14063904.html"
+                                         },
+                                         {
+                                             "title":  "Trading Plan: After a stellar rally, will Nifty 50 and Bank Nifty take a breather?",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/trading-plan-after-a-stellar-rally-will-nifty-50-and-bank-nifty-take-a-breather-14064025.html"
+                                         },
+                                         {
+                                             "title":  "Trade Setup for October 30: Top 15 things to know before the opening bell",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/trade-setup-for-october-30-top-15-things-to-know-before-the-opening-bell-14063777.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "IPOs and deals",
+                         "script":  "In the primary market, the Bombay Coated and Special Steels issue is open. It is a fresh issue of about 183 crore rupees and runs until the second of November. Wiscon Industries\u0027 small-company issue got through on its final day, helped by institutional buyers. Allotment is due today, and the shares list on the third of November.\n\nOn the deals side, the promoter of Sagility is selling about a 12 percent stake through a block deal worth around 2,377 crore rupees. Moneycontrol\u0027s sources put the price near 42 rupees 45 paise, a discount of about 5 percent to Thursday\u0027s close.\n\nAnd a report from Grant Thornton Bharat says pharma and healthcare deal volumes rose 23 percent in the July to September quarter, to 87 deals worth 4.3 billion dollars.",
+                         "stories":  [
+                                         {
+                                             "title":  "Bombay Coated \u0026 Special Steels IPO opens: Anand Rathi bullish; here\u0027s why",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/ipo/bombay-coated-special-steels-ipo-opens-anand-rathi-bullish-here-s-why-126102900504_1.html"
+                                         },
+                                         {
+                                             "title":  "Wiscon Industries IPO sails through on final day, thanks to QIBs",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/ipo/wiscon-industries-ipo-sails-through-on-final-day-thanks-to-qibs-14063667.html"
+                                         },
+                                         {
+                                             "title":  "Sagility block deal: Promoter Sagility BV likely to sell 12% stake for Rs 2,377 crore",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/sagility-block-deal-promoter-sagility-bv-likely-to-sell-12-stake-for-rs-2377-crore/articleshow/135322817.cms"
+                                         },
+                                         {
+                                             "title":  "IIFL Capital launches up to $250 million block deal in Sagility",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/iifl-capital-launches-up-to-250-million-block-deal-in-sagility-14063761.html"
+                                         },
+                                         {
+                                             "title":  "India\u0027s pharma, healthcare deal volumes rise 23% in Q3 2026: Report",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/india-s-pharma-healthcare-deal-volumes-rise-23-in-q3-2026-report-126102901515_1.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Results roundup",
+                         "script":  "Now to the September quarter results, and a clear theme. As a Moneycontrol column put it, commodity companies have done well on higher prices, while those same costs are hurting consumer businesses.\n\nStarting with commodities. Coal India\u0027s profit jumped 57 percent to 6,547 crore rupees, from 4,167 crore a year ago, on revenue of about 44,179 crore. On the other side, Ambuja Cements\u0027 profit slumped 90 percent to 236 crore rupees, as fuel and freight costs squeezed margins and revenue stayed flat.\n\nIn consumer and retail, Trent\u0027s profit rose 25 percent to 468 crore rupees, and revenue grew 22 percent to 5,873 crore. It opened 29 new stores, and Bahram Vakil takes over as chairman as Noel Tata retires. Godrej Consumer\u0027s profit rose 14 percent, but the company says it is weighing price hikes on soaps and liquid detergents as costs climb.\n\nIn aviation, IndiGo swung to a loss of 1,879 crore rupees. Revenue rose 26 percent to about 23,364 crore, but fuel costs surged more than 67 percent. The airline plans to raise fares and trim flights. Even so, Jefferies, Nomura and HSBC kept their buy ratings, and the shares rose about 2 percent.\n\nIn finance, Motilal Oswal Financial Services tripled its profit to 1,081 crore rupees. SBI Mutual Fund\u0027s average assets rose 10 percent to 13.1 lakh crore rupees. And Tata Capital rallied over 5 percent after its numbers.\n\nA few more. Suzlon\u0027s profit rose just 1.3 percent, though revenue grew 26 percent on higher turbine deliveries. Brigade\u0027s profit rose 29 percent to 219 crore. Meesho\u0027s loss narrowed to about 132 crore rupees, from 411 crore. And in technology, eClerx fell 13 percent despite an 18 percent rise in revenue, while Birlasoft rallied 11 percent.\n\nToday, all eyes are on Reliance. Business Standard says brokerages expect its revenue to grow 22 to 30 percent from a year ago.",
+                         "stories":  [
+                                         {
+                                             "title":  "Q2 earnings: The good, the bad, and the road ahead",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/opinion/q2-earnings-the-good-the-bad-and-the-road-ahead-14063783.html"
+                                         },
+                                         {
+                                             "title":  "Coal India reports 57% rise in net profit to Rs 6,547 crore in Q2",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/coal-india-reports-57-rise-in-net-profit-to-rs-6547-crore-in-q2/articleshow/135338780.cms"
+                                         },
+                                         {
+                                             "title":  "Ambuja Cements\u0027 profit slumps 90% on higher costs, high previous-year base",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/ambuja-cements-profit-slumps-90-on-higher-costs-high-previous-year-base/articleshow/135320851.cms"
+                                         },
+                                         {
+                                             "title":  "Trent net profit up 25% despite cost pressures and stiff competition",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/trent-net-profit-up-25-despite-cost-pressures-and-stiff-competition/articleshow/135339383.cms"
+                                         },
+                                         {
+                                             "title":  "Godrej consumer profit rises 14%, weighs calibrated price hikes to offset inflation",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/godrej-consumer-profit-rises-14-weighs-calibrated-price-hikes-to-offset-inflation/articleshow/135339162.cms"
+                                         },
+                                         {
+                                             "title":  "IndiGo posts Rs 1,879-crore loss as high fuel costs, geopolitical woes hit",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/indigo-posts-rs-1879-crore-loss-as-high-fuel-costs-geopolitical-woes-hit-capacity-cuts-and-yield-management-offer-only-partial-relief-says-ceo-willie-walsh/articleshow/135339101.cms"
+                                         },
+                                         {
+                                             "title":  "IndiGo shares rise 2% after Q2 results; brokerages eye upside on passenger yields, pricing power",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/indigo-shares-rise-2-after-q2-results-jefferies-nomura-hsbc-see-up-to-30-upside-14064132.html"
+                                         },
+                                         {
+                                             "title":  "Motilal Oswal Financial Services Q2 profit surges 3-fold to Rs 1,081 crore",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/earnings/motilal-oswal-financial-services-q2-profit-surges-3-fold-to-rs-1-081-crore-14063782.html"
+                                         },
+                                         {
+                                             "title":  "SBI Mutual Fund\u0027s AUM rises 10% to 13.1 trn; H1 operating profit up 11%",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/companies/news/sbi-mutual-fund-s-aum-rises-10-to-13-1-trn-h1-operating-profit-up-11-126102900707_1.html"
+                                         },
+                                         {
+                                             "title":  "Tata Capital shares rally over 5% as brokerages give \u0027Buy\u0027 call after strong Q2 results",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/tata-capital-shares-rally-over-5-as-brokerages-give-buy-call-after-strong-q2-results-check-target-prices-14063680.html"
+                                         },
+                                         {
+                                             "title":  "Suzlon Energy Q2 profit up 1.3%, revenue rises 26%",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/suzlon-energy-q2-profit-up-1-3-revenue-rises-26/articleshow/135338430.cms"
+                                         },
+                                         {
+                                             "title":  "Brigade Group reports 29% growth in Q2 net profit at Rs 219 crore",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/brigade-group-reports-29-growth-in-q2-net-profit-at-rs-219-crore/articleshow/135320326.cms"
+                                         },
+                                         {
+                                             "title":  "Meesho shares gain 2% as Q2 loss narrows, CM expands; brokerages upbeat",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/meesho-shares-gain-2-as-q2-loss-narrows-cm-expands-brokerages-upbeat-126102900387_1.html"
+                                         },
+                                         {
+                                             "title":  "eClerx Services shares plunge 13% post company\u0027s second-quarter results",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/eclerx-services-shares-plunge-13-post-company-s-second-quarter-results-126102900576_1.html"
+                                         },
+                                         {
+                                             "title":  "Birlasoft share price rallies 11% on huge volume post Q2 results",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/birlasoft-share-price-rallies-11-on-huge-volume-post-q2-results-126102900328_1.html"
+                                         },
+                                         {
+                                             "title":  "RIL Q2 preview: Double-digit Ebitda growth seen; fundraising update eyed",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/ril-q2-results-preview-2026-double-digit-ebitda-growth-seen-fundraising-update-eyed-126102900822_1.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Economy and policy",
+                         "script":  "To the economy. The finance ministry\u0027s monthly review estimates growth of about 7.35 percent in the September quarter, after 7.8 percent in the June quarter. It credits factory output, tax collections, power use, port traffic and car sales. But it lists high crude prices, food inflation, a weak rupee and high American bond yields as risks, and says price stability is the priority for the rest of the year.\n\nThe International Monetary Fund says India remains an engine of world growth, with its forecast at 7 percent for this financial year and next. It says the risks from a Super El Nino have not yet shown up, and it will look again in January. The agricultural economist Ashok Gulati is more worried. He told Moneycontrol farm growth could turn negative this year, and fertiliser subsidies could reach 3 lakh crore rupees.\n\nOn the brighter side, services grew widely in August. Seventeen of nineteen segments expanded, led by retail trade, up nearly 20 percent.\n\nNow to the rupee and rates. The rupee closed three paise stronger at 95.25 to the dollar. Reuters, writing in Business Standard, says the ten-year bond yield is near its highest since 2022, with traders betting on another Reserve Bank rate hike in December, possibly by half a percentage point. And the rating agency Icra says that if crude stays between 105 and 115 dollars, oil companies could lose over 64,000 crore rupees on petrol and diesel this year.\n\nOne more for the tax watchers. The debate on capital gains tax is heating up. The industry body PHDCCI has asked the finance ministry to abolish long-term capital gains tax on shares. Jefferies says the options before the government range from special treatment for foreign investors to a cut for everyone. Boston Consulting Group\u0027s India chairman, Janmejaya Sinha, calls a cut a short-term fix, and says India must tackle its current account deficit.",
+                         "stories":  [
+                                         {
+                                             "title":  "Finance ministry estimates India\u0027s Q2 FY27 GDP growth at 7.35%",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/indicators/finance-ministry-estimates-indias-q2-fy27-gdp-growth-at-7-35/articleshow/135298426.cms"
+                                         },
+                                         {
+                                             "title":  "Price stability top policy agenda in H2FY27 amid inflation: FinMin review",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/price-stability-top-policy-agenda-in-h2fy27-amid-inflation-finmin-review-126102901807_1.html"
+                                         },
+                                         {
+                                             "title":  "India remains growth engine; Super El Nino impact yet to materialise: IMF",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/india-remains-growth-engine-super-el-nino-impact-yet-to-materialise-imf-126102901811_1.html"
+                                         },
+                                         {
+                                             "title":  "Agricultural growth may turn negative this year: ICRIER professor Ashok Gulati",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/agricultural-growth-may-turn-negative-this-year-suryakhet-can-deliver-10x-income-growth-icrier-professor-ashok-gulati-14064089.html"
+                                         },
+                                         {
+                                             "title":  "Services growth widens in August; 13 of 19 sectors post double-digit gains",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/services-growth-widens-in-august-13-of-19-sectors-post-double-digit-gains-126102901335_1.html"
+                                         },
+                                         {
+                                             "title":  "Rupee rises 3 paise to close at 95.25 against US dollar",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/rupee-rises-3-paise-to-close-at-95-25-against-us-dollar-14063620.html"
+                                         },
+                                         {
+                                             "title":  "India bonds seen attracting buyers as 10-year yield nears 2022 levels",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/india-bonds-seen-attracting-buyers-as-10-year-yield-nears-2022-levels-126102900690_1.html"
+                                         },
+                                         {
+                                             "title":  "OMCs likely to face Rs 64,000 cr auto-fuel under-recoveries in FY27 if crude stays at $115/bbl",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/omcs-likely-to-face-rs-64-000-cr-auto-fuel-under-recoveries-in-fy27-if-crude-stays-at-115-bbl-14062595.html"
+                                         },
+                                         {
+                                             "title":  "Abolish LTCG, rationalise STCG, STT rates on equities: PHDCCI to Finance Ministry",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/policy/abolish-ltcg-rationalise-stcg-stt-rates-on-equities-phdcci-to-finance-ministry/articleshow/135299950.cms"
+                                         },
+                                         {
+                                             "title":  "Differential treatment for FPIs to across-the-board LTCG tax cut options before govt: Jefferies",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/differential-treatment-for-fpis-to-across-the-board-ltcg-tax-cut-options-before-govt-jefferies-14063725.html"
+                                         },
+                                         {
+                                             "title":  "Reducing LTCG tax on equities a short term fix: BCG India Chairman Janmejaya Sinha",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/reducing-ltcg-tax-on-equities-a-short-term-fix-india-must-address-its-current-account-deficit-bcg-india-chairman-janmejaya-sinha-14063546.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Around the world",
+                         "script":  "Around the world, the American Federal Reserve held its rate range at 3.75 to 4 percent. Its chair, Kevin Warsh, said fighting inflation comes first, and announced fewer rate meetings from 2027. American growth also came in strong, at 3.4 percent for the quarter, ahead of forecasts.\n\nBut Wall Street had a rough night. Alphabet fell about 10 percent after weak search and advertising sales, its biggest-ever loss of market value. Intel tumbled on a weak outlook, and Amazon slipped after hours on a revenue miss. Worries about heavy spending on artificial intelligence are back, and Nasdaq futures are down around 2 percent. In Korea, Samsung reported a record profit on demand for memory chips.\n\nOil is back up. Brent crude rose to about 115.7 dollars a barrel after Houthi attacks on Saudi Arabia, reversing Thursday\u0027s dip on hopes of talks between America and Iran. Gold is steady near 4,000 dollars an ounce, heading for a second monthly loss.\n\nAnd in crypto, Binance has frozen about 2.5 billion dollars of assets while it looks into a suspected hack that could be the largest ever. Bitcoin slipped below 79,000 dollars.",
+                         "stories":  [
+                                         {
+                                             "title":  "US Fed Meet Highlights: Fed holds rates at 3.75%-4%; Warsh says inflation fight is priority",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/markets/global-markets/us-fed-meeting-live-updates-kevin-warsh-speech-fed-rate-hike-decision-news-liveblog-14062592.html"
+                                         },
+                                         {
+                                             "title":  "US economy grows faster-than-expected 3.4%, most in a year",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/world/us-economy-grows-faster-than-expected-3-4-most-in-a-year-article-14063708.html"
+                                         },
+                                         {
+                                             "title":  "US stocks fall as Alphabet plunges 10% on weak earnings, reviving AI spending concerns",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/us-stocks-fall-as-alphabet-plunges-10-on-weak-earnings-reviving-ai-spending-concerns-14063751.html"
+                                         },
+                                         {
+                                             "title":  "Samsung keeps shattering profit records as AI boom lifts chip demand",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/world-news/samsung-keeps-shattering-profit-records-as-ai-boom-lifts-chip-demand-126102900116_1.html"
+                                         },
+                                         {
+                                             "title":  "Oil prices rise on supply concerns as Houthis attack Saudi Arabia",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/commodities/oil-prices-rise-on-supply-concerns-as-houthis-attack-saudi-arabia-126103000085_1.html"
+                                         },
+                                         {
+                                             "title":  "Commodity Corner: Oil gains on US-Iran tensions; gold steadies near $4,000",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/commodities/commodity-corner-oil-gains-on-us-iran-tensions-gold-steadies-near-4-000-14063769.html"
+                                         },
+                                         {
+                                             "title":  "Binance hack: Tether, Circle freeze $2.4 billion in crypto assets; Bitcoin tumbles below $79,000",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/cryptocurrency/binance-hack-tether-circle-freeze-2-4-billion-in-crypto-assets-bitcoin-tumbles-below-79-000-heres-what-happened-11793321650037.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Stories you\u0027re following",
+                         "script":  "An update on the Jio IPO you\u0027re following. In its second session, Jio rose as much as 5 percent, taking it about 33 percent above the issue price, with a market value near 13.7 lakh crore rupees. It reports its first results as a listed company today.\n\nAnd on the India-US trade deal, Piyush Goyal said on Thursday that the agreement protects every sensitive Indian interest, including farmers, and that people will celebrate once the details are out.",
+                         "stories":  [
+                                         {
+                                             "title":  "Jio Platforms shares extend listing day gains, jump 5%; m-cap at 13.70 trn",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/jio-platforms-shares-extend-listing-day-gains-jump-5-m-cap-at-13-70-trn-126102900257_1.html"
+                                         },
+                                         {
+                                             "title":  "US trade deal will protect all sensitive Indian interests: Piyush Goyal",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/us-trade-deal-will-protect-all-sensitive-indian-interests-piyush-goyal-126102900870_1.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Your money",
+                         "script":  "Finally, your money. If you trade on margin, take note. The National Stock Exchange\u0027s inspections found brokers giving margin trading funding against shares that are not eligible, mishandling client funds and falling short on cybersecurity. It is worth checking your broker\u0027s statements.\n\nFor employers, the government has extended the amnesty scheme under the Employees\u0027 State Insurance Act by three months, to the thirty-first of December. It covers court cases filed up to the thirty-first of March 2025.\n\nThe provident fund body, EPFO, is drafting rules to put up to 3 percent of its fresh inflows each year into startup and alternative investment funds. Farmers will get the twenty-fourth instalment of PM-KISAN, worth about 19,000 crore rupees, during the Prime Minister\u0027s Gujarat visit. And for gold buyers, gold on the domestic commodity exchange was around 1,43,600 rupees for ten grams on Thursday.\n\nThat\u0027s the brief. Today, watch whether the Nifty can hold 22,800 after the overnight tech sell-off, and keep an eye on oil after the attacks on Saudi Arabia. And Reliance and Jio report their numbers later today. Have a good Friday, and a good weekend.",
+                         "stories":  [
+                                         {
+                                             "title":  "NSE flags gaps in margin trading facility and client fund handling",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/nse-flags-broker-lapses-in-margin-trading-client-funds-and-cybersecurity-126102901449_1.html"
+                                         },
+                                         {
+                                             "title":  "Govt extends Amnesty Scheme under ESIC for three month till December 31",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/policy/govt-extends-amnesty-scheme-under-esic-for-three-month-till-december-31/articleshow/135297550.cms"
+                                         },
+                                         {
+                                             "title":  "EPFO plans to channel 3% of fresh inflows into startups, AIF investments",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/epfo-plans-to-channel-3-of-fresh-inflows-into-startups-aif-investments-126102900706_1.html"
+                                         },
+                                         {
+                                             "title":  "PM Modi\u0027s Gujarat visit: Rs 14,000-crore projects, Rs 19,000-crore PM-KISAN payout",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/infrastructure/pm-modis-gujarat-visit-rs-14000-crore-projects-rs-19000-crore-pm-kisan-payout-new-trains-and-ahmedabad-metro-expansion-on-agenda/articleshow/135341550.cms"
+                                         },
+                                         {
+                                             "title":  "Gold, silver open weak after Fed keeps rates unchanged, prices volatile",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/commodities/gold-silver-open-weak-after-fed-keeps-rates-unchanged-prices-volatile-126102900370_1.html"
+                                         }
+                                     ]
+                     }
+                 ]
+}
