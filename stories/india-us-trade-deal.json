@@ -2,10 +2,10 @@
     "slug":  "india-us-trade-deal",
     "title":  "The India–US trade deal",
     "started":  "2025-02-13",
-    "updatedAt":  "2026-10-27T09:30:00+05:30",
+    "updatedAt":  "2026-10-30T09:45:00+05:30",
     "status":  "active",
-    "summary":  "India and the United States began work on a Bilateral Trade Agreement in February 2025. The goal was to more than double two-way trade to 500 billion dollars by 2030. Talks soon ran into trouble. By late August 2025, American tariffs on most Indian goods had climbed to 50 percent, including a penalty over India's purchases of Russian oil.\n\nIn February 2026, the two sides agreed a framework for a first, interim deal. Washington cut its tariff on Indian goods to 18 percent and dropped the oil penalty. Weeks later, the US Supreme Court struck down the tariffs that the deal was built around, sending negotiators back to the table. In October 2026, Piyush Goyal said the first part was in legal drafting, Marco Rubio said the sides were very, very close, and President Trump called it pretty close. On 26 October, Goyal said most discussions were over and the agreement was being fine-tuned.",
-    "watch":  "The open questions are a signing date, the final tariff rate India gets compared with rivals like Vietnam, access for American dairy, the outcome of US trade investigations, and India's Russian oil purchases. US Trade Representative Jamieson Greer has said President Trump and Prime Minister Modi may speak again soon. US midterm elections fall on 3 November.",
+    "summary":  "India and the United States began work on a Bilateral Trade Agreement in February 2025. The goal was to more than double two-way trade to 500 billion dollars by 2030. Talks soon ran into trouble. By late August 2025, American tariffs on most Indian goods had climbed to 50 percent, including a penalty over India\u0027s purchases of Russian oil.\n\nIn February 2026, the two sides agreed a framework for a first, interim deal. Washington cut its tariff on Indian goods to 18 percent and dropped the oil penalty. Weeks later, the US Supreme Court struck down the tariffs that the deal was built around, sending negotiators back to the table. In October 2026, Piyush Goyal said the first part was in legal drafting, Marco Rubio said the sides were very, very close, and President Trump called it pretty close. On 26 October, Goyal said most discussions were over and the agreement was being fine-tuned. On 29 October, he said the deal would protect every sensitive Indian interest, including farmers.",
+    "watch":  "The open questions are a signing date, the final tariff rate India gets compared with rivals like Vietnam, access for American dairy, the outcome of US trade investigations, and India\u0027s Russian oil purchases. US Trade Representative Jamieson Greer has said President Trump and Prime Minister Modi may speak again soon. US midterm elections fall on 3 November.",
     "timeline":  [
                      {
                          "date":  "2025-02-13",
@@ -75,7 +75,7 @@
                      {
                          "date":  "2025-09-16",
                          "title":  "Talks resume in New Delhi",
-                         "text":  "Assistant US Trade Representative Brendan Lynch came to New Delhi to restart the stalled talks. He met India's chief negotiator, Rajesh Agrawal. Progress had been slow, as India resisted American demands to open its farm and dairy sectors.",
+                         "text":  "Assistant US Trade Representative Brendan Lynch came to New Delhi to restart the stalled talks. He met India\u0027s chief negotiator, Rajesh Agrawal. Progress had been slow, as India resisted American demands to open its farm and dairy sectors.",
                          "sources":  [
                                          {
                                              "title":  "India, US resume trade talks in Delhi as US trade representative Bendan Lynch arrives",
@@ -102,7 +102,7 @@
                          "text":  "The two countries issued a joint statement setting out a framework for an interim trade deal. India agreed to cut or remove tariffs on all American industrial goods and many farm products. It said it intends to buy 500 billion dollars of American energy, aircraft, technology and other goods over five years. Trump also signed an order ending the Russian oil penalty from 7 February.",
                          "sources":  [
                                          {
-                                             "title":  "India, US Reach Framework For Interim Trade Agreement; PM Modi Hails It As 'Great News'",
+                                             "title":  "India, US Reach Framework For Interim Trade Agreement; PM Modi Hails It As \u0027Great News\u0027",
                                              "source":  "ETV Bharat",
                                              "link":  "https://www.etvbharat.com/en/bharat/us-and-india-joint-statement-on-india-us-interim-trade-agreement-enn26020700547"
                                          },
@@ -119,7 +119,7 @@
                          "text":  "The US Supreme Court ruled that an emergency powers law did not let the president impose tariffs. That knocked out the tariffs used against India in 2025. The administration replaced them with a temporary global tariff that can last up to 150 days.",
                          "sources":  [
                                          {
-                                             "title":  "Why US Supreme Court's Tariff Ruling Is Both Relief and Risk for India",
+                                             "title":  "Why US Supreme Court\u0027s Tariff Ruling Is Both Relief and Risk for India",
                                              "source":  "Outlook Business",
                                              "link":  "https://www.outlookbusiness.com/economy-and-policy/why-us-supreme-courts-tariff-ruling-is-both-relief-and-risk-for-india"
                                          }
@@ -131,7 +131,7 @@
                          "text":  "On 11 March, the US Trade Representative opened investigations into India and 15 other economies over excess factory capacity, which could lead to new tariffs. Days later, an Indian official said the interim deal would be signed only after Washington settles its new tariff plans. The deal had been expected to be signed by mid March.",
                          "sources":  [
                                          {
-                                             "title":  "US to probe 'unfair trade practices' by India, 15 other countries; inquiry may lead to new tariffs",
+                                             "title":  "US to probe \u0027unfair trade practices\u0027 by India, 15 other countries; inquiry may lead to new tariffs",
                                              "source":  "Scroll",
                                              "link":  "https://scroll.in/latest/1091327/scroll_in"
                                          },
@@ -148,7 +148,7 @@
                          "text":  "Secretary of State Marco Rubio met External Affairs Minister S Jaishankar in New Delhi. Rubio said the two sides had made tremendous progress and were on the verge of a trade agreement. He gave no timeline.",
                          "sources":  [
                                          {
-                                             "title":  "US, India on verge of trade deal, 'tremendous progress' in talks: Marco Rubio",
+                                             "title":  "US, India on verge of trade deal, \u0027tremendous progress\u0027 in talks: Marco Rubio",
                                              "source":  "The Tribune",
                                              "link":  "https://www.tribuneindia.com/news/top-headlines/us-india-on-verge-of-trade-deal-tremendous-progress-in-talks-marco-rubio/"
                                          }
@@ -165,7 +165,7 @@
                                              "link":  "https://www.businesstoday.in/latest/economy/story/identified-the-items-but-india-us-trade-deal-not-imminent-says-ustr-jamieson-greer-559189-2026-10-02"
                                          },
                                          {
-                                             "title":  "India-US trade deal's first tranche finalised, undergoing legal drafting and final review: Piyush Goyal",
+                                             "title":  "India-US trade deal\u0027s first tranche finalised, undergoing legal drafting and final review: Piyush Goyal",
                                              "source":  "India TV",
                                              "link":  "https://www.indiatvnews.com/business/news/india-us-trade-deal-first-tranche-finalised-undergoing-legal-drafting-and-final-review-piyush-goyal-latest-updates-2026-10-15-1057082"
                                          }
@@ -218,7 +218,7 @@
                      {
                          "date":  "2026-10-21",
                          "title":  "Trump says the deal is pretty close",
-                         "text":  "As reported on 21 October, President Trump said a trade deal with India was pretty close, and would be very different from earlier pacts. The US ambassador, Sergio Gor, said Washington aims to lift two-way trade above 500 billion dollars within three years, from a record 240 billion dollars. Later that day, Rubio toured Reliance's Jamnagar refinery with Mukesh Ambani, where they discussed energy supplies, technology, data centres and possible commercial partnerships.",
+                         "text":  "As reported on 21 October, President Trump said a trade deal with India was pretty close, and would be very different from earlier pacts. The US ambassador, Sergio Gor, said Washington aims to lift two-way trade above 500 billion dollars within three years, from a record 240 billion dollars. Later that day, Rubio toured Reliance\u0027s Jamnagar refinery with Mukesh Ambani, where they discussed energy supplies, technology, data centres and possible commercial partnerships.",
                          "sources":  [
                                          {
                                              "title":  "Rubio, Mukesh Ambani discuss energy, technology partnerships at Jamnagar",
@@ -256,6 +256,33 @@
                                              "title":  "India and US fine-tune trade pact after concluding most talks, says Piyush Goyal",
                                              "source":  "Economic Times",
                                              "link":  "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-and-us-fine-tune-trade-pact-after-concluding-most-talks-says-piyush-goyal/articleshow/135218011.cms"
+                                         }
+                                     ]
+                     },
+                     {
+                         "date":  "2026-10-29",
+                         "title":  "Goyal: no sensitive interest compromised",
+                         "text":  "At a conference in Delhi on Thursday, Piyush Goyal said the trade deal would protect every sensitive Indian interest, including farmers, and that people would celebrate once the details were out. He said it would give India a strong comparative advantage, and criticised opposition parties for attacking a deal whose details are not yet public. He also said the India-US trade facilitation portal had drawn about 3,500 registrations, and that India could still reach its target of one trillion dollars in exports this year.",
+                         "sources":  [
+                                         {
+                                             "title":  "US trade deal will protect all sensitive Indian interests: Piyush Goyal",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/us-trade-deal-will-protect-all-sensitive-indian-interests-piyush-goyal-126102900870_1.html"
+                                         },
+                                         {
+                                             "title":  "US trade deal will protect all sensitive Indian interests, says Piyush Goyal",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/foreign-trade/us-trade-deal-will-protect-all-sensitive-indian-interests-says-piyush-goyal/articleshow/135318000.cms"
+                                         },
+                                         {
+                                             "title":  "India-US trade facilitation portal records 3,500 registrations, says Piyush Goyal",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/foreign-trade/piyush-goyal-trade-facilitation-portal-3500-registrations/articleshow/135293200.cms"
+                                         },
+                                         {
+                                             "title":  "India can achieve $1 trillion exports target this fiscal despite global headwinds: Piyush Goyal",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-can-achieve-1-trillion-exports-target-this-fiscal-despite-global-headwinds-piyush-goyal/articleshow/135322112.cms"
                                          }
                                      ]
                      }
