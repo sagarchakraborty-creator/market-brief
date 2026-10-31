@@ -1,0 +1,341 @@
+{
+    "date":  "2026-10-31",
+    "edition":  "Morning",
+    "generatedAt":  "2026-10-31T09:35:00+05:30",
+    "headline":  "Record Reliance profit, foreign buyers return, Wall Street tech slump",
+    "segments":  [
+                     {
+                         "title":  "The big picture",
+                         "script":  "Good morning. It\u0027s Saturday, the thirty-first of October, and this is your Market Brief.\n\nThree things matter this morning. First, Reliance Industries posted the biggest quarterly profit in its history, and Jio Platforms reported its first numbers as a listed company. Second, foreign investors finally turned buyers. They ended a nine-week selling streak, and the Nifty closed back above 23,000. Third, a storm on Wall Street. Worries about how much Big Tech is spending on artificial intelligence sent the Nasdaq down nearly 3 percent overnight, and that sets a nervous tone for Monday.",
+                         "stories":  [
+                                         {
+                                             "title":  "Reliance Industries reports highest-ever revenue, quarterly profit at new high in Q2; here are 10 key highlights",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/earnings/reliance-industries-reports-highest-ever-revenue-quarterly-profit-at-new-high-in-q2-here-are-10-key-highlights-14064658.html"
+                                         },
+                                         {
+                                             "title":  "Nifty reclaims 23,000 as FIIs turn net buyers; rupee ends unchanged",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/photos/business/markets/nifty-reclaims-23-000-as-fiis-turn-net-buyers-rupee-ends-unchanged-14064896.html"
+                                         },
+                                         {
+                                             "title":  "Wall Street closes sharply lower as AI cash burn fears spark tech selloff",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/wall-street-closes-sharply-lower-as-ai-cash-burn-fears-spark-tech-selloff-14064895.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "How markets closed",
+                         "script":  "Friday was a good day for the headline indices, but not for most portfolios. The Sensex rose 308 points to close at 74,459. The Nifty gained about half a percent to 23,053. That makes it about 1,200 points on the Sensex over two sessions.\n\nBut look under the surface. The midcap and smallcap indices fell as much as 2 percent, and falling shares outnumbered rising ones. Suzlon, Swiggy, STL and HFCL dropped as much as 10 percent.\n\nThe leaders were IT and pharma. The Nifty IT index rose over 2 percent, and the BSE IT index is up about 14 percent in October, its second-sharpest monthly rally in more than two decades. The Nifty Pharma index hit a record high, with Sun Pharma, Laurus, Zydus and others up as much as 6 percent. Consumer durables fell nearly 2 percent.\n\nAmong stocks, Trent jumped as much as 7 percent on strong results, and IndiGo rose over 4 percent. Godrej Consumer fell 7 percent to a four-year low on margin worries.\n\nNow to the money flows. Foreign institutional investors bought shares worth about 6,305 crore rupees over the week, according to Moneycontrol, snapping a nine-week selling streak. For October as a whole, the Nifty gained 1.9 percent to a six-month high, and the Sensex ended a two-month losing streak.\n\nLevels to watch. Analysts quoted by Moneycontrol say the short-term outlook stays positive as long as the Nifty holds 22,800. A decisive move above 23,200, one analyst said, could carry it towards 23,500 to 23,600.",
+                         "stories":  [
+                                         {
+                                             "title":  "Market wrap: Shriram Finance, Nestle India, Trent, InterGlobe top gainers and losers on Nifty and Sensex on Friday",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-shriram-finance-nestle-india-trent-interglobe-top-gainers-and-losers-on-nifty-and-sensex-on-friday/articleshow/135357312.cms"
+                                         },
+                                         {
+                                             "title":  "Sensex rises 308 points, Nifty above 23,000 even as broader markets crash. Will D-Street bulls extend recovery next week?",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-308-points-nifty-above-23000-even-as-broader-markets-crash-will-d-street-bulls-extend-recovery-next-week/articleshow/135356125.cms"
+                                         },
+                                         {
+                                             "title":  "Mid-, small-caps under pressure; Suzlon, Swiggy, STL, HFCL plunge up to 10%",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/mid-smallcaps-under-pressure-suzlon-swiggy-stl-hfcl-slip-up-to-10-126103000657_1.html"
+                                         },
+                                         {
+                                             "title":  "BSE IT index set to report 2nd sharpest monthly rally in over two decades",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/bse-it-index-set-to-report-2nd-sharpest-monthly-rally-in-over-two-decades-126103000470_1.html"
+                                         },
+                                         {
+                                             "title":  "Nifty Pharma index hits record high; Sun, Laurus, Zydus, Sai rally up to 6%",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/nifty-pharma-index-hits-record-high-sun-laurus-zydus-sai-rally-up-to-6-126103000861_1.html"
+                                         },
+                                         {
+                                             "title":  "Nifty reclaims 23,000 as FIIs turn net buyers; rupee ends unchanged",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/photos/business/markets/nifty-reclaims-23-000-as-fiis-turn-net-buyers-rupee-ends-unchanged-14064896.html"
+                                         },
+                                         {
+                                             "title":  "Markets hit 6-month high in Oct on IT rally, Jio Platforms IPO frenzy",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/markets-hit-6-month-high-in-oct-on-it-rally-jio-platforms-ipo-frenzy-126103001606_1.html"
+                                         },
+                                         {
+                                             "title":  "Technical View: Short-term outlook for Nifty is positive as long as it holds 22,800, say analysts",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/technical-view-short-term-outlook-for-nifty-is-positive-as-long-as-it-holds-22-800-say-analysts-14064588.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "IPOs and deals",
+                         "script":  "In the primary market, SEBI has cleared four more companies to raise money. Atomberg Technologies, Ratnadeep Retail, Punjab Carbonic and GNI Infrastructure all received the regulator\u0027s observations this week.\n\nJio\u0027s debut drew heavy borrowing. Business Standard reports that retail investors took about 234 million dollars in margin funding to trade Jio on listing day. That came weeks after a wave of margin-call selling shrank the market\u0027s margin book from a record 1.59 lakh crore rupees at the end of September to 1.51 lakh crore rupees.\n\nTwo big block deals. Tencent sold its stake in Swiggy for about 982 crore rupees, and Swiggy fell nearly 5 percent to close near its record low. And Sagility\u0027s promoter sold a 12 percent stake for about 2,395 crore rupees, with six institutions buying just over 5 percent between them.",
+                         "stories":  [
+                                         {
+                                             "title":  "Atomberg Technologies, Ratnadeep Retail among four IPOs to receive SEBI nod",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/ipo/atomberg-technologies-ratnadeep-retail-among-four-ipos-to-receive-sebi-nod-14064642.html"
+                                         },
+                                         {
+                                             "title":  "Retail investors tap $234 mn in margin funding to trade Jio on debut day",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/retail-investors-tap-234-mn-in-margin-funding-to-trade-jio-on-debut-day-126103000526_1.html"
+                                         },
+                                         {
+                                             "title":  "Block Deals: Tencent Holdings exits Swiggy for Rs 982 crore",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/block-deals-tencent-holdings-exits-swiggy-for-rs-982-crore-14064794.html"
+                                         },
+                                         {
+                                             "title":  "Sagility promoter sells 12% stake for Rs 2,395 crore; Smallcap World Fund raises holding in Lotus Developers",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/sagility-promoter-sells-12-stake-for-rs-2-395-crore-smallcap-world-fund-raises-holding-in-lotus-developers-14064786.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Results roundup",
+                         "script":  "Now to results, and Friday was a big one.\n\nReliance Industries first. Its profit hit a record, though sources quote it two ways. Profit attributable to shareholders rose about 41 percent to 25,548 crore rupees. Total profit, including minority partners, rose about 34 percent to 29,550 crore rupees. Revenue was a record 3.62 lakh crore rupees, and operating profit rose about 24 percent to 62,409 crore rupees. The oil-to-chemicals business drove it, on strong refining margins. Retail was the soft spot. Reliance Retail\u0027s gross revenue rose about 6 percent to 91,716 crore rupees, but profit fell, as the festive season shifted into the December quarter.\n\nJio Platforms, in its first results since listing, grew profit about 14 percent to 8,389 crore rupees on revenue of 40,475 crore rupees.\n\nIn banking and finance, Bank of Baroda\u0027s profit jumped 36 percent to 6,532 crore rupees, helped by gains from selling part of its stake in the National Stock Exchange. Gross bad loans fell to 1.78 percent, and the bank raised its loan and deposit growth guidance.\n\nIn pharma, Sun Pharma\u0027s profit fell 36 percent to 1,989 crore rupees, hit by one-time litigation and acquisition costs. Revenue still grew about 12 percent to 16,199 crore rupees, led by India and emerging markets.\n\nIn consumer names, Asian Paints\u0027 profit rose 7.5 percent to about 1,068 crore rupees on 17 percent sales growth, and it plans more staggered price hikes because of raw-material costs. Trent\u0027s revenue rose 22.5 percent to 5,788 crore rupees, with operating profit up almost 30 percent. Varun Beverages grew profit about 14 percent to 831 crore rupees, but packaging costs squeezed margins, and the shares fell about 5 percent.\n\nElsewhere, IndiGo posted a third straight quarterly loss, of 1,880 crore rupees, as fuel costs rose 67 percent. Coal India\u0027s profit rose 57 percent to 6,547 crore rupees, but the shares fell 3 percent as Jefferies and JM Financial cut their target prices. And Lodha Developers grew first-half profit 63 percent and expects to beat its full-year guidance.",
+                         "stories":  [
+                                         {
+                                             "title":  "Reliance Industries Q2 Results: Profit shoots up 41% YoY to Rs 25,548 crore, revenue surges 29%",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-industries-q2-results-profit-shoots-up-41-yoy-to-rs-25548-crore-revenue-up-12/articleshow/135361960.cms"
+                                         },
+                                         {
+                                             "title":  "Reliance Industries delivers record Q2 performance as key businesses drive growth, revenue rises 28%",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/earnings/reliance-industries-delivers-record-q2-performance-as-key-businesses-drive-growth-revenue-rises-28-14064609.html"
+                                         },
+                                         {
+                                             "title":  "Reliance Retail Q2 Results: Revenue up 6%, but late festive season, digital spends hit profit",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-retail-q2-results-net-profit-falls-24-yoy-to-rs-2611-crore-gross-revenue-rises-6/articleshow/135366729.cms"
+                                         },
+                                         {
+                                             "title":  "Jio Platforms Q2 Results: Profit rises 14% YoY to Rs 8,389 crore; revenue up 11%",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/jio-platforms-q2-results-profit-rises-14-yoy-to-rs-8389-crore-revenue-up-11/articleshow/135364558.cms"
+                                         },
+                                         {
+                                             "title":  "Bank of Baroda Q2 Results: Standalone profit jumps 36% YoY to Rs 6,532 crore; NII up 9%",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/bank-of-baroda-q2-results-standalone-profit-jumps-36-yoy-to-rs-6532-crore-nii-up-9/articleshow/135359927.cms"
+                                         },
+                                         {
+                                             "title":  "Sun Pharma Q2 Results: Profit falls 36% YoY to Rs 1,989 crore on exceptional charges",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/sun-pharma-q2-results-profit-falls-36-yoy-to-rs-1989-crore-on-exceptional-charges/articleshow/135352681.cms"
+                                         },
+                                         {
+                                             "title":  "Asian Paints\u0027 consolidated profit jumps 7.5% YoY in Q2",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/asian-paints-consolidated-profit-jumps-7-5-yoy-in-q2/articleshow/135356862.cms"
+                                         },
+                                         {
+                                             "title":  "Trent\u0027s Q2 margin, growth bring cheer. Can it sustain the momentum?",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/mark-to-market/trents-q2-margin-growth-brings-cheer-can-it-sustain-share-target-zudio-and-westside-11793344201078.html"
+                                         },
+                                         {
+                                             "title":  "Why is VBL down 5% despite Q3 PAT jumps on double-digit volume growth?",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/why-is-vbl-share-price-down-5-despite-q3-pat-jumps-on-double-digit-volume-growth-126103000823_1.html"
+                                         },
+                                         {
+                                             "title":  "Why IndiGo shares flew over 4% despite 3rd straight quarterly loss amid higher fuel costs: What lies ahead?",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/why-indigo-shares-flew-over-4-despite-3rd-straight-quarterly-loss-amid-higher-fuel-costs-what-lies-ahead-11793364252733.html"
+                                         },
+                                         {
+                                             "title":  "Coal India shares fall 3% after Q2 results; Jefferies, Motilal Oswal, others cut target price",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/coal-india-shares-fall-3-after-q2-results-jefferies-motilal-oswal-others-cut-target-price/articleshow/135349282.cms"
+                                         },
+                                         {
+                                             "title":  "Lodha Developers H1FY27 net profit soars 63%, expects to beat full-year guidance",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/lodha-developers-h1fy27-net-profit-soars-63-expects-to-beat-full-year-guidance/articleshow/135369310.cms"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Economy and policy",
+                         "script":  "To the economy. The Centre\u0027s fiscal deficit for April to September was 7.14 lakh crore rupees. That\u0027s 42.1 percent of the full-year target, and about 25 percent more than a year ago. Spending rose about 11 percent, driven by capital expenditure and food subsidies, while gross tax revenue grew only about 6 percent.\n\nIndia\u0027s foreign exchange reserves fell for a seventh straight week, by about 1.3 billion dollars, to around 719.8 billion dollars. A drop in the value of gold holdings did most of the damage. The rupee ended Friday 3 paise firmer, at 95.25 to the dollar.\n\nOn trade, the services surplus rose to 53.39 billion dollars in the September quarter. The government has extended the duty exemption on cotton imports to the thirty-first of December, and the Cabinet approved a 10,000 crore rupee scheme to build shipping containers in India.\n\nFrom the Reserve Bank, Deputy Governor Poonam Gupta said growth could have topped 8 percent without the recent global shocks. The Reserve Bank is also tightening cyber checks on banks after a run of hacks. On the other side, Niti Aayog\u0027s Ashok Lahiri flagged risks to growth if monetary policy is tightened further.\n\nTwo items for the profession. The Central Board of Indirect Taxes is holding outreach on the GST reforms from the fifty-seventh Council meeting, including a higher threshold for prosecution, which take effect from the first of April 2027. And the Institute of Chartered Accountants will issue a guidance note on the new auditor\u0027s report order for multi-state cooperative societies, notified on the fourteenth of October.",
+                         "stories":  [
+                                         {
+                                             "title":  "Centre\u0027s fiscal deficit widens to 42% of FY27 target in H1: CGA data",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/centre-s-fiscal-deficit-widens-to-42-of-fy27-target-in-first-half-cga-126103001658_1.html"
+                                         },
+                                         {
+                                             "title":  "Fiscal deficit in H1 rises to 42.1% of FY27 target on higher capex, subsidies",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/indicators/fiscal-deficit-in-h1-rises-to-42-1-of-fy27-target-on-higher-capex-subsidies/articleshow/135374307.cms"
+                                         },
+                                         {
+                                             "title":  "Gold pulls forex reserves down for seventh straight week to $719.8 billion",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/gold-pulls-forex-reserves-down-for-seventh-straight-week-to-719-8-billion-126103001414_1.html"
+                                         },
+                                         {
+                                             "title":  "Rupee rises 3 paise to close at 95.25 against US dollar",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/rupee-rises-3-paise-to-close-at-95-25-against-us-dollar-14063620.html"
+                                         },
+                                         {
+                                             "title":  "India\u0027s services trade surplus rises to $53.39 billion in Q2",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/indicators/indias-services-trade-surplus-rises-to-53-39-billion-in-q2/articleshow/135367632.cms"
+                                         },
+                                         {
+                                             "title":  "Govt extends customs duty exemption on cotton imports till December 31",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/foreign-trade/govt-extends-customs-duty-exemption-on-cotton-imports-till-december-31/articleshow/135385169.cms"
+                                         },
+                                         {
+                                             "title":  "Cabinet approves ₹10,000 cr container manufacturing scheme: Why it matters",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/india-container-manufacturing-scheme-maritime-trade-shipping-imports-126103000871_1.html"
+                                         },
+                                         {
+                                             "title":  "India\u0027s GDP growth would have exceeded 8% but for recent global shocks: RBI Deputy Governor Poonam Gupta",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/india-s-gdp-growth-would-have-exceeded-8-but-for-recent-global-shocks-rbi-deputy-governor-poonam-gupta-14061615.html"
+                                         },
+                                         {
+                                             "title":  "RBI tightens cyber checks on lenders after spate of hacks",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/policy/rbi-cracks-down-on-cybersecurity-banks-face-increased-scrutiny-amid-rising-ai-driven-hacks/articleshow/135352566.cms"
+                                         },
+                                         {
+                                             "title":  "Niti Aayog\u0027s Lahiri flags growth risks in case of further monetary policy tightening",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/policy/niti-aayogs-lahiri-flags-growth-risks-in-case-of-further-monetary-policy-tightening/articleshow/135369106.cms"
+                                         },
+                                         {
+                                             "title":  "CBIC holds outreach programme in Chandigarh to discuss GST 2.0 reforms with taxpayers",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/finance/cbic-holds-outreach-programme-in-chandigarh-to-discuss-gst-2-0-reforms-with-taxpayers/articleshow/135363478.cms"
+                                         },
+                                         {
+                                             "title":  "ICAI to issue guidance note on new audit reporting framework for multi-state cooperative societies",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/policy/icai-to-issue-guidance-note-on-new-audit-reporting-framework-for-multi-state-cooperative-societies/articleshow/135359320.cms"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Around the world",
+                         "script":  "Around the world, it was a rough Friday for technology. In New York, the Dow fell about 1.1 percent, the S\u0026P 500 1.8 percent, and the Nasdaq nearly 2.9 percent, its biggest daily fall since June. Investors fear Big Tech\u0027s spending on artificial intelligence is eating its cash. Intel plunged around 30 percent and Reddit 29 percent, while Alphabet and Amazon slid after their results.\n\nAdd to that a record crypto theft. Binance halted withdrawals after hackers stole 6.3 billion dollars, with analysts suspecting North Korea. The exchange says it will cover the losses.\n\nThe US economy, meanwhile, grew a faster-than-expected 3.4 percent. The Federal Reserve held rates at 3.75 to 4 percent, and Chair Kevin Warsh said fighting inflation is the priority. Mint reports that markets now expect a possible rate hike in December.\n\nOn oil, crude is still above 110 dollars a barrel, with risks around the Strait of Hormuz. Mirae Asset Sharekhan sees Brent in a broad 105 to 120 dollar range while the US-Iran standoff lasts. Rating agency Icra estimates that if crude stays near 115 dollars and pump prices don\u0027t rise, oil marketing companies could lose over 64,000 crore rupees on petrol and diesel this year.",
+                         "stories":  [
+                                         {
+                                             "title":  "Wall Street closes sharply lower as AI cash burn fears spark tech selloff",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/wall-street-closes-sharply-lower-as-ai-cash-burn-fears-spark-tech-selloff-14064895.html"
+                                         },
+                                         {
+                                             "title":  "October ends with a thud for Intel, Reddit, AI stalwarts",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/october-ends-with-a-thud-for-intel-reddit-ai-stalwarts-14064828.html"
+                                         },
+                                         {
+                                             "title":  "Chip stocks crash: Intel plunges 30%, AMD drops 12%, Nvidia and Broadcom also slide — what\u0027s driving the selloff?",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/chip-stocks-crash-intel-plunges-30-amd-drops-12-nvidia-and-broadcom-also-slide-whats-driving-the-selloff-11793380373861.html"
+                                         },
+                                         {
+                                             "title":  "Binance hit by record $6.3 bn crypto theft; North Korea suspected",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/world-news/binance-hit-by-record-6-3-bn-crypto-theft-north-korea-suspected-126103001944_1.html"
+                                         },
+                                         {
+                                             "title":  "US economy grows faster-than-expected 3.4%, most in a year",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/world/us-economy-grows-faster-than-expected-3-4-most-in-a-year-article-14063708.html"
+                                         },
+                                         {
+                                             "title":  "US Fed Meet Highlights: Fed holds rates at 3.75%-4%; Warsh says inflation fight is priority, rules out political influence",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/markets/global-markets/us-fed-meeting-live-updates-kevin-warsh-speech-fed-rate-hike-decision-news-liveblog-14062592.html"
+                                         },
+                                         {
+                                             "title":  "US-Iran war may keep oil in broad $105-120/bbl range: Mirae Asset Sharekhan",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/us-iran-war-may-keep-oil-in-broad-105-120-bbl-range-mirae-asset-sharekhan-126103000665_1.html"
+                                         },
+                                         {
+                                             "title":  "OMCs likely to face Rs 64,000 cr auto-fuel under-recoveries in FY27 if crude stays at $115/bbl",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/omcs-likely-to-face-rs-64-000-cr-auto-fuel-under-recoveries-in-fy27-if-crude-stays-at-115-bbl-14062595.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Stories you\u0027re following",
+                         "script":  "An update on the Jio IPO you\u0027re following. In its first results as a listed company, Jio reported profit up about 14 percent, revenue per user up to 218 rupees 80 paise, and 9.1 million new subscribers, taking its base to 542.4 million. Monday is the first trading session after those numbers.",
+                         "stories":  [
+                                         {
+                                             "title":  "After IPO listing, Jio Platforms Q2 results 2026 announced: Check ARPU, profit, revenue, EBITDA, Subscriber Base details",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/after-ipo-listing-jio-platforms-q2-results-2026-announced-check-arpu-profit-revenue-ebitda-subscriber-base-details-11793367854729.html"
+                                         },
+                                         {
+                                             "title":  "RIL, JPL Q2 results 2026 impact: Reliance Industries, Jio Platforms shares in focus on Monday 2 Nov - What to expect?",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/ril-jpl-q2-results-2026-impact-reliance-industries-jio-platforms-shares-in-focus-on-monday-2-nov-what-to-expect-11793373081405.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Your money",
+                         "script":  "Now, your money. Gold has fallen to a seven-month low just ahead of Dhanteras. MCX gold slipped below 1.42 lakh rupees per ten grams on Friday, and silver has lost about 45,000 rupees a kilo in October, its steepest monthly fall this year. Strong US data and the chance of a Fed rate hike are weighing on both. Mirae Asset Sharekhan says gold\u0027s support is near 3,930 dollars an ounce, and silver could slide towards 48 dollars.\n\nA few rules change tomorrow, the first of November. SEBI is making direct mutual fund plans the default option on fund houses\u0027 digital platforms. Regular plans still hold about 63 percent of retail fund assets. And Punjab National Bank is revising its credit card charges, including cash withdrawal fees, late payment charges and utility bill fees.\n\nFor pensioners, the pension regulator has launched a digital life certificate facility for the Unified Pension Scheme, on the Protean eGov app. Central government employees and pensioners see dearness allowance and relief go up from 60 to 63 percent, effective the first of July. House rent allowance doesn\u0027t change.\n\nA tax calendar reminder: November brings TDS payment dates, deadlines for TDS and TCS certificates, and the extended return-filing deadline for audit cases.\n\nThat\u0027s the brief. Here\u0027s what to watch. Markets are shut for the weekend, so Monday, the second of November, is the first chance to react to the Reliance and Jio numbers, and to Friday night\u0027s tech sell-off in New York. Keep an eye on whether foreign investors keep buying, whether the Nifty holds 22,800, and on gold and silver into Dhanteras. Have a good weekend.",
+                         "stories":  [
+                                         {
+                                             "title":  "Silver price crash deepens as Oct losses hit ₹45,000/kg; gold falls to 7-month low: Why are precious metals sinking?",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/silver-price-crash-deepens-as-oct-losses-hit-rs-45-000-kg-gold-falls-to-7-month-low-why-are-precious-metals-sinking-11793368770318.html"
+                                         },
+                                         {
+                                             "title":  "India gold price, October 30: MCX rate crashes below ₹1.42 lakh ahead of Dhanteras - What\u0027s triggering sell-off?",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/commodities/india-gold-price-october-30-mcx-rate-crashes-below-rs-1-42-lakh-ahead-of-dhanteras-whats-triggering-selloff-11793360090751.html"
+                                         },
+                                         {
+                                             "title":  "Gold faces further losses as $3,930 support in focus: Mirae Asset Sharekhan",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/gold-faces-further-losses-as-3-930-support-in-focus-mirae-asset-sharekhan-126103000480_1.html"
+                                         },
+                                         {
+                                             "title":  "Over 63% of retail mutual fund AUM is in regular plans: Why is SEBI pushing direct plans? Experts explain pros and cons",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/over-63-of-retail-mutual-fund-aum-is-in-regular-plans-why-is-sebi-pushing-direct-plans-experts-explain-pros-and-cons-11793353762462.html"
+                                         },
+                                         {
+                                             "title":  "PNB credit card holders alert: Check new ATM withdrawal, late payment and utility bill charges from November 1",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/pnb-credit-card-holders-alert-check-new-atm-withdrawal-late-payment-and-utility-bill-charges-from-november-1-11793411280197.html"
+                                         },
+                                         {
+                                             "title":  "PFRDA launches UPS Jeewan Setu Digital Life Certificate facility: How pensioners can submit form on Protean eGov App",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/pfrda-launches-ups-jeewan-setu-digital-life-certificate-facility-how-pensioners-can-submit-form-on-protean-egov-app-11793406230786.html"
+                                         },
+                                         {
+                                             "title":  "DA now at 63%: Will the latest hike increase your HRA too, or only your monthly salary?",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/da-now-at-63-will-the-latest-hike-increase-your-hra-too-or-only-your-monthly-salary-11793358505705.html"
+                                         },
+                                         {
+                                             "title":  "November 2026 income tax calendar: Check key deadlines for TDS payments, tax certificates and ITR filing",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/november-2026-income-tax-calendar-check-key-deadlines-for-tds-payments-tax-certificates-and-itr-filing-11793339559723.html"
+                                         }
+                                     ]
+                     }
+                 ]
+}
