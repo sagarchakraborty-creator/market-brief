@@ -2,10 +2,10 @@
     "slug":  "jio-ipo",
     "title":  "The Jio IPO",
     "started":  "2019-08-12",
-    "updatedAt":  "2026-10-30T09:45:00+05:30",
+    "updatedAt":  "2026-10-31T09:30:00+05:30",
     "status":  "active",
-    "summary":  "Mukesh Ambani first promised a Jio listing in 2019. In 2020, Facebook, Google and other global investors bought big stakes in Jio Platforms. The listing then slipped year after year, most recently when war in West Asia unsettled markets in 2026.\n\nThe regulator cleared the draft prospectus on 28 August 2026. The issue was made up only of new shares, mostly to repay debt at Reliance Jio Infocomm, and at an upper price of 1,119 rupees it was a record offer of about 30,200 crore rupees. It closed on 23 October booked 22.19 times. The shares listed on 28 October and closed that day about 26.7 percent above the issue price, making Jio India\u0027s second most valuable company. In the second session they climbed further, to about 33 percent above the issue price and a market value of about 13.7 lakh crore rupees.",
-    "watch":  "Jio reports its first quarterly results as a listed company today, the thirtieth, alongside Reliance Industries, and the market expects revenue to grow both from a year ago and from the June quarter, according to Mint. Watch the numbers and any word on the use of the issue money. Further out, watch whether PhonePe, Flipkart and others follow it to the market.",
+    "summary":  "Mukesh Ambani first promised a Jio listing in 2019. In 2020, Facebook, Google and other global investors bought big stakes in Jio Platforms. The listing then slipped year after year, most recently when war in West Asia unsettled markets in 2026.\n\nThe regulator cleared the draft prospectus on 28 August 2026. The issue was made up only of new shares, mostly to repay debt at Reliance Jio Infocomm, and at an upper price of 1,119 rupees it was a record offer of about 30,200 crore rupees. It closed on 23 October booked 22.19 times. The shares listed on 28 October and closed that day about 26.7 percent above the issue price, making Jio India\u0027s second most valuable company. In the second session they climbed further, to about 33 percent above the issue price and a market value of about 13.7 lakh crore rupees. On the thirtieth, in its first results as a listed company, Jio reported a September-quarter profit of 8,389 crore rupees, up about 14 percent, on revenue of 40,475 crore rupees.",
+    "watch":  "Jio\u0027s shares trade for the first time after its results on Monday, the second of November, and Mint says Reliance and Jio will both be in focus. Watch how the market reads the 14 percent profit growth and the rise in revenue per user, any word on tariff increases, and whether PhonePe, Flipkart and others follow Jio to the market.",
     "timeline":  [
                      {
                          "date":  "2019-08-12",
@@ -456,6 +456,33 @@
                                              "title":  "Jio\u0027s strong market debut boosts confidence in India\u0027s IPO pipeline",
                                              "source":  "Business Standard",
                                              "link":  "https://www.business-standard.com/markets/ipo/jio-s-strong-market-debut-boosts-confidence-in-india-s-ipo-pipeline-126102900518_1.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "date":  "2026-10-30",
+                         "title":  "First results as a listed company",
+                         "text":  "Jio Platforms reported its first quarterly results since listing. Net profit for the September quarter rose about 14 percent from a year ago to 8,389 crore rupees, and revenue grew about 11 percent to 40,475 crore rupees, according to the Economic Times and Mint. Average revenue per user rose to 218 rupees 80 paise, and the company added 9.1 million subscribers, taking its base to 542.4 million. Business Standard also reported that retail investors had borrowed about 234 million dollars in margin funding to trade Jio on its debut day.",
+                         "sources":  [
+                                         {
+                                             "title":  "Jio Platforms Q2 Results: Profit rises 14% YoY to Rs 8,389 crore; revenue up 11%",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/jio-platforms-q2-results-profit-rises-14-yoy-to-rs-8389-crore-revenue-up-11/articleshow/135364558.cms"
+                                         },
+                                         {
+                                             "title":  "After IPO listing, Jio Platforms Q2 results 2026 announced: Check ARPU, profit, revenue, EBITDA, Subscriber Base details",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/after-ipo-listing-jio-platforms-q2-results-2026-announced-check-arpu-profit-revenue-ebitda-subscriber-base-details-11793367854729.html"
+                                         },
+                                         {
+                                             "title":  "RIL, JPL Q2 results 2026 impact: Reliance Industries, Jio Platforms shares in focus on Monday 2 Nov - What to expect?",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/ril-jpl-q2-results-2026-impact-reliance-industries-jio-platforms-shares-in-focus-on-monday-2-nov-what-to-expect-11793373081405.html"
+                                         },
+                                         {
+                                             "title":  "Retail investors tap $234 mn in margin funding to trade Jio on debut day",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/retail-investors-tap-234-mn-in-margin-funding-to-trade-jio-on-debut-day-126103000526_1.html"
                                          }
                                      ]
                      }
