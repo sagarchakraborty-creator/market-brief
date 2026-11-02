@@ -1,0 +1,370 @@
+{
+    "date":  "2026-11-02",
+    "edition":  "Morning",
+    "generatedAt":  "2026-11-02T09:10:00+05:30",
+    "headline":  "GST jumps 23 percent, foreign buyers return, ITC reports today",
+    "segments":  [
+                     {
+                         "title":  "The big picture",
+                         "script":  "Good morning. It\u0027s Monday, the second of November, and this is your Market Brief.\n\nThree things matter most today. First, GST collections had their fastest growth in over four years. Gross collections jumped nearly 23 percent in October to about 2.31 lakh crore rupees, on festive demand and a surge in revenue from imports.\n\nSecond, foreign investors are buying again. They pulled out 34,843 crore rupees over October as a whole, but turned net buyers in the last week of the month. GIFT Nifty points to a firm start this morning.\n\nThird, results season rolls on. Reliance posted its strongest quarter ever, the state-run fuel retailers swung to big profits, and ITC reports today, with analysts bracing for a weak number.",
+                         "stories":  [
+                                         {
+                                             "title":  "GST collections rise 23% to Rs 2.3 lakh crore in October, fastest growth in over four years",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/gst-collections-rise-23-to-rs-2-3-lakh-crore-in-october-fastest-growth-in-over-four-years-14065402.html"
+                                         },
+                                         {
+                                             "title":  "FPIs pull out Rs 34,843 cr from equities in Oct; turn net buyers last week",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/fpis-pull-out-rs-34843-cr-from-equities-in-oct-turn-net-buyers-last-week/articleshow/135419712.cms"
+                                         },
+                                         {
+                                             "title":  "Stocks in news: Reliance Industries, Jio Platforms, M\u0026M, CDSL, ITC, NTPC, IOCL and Hero MotoCorp",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-reliance-industries-jio-platforms-mm-cdsl-itc-ntpc-iocl-and-hero-motocorp/articleshow/135432220.cms"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "How markets closed",
+                         "script":  "On Friday, the Sensex and the Nifty closed higher, with the Nifty back above the 23,000 mark. Over the week, both benchmarks gained about half a percent, led by large-cap, IT and healthcare stocks. Moneycontrol says the market value of BSE-listed companies rose by more than 22 lakh crore rupees over the week, with Ather Energy, Piramal Pharma and Laurus Labs each up more than 20 percent.\n\nNow to the flows. Foreign institutional investors bought shares worth 3,598 crore rupees on Friday, while domestic institutional investors sold about 817 crore rupees. The Economic Times says foreign investors have put in nearly 1.2 billion dollars over the last ten sessions, ending a ten-week selling streak, as global funds rethink their bets on the artificial intelligence trade.\n\nThe bigger picture is still sobering, though. Business Standard reports the Nifty is down about 12 percent so far this year, after ten straight years of gains, hurt by higher oil after the US-Israeli war on Iran and record foreign outflows of 31.3 billion dollars. Mint notes the Sensex touched a 52-week low last month before recovering, and options turnover hit a record.\n\nThe levels to watch. Analysts quoted by Moneycontrol and Angel One see 23,150 to 23,200 as the hurdle, close to the October swing high of 23,175. Sudeep Shah of SBI Securities says a breakout there could open the way to 23,500. On the downside, support is seen around 22,800, and then 22,650. This morning GIFT Nifty was trading near 23,291, up about 205 points, which points to a gap-up open.",
+                         "stories":  [
+                                         {
+                                             "title":  "Ahead of Market: 10 things that will decide stock market action on Monday",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/135426334.cms"
+                                         },
+                                         {
+                                             "title":  "Broader markets outperform; Ather Energy, Piramal Pharma, Laurus Labs surge over 20% each",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/broader-markets-outperform-ather-energy-piramal-pharma-laurus-labs-surge-over-20-each-14065365.html"
+                                         },
+                                         {
+                                             "title":  "First Tick: Top global cues to watch in today\u0027s trade",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/first-tick-top-global-cues-to-watch-in-today-s-trade-29-14064477.html"
+                                         },
+                                         {
+                                             "title":  "FPI buying returns to Dalal Street as global investors rethink AI bets",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/fpis-turn-net-buyers-as-ai-trade-worries-trigger-allocation-shift/articleshow/135441107.cms"
+                                         },
+                                         {
+                                             "title":  "Indian stocks may recover on steady growth, earnings, says Axis AMC",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/indian-stocks-may-recover-on-steady-growth-earnings-says-axis-amc-126110200048_1.html"
+                                         },
+                                         {
+                                             "title":  "Sensex options volumes soar to record highs as oil boils",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/bse-nse-sensex-options-nifty-options-options-turnover-average-daily-turnover-adpt-market-volatility-west-asia-war-11793555280858.html"
+                                         },
+                                         {
+                                             "title":  "Trading Plan: Can Nifty 50 surpass its October swing high, Bank Nifty rebound above 55,000?",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/trading-plan-can-nifty-50-surpass-its-october-swing-high-bank-nifty-rebound-above-55-000-14065630.html"
+                                         },
+                                         {
+                                             "title":  "Angel One: Breakout above 23,200 in Nifty may signal short-term trend shift",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/angel-one-breakout-above-23-200-in-nifty-may-signal-short-term-trend-shift-126110200052_1.html"
+                                         },
+                                         {
+                                             "title":  "Chartist Talk: Can confident bulls drive Nifty 50 beyond 23,500 next week? Sudeep Shah spots bullish momentum in 2 stocks",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/chartist-talk-can-confident-bulls-drive-nifty-50-beyond-23-500-next-week-sudeep-shah-spots-bullish-momentum-in-2-stocks-14065189.html"
+                                         },
+                                         {
+                                             "title":  "Stock market outlook today, 2 Nov: Sensex, Nifty prediction",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-2-nov-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11793580087099.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "IPOs and deals",
+                         "script":  "A quiet week for new issues. Moneycontrol says only one IPO opens this week, and it\u0027s on the small and medium enterprise platform. The main board will be idle, but 13 companies are set to list.\n\nFurther out, the pipeline of big names is building. Business Standard reports that Carlsberg has filed an updated draft prospectus for its Indian business, Pernod Ricard is doing preparatory work pending board approval, and Coca-Cola is exploring a listing of its Indian bottling arm.\n\nIn pharma deals, RPG Life Sciences says it plans to spend 500 crore rupees on another acquisition within the next twelve months.\n\nAnd one from abroad. Mint says wealthy Indians are asking their wealth managers how to get shares of Anthropic, after the AI company filed papers for its IPO last week. Getting hold of them, it seems, is easier said than done.",
+                         "stories":  [
+                                         {
+                                             "title":  "IPO Action: 1 public issue to launch, 13 companies set to make their debut next week",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/ipo/ipo-action-1-public-issue-to-launch-13-companies-set-to-make-their-debut-next-week-14065522.html"
+                                         },
+                                         {
+                                             "title":  "Global beverage majors Carlsberg, Pernod, Coca-Cola advance India IPO plans",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/ipo/global-beverage-majors-carlsberg-pernod-coca-cola-advance-india-ipo-plans-126110100369_1.html"
+                                         },
+                                         {
+                                             "title":  "RPG Life Sciences eyes another acquisition with ₹500 crore capital pool",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/companies/people/rpg-life-sciences-eyes-another-acquisition-with-500-crore-capital-pool-126110100615_1.html"
+                                         },
+                                         {
+                                             "title":  "Anthropic IPO enthralls India\u0027s uber-rich, but where are the shares?",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/ipo/indias-wealthy-want-a-slice-of-anthropic-but-its-easier-said-than-done-11793513283856.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Results roundup",
+                         "script":  "Now to results, and Reliance leads. Reliance Industries reported a net profit jump of about 41 percent in the September quarter, on record consolidated revenue. Oil-to-chemicals drove the growth. Retail profit came under pressure from spending on digital commerce, though digital commerce sales grew 42 percent. Reliance Retail\u0027s chief executive, Jeyandran Venugopal, told the Economic Times that margins should improve from next year as those online investments pay off.\n\nIn energy, the three state-run fuel retailers, Indian Oil, Bharat Petroleum and Hindustan Petroleum, together earned 30,106 crore rupees in the September quarter. That reverses a loss of 18,150 crore rupees a year ago, despite the freeze on petrol and diesel prices since May. Indian Oil posted its highest ever standalone quarterly profit on strong refining margins. But rating agency Icra warns that if crude stays between 105 and 115 dollars, the three could face under-recoveries of over 64,000 crore rupees on petrol and diesel this financial year. Separately, the government raised export duties on diesel and jet fuel, and cut the petrol export levy to zero, for the fortnight from the thirty-first of October.\n\nIn pharma, Sun Pharma\u0027s net profit fell about 36 percent to 1,988 crore rupees, weighed down by US litigation costs and the Organon acquisition. Revenue rose about 12 percent to 16,199 crore rupees, and its share of the Indian market rose to 8.6 percent. The shares still edged up on Friday. Granules India is in focus after the US drug regulator concluded an inspection of its Hyderabad plant with 11 observations; its board meets today.\n\nIn autos, Mahindra and Mahindra\u0027s exports jumped 77 percent to 7,102 units, and its board meets on the fifth. Maruti, Tata Motors, Hyundai, Eicher and TVS are also in focus after their monthly sales.\n\nAlso out over the weekend: NTPC, Bharat Electronics, Bank of Baroda, Muthoot Finance, PB Fintech and CDSL. And Varun Beverages, where Mint says a 28.7 percent jump in volumes could not hide margin pain from high packaging costs.\n\nToday, all eyes are on ITC. Analysts quoted by Business Standard expect revenue to fall around 5 percent and profit to drop by 15 to 28 percent, dragged down by the cigarette business. ITC shares are down 27 percent this year. Later this week, Dabur reports on the fourth and Emami on the fifth.",
+                         "stories":  [
+                                         {
+                                             "title":  "Reliance Industries eyes growth boost from O2C, retail and Jio businesses",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-industries-reports-strong-growth-in-september-quarter-driven-by-oil-to-chemicals-segment/articleshow/135441477.cms"
+                                         },
+                                         {
+                                             "title":  "Reliance Retail says profit margins will improve from next year as its online business investments pay off",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/reliance-retail-says-profit-margins-will-improve-from-next-year-as-its-online-business-investments-pay-off/articleshow/135441678.cms"
+                                         },
+                                         {
+                                             "title":  "IOC, BPCL, HPCL clock Rs 30,106 cr Q2 profit, nearly 39 pc of last year\u0027s annual earnings",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/ioc-bpcl-hpcl-clock-rs-30106-cr-q2-profit-nearly-39-pc-of-last-years-annual-earnings/articleshow/135420177.cms"
+                                         },
+                                         {
+                                             "title":  "OMCs likely to face Rs 64,000 cr auto-fuel under-recoveries in FY27 if crude stays at $115/bbl",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/omcs-likely-to-face-rs-64-000-cr-auto-fuel-under-recoveries-in-fy27-if-crude-stays-at-115-bbl-14062595.html"
+                                         },
+                                         {
+                                             "title":  "Tax twist for OMC stocks: Indian Oil, BPCL, HPCL shares in 2 Nov focus after this decision by Govt on petrol, diesel",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/tax-twist-for-omc-stocks-indian-oil-bpcl-hpcl-shares-in-2-nov-focus-after-this-decision-by-govt-on-petrol-diesel-11793531837968.html"
+                                         },
+                                         {
+                                             "title":  "Sun Pharma shares gain despite Q2 profit slips 36% YoY",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/sun-pharma-shares-gain-despite-q2-profit-slips-36-yoy-should-you-buy-sell-or-hold-what-brokerage-says-target-price-11793533331740.html"
+                                         },
+                                         {
+                                             "title":  "Sun Pharma\u0027s specialty portfolio, Organon deal to drive growth",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/sun-pharma-reports-double-digit-revenue-growth-amid-strong-specialty-medicine-performance/articleshow/135441533.cms"
+                                         },
+                                         {
+                                             "title":  "Granules India shares in focus after USFDA concludes Hyderabad facility inspection with 11 observations",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/granules-india-shares-in-focus-after-usfda-concludes-hyderabad-facility-inspection-with-11-observations-14065377.html"
+                                         },
+                                         {
+                                             "title":  "M\u0026M share price in focus after better sales data; board to meet on Nov 5",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/m-m-share-price-in-focus-after-better-sales-data-board-to-meet-on-nov-5-14065405.html"
+                                         },
+                                         {
+                                             "title":  "Stocks to watch: RIL, Jio Platforms, NTPC, Muthoot Finance, Bank of Baroda",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/stocks-to-watch-ril-jio-platforms-ntpc-muthoot-finance-bank-of-baroda-126110200060_1.html"
+                                         },
+                                         {
+                                             "title":  "Varun Beverages\u0027 Q3 volume surge can\u0027t mask margin pain",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/mark-to-market/varun-beverages-carbonated-soft-drinks-sting-pepsico-price-hikes-packaging-costs-11793513498775.html"
+                                         },
+                                         {
+                                             "title":  "ITC Q2 preview: Cigarette biz may drag PAT down up to 28%, say analysts",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/itc-q2-results-expectation-preview-pat-revenue-editda-margins-cigarette-business-volume-fmcg-agri-126110200072_1.html"
+                                         },
+                                         {
+                                             "title":  "ITC Q2 results 2026 preview: Will cigarette business drive growth?",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/itc-q2-results-2026-preview-will-cigarette-business-drive-growth-profit-revenue-expectations-share-price-target-11793540718182.html"
+                                         },
+                                         {
+                                             "title":  "Emami vs Dabur FMCG shares Q2 results preview",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/emami-vs-dabur-fmcg-shares-q2-results-preview-profit-revenue-expectations-dividend-announcements-in-focus-11793546880029.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Economy and policy",
+                         "script":  "To the economy, and the GST numbers in more detail. Gross collections rose 22.9 percent to about 2.31 lakh crore rupees in October, the fastest growth this financial year. Collections from domestic sales rose 16 percent, while revenue from imports jumped 42 percent to 72,246 crore rupees. After refunds, net collections rose about 26 percent to 2.03 lakh crore rupees. From April to October, gross collections are up 13.2 percent to about 14.78 lakh crore rupees. Maharashtra led the states with 35,150 crore rupees.\n\nThat fits with what Goldman Sachs is saying: the Centre looks on track to meet its fiscal deficit target this year, helped by strong corporate tax collections.\n\nNew GST rules also kicked in on the first of November. Under the new Rule 14B, small online sellers can register in a state where they have no office, by declaring the e-commerce operator\u0027s warehouse as their principal place of business. The refund process is also being reformed in phases. And the CII welcomed the GST Council\u0027s decision to remove arrest powers and raise the prosecution threshold, calling it a shift to trust-based governance.\n\nOne date for your calendar. Prime Minister Modi meets the new Niti Aayog leadership on the fifth of November, as the government begins shaping next year\u0027s Budget.\n\nOn the rupee and the RBI. The rupee closed at 95.25 to the dollar in its last reported session. The RBI\u0027s net short dollar forward position hit a record 239.2 billion dollars in September. SBI Research expects the 10-year government bond yield to ease to between 6.75 and 7 percent by March, even with a possible half-percentage-point rate hike. And RBI Deputy Governor Poonam Gupta said growth could have topped 8 percent but for global shocks.\n\nFuel prices moved too. Jet fuel rose by 1.37 rupees a litre to 138.50 rupees, the fourth straight monthly increase, and commercial LPG went up by 10 rupees to 2,820 rupees for a 19-kilogram cylinder. Meanwhile, India\u0027s crude imports hit a record of about 5.6 million barrels a day in October, according to the data firm Kpler.",
+                         "stories":  [
+                                         {
+                                             "title":  "Gross GST collections rise 23% to ₹2.31 trillion in October on strong sales",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/gross-gst-collections-rise-23-to-2-31-trillion-in-october-on-strong-sales-126110100248_1.html"
+                                         },
+                                         {
+                                             "title":  "India\u0027s October Gross GST collections jump 22.9% to Rs 2.31 lakh crore",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/finance/indias-october-gross-gst-collections-jump-22-9-to-rs-2-31-lakh-crore/articleshow/135420137.cms"
+                                         },
+                                         {
+                                             "title":  "India likely to meet FY27 fiscal deficit target despite spending pressures: Goldman Sachs",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/indicators/india-likely-to-meet-fy27-fiscal-deficit-target-despite-spending-pressures-goldman-sachs/articleshow/135442780.cms"
+                                         },
+                                         {
+                                             "title":  "GST registration new rules from Nov 1: How small online sellers can expand across states",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/gst-registration-new-rules-from-nov-1-how-small-online-sellers-can-expand-across-states-everything-you-need-to-know-11793529730533.html"
+                                         },
+                                         {
+                                             "title":  "GST refund new rules from November 1: here\u0027s what changes for businesses",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/gst-refund-new-rules-from-november-1-heres-what-changes-for-businesses-11793528273757.html"
+                                         },
+                                         {
+                                             "title":  "GST decriminalisation decision marks shift towards trust-based governance, says CII",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/gst-decriminalisation-decision-marks-shift-towards-trust-based-governance-says-cii-14065608.html"
+                                         },
+                                         {
+                                             "title":  "PM Modi to meet Niti Aayog leadership on Nov 5; likely to review work as govt begins shaping FY28 Budget",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/policy/pm-modi-to-meet-niti-aayog-leadership-on-nov-5-likely-to-review-work-as-govt-begins-shaping-fy28-budget/articleshow/135436989.cms"
+                                         },
+                                         {
+                                             "title":  "Rupee rises 3 paise to close at 95.25 against US dollar",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/rupee-rises-3-paise-to-close-at-95-25-against-us-dollar-14063620.html"
+                                         },
+                                         {
+                                             "title":  "RBI\u0027s net short dollar forward position hits record $239.2 bn in September",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/rbi-s-net-short-dollar-forward-position-hits-record-239-2-bn-in-september-126110100730_1.html"
+                                         },
+                                         {
+                                             "title":  "India\u0027s 10-year bond yield may ease to 6.75-7% by March: SBI Research",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/india-s-10-year-bond-yield-may-ease-to-6-75-7-by-march-sbi-research-126110100657_1.html"
+                                         },
+                                         {
+                                             "title":  "India\u0027s GDP growth would have exceeded 8% but for recent global shocks: RBI Deputy Governor Poonam Gupta",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/india-s-gdp-growth-would-have-exceeded-8-but-for-recent-global-shocks-rbi-deputy-governor-poonam-gupta-14061615.html"
+                                         },
+                                         {
+                                             "title":  "Commercial LPG rates increase by ₹10, ATF prices up by ₹1.37 per litre",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/commercial-lpg-rates-increase-by-10-atf-prices-up-by-1-37-per-litre-126110100124_1.html"
+                                         },
+                                         {
+                                             "title":  "Record oil imports reflect strong refinery runs, flexible Russian buying",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/record-oil-imports-reflect-strong-refinery-runs-flexible-russian-buying-126110100118_1.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Around the world",
+                         "script":  "Around the world, the AI trade is wobbling. Wall Street tumbled on Friday, with the Nasdaq posting its biggest one-day percentage fall since June, after disappointing results from Intel and Amazon deepened worries about massive AI spending. Asian shares are mixed to lower this morning. Traders now brace for the US midterm elections tomorrow, US jobs data, and Nvidia\u0027s results later this month.\n\nOn the other side, the US economy grew a faster-than-expected 3.4 percent, the most in a year. The Federal Reserve held rates at 3.75 to 4 percent, and Chair Kevin Warsh said the fight against inflation remains the priority.\n\nOil is cooling a little. Brent crude slipped more than 1 percent to around 111.84 dollars a barrel, as talks continue on ending the Iran war. OPEC plus has agreed to hold its production targets through December.\n\nAnd in China, regulators meet banks and brokers today to discuss ways to support the stock market.",
+                         "stories":  [
+                                         {
+                                             "title":  "Tech sell-off triggers risk off trade | Gold, Silver slide | Crude cools off after Friday rally",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/videos/business/markets/tech-sell-off-triggers-risk-off-trade-gold-silver-slide-crude-cools-off-after-friday-rally-14065946.html"
+                                         },
+                                         {
+                                             "title":  "Asian shares slide as AI spending worries mount ahead of tech earnings",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/asian-shares-slide-as-ai-spending-worries-mount-ahead-of-tech-earnings-126110200042_1.html"
+                                         },
+                                         {
+                                             "title":  "Wall Street braces for more wild days in stocks after tech rout",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/world/wall-street-braces-for-more-wild-days-in-stocks-after-tech-rout-article-14065607.html"
+                                         },
+                                         {
+                                             "title":  "US economy grows faster-than-expected 3.4%, most in a year",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/world/us-economy-grows-faster-than-expected-3-4-most-in-a-year-article-14063708.html"
+                                         },
+                                         {
+                                             "title":  "US Fed Meet Highlights: Fed holds rates at 3.75%-4%; Warsh says inflation fight is priority",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/markets/global-markets/us-fed-meeting-live-updates-kevin-warsh-speech-fed-rate-hike-decision-news-liveblog-14062592.html"
+                                         },
+                                         {
+                                             "title":  "Oil prices slip more than 1% as talks continue on ending Iran war",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/commodities/oil-prices-slip-more-than-1-as-talks-continue-on-ending-iran-war-126110200033_1.html"
+                                         },
+                                         {
+                                             "title":  "China Reportedly Discusses Ways to Support Stocks With Banks",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/china-reportedly-discusses-ways-to-support-stocks-with-banks-11793583684982.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Your money",
+                         "script":  "Now, your money. Gold had its worst October since 2008, down about 7 percent for the month, while silver fell about 19 percent. Gold bounced 0.7 percent this morning to near 3,900 dollars an ounce.\n\nIn mutual funds, small-cap funds were the worst equity category in October, down 5.83 percent on average. Technology funds were the standout, up 6.29 percent.\n\nA few tax points. Buying a car above 10 lakh rupees this Dhanteras? The 1 percent tax collected at source can be claimed as a credit when you file your return. The Delhi bench of the Income Tax Appellate Tribunal deleted a penalty of 3.08 lakh rupees on a salaried taxpayer who left out 4.49 lakh rupees of bank interest, citing a genuine omission and a poorly worded notice under section 270A. And Mint reminds non-resident Indians that section 54F relief is available on long-term gains from mutual funds, if the net proceeds go into a house in India, subject to conditions.\n\nOn provident fund, the EPFO has launched WhatsApp services to check your balance and latest transactions, and will automatically settle eligible inoperative accounts with balances up to 1,000 rupees. Infosys shareholders, note that the record date for the 26-rupee interim dividend is tomorrow.\n\nTwo investor warnings. Sebi chairman Tuhin Kanta Pandey says the regulator is working to delist companies with no economic activity, which are used in pump and dump schemes, and it is using AI to track them. Ten penny stocks have fallen between 34 and 73 percent in three months. And AU Small Finance Bank is investigating a possible breach of customer data stored on Salesforce.\n\nIf you bank with IDBI Bank, a strike is planned today and tomorrow, so branch services may be affected. The bank points customers to UPI, ATMs and internet banking.\n\nThat\u0027s the brief. Today, watch whether the Nifty can clear 23,200 after a gap-up start, ITC\u0027s numbers, crude around 111 dollars, and how markets position ahead of tomorrow\u0027s US midterms. Have a good Monday.",
+                         "stories":  [
+                                         {
+                                             "title":  "Crash! Gold price suffers worst October in years",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/commodities/crash-gold-price-suffers-worst-october-in-years-did-silver-and-platinum-suffer-too-check-monthly-performance-11793549898014.html"
+                                         },
+                                         {
+                                             "title":  "Gold rebounds 0.7% as oil price decline eases inflation fears, dip buyers step in",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/gold-rebounds-0-7-as-oil-price-decline-eases-inflation-fears-dip-buyers-step-in-14065639.html"
+                                         },
+                                         {
+                                             "title":  "Small-cap funds were the worst-performing equity category in October",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/smallcap-funds-were-the-worst-performing-equity-category-in-october-which-funds-held-up-and-which-lagged-behind-11793555904489.html"
+                                         },
+                                         {
+                                             "title":  "Technology funds delivered 6.3% returns in October, while no other category crossed 1%",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/technology-funds-delivered-6-3-returns-in-october-while-no-other-category-crossed-1-here-re-the-top-performing-funds-11793546659107.html"
+                                         },
+                                         {
+                                             "title":  "Buying a car on Dhanteras, Diwali 2026? You could get at least ₹10,000 as tax refund next year",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/buying-a-car-on-dhanteras-diwali-2026-you-could-get-at-least-10-000-as-tax-refund-next-year-heres-how-11793537101387.html"
+                                         },
+                                         {
+                                             "title":  "Bank interest not reported in ITR? ITAT ruling explains when taxpayers can escape income tax penalties",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/bank-interest-not-reported-in-itr-itat-ruling-explains-when-taxpayers-can-escape-income-tax-penalties-11793554136669.html"
+                                         },
+                                         {
+                                             "title":  "Moved abroad, selling mutual funds to buy a house in India? Know the tax rules",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/moved-abroad-selling-mutual-funds-to-buy-a-house-in-india-know-the-tax-rules-11793530476560.html"
+                                         },
+                                         {
+                                             "title":  "Explained | EPFO new initiatives: WhatsApp services, inactive PF accounts to get automatic settlement",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/explained-epfo-new-initiatives-whatsapp-services-inactive-pf-accounts-to-get-automatic-settlement-what-we-know-11793512914364.html"
+                                         },
+                                         {
+                                             "title":  "Infosys dividend 2026: Record date tomorrow",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/infosys-dividend-2026-record-date-tomorrow-know-dividend-payout-yield-history-returns-11793585489373.html"
+                                         },
+                                         {
+                                             "title":  "Sebi working to delist companies with no economic activity: Chairman",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/sebi-working-to-delist-companies-with-no-economic-activity-chairman-126110100260_1.html"
+                                         },
+                                         {
+                                             "title":  "10 penny stocks plunge up to 70% in three months. Do you own any?",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/10-penny-stocks-plunge-up-to-70-in-three-months-do-you-own-any/slideshow/135420900.cms"
+                                         },
+                                         {
+                                             "title":  "Cyberattacks on banks, including AU Small Finance Bank, worry insurers as claim risks rise",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/cyberattacks-on-banks-including-au-small-finance-bank-worry-insurers-as-claim-risks-rise/articleshow/135441593.cms"
+                                         },
+                                         {
+                                             "title":  "IDBI Bank strike on November 2, 3: What account holders should know",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/idbi-bank-strike-on-november-2-3-reason-will-customer-banking-services-be-affected-what-account-holders-should-know-11793517307308.html"
+                                         }
+                                     ]
+                     }
+                 ]
+}
