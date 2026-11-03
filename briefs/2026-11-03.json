@@ -1,0 +1,326 @@
+{
+    "date":  "2026-11-03",
+    "edition":  "Morning",
+    "generatedAt":  "2026-11-03T09:20:00+05:30",
+    "headline":  "Reliance lifts Sensex 1,233 points, FM open to capital gains tax review",
+    "segments":  [
+                     {
+                         "title":  "The big picture",
+                         "script":  "Good morning. It\u0027s Tuesday, the third of November, and this is your Market Brief.\n\nThree things matter most today. First, Reliance Industries carried the market. Its shares jumped 11.6 percent after record quarterly profit, their biggest one-day rise in over six years, and the Sensex closed up 1,233 points.\n\nSecond, the tax on long-term capital gains is back in play. The market regulator has recommended scrapping it for foreign investors, and Finance Minister Nirmala Sitharaman said she will consider the call for a review, because, in her words, the voices of concern are louder.\n\nThird, a busy day ahead. State Bank of India reports results today, and Americans vote in the midterm elections, while oil has dropped sharply on hopes of peace talks with Iran.",
+                         "stories":  [
+                                         {
+                                             "title":  "RIL shares surge 11.6% on strong Q2 earnings; analysts see further upside",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/reliance-surges-11-6-as-strong-q2-earnings-add-rs-1-83-lakh-crore-in-market-value/articleshow/135477257.cms"
+                                         },
+                                         {
+                                             "title":  "We will consider the call for review of LTCG tax: Finance minister Nirmala Sitharaman",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/we-will-consider-the-call-for-review-of-ltcg-tax-finance-minister-nirmala-sitharaman/articleshow/135478920.cms"
+                                         },
+                                         {
+                                             "title":  "Ahead of Budget 2027, Sebi recommends removal of 12.5% LTCG tax imposed on foreign investors | Latest update",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/ahead-of-budget-2027-sebi-recommends-removal-of-12-5-ltcg-tax-imposed-on-foreign-investors-latest-update-11793625599745.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "How markets closed",
+                         "script":  "On Monday, the Sensex rose 1,233 points and the Nifty gained 388 points, a jump of nearly 2 percent, with the Nifty reclaiming the 23,400 mark. Falling crude oil, strong results and foreign buying set the mood. Reliance alone added about 1.83 lakh crore rupees to its market value. Metals and cement stocks also gained.\n\nNow to the flows. Foreign institutional investors bought shares worth about 3,115 crore rupees, their second straight day of buying. Domestic institutions sold about 392 crore rupees. But the longer trend is stark. The Economic Times says foreign holding has hit multi-year lows in about 70 percent of India\u0027s top 100 companies, and Mint finds foreign investors cut their stake in 57 of 100 large companies in the September quarter.\n\nIn the bond market, the ten-year government bond yield fell nearly 10 basis points to 7.32 percent as crude slid.\n\nThe levels to watch. Analysts put immediate resistance for the Nifty at 23,500, then 23,600, where a gap from the ninth of September remains open, and then 23,800 to 24,000. Support sits at 23,200 to 23,300. GIFT Nifty was around 23,550 early this morning, pointing to a firm start.",
+                         "stories":  [
+                                         {
+                                             "title":  "Ahead of Market: 10 things that will decide stock market action on Tuesday",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/135466871.cms"
+                                         },
+                                         {
+                                             "title":  "Sensex surges over 1,200 points, Nifty reclaims 23,400 as RIL leads rally",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/sensex-surges-over-1200-points-nifty-reclaims-23400-as-ril-leads-rally/articleshow/135478423.cms"
+                                         },
+                                         {
+                                             "title":  "FIIs net bought Indian equities worth Rs 3115 crore while DIIs net sold Rs 392 crore on Nov 2",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/fiis-net-bought-indian-equities-worth-rs-3115-crore-while-diis-net-sold-rs-392-crore-on-nov-2-14066733.html"
+                                         },
+                                         {
+                                             "title":  "FPI holding hits multi-year lows in 70% of top 100 Indian companies",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/fpi-holding-hits-multi-year-lows-in-70-of-top-100-indian-companies/articleshow/135477354.cms"
+                                         },
+                                         {
+                                             "title":  "FPIs are buying again. Why is their share of Indian stocks still falling?",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/fii-fpi-outflows-from-india-large-cap-stocks-11793611054021.html"
+                                         },
+                                         {
+                                             "title":  "10-year Gsec yield falls 10 bps, rupee gains for 2nd day as oil prices rise",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/bond-yields-fall-nearly-10-bps-as-crude-slides-rupee-gains-against-dollar-126110201369_1.html"
+                                         },
+                                         {
+                                             "title":  "Technical View: Nifty stages strong bullish breakout, targets 23,600; Bank Nifty must defend 20-day EMA to sustain uptrend",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/technical-view-nifty-stages-strong-bullish-breakout-targets-23-600-bank-nifty-must-defend-20-day-ema-to-sustain-uptrend-14066573.html"
+                                         },
+                                         {
+                                             "title":  "Stock market outlook today, 3 Nov: Sensex, Nifty prediction - DJIA, S\u0026P, NASDAQ, GIFT Nifty, Kospi, Taiwan cues",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-3-nov-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-taiwan-cues-11793666426237.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "IPOs and deals",
+                         "script":  "To new listings. EAAA India Alternatives listed at a small premium and closed 3.77 percent above its issue price, at 1,727 rupees 80 paise. On debut day, HDFC Mutual Fund, Carnelian Asset Management and L and T together picked up about 2.9 percent of the company in bulk deals worth about 316 crore rupees.\n\nIn the pipeline, Coal India has filed draft papers to list its subsidiary South Eastern Coalfields, selling 66.81 crore shares, or 10 percent of the company. And StockGro, an investing app with over 35 million users, has filed for an IPO after tripling its profit to about 113 crore rupees last financial year.\n\nThe bigger picture: a Grant Thornton Bharat report says main-board IPOs raised a record 84,400 crore rupees in the first half of this financial year, up 30 percent, from 71 companies. Average listing-day gains rose to 18 percent. But Mint notes foreign investors\u0027 share of IPO anchor books has fallen to a five-year low, with domestic institutions stepping in.",
+                         "stories":  [
+                                         {
+                                             "title":  "Carnelian, HDFC AMC, L\u0026T acquire 2.9% stake in EAAA India Alternatives on debut day",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/carnelian-hdfc-amc-l-t-acquire-2-9-stake-in-eaaa-india-alternatives-on-debut-day-14066708.html"
+                                         },
+                                         {
+                                             "title":  "Coal India files DRHP to sell 10% stake in subsidiary SECL through IPO",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/companies/news/coal-india-files-drhp-to-sell-10-stake-in-subsidiary-secl-through-ipo-126110201248_1.html"
+                                         },
+                                         {
+                                             "title":  "IPO-bound StockGro\u0027s profit jumps 3-fold to Rs 113 cr in FY26 on strong revenue growth",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/ipo-bound-stockgros-profit-jumps-3-fold-to-rs-113-cr-in-fy26-on-strong-revenue-growth/articleshow/135465910.cms"
+                                         },
+                                         {
+                                             "title":  "IPO fundraising rises 30% to record ₹84,400 crore in H1FY27: Report",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/ipo-fundraising-rises-30-to-record-84-400-crore-in-h1fy27-report-126110201078_1.html"
+                                         },
+                                         {
+                                             "title":  "Foreign funds get picky, IPO anchor share hits five-year low",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/foreign-funds-fpi-ipo-anchor-share-five-year-low-equity-market-dii-11793599026286.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Results roundup",
+                         "script":  "Now to results. Motilal Oswal says this has been the strongest quarter of profit growth in 12 quarters, and it has raised its earnings estimates for the Nifty.\n\nIn consumer goods, ITC\u0027s consolidated profit fell 18.5 percent to 4,229 crore rupees. Higher cigarette taxes hurt, with the company absorbing part of the price increases, and cigarette operating profit fell more than 27 percent. On the other side, its non-cigarette businesses had their best revenue growth in 14 quarters. Marico had a stronger quarter. Profit jumped 31 percent on 13 percent revenue growth, though it flagged rising input costs from the West Asia conflict and poor weather.\n\nIn finance, Fusion Finance swung to a profit of 86.5 crore rupees from a loss a year ago, with bad loans down to 1.6 percent. In pharma, Granules India reported a 39 percent jump in profit. Container Corporation\u0027s profit dipped slightly.\n\nToday\u0027s big one is State Bank of India. Analysts expect net interest income to grow 11 to 13 percent, though they differ on profit. NSE, Bajaj Finserv, Solar Industries and Lloyds Metals also report.",
+                         "stories":  [
+                                         {
+                                             "title":  "Strongest profit growth in 12 quarters leads to Nifty EPS upgrades: Motilal Oswal",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/strongest-profit-growth-in-12-quarters-leads-to-nifty-eps-upgrades-motilal-oswal-14066514.html"
+                                         },
+                                         {
+                                             "title":  "ITC Q2 Results: Profit falls 18% to Rs 4,229 crore, revenue rises 5%",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/itc-q2-results-profit-falls-18-to-rs-4229-crore-revenue-rises-5/articleshow/135464317.cms"
+                                         },
+                                         {
+                                             "title":  "ITC shares to be in focus on Tuesday as Q2 net profit drops 18.5% on higher cigarette taxes",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/itc-shares-to-be-in-focus-on-tuesday-as-q2-net-profit-drops-18-5-on-higher-cigarette-taxes-11793631186838.html"
+                                         },
+                                         {
+                                             "title":  "Marico profit jumps 31%, flags rising input costs amid West Asia woes",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/marico-profit-jumps-31-flags-rising-input-costs-amid-west-asia-woes/articleshow/135478761.cms"
+                                         },
+                                         {
+                                             "title":  "Fusion Finance swings to Rs 86.5 crore profit as asset quality improves",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/fusion-finance-swings-to-rs-86-5-crore-profit-as-asset-quality-improves/articleshow/135465579.cms"
+                                         },
+                                         {
+                                             "title":  "Granules India shares in focus on posting 39% jump in Q2 profit",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/granules-india-shares-in-focus-on-posting-39-jump-in-q2-profit-14066694.html"
+                                         },
+                                         {
+                                             "title":  "SBI Q2 preview: NII to rise 11-13%; margin to hold on lower FCNR(B) flows",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/sbi-q2-results-preview-nii-to-rise-11-13-margin-to-hold-on-lower-fcnr-b-flows-126110200730_1.html"
+                                         },
+                                         {
+                                             "title":  "Stocks to watch: ITC, Lupin, NBCC, SBI, Dr Reddy\u0027s, Bosch, Ola Electric",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/stocks-to-watch-itc-lupin-nbcc-sbi-dr-reddy-s-bosch-ola-electric-126110300104_1.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Economy and policy",
+                         "script":  "To the economy, and the tax debate first. The market regulator has proposed scrapping the 12.5 percent long-term capital gains tax for foreign investors, and tax relief for mutual fund investors who switch schemes. SBI Research goes further. It suggests no tax on gains held over three years, a 2 lakh rupee exemption, and a 50 percent rise in securities transaction tax, putting the cost at 40,000 to 50,000 crore rupees. Jefferies says a cut could ease foreign outflows and support the rupee. But Bernstein\u0027s Venugopal Garre says a cut alone would not bring sustained foreign inflows. The finance minister also said the government will keep up its capital spending push, guided by fiscal prudence.\n\nThat prudence will be tested. SBI Research estimates the central fiscal deficit could overshoot the budget target by about 1.2 lakh crore rupees this year, on higher fertiliser, cooking gas and fuel subsidies. Ahead of next year\u0027s budget, the government is also reviewing customs duty concessions on 118 goods that are due to expire.\n\nOn the data, the HSBC manufacturing purchasing managers\u0027 index eased to 54.7 in October from 55.1, but export orders grew at their fastest pace in six months, and selling price inflation was the lowest in nearly four years. Car sales hit a record, and daily UPI payments touched 1 lakh crore rupees.\n\nIn banking, a month after the Reserve Bank\u0027s rate hike, banks have begun raising deposit rates as liquidity tightens. Bank of India is the latest, with a special 500-day deposit.\n\nOn trade, India and the European Union discussed customs and implementation ahead of signing their trade deal in December.",
+                         "stories":  [
+                                         {
+                                             "title":  "Sebi proposes LTCG tax relief for FPIs: What it means for Indian markets",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/sebi-long-term-capital-gains-tax-indian-markets-impact-foreign-investment-126110200664_1.html"
+                                         },
+                                         {
+                                             "title":  "No LTCG tax after 3 years? SBI Research proposes big relief for investors, says govt can absorb Rs 50,000 crore hit",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/no-ltcg-tax-after-3-years-sbi-research-proposes-big-relief-for-investors-says-govt-can-absorb-rs-50-000-crore-hit-14067190.html"
+                                         },
+                                         {
+                                             "title":  "A cut in equity LTCG tax could ease foreign outflows and support the rupee, says Jefferies",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/a-cut-in-equity-ltcg-tax-could-ease-foreign-outflows-and-support-the-rupee-says-jefferies-14066728.html"
+                                         },
+                                         {
+                                             "title":  "Can cutting LTCG, STCG revive FPI flows? JM Financial, Bernstein answer",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/can-cutting-ltcg-stcg-revive-fpi-flows-jm-financial-bernstein-answer-126110200610_1.html"
+                                         },
+                                         {
+                                             "title":  "Capex key to India\u0027s growth strategy, fiscal prudence remains top priority: Sitharaman at HSBC event",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/finance/capex-key-to-indias-growth-strategy-fiscal-prudence-remains-top-priority-sitharaman-at-hsbc-event/articleshow/135462064.cms"
+                                         },
+                                         {
+                                             "title":  "Centre\u0027s FY27 fiscal deficit may exceed Budget target by Rs 1.2 lakh crore: SBI Research",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/policy/centres-fy27-fiscal-deficit-may-exceed-budget-target-by-rs-1-2-lakh-crore-sbi-research/articleshow/135468858.cms"
+                                         },
+                                         {
+                                             "title":  "Budget 2027: Customs duty relief on 118 goods under review",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/policy/budget-2027-customs-duty-relief-on-118-goods-under-review/articleshow/135472857.cms"
+                                         },
+                                         {
+                                             "title":  "India\u0027s factory growth eases to 54.7 in October, export orders hit six-month high",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/india-s-factory-growth-eases-to-54-7-in-october-export-orders-hit-six-month-high-14066065.html"
+                                         },
+                                         {
+                                             "title":  "Q3 off to a sparkling start; car sales at record high, daily UPI value hits Rs 1 lakh crore",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/q3-off-to-a-sparkling-start-car-sales-at-record-high-daily-upi-value-hits-rs-1-lakh-crore-14066098.html"
+                                         },
+                                         {
+                                             "title":  "A month after RBI\u0027s rate hike, banks start raising deposit rates as liquidity shrinks, Bank of India the latest to move",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/a-month-after-rbis-rate-hike-banks-start-raising-deposit-rates-as-liquidity-shrinks-bank-of-india-the-latest-to-move/articleshow/135478028.cms"
+                                         },
+                                         {
+                                             "title":  "India, EU discuss FTA implementation issues ahead of signing in December",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/india-eu-discuss-fta-implementation-issues-ahead-of-signing-in-december-126110200408_1.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Around the world",
+                         "script":  "Around the world, oil is the big mover. Prices fell around 6 to 7 percent on Monday after Iran\u0027s President Masoud Pezeshkian signalled openness to talks, and officials met Qatari mediators. This morning Brent is steady near 105 dollars a barrel, nudging up after reports of fresh US strikes on Iran\u0027s Qeshm Island, even as President Trump says Iran wants a deal. Gold and silver bounced from multi-month lows as the oil slide eased inflation worries.\n\nOn Wall Street, the rotation out of technology continued. The Nasdaq fell 1.1 percent and the Nasdaq 100 slipped into a correction, while the S and P 500 lost half a percent and the Dow gained 0.4 percent. Marvell dropped 12 percent after announcing a 115 billion dollar deal for Lumentum, and Oracle fell 8 percent on plans to raise capital for its AI build-out. US Treasuries rallied as falling oil eased fears of more Fed rate hikes. Asian markets are mostly lower this morning.\n\nAmericans vote in the midterm elections today. Moneycontrol notes Democrats have widened their poll lead, and the prediction market Polymarket gives them about a 95 percent chance of taking the House.\n\nIn China, authorities will push financial institutions to make fuller use of two stock support tools. And in crypto, the FBI has blamed North Korea for the 6.3 billion dollar theft from Binance, the biggest crypto heist on record. North Korea denies it.",
+                         "stories":  [
+                                         {
+                                             "title":  "Oil drops 6% as Iran signals openness to peace talks",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/oil-drops-6-as-iran-signals-openness-to-peace-talks-14066683.html"
+                                         },
+                                         {
+                                             "title":  "Oil prices rise after report of US strikes on Iran\u0027s Qeshm Island",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/commodities/oil-prices-rise-after-report-of-us-strikes-on-iran-s-qeshm-island-126110300096_1.html"
+                                         },
+                                         {
+                                             "title":  "Nasdaq down 1% | Crude oil prices fall 7% on Monday | US Mid-terms in focus",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/videos/business/markets/nasdaq-down-1-crude-oil-prices-fall-7-on-monday-us-mid-terms-in-focus-14067195.html"
+                                         },
+                                         {
+                                             "title":  "Nasdaq 100 Enters Correction as Megacap Results Amplify AI Fears",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/nasdaq-100-enters-correction-as-megacap-results-amplify-ai-fears-11793658450748.html"
+                                         },
+                                         {
+                                             "title":  "Treasury Yields Extend Past Month\u0027s Slide as Oil Prices Drop",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/treasury-yields-extend-past-month-s-slide-as-oil-prices-drop-11793656834005.html"
+                                         },
+                                         {
+                                             "title":  "US midterms: Democrats widen lead since summer, with polls across political divide pointing the same way",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/politics/us-midterms-democrats-widen-lead-since-summer-with-polls-across-political-divide-pointing-the-same-way-14066545.html"
+                                         },
+                                         {
+                                             "title":  "China Boosts Use of Stock Support Tools to Stabilize Market",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/china-boosts-use-of-stock-support-tools-to-stabilize-market-11793661498373.html"
+                                         },
+                                         {
+                                             "title":  "North Korea Denies Role in $6.3 Billion Binance Crypto Heist",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/north-korea-denies-role-in-6-3-billion-binance-crypto-heist-11793662674891.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Stories you\u0027re following",
+                         "script":  "An update on the Jio IPO you\u0027re following. Parent Reliance surged 11.6 percent on Monday, and Business Standard now values its 64.5 percent stake in Jio Platforms at about 8.37 lakh crore rupees. Motilal Oswal\u0027s wealth research desk calls the Jio listing a re-rating catalyst for the whole telecom sector, including Airtel.",
+                         "stories":  [
+                                         {
+                                             "title":  "Reliance Industries takes the wheel, surges 12% to steer benchmarks higher",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/reliance-industries-takes-the-wheel-surges-12-to-steer-benchmarks-higher-126110201415_1.html"
+                                         },
+                                         {
+                                             "title":  "Jio Platforms listing a re-rating catalyst for telecom sector: MOFSL",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/jio-platforms-listing-a-re-rating-catalyst-for-telecom-sector-mofsl-126110300116_1.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Your money",
+                         "script":  "Now, your money. Fixed deposit rates are inching up after the Reserve Bank\u0027s October rate hike, so it\u0027s worth checking what your bank now offers.\n\nA few tax points. The return filing deadline for audit cases has been pushed to the twenty-first of November. The Delhi bench of the Income Tax Appellate Tribunal deleted an addition of 1.13 crore rupees after accepting that 3.9 kilos of jewellery found at a man\u0027s home belonged to his late wife and three married daughters, a reminder to keep proof of who owns family gold. Got a Diwali gift from your employer? Gifts under 15,000 rupees may be tax-free, but a cash bonus is taxed from the first rupee.\n\nFor freelancers and service exporters, the Reserve Bank has simplified export declaration rules under the foreign exchange law, with a 10 lakh rupee threshold and relief for resident individuals.\n\nGold, before Dhanteras. The evening rate for 24 carat gold fell 2,530 rupees to about 1,37,524 rupees per 10 grams on Monday, and silver slipped below 1.8 lakh rupees a kilo.\n\nOne date for your calendar. Coal India, Asian Paints and Godrej Consumer have set tomorrow, the fourth, as the record date for their interim dividends, and Concord Biotech for its one-for-one bonus. Under next-day settlement, shares must be bought by today to qualify.\n\nAnd some relief for patients. The drug price regulator has cut maximum retail prices on 543 cancer medicines from the ninth of November, which it estimates could save patients 2,500 to 3,500 crore rupees a year. Central government staff also get a 3 percent dearness allowance hike, to 63 percent of basic pay.\n\nThat\u0027s your brief. Today, watch State Bank of India\u0027s results, whether the Nifty can clear 23,500, oil prices as the Iran talks unfold, and the US midterm results overnight. Have a good day.",
+                         "stories":  [
+                                         {
+                                             "title":  "FD interest rates after RBI repo rate hike, Nov 2026: Public or private? Which banks give highest fixed deposit returns?",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/fd-interest-rates-after-rbi-repo-rate-hike-nov-2026-public-or-private-which-banks-give-highest-fixed-deposit-returns-11793672005504.html"
+                                         },
+                                         {
+                                             "title":  "ITR deadline pushed to November 21 for audit cases: What it means for businesses and taxpayers",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/itr-deadline-pushed-to-november-21-for-audit-cases-what-it-means-for-businesses-and-taxpayers-11793619092158.html"
+                                         },
+                                         {
+                                             "title":  "Income Tax: Can married daughters keep gold jewellery at parents\u0027 home? ITAT ruling explains tax implications",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/income-tax-can-married-daughters-keep-gold-jewellery-at-parents-home-itat-ruling-explains-tax-implications-11793639979672.html"
+                                         },
+                                         {
+                                             "title":  "Got a Diwali gift from your employer? Check the tax rules",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/diwali-gift-tax-exemption-limit-rs-15000-employer-gifts-income-tax-11793597292822.html"
+                                         },
+                                         {
+                                             "title":  "RBI amends EDF rules for service exporters, freelancers under FEMA: ₹10 lakh threshold, relief for resident individuals",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/rbi-amends-edf-rules-for-service-exporters-freelancers-under-fema-10-lakh-threshold-relief-for-resident-individuals-11793665732487.html"
+                                         },
+                                         {
+                                             "title":  "Silver, gold prices today: 24K gold slips to ₹1.37 lakh, silver below ₹1.80 lakh/kg; check latest 24K, 22K gold rates",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/silver-gold-prices-today-24k-gold-slips-to-1-37-lakh-silver-below-1-80-lakh-kg-check-latest-24k-22k-gold-rates-11793630778648.html"
+                                         },
+                                         {
+                                             "title":  "Dividend, bonus issue: Last chance to buy today — Godrej Consumer, Coal India, Asian Paints and others",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/dividend-bonus-issue-last-chance-to-buy-today-godrej-consumer-coal-india-asian-paints-and-others-11793640245000.html"
+                                         },
+                                         {
+                                             "title":  "Why cancer medicines may cost less from Nov 9: Full list of drugs, drop in MRP—patients could save ₹2,500-3,500-cr/year",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/why-cancer-medicines-may-cost-less-from-nov-9-full-list-of-drugs-drop-in-mrp-patients-could-save-25003500year-11793597901547.html"
+                                         },
+                                         {
+                                             "title":  "DA hike: Tamil Nadu, MP, Himachal, Rajasthan, Kerala — Full list of states with dearness allowance hikes ahead of Diwali",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/da-hike-full-list-states-dearness-allowance-diwali-2026-tamil-nadu-madhya-pradesh-himachal-rajasthan-chhattisgarh-kerala-11793641891420.html"
+                                         }
+                                     ]
+                     }
+                 ]
+}
