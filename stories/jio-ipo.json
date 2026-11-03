@@ -2,10 +2,10 @@
     "slug":  "jio-ipo",
     "title":  "The Jio IPO",
     "started":  "2019-08-12",
-    "updatedAt":  "2026-10-31T09:30:00+05:30",
+    "updatedAt":  "2026-11-03T09:15:00+05:30",
     "status":  "active",
-    "summary":  "Mukesh Ambani first promised a Jio listing in 2019. In 2020, Facebook, Google and other global investors bought big stakes in Jio Platforms. The listing then slipped year after year, most recently when war in West Asia unsettled markets in 2026.\n\nThe regulator cleared the draft prospectus on 28 August 2026. The issue was made up only of new shares, mostly to repay debt at Reliance Jio Infocomm, and at an upper price of 1,119 rupees it was a record offer of about 30,200 crore rupees. It closed on 23 October booked 22.19 times. The shares listed on 28 October and closed that day about 26.7 percent above the issue price, making Jio India\u0027s second most valuable company. In the second session they climbed further, to about 33 percent above the issue price and a market value of about 13.7 lakh crore rupees. On the thirtieth, in its first results as a listed company, Jio reported a September-quarter profit of 8,389 crore rupees, up about 14 percent, on revenue of 40,475 crore rupees.",
-    "watch":  "Jio\u0027s shares trade for the first time after its results on Monday, the second of November, and Mint says Reliance and Jio will both be in focus. Watch how the market reads the 14 percent profit growth and the rise in revenue per user, any word on tariff increases, and whether PhonePe, Flipkart and others follow Jio to the market.",
+    "summary":  "Mukesh Ambani first promised a Jio listing in 2019. In 2020, Facebook, Google and other global investors bought big stakes in Jio Platforms. The listing then slipped year after year, most recently when war in West Asia unsettled markets in 2026.\n\nThe regulator cleared the draft prospectus on 28 August 2026. The issue was made up only of new shares, mostly to repay debt at Reliance Jio Infocomm, and at an upper price of 1,119 rupees it was a record offer of about 30,200 crore rupees. It closed on 23 October booked 22.19 times. The shares listed on 28 October about 26.7 percent above the issue price, making Jio India\u0027s second most valuable company, and rose to about 33 percent above it the next day. On the thirtieth, Jio reported a September-quarter profit of 8,389 crore rupees, up about 14 percent. On the second of November, parent Reliance jumped 11.6 percent, and Business Standard valued its 64.5 percent Jio stake at about 8.37 lakh crore rupees.",
+    "watch":  "Watch how Jio\u0027s own shares settle after its first results, and whether brokers following Motilal Oswal\u0027s view see the listing re-rating telecom peers like Airtel. Also watch for any word on tariff increases, and whether PhonePe, Flipkart and others follow Jio to the market.",
     "timeline":  [
                      {
                          "date":  "2019-08-12",
@@ -483,6 +483,33 @@
                                              "title":  "Retail investors tap $234 mn in margin funding to trade Jio on debut day",
                                              "source":  "Business Standard",
                                              "link":  "https://www.business-standard.com/markets/news/retail-investors-tap-234-mn-in-margin-funding-to-trade-jio-on-debut-day-126103000526_1.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "date":  "2026-11-02",
+                         "title":  "Reliance soars, Jio stake valued at 8.37 lakh crore",
+                         "text":  "On Monday, the second of November, Reliance Industries shares surged 11.6 percent after record quarterly profit, adding about 1.83 lakh crore rupees to its market value, its biggest one-day jump in over six years. Business Standard put the value of Reliance\u0027s 64.5 percent stake in Jio Platforms at about 8.37 lakh crore rupees. Market expert Gurmeet Chadha, speaking to Moneycontrol, named steady Jio numbers and the Jio listing among the factors supporting Reliance. Motilal Oswal\u0027s wealth research desk called the Jio listing a re-rating catalyst for the telecom sector, with possible valuation effects for Airtel and Reliance.",
+                         "sources":  [
+                                         {
+                                             "title":  "Reliance Industries takes the wheel, surges 12% to steer benchmarks higher",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/reliance-industries-takes-the-wheel-surges-12-to-steer-benchmarks-higher-126110201415_1.html"
+                                         },
+                                         {
+                                             "title":  "RIL shares surge 11.6% on strong Q2 earnings; analysts see further upside",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/reliance-surges-11-6-as-strong-q2-earnings-add-rs-1-83-lakh-crore-in-market-value/articleshow/135477257.cms"
+                                         },
+                                         {
+                                             "title":  "Jio Platforms listing a re-rating catalyst for telecom sector: MOFSL",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/jio-platforms-listing-a-re-rating-catalyst-for-telecom-sector-mofsl-126110300116_1.html"
+                                         },
+                                         {
+                                             "title":  "\u0027Reliance shares still undervalued, strong retail numbers could be next big trigger,\u0027 says Gurmeet Chadha",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/reliance-shares-still-undervalued-strong-retail-numbers-could-be-next-big-trigger-says-gurmeet-chadha-14066565.html"
                                          }
                                      ]
                      }
