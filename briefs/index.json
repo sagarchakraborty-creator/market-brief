@@ -1,6 +1,11 @@
 {
     "briefs":  [
                    {
+                       "date":  "2026-11-04",
+                       "edition":  "Morning",
+                       "headline":  "Nifty at two-month high, but US midterm count sets up a cautious open"
+                   },
+                   {
                        "date":  "2026-11-03",
                        "edition":  "Morning",
                        "headline":  "Reliance lifts Sensex 1,233 points, FM open to capital gains tax review"
@@ -64,11 +69,6 @@
                        "date":  "2026-10-21",
                        "edition":  "Morning",
                        "headline":  "Jio\u0027s record IPO opens as Trump says India trade deal is pretty close"
-                   },
-                   {
-                       "date":  "2026-10-20",
-                       "edition":  "Evening",
-                       "headline":  "Jio\u0027s record IPO opens tomorrow as markets take a Dussehra break"
                    }
                ]
 }
