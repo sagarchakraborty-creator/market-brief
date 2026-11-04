@@ -1,6 +1,35 @@
 {
     "stories":  [
                     {
+                        "slug":  "india-us-trade-deal",
+                        "title":  "The India–US trade deal",
+                        "started":  "2025-02-13",
+                        "updatedAt":  "2026-11-04T09:20:00+05:30",
+                        "lastDate":  "2026-11-03",
+                        "latest":  "Goyal rules out GM imports, dairy stays shut",
+                        "entries":  18,
+                        "keys":  [
+                                     "2025-02-13|Modi and Trump launch the trade talks",
+                                     "2025-03-26|First round of talks held in New Delhi",
+                                     "2025-04-02|Trump announces a 26 percent tariff on India",
+                                     "2025-07-30|A 25 percent tariff on India is announced",
+                                     "2025-08-06|Russian oil penalty takes tariffs to 50 percent",
+                                     "2025-09-16|Talks resume in New Delhi",
+                                     "2026-02-02|Trump announces a deal and an 18 percent tariff",
+                                     "2026-02-06|Framework for an interim deal is agreed",
+                                     "2026-02-20|US Supreme Court strikes down the tariffs",
+                                     "2026-03-11|New US probe covers India and signing is put off",
+                                     "2026-05-24|Rubio says a deal is on the verge in New Delhi",
+                                     "2026-10-02|Greer says a deal is not imminent",
+                                     "2026-10-15|Goyal says first part is in legal drafting",
+                                     "2026-10-20|Rubio in Mumbai says the deal is very close",
+                                     "2026-10-21|Trump says the deal is pretty close",
+                                     "2026-10-26|Goyal says the deal is being fine-tuned",
+                                     "2026-10-29|Goyal: no sensitive interest compromised",
+                                     "2026-11-03|Goyal rules out GM imports, dairy stays shut"
+                                 ]
+                    },
+                    {
                         "slug":  "jio-ipo",
                         "title":  "The Jio IPO",
                         "started":  "2019-08-12",
@@ -32,34 +61,6 @@
                                      "2026-10-29|Second session: gains stretch to 33 percent",
                                      "2026-10-30|First results as a listed company",
                                      "2026-11-02|Reliance soars, Jio stake valued at 8.37 lakh crore"
-                                 ]
-                    },
-                    {
-                        "slug":  "india-us-trade-deal",
-                        "title":  "The India–US trade deal",
-                        "started":  "2025-02-13",
-                        "updatedAt":  "2026-10-30T09:45:00+05:30",
-                        "lastDate":  "2026-10-29",
-                        "latest":  "Goyal: no sensitive interest compromised",
-                        "entries":  17,
-                        "keys":  [
-                                     "2025-02-13|Modi and Trump launch the trade talks",
-                                     "2025-03-26|First round of talks held in New Delhi",
-                                     "2025-04-02|Trump announces a 26 percent tariff on India",
-                                     "2025-07-30|A 25 percent tariff on India is announced",
-                                     "2025-08-06|Russian oil penalty takes tariffs to 50 percent",
-                                     "2025-09-16|Talks resume in New Delhi",
-                                     "2026-02-02|Trump announces a deal and an 18 percent tariff",
-                                     "2026-02-06|Framework for an interim deal is agreed",
-                                     "2026-02-20|US Supreme Court strikes down the tariffs",
-                                     "2026-03-11|New US probe covers India and signing is put off",
-                                     "2026-05-24|Rubio says a deal is on the verge in New Delhi",
-                                     "2026-10-02|Greer says a deal is not imminent",
-                                     "2026-10-15|Goyal says first part is in legal drafting",
-                                     "2026-10-20|Rubio in Mumbai says the deal is very close",
-                                     "2026-10-21|Trump says the deal is pretty close",
-                                     "2026-10-26|Goyal says the deal is being fine-tuned",
-                                     "2026-10-29|Goyal: no sensitive interest compromised"
                                  ]
                     }
                 ]
