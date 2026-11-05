@@ -1,6 +1,11 @@
 {
     "briefs":  [
                    {
+                       "date":  "2026-11-05",
+                       "edition":  "Morning",
+                       "headline":  "Democrats sweep Congress, oil slides, and Nifty eyes a gap-up start"
+                   },
+                   {
                        "date":  "2026-11-04",
                        "edition":  "Morning",
                        "headline":  "Nifty at two-month high, but US midterm count sets up a cautious open"
@@ -64,11 +69,6 @@
                        "date":  "2026-10-22",
                        "edition":  "Morning",
                        "headline":  "Jio IPO booked over 3 times on day one as oil tops 110 dollars"
-                   },
-                   {
-                       "date":  "2026-10-21",
-                       "edition":  "Morning",
-                       "headline":  "Jio\u0027s record IPO opens as Trump says India trade deal is pretty close"
                    }
                ]
 }
