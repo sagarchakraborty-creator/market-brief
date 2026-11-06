@@ -1,0 +1,346 @@
+{
+    "date":  "2026-11-06",
+    "edition":  "Morning",
+    "generatedAt":  "2026-11-06T09:15:00+05:30",
+    "headline":  "Wall Street\u0027s AI rout tests India\u0027s six-day rally on Dhanteras",
+    "segments":  [
+                     {
+                         "title":  "The big picture",
+                         "script":  "Good morning. It\u0027s Friday, the sixth of November, and it\u0027s Dhanteras. Here\u0027s what matters today.\n\nFirst, a storm on Wall Street. Fears that a Democratic Congress will tighten the rules on artificial intelligence and data centres wiped about 2.3 trillion dollars off American stocks overnight, and Asia is falling hard this morning.\n\nSecond, India goes into this from a position of strength. The Sensex and Nifty have risen six sessions in a row, and foreign investors bought nearly 14,800 crore rupees of Indian shares on Thursday. That\u0027s their biggest single day of buying since February 2021.\n\nThird, it\u0027s a heavy results day, with Hindalco, Siemens, Voltas and Jubilant Foodworks among the companies reporting.",
+                         "stories":  [
+                                         {
+                                             "title":  "AI bubble fears trigger $2.3 trillion Wall Street selloff as Nasdaq 100 plunges 6%: \u0027flashbacks to 2008 or 2001\u0027",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/ai-bubble-fears-trigger-2-3-trillion-wall-street-selloff-as-nasdaq-100-plunges-6-nvidia-falls-9-11793928748972.html"
+                                         },
+                                         {
+                                             "title":  "FPIs buy ₹14,796 cr worth Indian stocks in biggest daily inflow since 2021",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/fpis-buy-14-796-cr-worth-indian-stocks-in-biggest-daily-inflow-since-2021-126110502078_1.html"
+                                         },
+                                         {
+                                             "title":  "Nasdaq plunges 5.5% | Kospi down 7% | Nifty likely to see cautious start",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/videos/business/markets/nasdaq-plunges-5-5-kospi-down-7-nifty-likely-to-see-cautious-start-14072098.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "How markets closed",
+                         "script":  "Let\u0027s start with how markets closed on Thursday. It was a day of fireworks. The Nifty jumped 2.4 percent to 24,536, and the Sensex gained 2.6 percent. Over six sessions, the Sensex has added more than 6,000 points, a gain of about 8 percent. Business Standard says that puts it on course for the strongest pre-Diwali run in more than three decades.\n\nFinancial stocks led the way. Nifty Bank rose about three and a half percent to 57,847, with every one of its stocks in the green, and the financial services index climbed more than 4 percent. Brokers and fund houses had a big day too. The capital markets index rose 4 percent, and asset management stocks gained up to 7 percent. Adani Ports and Tech Mahindra hit new highs.\n\nNow the flows. Foreign institutional investors bought about 14,796 crore rupees of Indian shares, helped by falling crude prices and a rethink after the global sell-off in AI stocks. Domestic institutions, meanwhile, sold a record amount. Keep the bigger picture in mind, though. Foreign investors were still net sellers for October as a whole, taking out about 34,843 crore rupees. And in the Samvat year now ending, they have sold a record of about 3 lakh crore rupees.\n\nThe rupee closed at 94.47 to the dollar, its strongest since the twenty-first of October. The ten-year government bond yield eased to 7.17 percent.\n\nToday, though, expect a pullback. GIFT Nifty is pointing to a gap-down start, somewhere between 150 and 200 points lower. Analysts quoted by Moneycontrol see support for the Nifty at 24,300 to 24,200, and then at 24,000. On the upside, 24,800 is the first hurdle, and 25,000 the big one.",
+                         "stories":  [
+                                         {
+                                             "title":  "Early Diwali cheer: Markets see fireworks; rupee rises, bond yields ease",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/early-diwali-cheer-markets-see-fireworks-rupee-rises-bond-yields-ease-126110502021_1.html"
+                                         },
+                                         {
+                                             "title":  "Sensex up 6,064 pts in six days; eyes strongest pre-Diwali rally in 35 yrs",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/stock-market-sensex-up-6-064-pts-nifty-up-1-838-pts-in-six-days-eye-strongest-pre-diwali-rally-in-35-years-126110600091_1.html"
+                                         },
+                                         {
+                                             "title":  "Nifty Bank jumps 3%, Financials 4%: What\u0027s behind the rise? Explained",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/nifty-bank-jumps-3-financials-4-what-s-behind-the-rise-explained-126110501075_1.html"
+                                         },
+                                         {
+                                             "title":  "Capital Markets index soars 4%; MOFSL, Groww, 360 ONE, BSE zoom up to 7%",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/capital-markets-index-soars-4-mofsl-groww-360-one-bse-zoom-up-to-7-126110500617_1.html"
+                                         },
+                                         {
+                                             "title":  "FPIs buy ₹14,796 cr worth Indian stocks in biggest daily inflow since 2021",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/fpis-buy-14-796-cr-worth-indian-stocks-in-biggest-daily-inflow-since-2021-126110502078_1.html"
+                                         },
+                                         {
+                                             "title":  "FPIs turn net buyers in the second half of October, shows data",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/fpis-were-net-buyers-in-2nd-half-of-oct-pumped-13k-cr-into-equities-126110501860_1.html"
+                                         },
+                                         {
+                                             "title":  "₹3 trillion FPI outflows: Samvat 2082 set for worst selling in 17 years",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/3-trillion-fpi-outflows-samvat-2082-set-for-worst-selling-in-17-samvats-126110500670_1.html"
+                                         },
+                                         {
+                                             "title":  "Rupee hits over one-month high, 10-year bond yield falls to 7.17%",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/rupee-hits-over-one-month-high-10-year-bond-yield-falls-to-7-17-126110501865_1.html"
+                                         },
+                                         {
+                                             "title":  "GIFT Nifty falls nearly 200 pts, signals weak start for Sensex, Nifty as Nasdaq crashes, Asian markets plunge",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/gift-nifty-falls-nearly-200-pts-signals-weak-start-for-sensex-nifty-as-nasdaq-crashes-asian-markets-plunge-14072069.html"
+                                         },
+                                         {
+                                             "title":  "Trading Plan: Can Nifty 50, Bank Nifty take a breather after the bullish run?",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/trading-plan-can-nifty-50-bank-nifty-take-a-breather-after-the-bullish-run-14072064.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "IPOs and deals",
+                         "script":  "Now to IPOs and deals. The small issue from Antala Industries closed with bids for 12.2 times the shares on offer. It raised about 23 crore rupees at up to 66 rupees a share, and listing is likely next week. Gold loan company IFL Finance has received the market regulator\u0027s approval for its public issue of 3.85 crore shares.\n\nA big one is on the horizon. Maharashtra\u0027s state power distributor is aiming for a February 2027 listing, raising more than 10,000 crore rupees. It plans to file its prospectus by December, after the state government took over 32,679 crore rupees of its debt.\n\nRecent listings are flying. Tonbo Imaging jumped 20 percent on Thursday and is now up 119 percent from its issue price in just two weeks. And Kissht rose 8 percent after its loan book crossed 10,000 crore rupees. It now trades at double its issue price of 171 rupees.",
+                         "stories":  [
+                                         {
+                                             "title":  "Antala Industries IPO subscribed 12.2 times on final day, listing likely next week",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/ipo/antala-industries-ipo-subscribed-12-2-times-on-final-day-listing-likely-next-week-14071838.html"
+                                         },
+                                         {
+                                             "title":  "Gold loan provider IFL Finance receives SEBI approval to launch IPO",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/ipo/gold-loan-provider-ifl-finance-receives-sebi-approval-to-launch-ipo-14071819.html"
+                                         },
+                                         {
+                                             "title":  "Maharashtra state discom targets February 2027 IPO, aims to raise over ₹10,000 crore",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/ipo/msedcl-targets-february-2027-ipo-aims-to-raise-over-10-000-crore-11793880648583.html"
+                                         },
+                                         {
+                                             "title":  "Tonbo Imaging India zooms 20%; up 119% against issue price in 2 weeks",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/tonbo-imaging-india-zooms-20-up-119-against-issue-price-in-2-weeks-126110500993_1.html"
+                                         },
+                                         {
+                                             "title":  "Multibagger Kissht spurts 8% as AUM tops ₹10K cr, doubles from IPO price",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/multibagger-kissht-spurts-8-as-aum-tops-10k-cr-doubles-from-ipo-price-126110501079_1.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Results roundup",
+                         "script":  "On to the results roundup. In pharma, it was a tough quarter. Glenmark\u0027s profit fell about 57 percent to 264 crore rupees, with revenue lower at 4,247 crore. A Glenmark subsidiary also settled with the American insurer Humana for 15 million dollars. Biocon\u0027s profit roughly halved to 41 crore rupees, though the stock still rose nearly 6 percent.\n\nIn consumer names, Godfrey Phillips saw profit drop about 38 percent to 190 crore rupees, mainly because of higher taxes, even as revenue doubled to 4,198 crore. Nykaa tripled its profit to about 101 crore rupees, but the stock slipped 2 percent as the market wanted more. Packaging maker EPL grew revenue 30 percent to 1,567 crore rupees, with profit up four and a half percent to about 111 crore.\n\nSome strong numbers elsewhere. Physicswallah posted its highest-ever revenue of 1,242 crore rupees, and profit more than doubled to 144 crore. The shares jumped 10 percent. Solar maker Websol Energy grew profit 73 percent to 80 crore rupees. And Paras Healthcare, in its first results since listing, earned 40 crore rupees against 12 crore a year ago.\n\nAmong the big names, Moneycontrol described Titan\u0027s quarter as a strong beat and Bharti Airtel\u0027s as in line. ONGC, NTPC, Container Corporation and Petronet LNG have announced dividends of 8 rupees, 3 rupees, 1 rupee 90 paise and 7 rupees a share. Today, watch Hindalco, Siemens, Voltas, Jubilant Foodworks, Honasa Consumer, Aster DM and Blue Dart.",
+                         "stories":  [
+                                         {
+                                             "title":  "Glenmark Pharma Q2 Results: Net profit plunges 56% to Rs 264 crore, revenue down at Rs 4,247 cr",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/glenmark-pharma-q2-results-net-profit-plunges-56-to-rs-264-crore-revenue-down-at-rs-4247-cr/articleshow/135577516.cms"
+                                         },
+                                         {
+                                             "title":  "Biocon share price rises nearly 6% despite 52% dip in Q2 profit",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/biocon-share-price-rises-nearly-6-despite-52-fall-in-q2-profit-126110500911_1.html"
+                                         },
+                                         {
+                                             "title":  "Godfrey Phillips Q2 profit down 37% to Rs 190 cr; revenue up twofold at Rs 4,198 cr",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/godfrey-phillips-q2-profit-down-37-to-rs-190-cr-revenue-up-twofold-at-rs-4198-cr/articleshow/135578939.cms"
+                                         },
+                                         {
+                                             "title":  "Nykaa\u0027s Q2 fails to impress Street despite 200% rise in PAT; stock falls 2%",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/nykaa-s-q2-fails-to-impress-street-despite-200-rise-in-pat-stock-falls-2-126110500904_1.html"
+                                         },
+                                         {
+                                             "title":  "EPL Q2 Results: Profit rises 4% YoY to Rs 111 crore",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/epl-q2-results-profit-rises-4-yoy-to-rs-111-crore/articleshow/135565623.cms"
+                                         },
+                                         {
+                                             "title":  "Physicswallah shares jump 10% post Q2 show: Can earnings sustain momentum?",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/physicswallah-share-price-jump-10-post-q2-show-can-earnings-sustain-momentum-126110500650_1.html"
+                                         },
+                                         {
+                                             "title":  "Solar cell firm Websol Energy\u0027s Q2 profit rises by 73% to Rs 80 crore",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/earnings/solar-cell-firm-websol-energy-s-q2-profit-rises-by-73-to-rs-80-crore-14071840.html"
+                                         },
+                                         {
+                                             "title":  "Paras Healthcare posts Rs 40 crore Q2 net profit in first results after listing",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/paras-healthcare-posts-rs-40-crore-q2-net-profit-in-first-results-after-listing/articleshow/135580435.cms"
+                                         },
+                                         {
+                                             "title":  "PSU dividend jackpot! ONGC vs NTPC vs CONCOR vs Petronet: Who offers highest payout? Record date, technical targets",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/psu-dividend-jackpot-ongc-vs-ntpc-vs-concor-vs-petronet-who-offers-highest-payout-record-date-technical-targets-11793880794114.html"
+                                         },
+                                         {
+                                             "title":  "Stocks to watch: Airtel, Titan, Blue Dart, Gland Pharma, ONGC, Britannia",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/stocks-to-watch-airtel-titan-blue-dart-gland-pharma-ongc-britannia-126110600103_1.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Economy and policy",
+                         "script":  "Now to the economy and policy. The Centre has released an advance instalment of 1.09 lakh crore rupees of tax devolution to the states for November, to help them keep up capital spending.\n\nOn interest rates, banker Uday Kotak told Business Standard he expects the Reserve Bank to raise the repo rate by another 50 to 75 basis points, and warned of prolonged risks from the Middle East.\n\nThe market regulator, SEBI, had a busy day. Domestic investors and foreign portfolio investors can now hold up to 5 million dollars in rupee currency derivatives without showing an underlying exposure. From the first of April 2027, mutual funds can net off their purchases and sales in the cash market within a scheme. And fund managers can now certify investors as accredited, with that status valid for three years.\n\nThe Budget debate on capital gains tax is heating up. Industry body FICCI wants the long-term capital gains exemption on listed shares restored, with a higher securities transaction tax to make up the revenue. SBI Research has suggested no tax on gains from holdings older than three years, and puts the cost at 40,000 to 50,000 crore rupees. Finance Minister Nirmala Sitharaman has said she will consider investors\u0027 concerns on equity taxation.\n\nThere are warning signs from the farm. Rabi sowing is down 46 percent from last year, at 37.6 lakh hectares, after a 48 percent rainfall shortfall in October. On the other side, car sales hit a record and daily UPI payments touched 1 lakh crore rupees.\n\nAlso, the government is opening a special round for deepwater oil and gas blocks, and will fund up to half the cost of exploratory wells. And a senior income tax official warned that lapses in cross-border financial reporting could hurt India\u0027s sovereign rating.",
+                         "stories":  [
+                                         {
+                                             "title":  "Centre advances ₹1.09 trillion tax devolution to states for November",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/centre-advances-1-09-trillion-tax-devolution-to-states-for-november-126110502029_1.html"
+                                         },
+                                         {
+                                             "title":  "Reserve Bank of India may hike rates by up to 75 bps more: Uday Kotak",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/reserve-bank-of-india-may-hike-rates-by-up-to-75-bps-more-uday-kotak-126110501915_1.html"
+                                         },
+                                         {
+                                             "title":  "Sebi revises currency derivative norms for domestic investors, FPIs; allows to trade up to USD 5 mn",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/sebi-revises-currency-derivative-norms-for-domestic-investors-fpis-allows-to-trade-up-to-usd-5-mn/articleshow/135576552.cms"
+                                         },
+                                         {
+                                             "title":  "Sebi allows mutual funds to net cash market obligations from April",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/sebi-allows-mutual-funds-to-net-cash-market-obligations-from-april-126110501727_1.html"
+                                         },
+                                         {
+                                             "title":  "SEBI issues framework allowing AIF, SIF managers and portfolio managers to certify accredited investor status",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/sebi-issues-framework-allowing-aif-sif-managers-and-portfolio-managers-to-certify-accredited-investor-status-14071842.html"
+                                         },
+                                         {
+                                             "title":  "Budget 2027: FICCI seeks removal of LTCG tax on listed securities, suggests STT hike",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/budget-2027-ficci-seeks-removal-of-ltcg-tax-on-listed-securities-suggests-stt-hike-14070122.html"
+                                         },
+                                         {
+                                             "title":  "No LTCG tax after 3 years? SBI Research proposes big relief for investors, says govt can absorb Rs 50,000 crore hit",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/no-ltcg-tax-after-3-years-sbi-research-proposes-big-relief-for-investors-says-govt-can-absorb-rs-50-000-crore-hit-14067190.html"
+                                         },
+                                         {
+                                             "title":  "FM Sitharaman says she will consider investors\u0027 concerns on equity taxation",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/economy/policy/fm-sitharaman-says-she-will-consider-investors-concerns-on-equity-taxation-14066659.html"
+                                         },
+                                         {
+                                             "title":  "Rabi sowing down 46% from last year; oilseeds, pulses acreage plunges amid rain deficit",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/rabi-sowing-down-46-from-last-year-oilseeds-pulses-acreage-plunges-amid-rain-deficit-14067690.html"
+                                         },
+                                         {
+                                             "title":  "Q3 off to a sparkling start; car sales at record high, daily UPI value hits Rs 1 lakh crore",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/q3-off-to-a-sparkling-start-car-sales-at-record-high-daily-upi-value-hits-rs-1-lakh-crore-14066098.html"
+                                         },
+                                         {
+                                             "title":  "India opens deepwater oil, gas bids, offers to fund up to 50% of well costs",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/india-opens-deepwater-oil-gas-bids-offers-to-fund-up-to-50-of-well-costs-126110501068_1.html"
+                                         },
+                                         {
+                                             "title":  "Tax reporting lapses could risk India\u0027s sovereign rating, trigger withholding tax penalties: Income Tax Principal DG Debjyoti Das",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/indicators/tax-reporting-lapses-could-risk-indias-sovereign-rating-trigger-withholding-tax-penalties-income-tax-principal-dg-debjyoti-das/articleshow/135578399.cms"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Around the world",
+                         "script":  "Around the world, it was a brutal night. On Wall Street, the Dow fell around 1,800 points and the Nasdaq dropped roughly 5 percent, sliding into correction territory, more than 10 percent below its October record. All three major indices had their worst day since April 2025. The trigger was fear that the Democrats, now in control of both houses of Congress, will tighten oversight of AI and data centres. Chip stocks took the worst of it. The semiconductor index fell nearly 10 percent and Nvidia lost about 9 percent, with weak forecasts from Qualcomm and Arm adding to the pain. President Trump blamed the Democrats for the losses.\n\nAsia is following. South Korea\u0027s Kospi fell as much as 8.8 percent this morning, breaking below 5,000 and triggering a 20-minute halt in trading. Samsung and SK Hynix are down more than 9 percent. Japan\u0027s Nikkei fell as much as 7 percent and is now 20 percent below its June peak, which puts it in bear market territory.\n\nInvestors ran for safety. US Treasuries rallied, the yen rose, and gold climbed above 4,100 dollars an ounce. Brent crude is around 99 dollars a barrel as traders watch the US-Iran war and fresh tanker attacks.\n\nOne note of caution for India from Bernstein\u0027s Venugopal Garre, who told Moneycontrol not to count on fatigue with the AI trade to lift Indian markets.",
+                         "stories":  [
+                                         {
+                                             "title":  "AI investment doubts spark sharp Wall Street selloff, Nasdaq falls 5%",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/ai-investment-doubts-spark-sharp-wall-street-selloff-nasdaq-falls-nearly-5-14071864.html"
+                                         },
+                                         {
+                                             "title":  "US stock market crash: Chip stocks extend sell-off, AMD, Arm, Qualcomm and Sandisk plunge up to 17%; Nasdaq down 6%",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/us-stock-market-crash-chip-stocks-extend-sell-off-amd-arm-qualcomm-and-sandisk-plunge-up-to-17-nasdaq-down-6-11793900308301.html"
+                                         },
+                                         {
+                                             "title":  "Trump points finger at Democrats over massive market losses",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/trump-points-finger-at-democrats-over-massive-market-losses-14071932.html"
+                                         },
+                                         {
+                                             "title":  "Korea\u0027s Kospi tumbles below 5,000 milestone as AI fears spread",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/korea-s-kospi-tumbles-below-5-000-milestone-as-ai-fears-spread-14071934.html"
+                                         },
+                                         {
+                                             "title":  "Asian stocks join US selloff as AI slump deepens",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/asian-stocks-join-us-selloff-as-ai-slump-deepens-14071924.html"
+                                         },
+                                         {
+                                             "title":  "Japan\u0027s Nikkei poised to enter bear market as AI selloff deepens",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/japan-s-nikkei-poised-to-enter-bear-market-as-ai-selloff-deepens-14072070.html"
+                                         },
+                                         {
+                                             "title":  "Treasuries Soar as Tech-Stock Selloff Lures Investors to Havens",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/treasuries-soar-as-tech-stock-selloff-lures-investors-to-havens-11793908983146.html"
+                                         },
+                                         {
+                                             "title":  "Don\u0027t count on AI trade fatigue to lift India: Bernstein\u0027s Venugopal Garre",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/opinion/don-t-count-on-ai-trade-fatigue-to-lift-india-bernstein-s-venugopal-garre-14070845.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Stories you\u0027re following",
+                         "script":  "An update on the India–US trade deal you\u0027re following. Sources told the Economic Times that the Democrats\u0027 win won\u0027t affect the interim deal, since it doesn\u0027t need approval from Congress, though ongoing American trade investigations could still shape the final tariffs. Ajay Srivastava of the Global Trade Research Initiative thinks the result could push President Trump to close the India deal within two months.",
+                         "stories":  [
+                                         {
+                                             "title":  "American midterm results will not have an impact on India-US interim trade deal: Sources",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/foreign-trade/american-midterm-results-will-not-have-an-impact-on-india-us-interim-trade-deal-sources/articleshow/135575578.cms"
+                                         },
+                                         {
+                                             "title":  "Trump\u0027s midterm election setback may fast-track India-US trade deal within two months says founder, GTRI",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/foreign-trade/trumps-midterm-election-setback-may-fast-track-india-us-trade-deal-within-two-months-says-founder-gtri/articleshow/135571786.cms"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Your money",
+                         "script":  "And finally, your money. It\u0027s Dhanteras, so gold is on many minds. Mint reports prices are about 20 percent below this year\u0027s peak. Experts quoted by Business Standard suggest simply restoring your planned allocation to gold rather than chasing it, and being ready for near-term swings. Hitesh Jain of Yes Securities goes further. He sees gold moving into a long, cautious consolidation over the next three to five years.\n\nA warning for anyone investing in American stocks through apps. Nearly 30 Indian investors on the platform Stockal allege losses of about 100 crore rupees after their US holdings were sold without their authorisation. And the government\u0027s cyber security agency, Cert-In, has warned banks and fintech firms of an AI-driven campaign that exploits payment systems to move money without permission.\n\nA few quick ones. Pensioners, the Employees\u0027 Provident Fund Organisation is reminding you to submit your digital life certificate, the Jeevan Pramaan. Non-resident Indians will be able to open trading accounts fully from abroad from the third of December, under eased SEBI rules. And a consumer court has ordered an airline to pay a Delhi flyer 71,587 rupees, after it said he was late for check-in but couldn\u0027t prove it.\n\nThat\u0027s the brief for today. Watch how deep the opening dip goes as the AI rout spreads overseas, whether foreign investors keep buying, and the Hindalco and Siemens numbers later in the day. Happy Dhanteras, and have a lovely day.",
+                         "stories":  [
+                                         {
+                                             "title":  "Dhanteras 2026 today: Buy gold at current rates or avoid? Shopping guide - 20% price down from 2026 peak; Experts\u0027 views",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/commodities/dhanteras-2026-today-buy-gold-at-current-rates-or-avoid-shopping-guide-20-price-down-from-2026-peak-experts-views-11793932229932.html"
+                                         },
+                                         {
+                                             "title":  "Planning to buy gold this Dhanteras? Experts advise caution amid volatility",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/planning-to-buy-gold-this-dhanteras-experts-advise-caution-amid-volatility-126110501704_1.html"
+                                         },
+                                         {
+                                             "title":  "Gold\u0027s safe-haven status is fading; don\u0027t accumulate indiscriminately, says Hitesh Jain of Yes Securities",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/golds-safe-haven-status-is-fading-don-t-accumulate-indiscriminately-says-hitesh-jain-of-yes-securities-11793849608912.html"
+                                         },
+                                         {
+                                             "title":  "Stockal scam: Nearly 30 Indian investors allege ₹100 crore losses after US stock holdings sold without authorisation",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/stockal-scam-nearly-30-investors-allege-rs-100-crore-losses-after-us-stock-holdings-sold-without-authorisation-11793899651230.html"
+                                         },
+                                         {
+                                             "title":  "Cert-In warns banks, fintech firms of AI-driven fund transfer fraud",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/industry/banking/cert-in-warns-banks-fintech-firms-of-ai-driven-fund-transfer-fraud-126110500550_1.html"
+                                         },
+                                         {
+                                             "title":  "Jeevan Pramaan: EPFO reminds pensioners to submit Life Certificate; check documents needed and how to apply",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/jeevan-pramaan-epfo-reminds-pensioners-to-submit-life-certificate-check-documents-needed-and-how-to-apply-11793867253548.html"
+                                         },
+                                         {
+                                             "title":  "\u0027No reason to go elsewhere\u0027: Zerodha CEO Nithin Kamath welcomes SEBI\u0027s NRI KYC changes",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/no-reason-to-go-elsewhere-zerodha-ceo-nithin-kamath-welcomes-sebis-nri-kyc-changes-11793886877810.html"
+                                         },
+                                         {
+                                             "title":  "Airline says passenger was late, but can\u0027t prove it: Consumer court awards Delhi flyer ₹71,587, details inside",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/airline-says-passenger-was-late-but-can-t-prove-it-consumer-court-awards-delhi-flyer-71-587-details-inside-11793889134661.html"
+                                         }
+                                     ]
+                     }
+                 ]
+}
