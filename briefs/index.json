@@ -1,6 +1,11 @@
 {
     "briefs":  [
                    {
+                       "date":  "2026-11-07",
+                       "edition":  "Morning",
+                       "headline":  "Best week in six years for Sensex and Nifty as Samvat 2082 bows out"
+                   },
+                   {
                        "date":  "2026-11-06",
                        "edition":  "Morning",
                        "headline":  "Wall Street\u0027s AI rout tests India\u0027s six-day rally on Dhanteras"
@@ -64,11 +69,6 @@
                        "date":  "2026-10-24",
                        "edition":  "Morning",
                        "headline":  "Small caps\u0027 worst week in two years as Jio IPO closes at a record 22 times"
-                   },
-                   {
-                       "date":  "2026-10-23",
-                       "edition":  "Morning",
-                       "headline":  "Oil near 113 dollars, rate hike bets build, and Jio\u0027s final day"
                    }
                ]
 }

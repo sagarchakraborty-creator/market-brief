@@ -1,0 +1,330 @@
+{
+    "date":  "2026-11-07",
+    "edition":  "Morning",
+    "generatedAt":  "2026-11-07T09:25:00+05:30",
+    "headline":  "Best week in six years for Sensex and Nifty as Samvat 2082 bows out",
+    "segments":  [
+                     {
+                         "title":  "The big picture",
+                         "script":  "Good morning. It\u0027s Saturday, the seventh of November, and this is your Market Brief. Diwali is tomorrow, so a very festive good morning to you.\n\nThree things matter today. First, Indian shares just had their best week in nearly six years. The Nifty closed above 25,000 on Friday, even as a selloff in artificial intelligence stocks rattled markets from Seoul to New York.\n\nSecond, oil is falling hard. Brent crude is headed for a drop of about 16 percent this week, its steepest since 2020, on hopes that the war involving Iran may de-escalate. That helped lift the rupee to a six-month high.\n\nAnd third, the tax on your equity gains is back in debate. The finance minister says she will consider investors\u0027 concerns, and a relief package is being examined, though an announcement before the Budget looks unlikely.\n\nOne date for your calendar: the Muhurat trading session is tomorrow, Sunday, from 2:20 to 3:30 in the afternoon.",
+                         "stories":  [
+                                         {
+                                             "title":  "Street basks in Diwali glow: Benchmark indices post best week in 6 years",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/street-basks-in-diwali-glow-benchmark-indices-post-best-week-in-6-years-126110602064_1.html"
+                                         },
+                                         {
+                                             "title":  "Brent oil price benchmark set for biggest weekly drop since 2020",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/brent-oil-price-benchmark-set-for-biggest-weekly-drop-since-2020-14073532.html"
+                                         },
+                                         {
+                                             "title":  "Govt considers stock market tax relief package, but announcement before Budget unlikely",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/govt-considers-stock-market-tax-relief-package-but-announcement-before-budget-unlikely-14073114.html"
+                                         },
+                                         {
+                                             "title":  "Diwali 2026 stock market holiday: NSE, BSE open on Sunday but closed this day",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/diwali-2026-stock-market-holiday-nse-bse-open-on-sunday-but-closed-this-day-muhurat-trading-date-time-samvat-2083-11793967554645.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "How markets closed",
+                         "script":  "Let\u0027s begin with how markets closed. On Friday, Dhanteras, the Nifty finished above the 25,000 mark, and the Sensex was up close to one percent through the afternoon. The Nifty has now rallied more than 10 percent in just seven sessions, and both indices posted their biggest weekly gains in nearly six years.\n\nBusiness Standard calls it the anti-AI trade. With the global selloff hitting chip makers, cheaper oil and better earnings prospects have made India look attractive next to its Asian peers.\n\nWithin the market, pharma was the star. Aurobindo, Divi\u0027s and Glenmark hit new highs, and Symbiotec Pharmalab jumped 20 percent on results and an order win. Yes Bank rose 6 percent on Friday and 14 percent for the week. On the other side, capital goods had a rough day. The BSE Capital Goods index fell more than 3 percent, with Thermax, Apar and Astral down as much as 20 percent.\n\nNow a look back at the whole Samvat year that ends with Diwali. Despite this late rally, Samvat 2082 was the weakest in fifteen years. The Sensex lost about 4 percent and the Nifty about 3 percent. Foreign institutional investors sold a record 4.55 lakh crore rupees of Indian shares over the year. But domestic institutions bought a record 8.55 lakh crore rupees, more than making up for it.\n\nThe levels to watch. Analysts quoted by Moneycontrol see the Nifty\u0027s immediate hurdle at 25,150, then 25,500. Support has moved up to 24,800, then 24,600. For the Bank Nifty, they are eyeing 59,500. And remember, after Sunday\u0027s Muhurat session, markets are shut on Tuesday, the tenth, for Diwali Balipratipada.",
+                         "stories":  [
+                                         {
+                                             "title":  "Nifty closes above 25,000: Will the tearaway rally continue or will markets consolidate?",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/nifty-closes-above-25-000-will-the-tearaway-rally-continue-or-will-markets-consolidate-check-key-trading-levels-14073320.html"
+                                         },
+                                         {
+                                             "title":  "\u0027Anti-AI\u0027 trade puts Indian stocks ahead of Asian peers amid global selloff",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/anti-ai-trade-puts-indian-stocks-ahead-of-asian-peers-amid-global-selloff-126110600874_1.html"
+                                         },
+                                         {
+                                             "title":  "Pharma stocks rally: Aurobindo, Divi\u0027s, Glenmark, Symbiotec hit new highs",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/pharma-stocks-rally-aurobindo-divi-s-glenmark-symbiotec-sai-life-hit-new-highs-126110601011_1.html"
+                                         },
+                                         {
+                                             "title":  "BSE Capital Goods index slips 4%; Thermax, Apar, Astral tank up to 20%",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/bse-capital-goods-index-slips-4-thermax-apar-astral-tank-up-to-20-126110600832_1.html"
+                                         },
+                                         {
+                                             "title":  "Why did Yes Bank shares rally 6%, extend winning streak to 3rd day",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/why-did-yes-bank-shares-rally-6-extend-winning-streak-to-3rd-day-and-snap-a-7-week-losing-run-what-led-to-rebound-11793959853879.html"
+                                         },
+                                         {
+                                             "title":  "Weakest Samvat in 15 years ends on a high for mkts as Sensex, Nifty rally",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/weakest-samvat-in-15-years-ends-on-a-high-for-mkts-as-sensex-nifty-rally-126110601769_1.html"
+                                         },
+                                         {
+                                             "title":  "Samvat 2082: Record DII buying more than makes up for record FPI outflow",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/record-fii-selling-of-4-55-trillion-meets-record-dii-buying-in-samvat-2082-126110601834_1.html"
+                                         },
+                                         {
+                                             "title":  "Technical View: Diwali rally defies AI-led global rout; Nifty 50 eyes 25,500, Bank Nifty targets 59,500",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/technical-view-diwali-rally-defies-ai-led-global-rout-nifty-50-eyes-25-500-bank-nifty-targets-59-500-as-bulls-remain-firmly-in-control-14073275.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "IPOs and deals",
+                         "script":  "Now to IPOs and deals. Samvat 2082 was the best year ever for the primary market. Companies raised a record 2.23 lakh crore rupees through 375 IPOs, up nearly 20 percent on the year before.\n\nThe pipeline stays full. The Securities and Exchange Board of India has cleared four more issues: Sagar Defence Engineering, Encube Ethicals, Arjun Jewellers and IFL Finance. Encube, backed by Quadria Capital, plans a 3,000 crore rupee issue, all of it an offer for sale. Coal India\u0027s subsidiary Mahanadi Coalfields also has the regulator\u0027s nod, for an issue that will be entirely an offer for sale by its parent. And Travomint\u0027s parent, SNVA Traveltech, has filed its updated draft papers for an issue of 12.75 crore shares.\n\nIn small-company listings, Maxwell Engineering Solutions debuted at a 90 percent premium, while Vectras Enprocon had a tepid start.\n\nOn deals, SoftBank sold Lenskart shares worth 1,896 crore rupees through block deals, bought by thirteen institutional investors at about 697 rupees each. Peak XV Partners and YC Holdings sold Groww shares worth 2,457 crore rupees, and Groww fell almost 4 percent. And V2 Retail rose seven and a half percent, even as its promoters sold 258 crore rupees of shares.",
+                         "stories":  [
+                                         {
+                                             "title":  "Best-ever Samvat for IPOs: Record ₹2.23 trillion raised, up 19.6%",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/ipo/best-ever-samvat-for-ipos-record-2-23-trillion-raised-up-19-6-126110601904_1.html"
+                                         },
+                                         {
+                                             "title":  "Sagar Defence, Encube Ethicals among 4 firms to secure Sebi\u0027s nod for IPOs",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/ipo/sagar-defence-encube-ethicals-among-4-firms-to-secure-sebi-s-nod-for-ipos-126110601677_1.html"
+                                         },
+                                         {
+                                             "title":  "Quadria Capital-backed Encube Ethicals gets SEBI nod for Rs 3,000 crore IPO",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/ipo/quadria-capital-backed-encube-ethicals-gets-sebi-nod-for-rs-3-000-crore-ipo-14073624.html"
+                                         },
+                                         {
+                                             "title":  "Upcoming IPO: Coal India\u0027s Mahanadi Coalfields gets Sebi nod for public issue",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/ipo/upcoming-ipo-coal-india-s-mahanadi-coalfields-gets-sebi-nod-for-public-issue-top-things-to-know-about-psu-public-offer-11793970259119.html"
+                                         },
+                                         {
+                                             "title":  "Travomint parent SNVA Traveltech files UDRHP with SEBI for IPO",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/ipo/travomint-parent-snva-traveltech-files-udrhp-with-sebi-for-ipo-issue-entirely-an-offer-for-sale-14073634.html"
+                                         },
+                                         {
+                                             "title":  "Maxwell Engineering shares list at 90% premium. Here\u0027s how HGS, other 2 SME issues debuted",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/maxwell-engineering-shares-list-at-90-premium-heres-how-hgs-other-2-sme-issues-debuted/articleshow/135594255.cms"
+                                         },
+                                         {
+                                             "title":  "Block Deals: SoftBank sells Rs 1,896 crore worth of Lenskart shares",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/block-deals-softbank-sells-rs-1-896-crore-worth-of-lenskart-shares-alivus-life-sciences-promoter-offloads-2-3-stake-14073878.html"
+                                         },
+                                         {
+                                             "title":  "V2 Retail promoters sell Rs 258 crore shares; Peak XV Partners, YC Holdings offload Rs 2,457 crore worth of Groww shares",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/v2-retail-promoters-sell-rs-258-crore-shares-peak-xv-partners-yc-holdings-offload-rs-2-457-crore-worth-of-groww-shares-14073886.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Results roundup",
+                         "script":  "On to the results roundup.\n\nIn engineering, Siemens reported a profit of 504 crore rupees for the September quarter, up about 5 percent. Revenue rose to 5,734 crore rupees, and new orders jumped 38 percent to 6,228 crore rupees. Bosch posted a standalone profit up nearly 22 percent, on revenue growth of 28 and a half percent. It also announced a one-for-five stock split and a three-for-one bonus issue, though the stock slipped 4 percent from the day\u0027s high.\n\nIn consumer goods, TTK Prestige grew profit 65 percent to 104 crore rupees, and its shares climbed 14 percent.\n\nIn construction, Hindustan Construction Company saw profit fall 53 percent to 22 crore rupees, though it did win an order worth 524 crore rupees. And in steel, BMW Industries grew profit 43 percent to around 22 crore rupees, as its new complex at Bokaro began operations.",
+                         "stories":  [
+                                         {
+                                             "title":  "Siemens Q2 Results: Profit grows 5% to Rs 504 crore",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/siemens-q2-results-profit-grows-5-to-rs-504-crore/articleshow/135605589.cms"
+                                         },
+                                         {
+                                             "title":  "Bosch slips 4% from day\u0027s high; announces 1:5 stock split, 3:1 bonus issue",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/bosch-slips-4-from-day-s-high-announces-1-5-stock-split-3-1-bonus-issue-126110601033_1.html"
+                                         },
+                                         {
+                                             "title":  "TTK Prestige share price climbs 14% after Q2 profit rise 65% to ₹104 crore",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/ttk-prestige-share-price-climbs-14-after-q2-profit-rise-65-to-104-crore-126110601020_1.html"
+                                         },
+                                         {
+                                             "title":  "HCC Q2 profit slumps 53% to Rs 22 crore",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/hcc-q2-profit-slumps-53-to-rs-22-crore/articleshow/135599840.cms"
+                                         },
+                                         {
+                                             "title":  "BMW Industries Q2 Results: Net profit rise 43% YoY to Rs 21.62 crore",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/bmw-industries-q2-results-net-profit-rise-43-yoy-to-rs-21-62-crore/articleshow/135600062.cms"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Economy and policy",
+                         "script":  "Now the economy. The rupee had a strong Friday. It rose 0.6 percent to close at 93.91 to the dollar, its best level since late April, helped by falling oil and foreign inflows. Over the Samvat year, though, it lost about 6.4 percent, and the 10-year bond yield rose 69 basis points.\n\nInflation is the worry. A Reuters poll of economists expects October\u0027s consumer inflation to come close to the top of the Reserve Bank\u0027s target band, driven by food, with food inflation seen around 8.2 percent. The poll says a rate hike is likely at the central bank\u0027s next policy meeting. Both the October inflation numbers and the minutes of the last policy meeting are due in the coming week.\n\nThe farm picture adds to that concern. Rabi sowing is down 46 percent from last year, at 37.6 lakh hectares, after a 48 percent rainfall shortfall in October. Sugar is the bright spot. Output has reached about 12.85 lakh tonnes so far this season, against just 3.2 lakh tonnes a year ago.\n\nOn activity, e-way bills hit a record 156 million in October, up 23 percent, pointing to strong festive demand. And Crisil expects states\u0027 capital spending to rise 10 to 12 percent this financial year, to about 8.5 lakh crore rupees.\n\nNow to tax. Finance Minister Nirmala Sitharaman says she will consider investors\u0027 concerns on equity taxation. Moneycontrol reports the government is examining a relief package, including changes to the securities transaction tax and a three-year holding period for long-term gains, but not before the Budget. Industry body FICCI wants the long-term capital gains tax on listed shares removed, offset by a higher transaction tax. And SBI Research has suggested no tax on gains held beyond three years, putting the cost at 40,000 to 50,000 crore rupees.",
+                         "stories":  [
+                                         {
+                                             "title":  "Rupee hits six-month high of 93.91 against dollar on oil price decline",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/rupee-hits-six-month-high-of-93-91-against-dollar-on-oil-price-decline-126110601558_1.html"
+                                         },
+                                         {
+                                             "title":  "Pressure on rupee continues in Samvat 2082; 10-year bond yields harden",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/pressure-on-rupee-continues-in-samvat-2082-10-year-bond-yields-harden-126110601774_1.html"
+                                         },
+                                         {
+                                             "title":  "India\u0027s October consumer inflation likely nears top of RBI target on food costs: Reuters poll",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/indicators/indias-consumer-inflation-soars-as-food-prices-surge-october-predictions-near-rbis-max-target/articleshow/135599213.cms"
+                                         },
+                                         {
+                                             "title":  "Business in the Week Ahead (November 9-13, 2026)",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/business-in-the-week-ahead-november-9-13-2026-14073160.html"
+                                         },
+                                         {
+                                             "title":  "Rabi sowing down 46% from last year; oilseeds, pulses acreage plunges amid rain deficit",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/rabi-sowing-down-46-from-last-year-oilseeds-pulses-acreage-plunges-amid-rain-deficit-14067690.html"
+                                         },
+                                         {
+                                             "title":  "Sugar production rises to 12.85 lakh tonnes, 184 mills begin operations: ISMA",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/agriculture/sugar-production-rises-to-12-85-lakh-tonnes-184-mills-begin-operations-isma/articleshow/135605865.cms"
+                                         },
+                                         {
+                                             "title":  "E-way bill generation hits fresh record of 156.21 million in October",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/e-way-bill-generation-hits-fresh-record-of-156-21-million-in-october-126110601920_1.html"
+                                         },
+                                         {
+                                             "title":  "States\u0027 capital outlay may rise 10-12% to ₹8.5 trillion in FY27: Crisil",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/states-capital-outlay-may-rise-10-12-to-8-5-trillion-in-fy27-crisil-126110601783_1.html"
+                                         },
+                                         {
+                                             "title":  "FM Sitharaman says she will consider investors\u0027 concerns on equity taxation",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/economy/policy/fm-sitharaman-says-she-will-consider-investors-concerns-on-equity-taxation-14066659.html"
+                                         },
+                                         {
+                                             "title":  "Govt considers stock market tax relief package, but announcement before Budget unlikely",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/govt-considers-stock-market-tax-relief-package-but-announcement-before-budget-unlikely-14073114.html"
+                                         },
+                                         {
+                                             "title":  "Budget 2027: FICCI seeks removal of LTCG tax on listed securities, suggests STT hike",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/budget-2027-ficci-seeks-removal-of-ltcg-tax-on-listed-securities-suggests-stt-hike-14070122.html"
+                                         },
+                                         {
+                                             "title":  "No LTCG tax after 3 years? SBI Research proposes big relief for investors",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/no-ltcg-tax-after-3-years-sbi-research-proposes-big-relief-for-investors-says-govt-can-absorb-rs-50-000-crore-hit-14067190.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Around the world",
+                         "script":  "Around the world, it was a week of whiplash. On Thursday, the Nasdaq 100 suffered its worst day since the Covid crash, on worries over artificial intelligence spending, and Nvidia fell more than 9 percent. Friday brought a rebound. Chip stocks rallied over 4 percent, Nvidia gained 7 percent, the Nasdaq rose about 1 percent and the S\u0026P 500 a third of a percent, while the Dow slipped about half a percent. Still, the S\u0026P 500 had its biggest weekly drop since 2025, and the Nasdaq its fourth weekly fall in a row.\n\nAsia took the brunt. South Korea\u0027s Kospi and Japan\u0027s Nikkei each fell around 6 percent, and Taiwan will curb short selling from Monday, the ninth.\n\nUS jobs data came in stronger than expected, with unemployment falling. That has raised bets on a Federal Reserve rate hike in December, and pushed gold lower.\n\nAnd oil. Brent is on course for a weekly fall of about 16 percent, on hopes of de-escalation in the US-Israeli war on Iran, even as tanker attacks continue. For an oil importer like India, that is welcome relief, after Brent rose about 60 percent over the Samvat year.",
+                         "stories":  [
+                                         {
+                                             "title":  "S\u0026P 500 posts biggest weekly drop since 2025 on AI trade worries",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/s-p-500-posts-biggest-weekly-drop-since-2025-on-ai-trade-worries-14074002.html"
+                                         },
+                                         {
+                                             "title":  "Wall Street rebounds as chip stocks rally after heavy AI-related selloff",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/wall-street-rebounds-as-chip-stocks-rally-after-heavy-ai-related-selloff-126110700047_1.html"
+                                         },
+                                         {
+                                             "title":  "Nasdaq rebounds but posts fourth straight weekly decline",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/nasdaq-rebounds-but-posts-fourth-straight-weekly-decline-14073991.html"
+                                         },
+                                         {
+                                             "title":  "Nvidia shares rebound over 7% after biggest single-day crash in nearly 2 years",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/nvidia-shares-rebound-over-7-after-biggest-single-day-crash-in-nearly-2-years-what-led-to-the-sentiment-reversal-11793980720704.html"
+                                         },
+                                         {
+                                             "title":  "Nasdaq futures rise up to 1.5% amid value buying after steep AI selloff",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/nasdaq-futures-rise-up-to-1-5-amid-value-buying-after-steep-ai-selloff-14073372.html"
+                                         },
+                                         {
+                                             "title":  "Taiwan steps in to calm investor nerves after bruising AI rout",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/markets/global-markets/taiwan-steps-in-to-calm-investor-nerves-after-bruising-ai-routtaiwan-stepped-in-to-try-to-calm-investor-nerves-after-a-deepening-selloff-in-artificial-intelligence-shares-drove-the-island-s-benchmark-14073071.html"
+                                         },
+                                         {
+                                             "title":  "Gold Extends Drop on Stronger-Than-Expected US Employment Data",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/gold-extends-drop-on-stronger-than-expected-us-employment-data-11794000796269.html"
+                                         },
+                                         {
+                                             "title":  "Brent oil price benchmark set for biggest weekly drop since 2020",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/brent-oil-price-benchmark-set-for-biggest-weekly-drop-since-2020-14073532.html"
+                                         },
+                                         {
+                                             "title":  "Samvat 2082: Commodities witness sharp volatility as crude surges",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/samvat-2082-commodities-witness-sharp-volatility-as-crude-surges-126110601860_1.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Your money",
+                         "script":  "Finally, your money. Gold and silver turned lower on Dhanteras. On the futures market, gold fell around 1,700 rupees to about 1,42,900 rupees per 10 grams, and silver slipped to about 1,84,800 rupees a kilo. If you are buying jewellery this festive season, check the hallmark\u0027s six-digit identification number, and verify it on the BIS Care app.\n\nA warning for anyone who buys US stocks through an Indian platform. Bengaluru police have begun a probe into alleged unauthorised access to accounts at Stockal. Its parent, Borderless, says 13 investors lost about 6.26 million dollars, roughly 59 crore rupees, while Mint reports losses of over 100 crore rupees across nearly 30 investors.\n\nThe market regulator is discussing a rule to treat demat accounts as dormant after two years of inactivity. Around three-quarters of India\u0027s 24 crore demat accounts are estimated to be inactive, and the concern is misuse as mule accounts. Separately, the regulator has cautioned Dabur India over a delay in disclosing a warning letter from the US drug regulator.\n\nIn broking, Angel One has overtaken Zerodha as the second-largest broker by active clients, with about 7 million, behind Groww at nearly 14 million. If you trade in Sunday\u0027s Muhurat session, Zerodha says it will reverse brokerage on those trades.\n\nOn loans, the Reserve Bank\u0027s new norms from 2027 bar recovery agents from calling your colleagues or relatives. And state employees in Karnataka get a dearness allowance hike of 2.5 points, to 18 percent.\n\nThat\u0027s your brief. What to watch: the Muhurat session tomorrow afternoon, whether the Nifty can hold above 25,000, oil prices as the Iran situation evolves, and next week\u0027s inflation data and policy minutes. Happy Diwali, and have a lovely weekend.",
+                         "stories":  [
+                                         {
+                                             "title":  "Gold, silver turn volatile after strong US jobs data",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/gold-silver-turn-volatile-after-strong-us-jobs-data-but-remain-on-track-to-snap-multi-week-losing-streaks-11793985166600.html"
+                                         },
+                                         {
+                                             "title":  "Dhanteras, Diwali 2026 shopping tips: 3 hallmark checks and how to use BIS Care app",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/dhanteras-diwali-2026-shopping-tips-buying-gold-and-silver-jewellery-3-hallmark-checks-and-how-to-use-bis-care-app-11793948934186.html"
+                                         },
+                                         {
+                                             "title":  "Stockal scam: Bengaluru police begins probe, summon top executives",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/stockal-scam-bengaluru-police-begins-probe-summon-top-executives-14073555.html"
+                                         },
+                                         {
+                                             "title":  "Investors lose ₹100 cr in Stockal Securities scam; how to file a complain",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/investors-lose-100-cr-in-stockal-securities-scam-how-to-file-a-complain-and-can-you-recover-the-money-11793988016170.html"
+                                         },
+                                         {
+                                             "title":  "SEBI and depositories discuss 2-year dormancy rule for demat accounts",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/sebi-and-depositories-discuss-2-year-dormancy-rule-for-demat-accounts-move-aimed-at-curbing-misuse-sources-14073126.html"
+                                         },
+                                         {
+                                             "title":  "Sebi warns Dabur India over delay in disclosing USFDA warning letter",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/sebi-warns-dabur-india-over-delay-in-disclosing-usfda-warning-letter-126110601897_1.html"
+                                         },
+                                         {
+                                             "title":  "Angel One overtakes Zerodha to become 2nd-largest broker by active clients",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/companies/news/angel-one-overtakes-zerodha-to-become-2nd-largest-broker-by-active-clients-126110601754_1.html"
+                                         },
+                                         {
+                                             "title":  "Muhurat Trading 2026 on Diwali: Trading with Zerodha app? Check brokerage waiver",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-on-diwali-trading-with-zerodha-app-website-check-brokerage-waiver-sip-and-payout-rules-11793964964951.html"
+                                         },
+                                         {
+                                             "title":  "Recovery calls at work: What can borrowers do when loan recovery agents repeatedly call?",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/recovery-calls-at-work-what-can-borrowers-do-when-loan-recovery-agents-repeatedly-call-or-contact-their-colleagues-11793911449786.html"
+                                         },
+                                         {
+                                             "title":  "DA hike: Karnataka increases dearness allowance by 2.5%, and Arunachal Pradesh by 3%",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/da-hike-state-govt-karnataka-increases-dearness-allowance-by-2-5-pc-arunachal-pradesh-3-pc-ahead-diwali-punjab-full-list-11794015856147.html"
+                                         }
+                                     ]
+                     }
+                 ]
+}
