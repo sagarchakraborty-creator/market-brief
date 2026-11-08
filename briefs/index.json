@@ -1,6 +1,11 @@
 {
     "briefs":  [
                    {
+                       "date":  "2026-11-08",
+                       "edition":  "Morning",
+                       "headline":  "Muhurat trading opens Samvat 2083 after the best week since 2021"
+                   },
+                   {
                        "date":  "2026-11-07",
                        "edition":  "Morning",
                        "headline":  "Best week in six years for Sensex and Nifty as Samvat 2082 bows out"
@@ -64,11 +69,6 @@
                        "date":  "2026-10-26",
                        "edition":  "Morning",
                        "headline":  "Jio allotment day as markets brace for a Fed week with Brent near 115 dollars"
-                   },
-                   {
-                       "date":  "2026-10-24",
-                       "edition":  "Morning",
-                       "headline":  "Small caps\u0027 worst week in two years as Jio IPO closes at a record 22 times"
                    }
                ]
 }
