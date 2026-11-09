@@ -1,6 +1,11 @@
 {
     "briefs":  [
                    {
+                       "date":  "2026-11-09",
+                       "edition":  "Morning",
+                       "headline":  "A quiet start to Samvat 2083 as foreign money floods back"
+                   },
+                   {
                        "date":  "2026-11-08",
                        "edition":  "Morning",
                        "headline":  "Muhurat trading opens Samvat 2083 after the best week since 2021"
@@ -64,11 +69,6 @@
                        "date":  "2026-10-27",
                        "edition":  "Morning",
                        "headline":  "Markets snap losing streak; expiry, big results and the Fed in focus"
-                   },
-                   {
-                       "date":  "2026-10-26",
-                       "edition":  "Morning",
-                       "headline":  "Jio allotment day as markets brace for a Fed week with Brent near 115 dollars"
                    }
                ]
 }
