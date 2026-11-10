@@ -1,6 +1,11 @@
 {
     "briefs":  [
                    {
+                       "date":  "2026-11-10",
+                       "edition":  "Morning",
+                       "headline":  "Markets shut for Balipratipada; oil slides as Citi, HSBC turn bullish on India"
+                   },
+                   {
                        "date":  "2026-11-09",
                        "edition":  "Morning",
                        "headline":  "A quiet start to Samvat 2083 as foreign money floods back"
@@ -64,11 +69,6 @@
                        "date":  "2026-10-28",
                        "edition":  "Morning",
                        "headline":  "Jio lists today as markets open weak; L\u0026T shines, GST rules ease"
-                   },
-                   {
-                       "date":  "2026-10-27",
-                       "edition":  "Morning",
-                       "headline":  "Markets snap losing streak; expiry, big results and the Fed in focus"
                    }
                ]
 }

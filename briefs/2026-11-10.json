@@ -1,0 +1,330 @@
+{
+    "date":  "2026-11-10",
+    "edition":  "Morning",
+    "generatedAt":  "2026-11-10T08:20:52+05:30",
+    "headline":  "Markets shut for Balipratipada; oil slides as Citi, HSBC turn bullish on India",
+    "segments":  [
+                     {
+                         "title":  "The big picture",
+                         "script":  "Good morning. It\u0027s Tuesday, the tenth of November. Markets are shut today for Diwali Balipratipada, so this is a good morning to take stock after a busy festive weekend.\n\nThree things matter most. First, Indian shares ended Monday at their highest level in more than eight months, and two big global houses, Citi and HSBC, have turned more positive on India. Second, oil is sliding hard. Brent was near 96 dollars a barrel during our session, and then fell more than 7 dollars a barrel in late American trade after President Trump signalled restraint on Iran. That is good news for our inflation, our rupee and our bond market. Third, Wall Street bounced back sharply from its worst week in nearly two years, even as Nvidia fell steeply over an investigation into its chief executive.\n\nLet\u0027s take them one by one.",
+                         "stories":  [
+                                         {
+                                             "title":  "Stock market holiday: NSE, BSE to remain closed for Diwali-Balipratipada",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/stock-market-holiday-today-nse-bse-to-remain-closed-for-diwali-balipratipada-126111000071_1.html"
+                                         },
+                                         {
+                                             "title":  "Citi, HSBC turn bullish on India as oil slide, AI rotation lift markets",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/stock-market-news/citi-bullish-on-indian-equities-sees-nifty-at-28-000-by-end-2027-126110900222_1.html"
+                                         },
+                                         {
+                                             "title":  "Oil down more than $7 a barrel in post settlement trade as Trump signals restraint on Iran",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/oil-down-more-than-7-a-barrel-in-post-settlement-trade-as-trump-signals-restraint-on-iran-11794254623929.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "How markets closed",
+                         "script":  "Monday\u0027s session was a recovery story. After a volatile Muhurat trading session on Sunday, when the Sensex and Nifty gave up early gains to close in the red, Monday started weak as well. But the Nifty bounced more than 100 points from the day\u0027s low to close back above 25,000, up 0.23 percent. The Sensex recovered more than 400 points from its low to end 0.13 percent higher.\n\nBanks did the heavy lifting. The Bank Nifty rose about 1 percent to trade above 59,500, and the public sector bank index gained between 2 and 3 percent, led by State Bank of India. HDFC Bank, ICICI Bank and Larsen and Toubro were also among the top Nifty gainers.\n\nPharma was the other bright spot, up about 1.5 percent on strong results. On the other side, information technology stocks fell more than 1 percent, even as global technology shares recovered. Mphasis, HCL Tech and Infosys lost 2 to 3 percent, and TCS was weak too. Tata Steel and UltraTech Cement were among the biggest Nifty losers.\n\nNow to the money. Foreign portfolio investors have turned aggressive buyers. According to Choice Wealth, they bought a net 38,971 crore rupees of shares in the first week of November, after selling a net 34,843 crore rupees in October. Business Standard puts November buying by foreign investors at more than 4.1 billion dollars, and the Nifty rose more than 10 percent over the seven sessions to Friday.\n\nFor the charts, analysts quoted by Moneycontrol say the Nifty needs to close above the 25,150 to 25,200 zone to resume its uptrend towards 25,500, with 24,800 as the immediate support. For the Bank Nifty, the hurdle is around 60,400.",
+                         "stories":  [
+                                         {
+                                             "title":  "Live: Nifty recovers 100 pts from day\u0027s low; Oil at $96, rupee back above 94/$ | Closing Bell",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/videos/business/markets/live-nifty-recovers-100-pts-from-day-s-low-oil-at-96-rupee-back-above-94-closing-bell-14075503.html"
+                                         },
+                                         {
+                                             "title":  "Stock market holiday tomorrow: BSE, NSE shut on November 10 for Diwali Balipratipada after Sunday Muhurat, Monday trade",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/stock-market-holiday-tomorrow-bse-nse-shut-on-november-10-for-diwali-balipratipada-after-sunday-muhurat-monday-trade-14075578.html"
+                                         },
+                                         {
+                                             "title":  "Bank Nifty surges 1% to trade above 59,500; PSU banks lead gains: What lies ahead?",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/bank-nifty-surges-1-to-trade-above-59-500-psu-banks-lead-gains-what-lies-ahead-14075518.html"
+                                         },
+                                         {
+                                             "title":  "PSU Banks in focus; SBI, BOI, PNB, Indian Bank, Canara, UBI gain up to 3%",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/psu-banks-in-focus-sbi-boi-pnb-indian-bank-canara-ubi-gain-up-to-3-126110900233_1.html"
+                                         },
+                                         {
+                                             "title":  "Nifty IT index falls over 1% as global AI stocks stage recovery; Mphasis, HCL Tech, Infosys down 2-3%",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/nifty-it-index-falls-over-1-as-global-ai-stocks-stage-recovery-mphasis-hcl-tech-infosys-down-2-3-14075649.html"
+                                         },
+                                         {
+                                             "title":  "Why FPIs turned aggressive buyers in November? Choice Wealth explains",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/why-fpis-turned-aggressive-stock-buyers-in-november-choice-wealth-explains-126110900074_1.html"
+                                         },
+                                         {
+                                             "title":  "Technical View: Nifty 50 must cross 25,200 to resume uptrend",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/technical-view-nifty-50-must-cross-25-200-to-resume-uptrend-until-then-range-bound-trading-may-continue-bank-nifty-faces-crucial-resistance-at-60-400-14075563.html"
+                                         },
+                                         {
+                                             "title":  "Top 3 stocks to buy this week: Union Bank, Ather Energy, Laurus Labs by market expert",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/top-3-stocks-to-buy-this-week-union-bank-ather-energy-laurus-labs-by-market-expert-check-stop-loss-target-price-11794224157187.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "IPOs and deals",
+                         "script":  "In the primary market, Veritas Finance, a lender backed by Norwest Venture Partners and Kedaara Capital, has received the market regulator SEBI\u0027s approval for its public issue. It plans to raise 900 crore rupees through fresh shares, while existing shareholders will sell up to 1.28 crore shares. The fresh money will go to strengthen its capital base for lending.\n\nIn deals, Goldman Sachs has trimmed its stake in MK Sons Fine Jewels through a bulk deal, down from the 1.8 percent it held in September. And Zee Entertainment has risen 11 percent in two days, as its board prepares to consider a share buyback and a dividend.",
+                         "stories":  [
+                                         {
+                                             "title":  "Norwest Venture Partners and Kedaara Capital-backed Veritas Finance IPO gets SEBI nod",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/ipo/norwest-venture-partners-and-kedaara-capital-backed-veritas-finance-ipo-gets-sebi-nod-14075645.html"
+                                         },
+                                         {
+                                             "title":  "Upcoming IPO: Veritas Finance gets Sebi nod to launch public issue",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/upcoming-ipo-veritas-finance-gets-sebi-nod-to-launch-public-issue-top-things-for-investors-11794247367964.html"
+                                         },
+                                         {
+                                             "title":  "Goldman Sachs pares stake in MK Sons Fine Jewels through bulk deal",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/goldman-sachs-pares-stake-in-mk-sons-fine-jewels-through-bulk-deal-14075805.html"
+                                         },
+                                         {
+                                             "title":  "ZEEL extends gains, rises 11% in 2 days as board to mull buyback, dividend",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/zee-entertainment-share-price-extends-gains-rises-11-in-2-days-as-board-to-mull-buyback-dividend-126110900445_1.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Results roundup",
+                         "script":  "Now to results, and pharma stole the show. Divi\u0027s Laboratories has joined the 3 lakh crore rupee market value club, rising 15 percent in two days after its numbers and gaining for twelve straight sessions. JPMorgan kept its overweight rating and raised its target to 12,500 rupees. Sai Life Sciences jumped 9 percent to a record after its September quarter profit rose 17 percent to 98 crore rupees, on revenue up 23 percent at 659 crore rupees. Gland Pharma rallied 8 percent to a four-year high, and Laurus Labs and Glenmark also hit records.\n\nIn metals, Tata Steel\u0027s consolidated profit rose more than 16 percent to about 3,700 crore rupees, driven by India operations. Yet the shares slipped after a five-day rally, as brokerages stayed cautious about the British business. Nuvama upgraded the stock to buy with a target of 219 rupees.\n\nOn the consumer side, results were mixed. Jubilant FoodWorks fell around 5 percent after its quarterly profit dropped 43 percent. JPMorgan said fuel and wage inflation have stalled margin progress at Domino\u0027s, though Motilal Oswal remains positive on the medium term. Voltas reported a 51 percent jump in profit to about 48 crore rupees, on revenue up 15 percent at around 2,707 crore rupees, led by room air conditioners. Even so, the stock has fallen 8 percent over two sessions.\n\nIn financial services, Nuvama Wealth Management\u0027s profit rose 19 percent to about 304 crore rupees.\n\nAnd Data Patterns rose 9 percent even though profit fell 55 percent, as management said it is confident of meeting this year\u0027s targets.",
+                         "stories":  [
+                                         {
+                                             "title":  "Divis joins ₹3 trn market cap club; rallies 15% in 2 days post Q2 results",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/divis-joins-3-trn-market-cap-club-rallies-15-in-2-days-post-q2-results-126110900182_1.html"
+                                         },
+                                         {
+                                             "title":  "Divi\u0027s Labs shares jump 4% as brokerages see up to 12% upside post-Q2 results",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/divi-s-labs-shares-jump-4-as-brokerages-see-up-to-12-upside-post-q2-results-pharma-index-rises-1-5-14075352.html"
+                                         },
+                                         {
+                                             "title":  "Multibagger stock: Sai Life Sciences surges 9% to record high after Q2 nos",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/multibagger-stock-sai-life-sciences-surges-9-to-record-high-after-q2-nos-126110900299_1.html"
+                                         },
+                                         {
+                                             "title":  "Gland Pharma shares rally 8% to hit 4-year-high post strong Q2",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/gland-pharma-shares-rally-8-to-hit-4-year-high-post-strong-q2-what-brokerages-say-check-target-prices-14075696.html"
+                                         },
+                                         {
+                                             "title":  "Pharma shares shine: Sai, Gland, Divi\u0027s, Laurus, Glenmark surge up to 9%",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/pharma-shares-shine-sai-gland-divi-s-laurus-glenmark-surge-up-to-9-126110900372_1.html"
+                                         },
+                                         {
+                                             "title":  "Tata Steel dips 1.5% after 5-day rally; brokerages stay upbeat on India biz",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/tata-steel-dips-1-5-after-5-day-rally-brokerages-stay-upbeat-on-india-biz-126110900194_1.html"
+                                         },
+                                         {
+                                             "title":  "Tata Steel shares down 3% post-Q2 results, brokerages cautious about UK operations\u0027 growth",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/tata-steel-shares-down-3-post-q2-results-brokerages-cautious-about-uk-operations-growth-14075524.html"
+                                         },
+                                         {
+                                             "title":  "Jubilant FoodWorks shares fall 4.5% as Q2 net profit declines 43%",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/jubilant-foodworks-shares-fall-4-5-as-q2-net-profit-declines-43-brokerages-give-mixed-outlook-14075357.html"
+                                         },
+                                         {
+                                             "title":  "Jubilant FoodWorks dips 5% post Q2, but brokerages remain firm",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/jubilant-foodworks-share-price-dips-5-post-q2-but-brokerages-remain-firm-here-s-why-126110900280_1.html"
+                                         },
+                                         {
+                                             "title":  "Winter is coming! Voltas delivers strong Q2 results",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/winter-is-coming-voltas-delivers-strong-q2-results-should-you-buy-the-tata-group-ac-maker-as-cold-winds-rise-11794212915132.html"
+                                         },
+                                         {
+                                             "title":  "Voltas dips 8% in two sessions post Q2 earnings; Emkay retains \u0027Buy\u0027 rating",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/voltas-dips-8-in-two-sessions-post-q2-earnings-emkay-retains-buy-rating-126110900238_1.html"
+                                         },
+                                         {
+                                             "title":  "Nuvama Wealth Management Q2 Results: Profit rises 19% YoY to Rs 304 crore",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/nuvama-wealth-management-q2-results-profit-rises-19-yoy-to-rs-304-crore/articleshow/135673703.cms"
+                                         },
+                                         {
+                                             "title":  "Data Patterns shares rally 9% despite weak Q2 results",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/data-patterns-shares-rally-9-despite-weak-q2-results-management-says-confident-on-meeting-fy27-targets-14075447.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Economy and policy",
+                         "script":  "To the economy. The rupee broke a six-day winning streak on Monday. It touched a six-month high of 93.69 to the dollar, but closed slightly weaker at about 93.93, as state-run banks bought dollars. Bonds had a better day. The ten-year government bond yield fell nearly 4 basis points to 7.15 percent as oil eased, and foreign holdings of the fully accessible government bonds rose by nearly 8,000 crore rupees to 3.65 lakh crore rupees.\n\nOn the government side, central public sector companies have spent 5.03 lakh crore rupees on capital projects between April and October, up nearly 13 percent, and already 60 percent of this year\u0027s target.\n\nLooking to the next Budget, an official says the government may announce support to boost domestic manufacturing of 100 products, including auto components, chemicals and machinery, to cut import dependence. The industry body FICCI, meanwhile, has asked for long-term capital gains tax on listed shares to be removed, with a higher securities transaction tax on delivery trades to make up the revenue.\n\nOn trade, India and the European Union have agreed to deepen cooperation in semiconductors, quantum technology and biotechnology, ahead of a proposed free trade agreement next month.\n\nOne worry from the farms. Rabi sowing is down 46 percent from last year, at 37.6 lakh hectares as of October the thirtieth, against 69 lakh hectares a year ago, after a 48 percent rainfall shortfall in October. Oilseeds and pulses are hit hardest.",
+                         "stories":  [
+                                         {
+                                             "title":  "Rupee breaks six-day winning streak on state banks\u0027 dollar bids",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/currency/rupee-breaks-six-day-winning-streak-on-state-banks-dollar-bids-14075721.html"
+                                         },
+                                         {
+                                             "title":  "Bond yields fall as oil prices soften amid easing geopolitical concerns",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/bond-yields-decline-as-crude-oil-prices-ease-amid-geopolitical-optimism-126110901238_1.html"
+                                         },
+                                         {
+                                             "title":  "FPI inflows into FAR G-Secs rise nearly ₹8K cr as rupee gains, yields ease",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/fpi-inflows-into-far-g-secs-rise-nearly-8k-cr-as-rupee-gains-yields-ease-126110900736_1.html"
+                                         },
+                                         {
+                                             "title":  "CPSEs achieve 60% of FY27 capital expenditure target in April-October",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/cpses-achieve-60-of-fy27-capital-expenditure-target-in-april-october-126110900995_1.html"
+                                         },
+                                         {
+                                             "title":  "Govt may extend support measures in FY28 Budget to boost manufacturing of 100 products: Official",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/policy/govt-may-extend-support-measures-in-fy28-budget-to-boost-manufacturing-of-100-products-official/articleshow/135680256.cms"
+                                         },
+                                         {
+                                             "title":  "Budget 2027: FICCI seeks removal of LTCG tax on listed securities, suggests STT hike",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/budget-2027-ficci-seeks-removal-of-ltcg-tax-on-listed-securities-suggests-stt-hike-14070122.html"
+                                         },
+                                         {
+                                             "title":  "India, EU step up tech and investment ties ahead of landmark trade pact",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/india-eu-step-up-tech-and-investment-ties-ahead-of-landmark-trade-pact-126110901229_1.html"
+                                         },
+                                         {
+                                             "title":  "Rabi sowing down 46% from last year; oilseeds, pulses acreage plunges amid rain deficit",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/rabi-sowing-down-46-from-last-year-oilseeds-pulses-acreage-plunges-amid-rain-deficit-14067690.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Around the world",
+                         "script":  "Around the world, oil is the story. Prices fell more than 7 dollars a barrel in late trade on Monday after President Trump signalled restraint on Iran, and that lifted almost everything else. Gold crossed 4,100 dollars an ounce, helped by softer oil easing inflation worries.\n\nOn Wall Street, stocks rebounded from their worst week in nearly two years. The S and P 500 rose around 2 percent, its best day since April according to Moneycontrol, with all eleven sectors higher. The Nasdaq rallied more than 3 percent. Chipmakers surged, with AMD up more than 12 percent after Google Cloud chose its processors for new artificial intelligence systems, and Broadcom up more than 9 percent.\n\nThe exception was Nvidia. Its shares fell between 5 and 9 percent, depending on the report, after the company opened an investigation into chief executive Jensen Huang, following reports of a relationship with a woman suspected by American authorities of spying for China. Nvidia\u0027s board believes no secrets were compromised, and analysts say its upcoming earnings will be crucial. In Asia this morning, South Korea\u0027s Kospi jumped more than 5 percent in early trade.\n\nAnd two big calls on India. HSBC has upgraded Indian shares to overweight and cut China to neutral, citing reasonable valuations, resilient earnings and strong credit growth. Citi sees the Nifty reaching 28,000 by the end of 2027, on earnings and lower oil prices.",
+                         "stories":  [
+                                         {
+                                             "title":  "Oil down more than $7 a barrel in post settlement trade as Trump signals restraint on Iran",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/oil-down-more-than-7-a-barrel-in-post-settlement-trade-as-trump-signals-restraint-on-iran-11794254623929.html"
+                                         },
+                                         {
+                                             "title":  "Gold, silver extend gains as softer oil prices ease inflation concerns",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/commodities/gold-silver-extend-gains-as-softer-oil-prices-ease-inflation-concerns-126110900378_1.html"
+                                         },
+                                         {
+                                             "title":  "S\u0026P 500 rallies most since April as oil drop lures back buyers",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/s-p-500-rallies-most-since-april-as-oil-drop-lures-back-buyers-14075820.html"
+                                         },
+                                         {
+                                             "title":  "Wall Street bounces back from AI sell-off, Nasdaq rallies over 3%, but Nvidia plunges 9% on Jensen Huang controversy",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/wall-street-bounces-back-from-ai-sell-off-nasdaq-rallies-over-3-but-nvidia-plunges-9-on-jensen-huang-controversy-11794238373887.html"
+                                         },
+                                         {
+                                             "title":  "AMD stock rallies 12% as Google Cloud taps its EPYC processors",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/amd-stock-rallies-12-as-google-cloud-taps-its-epyc-processors-for-next-generation-ai-infrastructure-11794242504072.html"
+                                         },
+                                         {
+                                             "title":  "Broadcom shares pop over 9%, on track for biggest one-day surge in a year",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/broadcom-shares-pop-over-9-on-track-for-biggest-one-day-surge-in-a-year-whats-driving-the-rebound-11794246529114.html"
+                                         },
+                                         {
+                                             "title":  "Nvidia\u0027s shares slide 5% as chip giant probes CEO Huang over spy claims",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/artificial-intelligence/nvidia-s-shares-slide-5-as-chip-giant-probes-ceo-huang-over-spy-claims-article-14075531.html"
+                                         },
+                                         {
+                                             "title":  "Explained: Why Nvidia shares dropped 4% in overnight trade",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-nvidia-shares-dropped-4-in-overnight-trade-and-what-analysts-warn-can-trigger-a-bloodbath/articleshow/135674705.cms"
+                                         },
+                                         {
+                                             "title":  "South Korean stocks jump as chipmakers roar back on dip buying",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/south-korean-stocks-jump-as-chipmakers-roar-back-on-dip-buying-14075829.html"
+                                         },
+                                         {
+                                             "title":  "HSBC upgrades Indian equities to \u0027overweight\u0027, cuts China to \u0027neutral\u0027",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/hsbc-upgrades-indian-equities-to-overweight-cuts-china-to-neutral-126110901244_1.html"
+                                         },
+                                         {
+                                             "title":  "Citi bullish on Indian equities, sees Nifty at 28,000 by end-2027",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/citi-bullish-on-indian-equities-sees-nifty-at-28000-by-end-2027/articleshow/135671094.cms"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Your money",
+                         "script":  "Finally, your money, starting with two useful tax rulings from the Income Tax Appellate Tribunal in Jaipur. In the first, an insurance agent\u0027s cash deposits of 35.09 lakh rupees during demonetisation had been treated as unexplained income. The tribunal deleted the addition after accepting records showing the cash came from policyholders\u0027 premiums. In the second, it deleted an 11 lakh rupee penalty on a farmer who accepted cash while selling his house for 22.5 lakh rupees, holding that his lack of awareness of the rules was a reasonable cause under section 273B.\n\nIf you bought gold this Dhanteras, note that mandatory hallmarking now covers six more districts, taking the total to 398 districts across 26 states and union territories. And the Reserve Bank has debunked a viral claim that existing cheque books become invalid after December the thirty-first.\n\nFor savers, Suryoday Small Finance Bank is offering senior citizens 8.6 percent on five-year deposits, with Jana and DCB Bank at 8 percent.\n\nA warning too. Police in Hyderabad say a businessman lured about 7,400 investors with promises of 4 percent monthly returns, in an alleged fraud of 670 crore rupees. Returns like that are a red flag.\n\nAnd bank branches are closed today in several cities, including Mumbai, Bengaluru and Ahmedabad.\n\nThat\u0027s the brief. Markets reopen tomorrow, Wednesday. Tonight, our time, the United States releases its October consumer inflation figures, and oil\u0027s slide will be tested against them. Watch whether the Nifty can clear 25,200 when trading resumes, whether foreign buying holds up, and India\u0027s own retail inflation numbers later this week. Have a calm and happy Balipratipada.",
+                         "stories":  [
+                                         {
+                                             "title":  "Received cash from customers and deposited it in your bank account? When can income tax authorities tax it",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/received-cash-from-customers-and-deposited-it-in-your-bank-account-when-can-income-tax-authorities-tax-it-11794244686185.html"
+                                         },
+                                         {
+                                             "title":  "Sold your house and accepted ₹11 lakh in cash? ITAT deletes penalty",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/sold-your-house-and-accepted-11-lakh-in-cash-itat-deletes-penalty-citing-sellers-lack-of-awareness-of-tax-rules-11794216038696.html"
+                                         },
+                                         {
+                                             "title":  "Buying gold jewellery? Government makes hallmarking mandatory in six more districts across India",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/buying-gold-jewellery-government-makes-hallmarking-mandatory-in-six-more-districts-across-india-check-the-full-list-11794233861691.html"
+                                         },
+                                         {
+                                             "title":  "Will your old cheque book become invalid after December 31, 2026? RBI debunks viral claim",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/will-old-your-cheque-book-become-invalid-after-december-31-2026-big-development-from-rbi-11794210127344.html"
+                                         },
+                                         {
+                                             "title":  "Senior citizen FD rates: Suryoday Bank offers 8.6% on five-year deposits",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/senior-citizen-fd-rates-suryoday-bank-offers-8-6-on-five-year-deposits-compare-rates-at-sbi-hdfc-bank-and-others-11794246408961.html"
+                                         },
+                                         {
+                                             "title":  "₹670-cr investment fraud: How a former mason allegedly lured 7,400 investors with 4% monthly returns",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/670cr-investment-fraud-how-a-former-mason-allegedly-lured-7-400-investors-with-4-monthly-returns-11794218973740.html"
+                                         },
+                                         {
+                                             "title":  "Bank holiday today, 10 Nov Tuesday: Bank branches closed in Ahmedabad, Bengaluru, Mumbai and 4 other cities",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/bank-holiday-today-10-nov-tuesday-bank-branches-closed-in-ahmedabad-bengaluru-mumbai-and-3-other-cities-heres-why-11794270057057.html"
+                                         },
+                                         {
+                                             "title":  "Wall Street jumps as oil slide cools inflation worries; Nvidia slumps",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/wall-street-jumps-as-oil-slide-cools-inflation-worries-nvidia-slumps-14075800.html"
+                                         },
+                                         {
+                                             "title":  "Weekly policy watch: Retail inflation, forex reserves and deposits in focus",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/weekly-policy-watch-india-retail-inflation-forex-reserves-deposit-growth-126110900126_1.html"
+                                         }
+                                     ]
+                     }
+                 ]
+}
