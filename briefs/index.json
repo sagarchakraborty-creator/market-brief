@@ -1,6 +1,11 @@
 {
     "briefs":  [
                    {
+                       "date":  "2026-11-11",
+                       "edition":  "Morning",
+                       "headline":  "Markets reopen after Diwali as foreign money returns and oil eases"
+                   },
+                   {
                        "date":  "2026-11-10",
                        "edition":  "Morning",
                        "headline":  "Markets shut for Balipratipada; oil slides as Citi, HSBC turn bullish on India"
@@ -64,11 +69,6 @@
                        "date":  "2026-10-29",
                        "edition":  "Morning",
                        "headline":  "Fed holds, eyes December hike; Jio debut lifts Reliance past Tata"
-                   },
-                   {
-                       "date":  "2026-10-28",
-                       "edition":  "Morning",
-                       "headline":  "Jio lists today as markets open weak; L\u0026T shines, GST rules ease"
                    }
                ]
 }

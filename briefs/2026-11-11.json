@@ -1,0 +1,301 @@
+{
+    "date":  "2026-11-11",
+    "edition":  "Morning",
+    "generatedAt":  "2026-11-11T08:45:00+05:30",
+    "headline":  "Markets reopen after Diwali as foreign money returns and oil eases",
+    "segments":  [
+                     {
+                         "title":  "The big picture",
+                         "script":  "Good morning. It\u0027s Wednesday, the eleventh of November, and this is your Market Brief.\n\nMarkets reopen today after the Diwali Balipratipada holiday, and three things matter most. First, foreign investors are back. They have put around 53,700 crore rupees into Indian shares in the first nine days of November, after months of selling.\n\nSecond, oil is cooling fast. Brent crude slipped below 90 dollars a barrel for the first time since August, after President Trump\u0027s comments on Iran.\n\nAnd third, a warning from America. Inflation there came in hotter than expected, which has hardened bets on a Federal Reserve rate hike in December. Wall Street fell overnight. Let\u0027s take them one by one.",
+                         "stories":  [
+                                         {
+                                             "title":  "FPIs turn net buyers; pour Rs 53,739 crore in D-Street in Nov so far",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/fpis-turn-net-buyers-pour-rs-53739-crore-in-d-street-in-nov-so-far/articleshow/135708381.cms"
+                                         },
+                                         {
+                                             "title":  "Brent crude falls below $90 on Iran war de-escalation optimism",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/brent-crude-falls-below-90-on-iran-war-de-escalation-optimism-14076241.html"
+                                         },
+                                         {
+                                             "title":  "US stocks fall as hotter inflation fuels Fed rate hike fears, Nvidia slides nearly 6%",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/us-stocks-falla-as-hotter-inflation-fuels-fed-rate-hike-fears-nvidia-slides-nearly-6-14076505.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "How markets closed",
+                         "script":  "Indian markets were shut on Tuesday, so the last session was Monday. That day, the Nifty stretched its winning streak to seven sessions in a row, cutting its loss for the year to about 4.15 percent.\n\nState-owned banks led the charge. The Nifty PSU Bank index posted its biggest one-day gain in nearly two years, helped by strong quarterly profits, better asset quality and returning foreign money. Oil marketing companies have had a good month too. HPCL, BPCL and Indian Oil are up between 10 and 13 and a half percent so far in November, as crude falls.\n\nNow to the money flows. Foreign portfolio investors bought around 53,700 crore rupees of Indian shares in the first nine days of the month, according to depository data. Business Standard adds that they also bought about 7,480 crore rupees of government bonds. This follows outflows of about 34,800 crore rupees in October and about 35,900 crore in September. V K Vijayakumar of Geojit Investments says the switch was triggered by the sell-off in artificial intelligence stocks in the US, South Korea, Taiwan and Japan. That, he says, has made India, a market seen as outside the AI trade, an attractive place for foreign investors.\n\nWhat about this morning? GIFT Nifty was trading around 25,300, roughly one percent above the last close of Nifty futures, which points to a firmer start. Some trackers, though, describe early trade as muted after Wall Street\u0027s fall. Analysts quoted by Moneycontrol see 25,200 to 25,300 as the first resistance zone, then 25,500 as the big hurdle. On the downside, 24,800 is seen as key support. Bank Nifty traders are watching the 60,000 mark.",
+                         "stories":  [
+                                         {
+                                             "title":  "Nifty PSU Bank Index Performance: Bank of India, UCO Bank among 7 stocks rebound 15–56% from 1-yr lows - here’s why",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/nifty-psu-bank-index-performance-bank-of-india-uco-bank-among-7-stocks-rebound-15-56-from-1-yr-lows-here-s-why-11794321816668.html"
+                                         },
+                                         {
+                                             "title":  "FPIs return to Dalal Street amid AI sell-off and oil slump; Can proposed tax cuts sustain inflows?",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/fpis-return-to-dalal-street-amid-ai-sell-off-and-oil-slump-can-proposed-tax-cuts-sustain-inflows-11794315705620.html"
+                                         },
+                                         {
+                                             "title":  "OMC stocks: Brent slips below $90 to hit over 2-month low amid Iran peace hopes; Will HPCL, BPCL and IOC benefit?",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/omc-stocks-brent-slips-below-90-to-hit-over-2-month-low-amid-iran-peace-hopes-will-hpcl-bpcl-and-ioc-benefit-11794312198955.html"
+                                         },
+                                         {
+                                             "title":  "FPIs turn net buyers in November, pump ₹53,739 crore into Indian equities",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/fpis-turn-net-buyers-in-november-pump-53-739-crore-into-indian-equities-126111000477_1.html"
+                                         },
+                                         {
+                                             "title":  "The turn of the tide: Foreign investors return, signalling longer India bet",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/the-turn-of-the-tide-foreign-investors-return-signalling-longer-india-bet-126111000761_1.html"
+                                         },
+                                         {
+                                             "title":  "Stock market outlook today, 11 Nov: Sensex, Nifty prediction - DJIA, S\u0026P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-11-nov-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11794357789353.html"
+                                         },
+                                         {
+                                             "title":  "Trading Plan: Can Nifty 50 reclaim 25,200, Bank Nifty decisively surpass 60,000?",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/trading-plan-can-nifty-50-reclaim-25-200-bank-nifty-decisively-surpass-60-000-14076524.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "IPOs and deals",
+                         "script":  "Now to deals, and two big ones at home. Blackstone is leading a fundraise of 6,414 crore rupees in IIFL Finance, and will pick up a 16 percent stake. The company\u0027s promoters, Nirmal Jain and R Venkataraman, will put in 1,264 crore rupees of that through warrants.\n\nBajaj Finance, meanwhile, has allotted 5.74 crore warrants to its promoter, Bajaj Finserv, for 5,799 crore rupees. The price is 1,010 rupees a warrant. A quarter of the money comes now, and the rest later, when the warrants turn into shares.\n\nOverseas, the biggest listing story is Anthropic, the maker of the Claude chatbot. It has set a price band of 70 to 78 dollars a share for its Nasdaq listing, offering 825 million shares. That could raise up to about 64 billion dollars and value the company at up to 1.4 trillion dollars. Together with a private placement, the total raise could reach about 90 billion dollars.",
+                         "stories":  [
+                                         {
+                                             "title":  "Blackstone leads Rs 6,414-crore fundraise in IIFL Finance, to acquire 16% stake",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/companies/blackstone-iifl-finance-promoters-to-invest-rs-6-414-crore-in-nbfc-14076344.html"
+                                         },
+                                         {
+                                             "title":  "Bajaj Finance issues 5.74 crore warrants to promoter for Rs 5,799 crore",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-issues-5-74-crore-warrants-to-promoter-for-rs-5799-crore/articleshow/135708439.cms"
+                                         },
+                                         {
+                                             "title":  "Anthropic sets IPO price band at $70-$78, targets valuation of up to $1.4 trillion",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/ipo/anthropic-sets-ipo-price-band-at-70-78-targets-valuation-of-up-to-1-4-trillion-11794311891604.html"
+                                         },
+                                         {
+                                             "title":  "Anthropic targets $1.4 trillion valuation in blockbuster IPO",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/artificial-intelligence/anthropic-targets-90-billion-in-ipo-and-placement-with-big-tech-article-14076387.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Results roundup",
+                         "script":  "Now to results, starting with consumer names. Kalyan Jewellers had a sparkling September quarter. Net profit jumped 64 percent to 427 crore rupees, from about 260 crore a year ago.\n\nOn the other side, tyre maker MRF felt the pinch of costlier raw materials. Revenue rose around 17 to 18 percent to about 8,660 crore rupees. But net profit fell sharply, by 23 to 28 percent depending on the measure reported, to around 369 crore rupees. MRF declared an interim dividend of 3 rupees a share, with the seventeenth of November as the record date.\n\nIn shipbuilding, Cochin Shipyard\u0027s net profit halved to 54 crore rupees. It too declared a dividend of 3 rupees, with a record date of the sixteenth.\n\nSugar maker Balrampur Chini Mills reported a profit jump of nearly 89 percent, with an interim dividend of 4 rupees. It expects its new 3,080 crore rupee P L A plant in Uttar Pradesh to start commercial production in the January to March quarter, and says it could add about 2,000 crore rupees of yearly revenue.\n\nOne date for your calendar: today is the record date for Galaxy Surfactants\u0027 interim dividend of 18 rupees a share.",
+                         "stories":  [
+                                         {
+                                             "title":  "Kalyan Jewellers Q2 net profit jumps 64% to Rs 427 crore",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/earnings/kalyan-jewellers-q2-net-profit-jumps-64-to-rs-427-crore-14076429.html"
+                                         },
+                                         {
+                                             "title":  "Higher input costs drag MRF Q2 net profit down 23%",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/earnings/higher-input-costs-drag-mrf-q2-net-profit-down-23/articleshow/135722166.cms"
+                                         },
+                                         {
+                                             "title":  "MRF Q2 net profit falls 28% to Rs 369 crore on higher raw material costs; revenue rises 18%",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/earnings/mrf-q2-net-profit-falls-28pc-to-rs-369-crore-on-higher-raw-material-costs-revenue-rises-18pc-14076126.html"
+                                         },
+                                         {
+                                             "title":  "Cochin Shipyard Q2 net profit halves to Rs 54 crore; declares dividend",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/cochin-shipyard-q2-net-profit-halves-to-rs-54-crore-declares-dividend-14076175.html"
+                                         },
+                                         {
+                                             "title":  "Balrampur Chini Mills shares: Over 50% returns in 1 year, sugar stock in focus with new ₹3100 cr plant - check target",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/balrampur-chini-mills-shares-over-50-returns-in-1-year-sugar-stock-in-focus-with-new-rs-3100-cr-plant-check-target-11794306339768.html"
+                                         },
+                                         {
+                                             "title":  "₹18 dividend per share: Check record date, payment timeline, stock performance, dividend yield, Q2 results highlights",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/rs-18-dividend-per-share-check-record-date-payment-timeline-stock-performance-dividend-yield-q2-results-highlights-11794307552019.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Economy and policy",
+                         "script":  "Now to the economy. India\u0027s unemployment rate fell to 5.1 percent in the July to September quarter, from 5.4 percent the quarter before, according to the government\u0027s labour force survey. Rural joblessness drove the drop, falling to 4.3 percent, and women\u0027s participation rose to 34.7 percent. But there is a worry. Urban youth unemployment climbed to 18.9 percent, a six-quarter high, with Kerala the worst among the states.\n\nThe rupee touched a six-month high of 93.69 to the dollar on Monday, before state-run banks stepped in to buy dollars. It closed slightly weaker at about 93.93, ending a six-day winning streak. Economists expect lower crude and returning foreign money to lift it further in the coming months. Anindya Banerjee of Kotak Neo calls the rupee undervalued, and expects one more rate hike each from the Fed and the Reserve Bank.\n\nOn trade, Commerce Minister Piyush Goyal says India is on track for its one trillion dollar export target this financial year, with nearly 480 billion dollars done between April and September. He also says European carmakers may set up factories here once the India-EU trade deal takes effect, which is expected in the first half of 2027.\n\nBudget wish lists are arriving early. The PHD Chamber of Commerce wants long-term capital gains tax on shares scrapped, and short-term gains tax cut to 10 percent. It also wants a 180-day window before small business loans are classed as bad, and higher MUDRA loan limits. FICCI has also asked for long-term gains on listed securities to be freed from tax, and suggests a higher securities transaction tax on delivery trades to make up the revenue.\n\nFinally, the market regulator SEBI wants to keep spoofing orders out of the pre-open session. Exchanges would check margin before showing an order, while keeping its original time stamp. The idea may later cover the closing auction too.",
+                         "stories":  [
+                                         {
+                                             "title":  "Unemployment dips slightly to 5.1% in July-September: Govt survey",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/unemployment-dips-slightly-to-5-1-in-july-september-govt-survey-126111000641_1.html"
+                                         },
+                                         {
+                                             "title":  "Urban youth unemployment hits six-quarter high in Q2; Kerala tops states",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/urban-youth-unemployment-hits-six-quarter-high-in-q2-kerala-tops-states-126111000953_1.html"
+                                         },
+                                         {
+                                             "title":  "India\u0027s unemployment rate falls to 5.1% in July-September as rural joblessness declines",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/indicators/indias-unemployment-rate-falls-to-5-1-in-july-september-as-rural-joblessness-declines/articleshow/135709920.cms"
+                                         },
+                                         {
+                                             "title":  "Rupee breaks six-day winning streak on state banks\u0027 dollar bids",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/currency/rupee-breaks-six-day-winning-streak-on-state-banks-dollar-bids-14075721.html"
+                                         },
+                                         {
+                                             "title":  "Easing global headwinds, lower crude oil prices may further lift rupee in coming months: Economists",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/indicators/easing-global-headwinds-lower-crude-oil-prices-may-further-lift-rupee-in-coming-months-economists/articleshow/135714320.cms"
+                                         },
+                                         {
+                                             "title":  "India in a \u0027sweet spot\u0027 amid oil volatility and currency dynamics: Kotak Neo\u0027s Anindya Banerjee",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/indicators/india-in-a-sweet-spot-amid-oil-volatility-and-currency-dynamics-kotak-neos-anindya-banerjee/articleshow/135705977.cms"
+                                         },
+                                         {
+                                             "title":  "India well on track to achieve $1 trillion exports target for FY27: Piyush Goyal",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-well-on-track-to-achieve-1-trillion-exports-target-for-fy27-piyush-goyal/articleshow/135717065.cms"
+                                         },
+                                         {
+                                             "title":  "European carmakers may set up manufacturing units in India soon: Goyal",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/european-carmakers-may-set-up-manufacturing-units-in-india-soon-goyal-126111000995_1.html"
+                                         },
+                                         {
+                                             "title":  "Budget 2027-28: PHDCCI urges govt to scrap LTCG tax on equities, cut STCG tax to 10%",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/policy/budget-2027-28-phdcci-urges-govt-to-scrap-ltcg-tax-on-equities-cut-stcg-tax-to-10/articleshow/135709965.cms"
+                                         },
+                                         {
+                                             "title":  "PHDCCI seeks 180-day NPA window for MSMEs, higher MUDRA loan limits",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/phdcci-seeks-180-day-npa-window-for-msmes-higher-mudra-loan-limits-126111000934_1.html"
+                                         },
+                                         {
+                                             "title":  "Budget 2027: FICCI seeks removal of LTCG tax on listed securities, suggests STT hike",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/budget-2027-ficci-seeks-removal-of-ltcg-tax-on-listed-securities-suggests-stt-hike-14070122.html"
+                                         },
+                                         {
+                                             "title":  "SEBI moves to keep spoofing orders out, protect genuine investors in pre-open trading and time priority",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/sebi-moves-to-keep-spoofing-orders-out-protect-genuine-investors-in-pre-open-trading-and-time-priority-14076084.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Around the world",
+                         "script":  "Around the world, the big number was American inflation. It came in hotter than expected, and two-year Treasury yields jumped. Fed Governor Christopher Waller backs a quarter-point hike in December, and says half a point could be needed if inflation stays high.\n\nWall Street closed lower. The Dow fell 0.3 percent to 52,231, the S and P 500 lost about 0.4 percent to 7,520, and the Nasdaq dropped 0.74 percent to 25,065. Nvidia was hit hard again, sliding around 6 percent. Its chief executive, Jensen Huang, faces an FBI investigation and a board inquiry, after reports linking him to a Chinese businesswoman suspected by US intelligence of espionage. The Information reported that she helped facilitate at least 7.5 billion dollars of Nvidia chip shipments to Chinese firms.\n\nOil is the good news for India. Brent fell below 90 dollars, down from a peak of 118 dollars on the thirtieth of October, after President Trump signalled a pause in military action and said the Iran war was effectively over. Gold, though, fell nearly 3 percent as the dollar and yields rose. Asian markets are higher this morning on encouraging company earnings.",
+                         "stories":  [
+                                         {
+                                             "title":  "US stocks, bonds fall as CPI data fuel Fed-hike bets",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/us-stocks-bonds-fall-as-cpi-data-fuel-fed-hike-bets-14076482.html"
+                                         },
+                                         {
+                                             "title":  "Fed Governor Christopher J. Waller favors 25 bps rate hike in December; 50 bps may be needed if inflation persists",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/world/fed-governor-christopher-j-waller-favors-25-bps-rate-hike-in-december-50-bps-may-be-needed-if-inflation-persists-article-14076347.html"
+                                         },
+                                         {
+                                             "title":  "Sensex Today | Stock Market LIVE Updates: GIFT Nifty signals muted start; US markets decline, Asian peers trade higher",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/stock-market-live-updates-nifty50-share-price-sensex-share-price-crude-fii-gift-nifty-rupee-latest-updates-11-11-2026-alpha-liveblog-14076521.html"
+                                         },
+                                         {
+                                             "title":  "Nvidia in Crisis! China Spy Allegations, FBI Probe, shares crash, more: Key things investors should know - Still a buy?",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/nvidia-in-crisis-china-spy-allegations-fbi-probe-shares-crash-more-key-things-investors-should-know-still-a-buy-11794309541206.html"
+                                         },
+                                         {
+                                             "title":  "Nvidia heads for $470 billion two-day wipeout as CEO affair fallout deepens",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/artificial-intelligence/nvidia-heads-for-400-billion-two-day-wipeout-as-ceo-affair-fallout-deepens-article-14076455.html"
+                                         },
+                                         {
+                                             "title":  "Crude oil price fall offers India relief, but exporters await cheaper inputs: IIFT Vice Chancellor K Rangarajan",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/trade/crude-oil-price-fall-offers-india-relief-but-exporters-await-cheaper-inputs-iift-vice-chancellor-k-rangarajan-14076280.html"
+                                         },
+                                         {
+                                             "title":  "Trump says Iran war ‘effectively over’: How\u0027s it likely to impact Sensex, Nifty, gold and silver prices? Experts\u0027 views",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/trump-says-iran-war-effectively-over-hows-it-likely-to-impact-sensex-nifty-gold-and-silver-prices-experts-views-11794362432588.html"
+                                         },
+                                         {
+                                             "title":  "Gold falls nearly 3% as CPI tops forecasts, lifting dollar and yields",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/gold-falls-nearly-3-as-cpi-tops-forecasts-lifting-dollar-and-yields-11794337899940.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Stories you\u0027re following",
+                         "script":  "An update on the India-US trade deal you\u0027re following. Government sources say a US delegation met Commerce Ministry officials in New Delhi on the second and third of November, to discuss customs procedures and trade facilitation. They say the two sides are close to finalising the interim deal, with only a few issues left to resolve.",
+                         "stories":  [
+                                         {
+                                             "title":  "India-US hold bilateral talks in New Delhi on Customs and trade facilitation: Govt sources",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-us-hold-bilateral-talks-in-new-delhi-on-customs-and-trade-facilitation-govt-sources/articleshow/135716101.cms"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Your money",
+                         "script":  "Now to your money. With Bhai Dooj here, a reminder on family gifts. Under the Income-tax Act, 2025, money or gold you receive from a brother or sister is tax-free, whatever the value. Cash transaction rules still apply, though, so large sums are best moved through the bank.\n\nFor employers, the retirement fund body EPFO has a settlement scheme called VISHWAS 2026. It lets employers settle disputes over damages for late provident fund deposits at lower rates, starting at 0.25 percent a month. Interest and contributions remain payable, and applications close on the twenty-eighth of December. The EPFO\u0027s board also meets in Delhi on the nineteenth of November, amid media reports of a possible rise in the minimum pension under the Employees\u0027 Pension Scheme, from 1,000 to 3,000 rupees.\n\nOn indirect tax, a commentary in Moneycontrol notes that the GST Council has proposed ending arrest powers under section 69, while keeping prosecution and penalties. Parliament would need to turn that into law.\n\nThe Supreme Court has clarified that a grandson has no birthright in property his father inherited under the Hindu Succession Act, 1956.\n\nOn payments, the National Payments Corporation has still not given a start date for a proposed 0.4 percent merchant charge on some UPI payments above 2,000 rupees.\n\nTwo holiday notes. Banks are shut today in Kolkata, Lucknow, Kanpur, Shimla, Gangtok and Imphal. And stock markets will close on the twenty-fourth of November for Guru Nanak Jayanti.\n\nThat\u0027s the brief. Today, watch how the Nifty handles the 25,200 to 25,500 zone after its seven-day run, how MRF, Kalyan Jewellers and Cochin Shipyard react to their numbers, and whether foreign buying holds up after the American inflation scare. Keep an eye on Brent near 90 dollars and the rupee near 94. Have a good day.",
+                         "stories":  [
+                                         {
+                                             "title":  "Bhai Dooj 2026: Transferring ₹5 lakh to your sister? Know when a sibling’s cash gift is tax-free and when it is taxable",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/bhai-dooj-2026-transferring-5-lakh-to-your-sister-know-when-a-sibling-s-cash-gift-is-tax-free-and-when-it-is-taxable-11794331704742.html"
+                                         },
+                                         {
+                                             "title":  "Delayed PF deposits? EPFO offers lower penalties under VISHWAS 2026 scheme, but employers must apply by 28 December",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/delayed-pf-deposits-epfo-offers-lower-penalties-under-vishwas-2026-scheme-but-employers-must-apply-by-28-december-11794311188623.html"
+                                         },
+                                         {
+                                             "title":  "EPS pension hike: EPFO shifts venue of November 19 CBT meeting to Delhi; will government approve ₹3,000 minimum pension?",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/eps-pension-hike-epfo-shifts-venue-of-november-19-cbt-meeting-to-delhi-will-government-approve-3-000-minimum-pension-11794300266775.html"
+                                         },
+                                         {
+                                             "title":  "OPINION | When the system can see GST invoices, arrest powers must go",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/opinion/when-the-system-can-see-the-gst-invoices-arrest-powers-must-go-14071009.html"
+                                         },
+                                         {
+                                             "title":  "Hindu Succession Act, 1956: Can a grandson claim a share in property inherited by his father? Supreme Court clarifies",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/hindu-succession-act-1956-can-a-grandson-claim-a-share-in-property-inherited-by-his-father-supreme-court-clarifies-11794320294195.html"
+                                         },
+                                         {
+                                             "title":  "UPI charges after Diwali: Will customers pay extra on payments above ₹2,000? NPCI\u0027s MDR rollout likely in Nov",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/upi-charges-after-diwali-will-customers-pay-extra-on-payments-above-2-000-npcis-mdr-rollout-likely-in-nov-11794289795387.html"
+                                         },
+                                         {
+                                             "title":  "Banks open or closed tomorrow, 11 Nov 2026? Check closures in Kanpur, Lucknow, Shimla, Kolkata, Gangtok and Imphal",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/banks-open-or-closed-tomorrow-11-nov-2026-wednesday-closed-in-kanpur-lucknow-shimla-kolkata-gangtok-imphal-11794308341699.html"
+                                         },
+                                         {
+                                             "title":  "When is next stock market holiday? Check date for Nov weekday; NSE-BSE closed for Prakash Gurpurab Sri Guru Nanak Dev Ji",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/when-is-next-stock-market-holiday-check-date-for-nov-weekday-nse-bse-closed-for-prakash-gurpurab-sri-guru-nanak-dev-ji-11794299235957.html"
+                                         }
+                                     ]
+                     }
+                 ]
+}
