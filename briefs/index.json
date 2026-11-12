@@ -1,6 +1,11 @@
 {
     "briefs":  [
                    {
+                       "date":  "2026-11-12",
+                       "edition":  "Morning",
+                       "headline":  "Nifty at a nine-month high on foreign buying; Nvidia turmoil clouds the open"
+                   },
+                   {
                        "date":  "2026-11-11",
                        "edition":  "Morning",
                        "headline":  "Markets reopen after Diwali as foreign money returns and oil eases"
@@ -64,11 +69,6 @@
                        "date":  "2026-10-30",
                        "edition":  "Morning",
                        "headline":  "Sensex rallies 905 points; Reliance and Jio report today as tech rout hits Asia"
-                   },
-                   {
-                       "date":  "2026-10-29",
-                       "edition":  "Morning",
-                       "headline":  "Fed holds, eyes December hike; Jio debut lifts Reliance past Tata"
                    }
                ]
 }
