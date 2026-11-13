@@ -2,10 +2,10 @@
     "slug":  "india-us-trade-deal",
     "title":  "The India–US trade deal",
     "started":  "2025-02-13",
-    "updatedAt":  "2026-11-11T08:40:00+05:30",
+    "updatedAt":  "2026-11-13T11:20:00+05:30",
     "status":  "active",
-    "summary":  "India and the United States began work on a Bilateral Trade Agreement in February 2025. The goal was to more than double two-way trade to 500 billion dollars by 2030. Talks soon ran into trouble. By late August 2025, American tariffs on most Indian goods had climbed to 50 percent, including a penalty over India\u0027s purchases of Russian oil.\n\nIn February 2026, the two sides agreed a framework for a first, interim deal. Washington cut its tariff on Indian goods to 18 percent and dropped the oil penalty. Weeks later, the US Supreme Court struck down the tariffs that the deal was built around, sending negotiators back to the table. In October 2026, Piyush Goyal said the first part was in legal drafting, while Marco Rubio and President Trump both called it close. In early November, a US team held talks in New Delhi on customs and trade facilitation, and Goyal said dairy and genetically modified imports stay shut. The Democrats then won both houses of Congress, but officials say the interim deal needs no approval from Congress and only a few issues are left, and the Global Trade Research Initiative thinks it could now be done within two months.",
-    "watch":  "The open questions are a signing date, the final tariff rate India gets compared with rivals like Vietnam, access for American dairy, and the outcome of American investigations into forced labour and excess industrial capacity, which officials say could still shape tariffs. The Global Trade Research Initiative sees a deal within two months, so watch for any call between President Trump and Prime Minister Modi.",
+    "summary":  "India and the United States began work on a Bilateral Trade Agreement in February 2025. The goal was to more than double two-way trade to 500 billion dollars by 2030. Talks soon ran into trouble. By late August 2025, American tariffs on most Indian goods had climbed to 50 percent, including a penalty over India\u0027s purchases of Russian oil.\n\nIn February 2026, the two sides agreed a framework for a first, interim deal. Washington cut its tariff on Indian goods to 18 percent and dropped the oil penalty. Weeks later, the US Supreme Court struck down the tariffs that the deal was built around, sending negotiators back to the table. In October 2026, Piyush Goyal said the first part was in legal drafting, while Marco Rubio and President Trump both called it close. In early November, a US team held talks in New Delhi on customs and trade facilitation, and Goyal said dairy and genetically modified imports stay shut. The Democrats then won both houses of Congress, but officials say the interim deal needs no approval from Congress and only a few issues are left, and the Global Trade Research Initiative thinks it could now be done within two months. On the twelfth of November, Goyal said India will get one of the best deals with the US, and former American diplomat Nisha Biswal says both sides want it done by the G20 Summit in Florida, though hard issues remain.",
+    "watch":  "The G20 Summit in Florida is now the target both sides are said to be working towards. The open questions are a signing date, the final tariff rate India gets compared with rivals like Vietnam, access for American dairy, and the outcome of American investigations into forced labour and excess industrial capacity, which officials say could still shape tariffs. Watch for any call between President Trump and Prime Minister Modi.",
     "timeline":  [
                      {
                          "date":  "2025-02-13",
@@ -351,6 +351,35 @@
                                              "title":  "US midterm outcome offers limited relief to India; oil, Russia sanctions remain key risks: Report",
                                              "source":  "Economic Times",
                                              "link":  "https://economictimes.indiatimes.com/news/economy/foreign-trade/us-midterm-outcome-offers-limited-relief-to-india-oil-russia-sanctions-remain-key-risks-report/articleshow/135559680.cms"
+                                         }
+                                     ]
+                     },
+                     {
+                         "date":  "2026-11-12",
+                         "title":  "Goyal promises one of the best deals",
+                         "text":  "On Thursday, the twelfth of November, Commerce Minister Piyush Goyal told reporters India will have one of the best trade deals with the US in every respect. He said India had negotiated a very good set of outcomes. He added that the framework for the first phase was done in February, but changes in American tariffs have meant more negotiation since.",
+                         "sources":  [
+                                         {
+                                             "title":  "India to have one of the 'best' trade deals with the US: Piyush Goyal",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/india-to-have-one-of-the-best-trade-deals-with-the-us-piyush-goyal-126111201505_1.html"
+                                         },
+                                         {
+                                             "title":  "India will have one of the 'best' trade deals with the US: Commerce Minister Piyush Goyal",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-will-have-one-of-the-best-trade-deals-with-the-us-comerce-minister-piyush-goyal/articleshow/135771504.cms"
+                                         }
+                                     ]
+                     },
+                     {
+                         "date":  "2026-11-13",
+                         "title":  "A G20 target date, but hard issues remain",
+                         "text":  "On Friday, the thirteenth of November, former American diplomat Nisha Biswal said both countries want to conclude the phase one deal by the G20 Summit in Florida. She said the talks are complex and significant issues remain, particularly around the sectors where India has a comparative advantage.",
+                         "sources":  [
+                                         {
+                                             "title":  "Desire within US, India to conclude trade deal by G20: ex-US diplomat",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/foreign-trade/desire-within-us-india-to-conclude-trade-deal-by-g20-ex-us-diplomat/articleshow/135789087.cms"
                                          }
                                      ]
                      }
