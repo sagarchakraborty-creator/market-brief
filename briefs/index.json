@@ -1,6 +1,11 @@
 {
     "briefs":  [
                    {
+                       "date":  "2026-11-13",
+                       "edition":  "Morning",
+                       "headline":  "Inflation breaks six percent, Nvidia\u0027s chief quits, oil back near 95 dollars"
+                   },
+                   {
                        "date":  "2026-11-12",
                        "edition":  "Morning",
                        "headline":  "Nifty at a nine-month high on foreign buying; Nvidia turmoil clouds the open"
@@ -64,11 +69,6 @@
                        "date":  "2026-10-31",
                        "edition":  "Morning",
                        "headline":  "Record Reliance profit, foreign buyers return, Wall Street tech slump"
-                   },
-                   {
-                       "date":  "2026-10-30",
-                       "edition":  "Morning",
-                       "headline":  "Sensex rallies 905 points; Reliance and Jio report today as tech rout hits Asia"
                    }
                ]
 }
