@@ -1,0 +1,341 @@
+{
+    "date":  "2026-11-14",
+    "edition":  "Morning",
+    "generatedAt":  "2026-11-14T08:45:00+05:30",
+    "headline":  "Inflation breaks 6 percent, yet markets log a third weekly gain",
+    "segments":  [
+                     {
+                         "title":  "The big picture",
+                         "script":  "Good morning. It\u0027s Saturday, the fourteenth of November, and this is your Market Brief.\n\nThree things matter most this morning. First, inflation has crossed the Reserve Bank\u0027s comfort ceiling. Retail inflation rose to 6.09 percent in October, the ninth straight monthly rise, and economists now openly talk about another rate hike in December.\n\nSecond, the trade gap has blown out. India\u0027s goods trade deficit hit a one-year high of 39.88 billion dollars in October, as costlier energy pushed imports to a record.\n\nAnd third, despite all that, and despite the turmoil around Nvidia overseas, Indian shares ended a third straight week of gains. Let\u0027s take it from there.",
+                         "stories":  [
+                                         {
+                                             "title":  "India\u0027s retail inflation breaches RBI\u0027s 6% upper tolerance limit in October as food prices surge",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/retail-inflation-jumps-to-6-09-in-october-14078348.html"
+                                         },
+                                         {
+                                             "title":  "India\u0027s Oct merchandise trade deficit rose to one-year high of $39.88 bn",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/india-s-oct-merchandise-trade-deficit-rose-to-one-year-high-of-39-88-bn-126111300803_1.html"
+                                         },
+                                         {
+                                             "title":  "Indian markets extend gains for 3rd straight week despite Nvidia crisis",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/indian-markets-extend-gains-for-3rd-straight-week-despite-nvidia-crisis-126111301616_1.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "How markets closed",
+                         "script":  "Friday\u0027s session was a cautious one. The bank, auto and realty indices each slipped about 1 percent as the inflation number stoked fears of a rate hike. Even so, Business Standard reports that Indian markets extended their gains for a third straight week, holding up while artificial intelligence stocks around the world came under pressure.\n\nThe standout this week was public sector banks. The Nifty PSU Bank index rose 8 percent over the week, its best weekly run in seven months, taking it to its highest level since March. Punjab National Bank led the pack, up 13.3 percent to 143 rupees.\n\nPower stocks were in demand on Friday after reports that the national transmission committee approved a first-of-its-kind 1,150 kilovolt line worth 68,816 crore rupees. Oil-sensitive names went the other way. Bharat Petroleum and IndiGo fell over 2 percent as crude hovered near 95 dollars.\n\nAmong single stocks, Paytm crossed its November 2021 listing price of 1,950 rupees for the first time in nearly five years. The Reserve Bank had given in-principle approval for its wallet business. And Reliance has rebounded 15 percent this month after its results.\n\nOn flows, Livemint notes that foreign institutional investors and stronger earnings have powered the rally, while domestic institutions have kept selling.\n\nThe rupee weakened to 94.25 to the dollar, and the ten-year government bond yield rose six basis points to 7.31 percent.\n\nNow the levels to watch. Moneycontrol\u0027s technical view says a break below 25,000 on the Nifty could extend profit booking, with key support at 24,800 to 24,700. On the upside, a move above the recent swing high of 25,425 could trigger a sharp rally. And one date for your calendar: MSCI\u0027s index changes take effect on the thirtieth of November. Coforge and LIC are expected to draw inflows, while PI Industries may see outflows.",
+                         "stories":  [
+                                         {
+                                             "title":  "Nifty Bank, Auto, Realty skid 1% as inflation stokes RBI rate hike fears",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/nifty-bank-auto-realty-skid-1-as-inflation-stokes-rbi-rate-hike-fears-126111300433_1.html"
+                                         },
+                                         {
+                                             "title":  "Indian markets extend gains for 3rd straight week despite Nvidia crisis",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/indian-markets-extend-gains-for-3rd-straight-week-despite-nvidia-crisis-126111301616_1.html"
+                                         },
+                                         {
+                                             "title":  "Nifty PSU Bank logs biggest weekly surge in 7 months; PNB, Bank of India, Bank of Baroda among top performers",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/nifty-psu-bank-logs-biggest-weekly-surge-in-two-years-pnb-bank-of-india-bank-of-baroda-among-top-performers-11794563569958.html"
+                                         },
+                                         {
+                                             "title":  "Power index rises 1%: Siemens Energy, GE Vernova rally up to 5%; here\u0027s why",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/power-index-rises-1-siemens-energy-ge-vernova-rally-up-to-5-here-s-why-126111300489_1.html"
+                                         },
+                                         {
+                                             "title":  "Crude-sensitive stocks fall as oil trades at $95; BPCL, IndiGo down over 2%",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/crude-sensitive-stocks-fall-as-oil-trades-at-95-bpcl-indigo-down-over-2-126111300478_1.html"
+                                         },
+                                         {
+                                             "title":  "Paytm shares reclaim listing price for first time in five years; RBI nod for wallet business boosts sentiment",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/paytm-shares-reclaim-listing-price-for-first-time-in-five-years-rbi-nod-for-wallet-business-boosts-sentiment-14079592.html"
+                                         },
+                                         {
+                                             "title":  "Reliance Industries shares rebound 15% in November, add ₹2.38 lakh crore in market value; what\u0027s changed?",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/reliance-industries-shares-rebound-15-in-november-add-rs-2-38-lakh-crore-in-market-value-whats-changed-11794580881169.html"
+                                         },
+                                         {
+                                             "title":  "Pulse of the Street: Dalal Street\u0027s winning streak faces an inflation test",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/pulse-of-the-street-dalal-street-s-winning-streak-faces-an-inflation-test-11794572591011.html"
+                                         },
+                                         {
+                                             "title":  "Rupee weakens to 94.25/$, 10-year bond yield rises as crude prices surge",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/rupee-weakens-to-94-25-10-year-bond-yield-rises-as-crude-prices-surge-126111301340_1.html"
+                                         },
+                                         {
+                                             "title":  "Technical View: Nifty 50 break below 25,000 may extend profit booking",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/technical-view-nifty-50-break-below-25-000-may-extend-profit-booking-bearish-harami-confirmation-next-week-may-intensify-bank-nifty-selling-14079630.html"
+                                         },
+                                         {
+                                             "title":  "MSCI rejig: Which stocks may see the biggest inflows \u0026 outflows?",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/msci-rejig-which-stocks-may-see-the-biggest-inflows-amp-outflows/slideshow/135792280.cms"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "IPOs and deals",
+                         "script":  "Now to the primary market, which is about to get busy.\n\nThe big one: Mahanadi Coalfields is likely to open its first public offer next week. Coal India plans to sell up to 66.18 crore shares, a 10 percent stake, in an offer for sale estimated at around 9,500 crore rupees, or roughly a billion dollars.\n\nCrystal Crop Protection opens for subscription on the eighteenth, with a grey market premium of nearly 17 percent. And Watrana Rentals launches a 120 crore rupee issue on the nineteenth, made up entirely of fresh shares, priced between 232 and 245 rupees.\n\nFurther out, SEBI has cleared three big names: Razorpay, MakeMyTrip India and Sembcorp Green Infra. Razorpay reportedly plans to raise about 600 million dollars. And Haldiram Snacks Food has reportedly appointed EY to prepare for a listing that could raise about 10,000 crore rupees.\n\nOn the deals side, SoftBank sold a 1.65 percent stake in Meesho for 1,885 crore rupees. Sixteen buyers stepped in, with Fidelity the largest at about 573 crore rupees.",
+                         "stories":  [
+                                         {
+                                             "title":  "Mahanadi Coalfields IPO likely to open next week, issue size expected around $1 billion",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/ipo/mahanadi-coalfields-ipo-likely-to-open-next-week-issue-size-expected-around-1-billion-14079749.html"
+                                         },
+                                         {
+                                             "title":  "Crystal Crop Protection IPO GMP at 17% ahead of issue opening on November 18",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/ipo/crystal-crop-protection-ipo-gmp-at-17-ahead-of-issue-opening-on-november-18-check-issue-size-price-band-and-key-details-here-14079687.html"
+                                         },
+                                         {
+                                             "title":  "Watrana Rentals to launch Rs 120-crore IPO on November 19; sets price band at Rs 232–245",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/ipo/watrana-rentals-to-launch-rs-120-crore-ipo-on-november-19-sets-price-band-at-rs-232-245-14079217.html"
+                                         },
+                                         {
+                                             "title":  "Sembcorp Green Infra, Razorpay, MakeMyTrip get SEBI nod for IPOs",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/ipo/sembcorp-green-infra-razorpay-makemytrip-get-sebi-nod-for-ipos-14079725.html"
+                                         },
+                                         {
+                                             "title":  "Upcoming IPO: Razorpay gets SEBI nod for IPO launch: Top things to know about the issue",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/upcoming-ipo-razorpay-gets-sebi-nod-for-ipo-launch-top-things-to-know-about-the-issue-11794586427364.html"
+                                         },
+                                         {
+                                             "title":  "Haldiram IPO in making: Namkeen to D-Street, snack giant eyes stock market debut",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/ipo/haldiram-ipo-in-making-namkeen-to-d-street-snack-giant-eyes-stock-market-debut-check-listing-timeline-valuation-11794562224305.html"
+                                         },
+                                         {
+                                             "title":  "SoftBank sells 1.65% stake in Meesho for Rs 1,885 crore; Fidelity, Societe Generale among 16 buyers",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/softbank-sells-1-65-stake-in-meesho-for-rs-1-885-crore-fidelity-societe-generale-among-16-buyers-14079735.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Results roundup",
+                         "script":  "Now to results, starting with capital goods and defence. Hitachi Energy shares jumped 12 percent after its September quarter orders rose 86 percent to about 4,121 crore rupees. Profit rose 21 percent, and its order backlog hit a record 33,335 crore rupees. Among the defence companies, HAL and GRSE grew profits by 16 and 12 percent. But Bharat Dynamics saw profit fall 15 percent on margin pressure, and its shares slipped 3 percent.\n\nIn pharma, Alkem Labs\u0027 net profit fell 14 percent to 667 crore rupees, and the stock lost 3 percent.\n\nOver in financials, Manappuram Finance fell 4 percent after its results, even though CLSA upgraded it to outperform with a target of 370 rupees. Turtlemint\u0027s quarterly loss narrowed about 67 percent to 25.83 crore rupees, and the stock hit its 5 percent upper circuit.\n\nIn technology, Black Box posted a 30 percent rise in profit to 73 crore rupees, with revenue up 22 percent to 1,936 crore and a record order book of 1.04 billion dollars.\n\nOn the weaker side, Ola Electric\u0027s revenue fell 39 percent. Its loss narrowed to 362 crore rupees, but the shares fell nearly 7 percent. Vodafone Idea\u0027s loss was wider than expected, and Park Medi World tumbled 10 percent as profit fell 31 percent.",
+                         "stories":  [
+                                         {
+                                             "title":  "Hitachi Energy shares rally 12% on 86% rise in Q2 order inflows, PAT up 21%",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/hitachi-energy-shares-rally-12-on-86-rise-in-q2-order-inflows-pat-up-21-126111300504_1.html"
+                                         },
+                                         {
+                                             "title":  "Warships, aircraft or missiles? GRSE vs HAL vs BDL: Which defence PSU wins the post-Q2 results race?",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/warships-aircraft-or-missiles-grse-vs-hal-vs-bdl-which-defence-psu-wins-the-post-q2-results-race-technical-outlook-11794571751718.html"
+                                         },
+                                         {
+                                             "title":  "Bharat Dynamics shares fall 3% as Q2 margin pressure weighs on earnings",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/bharat-dynamics-shares-fall-3-as-q2-margin-pressure-weighs-on-earnings-126111300659_1.html"
+                                         },
+                                         {
+                                             "title":  "Alkem shares fall 3% after Q2 results; MOFSL retains Neutral rating",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/alkem-shares-fall-3-after-q2-results-mofsl-retains-neutral-rating-126111300548_1.html"
+                                         },
+                                         {
+                                             "title":  "Manappuram Finance falls 4% post-Q2 results; CLSA upgrades stock",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/manappuram-finance-falls-4-post-q2-results-clsa-upgrades-stock-14079236.html"
+                                         },
+                                         {
+                                             "title":  "Stock under ₹100: Turtlemint hits 5% upper circuit as Q2 loss narrows 67%",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/stock-under-100-turtlemint-hits-5-upper-circuit-as-q2-loss-narrows-67-126111300718_1.html"
+                                         },
+                                         {
+                                             "title":  "Black Box Q2 results: Profit rises 31% to Rs 73 crore, revenue jumps 22%",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/black-box-q2-results-profit-rises-30-to-rs-73-crore-revenue-jumps-22-shares-gain-2-14079297.html"
+                                         },
+                                         {
+                                             "title":  "Ola Electric shares skid nearly 7% as Q2 revenue falls 39%, loss narrows",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/ola-electric-shares-skid-nearly-7-as-q2-revenue-falls-39-loss-narrows-126111300115_1.html"
+                                         },
+                                         {
+                                             "title":  "Vodafone Idea shares decline 3.5% on wider-than-expected loss in Q2",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/vodafone-idea-share-price-declines-3-5-on-wider-than-expected-loss-in-q2-126111300408_1.html"
+                                         },
+                                         {
+                                             "title":  "Park Medi World shares plummet 10% as Q2 profit tanks 31%, margins slide",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/park-medi-world-shares-fall-10-as-q2-profit-tanks-31-margins-slide-126111300629_1.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Economy and policy",
+                         "script":  "Now to the economy, where inflation is the story.\n\nRetail inflation rose to 6.09 percent in October, up from 5.54 percent in September, breaching the Reserve Bank\u0027s upper tolerance limit of 6 percent. Food inflation is close to 9 percent, onion prices are up 116 percent, and six states have crossed 7 percent. It\u0027s spreading, too. Inflation in mobile phones climbed to 8.65 percent, with laptops close behind.\n\nSo what will the Reserve Bank do? ICICI Bank expects a 25 basis point hike in December. Nuvama says uneven monsoons and a possible El Nino keep another hike on the table. Axis Mutual Fund goes further, and expects another 50 to 75 basis points of hikes.\n\nBut there\u0027s a counterpoint. Chief Economic Adviser V Anantha Nageswaran warned that supply shocks are making rate hikes less effective, and said fiscal policy will have to do more of the work.\n\nOn trade, the October goods deficit widened to 39.88 billion dollars, a one-year high, and well above the 32.25 billion that a Reuters poll expected. Exports hit a record, but energy prices pushed imports to a record 89.35 billion. One bright spot: gold imports fell about 63 percent in October, to 5.51 billion dollars, as global prices dropped.\n\nOn growth, SBI Research expects September quarter growth of 7.8 percent, ahead of the Reserve Bank\u0027s estimate of 7.2 percent.\n\nFrom the Cabinet, the rabi fertiliser subsidy has been set at 62,370 crore rupees, up 64 percent, with the price of DAP held at 1,350 rupees a bag. The Cabinet also cleared a 5,000 crore rupee credit guarantee fund for MUDRA loans. And the government has notified commodity contracts as financial products at GIFT City, opening the door for global trading firms.",
+                         "stories":  [
+                                         {
+                                             "title":  "India\u0027s retail inflation breaches RBI\u0027s 6% upper tolerance limit in October as food prices surge",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/retail-inflation-jumps-to-6-09-in-october-14078348.html"
+                                         },
+                                         {
+                                             "title":  "Inflation breaches RBI\u0027s 6% ceiling: Six states cross 7%, onion prices surge 116%",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/inflation-breaches-rbi-s-6-ceiling-six-states-cross-7-onion-prices-surge-116-14078400.html"
+                                         },
+                                         {
+                                             "title":  "Digital inflation surges as mobile phones, laptops turn costlier",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/digital-inflation-surges-as-mobile-phones-laptops-turn-costlier-price-pressures-spread-across-consumption-basket-14079705.html"
+                                         },
+                                         {
+                                             "title":  "Food inflation to stay elevated; ICICI Bank sees 25 bps RBI rate hike in December",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/indicators/food-inflation-to-stay-elevated-icici-bank-sees-25-bps-rbi-rate-hike-in-december/articleshow/135789519.cms"
+                                         },
+                                         {
+                                             "title":  "Uneven monsoons, El Nino pose upside risks to inflation; another RBI hike possible: Report",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/indicators/uneven-monsoons-el-nino-pose-upside-risks-to-inflation-another-rbi-hike-possible-report/articleshow/135788065.cms"
+                                         },
+                                         {
+                                             "title":  "Rate hikes may not tame supply-led inflation: CEA V Anantha Nageswaran",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/rate-hikes-may-be-less-effective-against-supply-led-inflation-says-cea-126111301756_1.html"
+                                         },
+                                         {
+                                             "title":  "Energy prices pushed exports, imports to record highs in October",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/india-s-trade-deficit-at-12-month-high-as-october-imports-hit-record-126111300926_1.html"
+                                         },
+                                         {
+                                             "title":  "India\u0027s gold imports plunge 62.57% to $5.51 billion in October as prices fall below $4,000/oz",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/foreign-trade/indias-gold-imports-plunge-62-57-to-5-51-billion-in-october-as-prices-fall-below-4000/oz/articleshow/135798822.cms"
+                                         },
+                                         {
+                                             "title":  "India\u0027s Q2 GDP growth likely at 7.8%, above RBI estimate of 7.2%: SBI Research",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/india-s-q2-gdp-growth-likely-at-7-8-above-rbi-estimate-of-7-2-sbi-research-14077393.html"
+                                         },
+                                         {
+                                             "title":  "Cabinet approves Rs 62,370 crore rabi fertiliser subsidy, Rs 5,000 crore MUDRA guarantee fund",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/cabinet-approves-rs-62-370-crore-rabi-fertiliser-subsidy-rs-5-000-crore-mudra-guarantee-fund-14077215.html"
+                                         },
+                                         {
+                                             "title":  "Govt notifies commodity contracts as financial products at GIFT IFSC",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/govt-notifies-commodity-contracts-as-financial-products-at-gift-ifsc-126111301641_1.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Around the world",
+                         "script":  "Around the world, it was a rough day for technology. Wall Street ended lower as the turmoil around Nvidia weighed on chip stocks. AMD fell almost 10 percent and Nvidia lost over 4 percent, while stubborn inflation keeps bets on a Federal Reserve rate hike alive.\n\nMicrosoft had a bad day too. A global outage of more than 12 hours hit Outlook, Teams and Copilot in more than 70 countries. Its shares fell about 2.5 percent.\n\nOil is set for a second weekly decline on growing signs of a supply surplus, even as President Trump sticks with the blockade on Iran. Brent was around 95 dollars a barrel.\n\nAnd gold is heading for its worst week since June, after touching its lowest level in more than a year as rate hike bets build. Mirae Asset Sharekhan thinks it could slip further, to test 3,750 dollars an ounce.",
+                         "stories":  [
+                                         {
+                                             "title":  "Wall Street ends lower as Nvidia turmoil weighs on tech stocks, inflation keeps Fed rate hike bets alive",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/wall-street-ends-lower-as-nvidia-turmoil-weighs-on-tech-stocks-inflation-keeps-fed-rate-hike-bets-alive-14079893.html"
+                                         },
+                                         {
+                                             "title":  "AMD tumbles 10%, Nvidia falls 4%: But who\u0027s winning the 5-day chip race?",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/amd-tumbles-10-nvidia-falls-4-but-who-s-winning-the-5-day-chip-race-14079828.html"
+                                         },
+                                         {
+                                             "title":  "Microsoft shares fall 2.5% as massive outage disrupts Outlook, Teams, AI services worldwide",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/microsoft-shares-fall-2-5-as-massive-outage-disrupts-outlook-teams-ai-services-worldwide-14079664.html"
+                                         },
+                                         {
+                                             "title":  "Oil prices set for second weekly drop as Trump to stay with Iran blockade",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/commodities/oil-prices-set-for-second-weekly-drop-as-trump-to-stay-with-iran-blockade-126111300106_1.html"
+                                         },
+                                         {
+                                             "title":  "Gold Edges Up, Still On Track for Worst Weekly Slump Since June",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/gold-edges-up-still-on-track-for-worst-weekly-slump-since-june-11794595223804.html"
+                                         },
+                                         {
+                                             "title":  "Gold oversold, but further fall to $3,750 likely: Mirae Asset Sharekhan",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/gold-oversold-but-further-fall-to-3-750-likely-mirae-asset-sharekhan-126111300668_1.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Stories you\u0027re following",
+                         "script":  "An update on the India–US trade deal you\u0027re following. The United States has assured India of lower tariffs than its trading rivals under the proposed deal. The first phase will cover goods only, with services left for a later phase. But the final tariff framework hinges on an American Section 301 probe into forced labour, and both sides are said to be aiming to finish by the G20 Summit in Florida.",
+                         "stories":  [
+                                         {
+                                             "title":  "US assures India lower tariffs than peers in trade deal",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/foreign-trade/us-assures-india-lower-tariffs-than-peers-in-trade-deal/articleshow/135805660.cms"
+                                         },
+                                         {
+                                             "title":  "US has assured India will get comparative tariff over peers; final framework hinges on Section 301 probe",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/us-has-assured-india-will-get-comparative-over-peers-final-tariff-framework-hinges-on-section-301-probe-14079608.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Your money",
+                         "script":  "Finally, your money.\n\nWith rate hikes in the air, fixed deposit rates are rising. Bank of Baroda raised its 555-day deposit rate by 10 basis points, to 6.90 percent for regular customers and 7.50 percent for super senior citizens.\n\nHDFC Mutual Fund has launched its first specialised investment fund, a hybrid long-short strategy that can take short positions of up to 25 percent of assets. The new fund offer runs until the twenty-seventh, with a minimum investment of 10 lakh rupees.\n\nOne for your clients who run payrolls: employers must file the October return and deposit provident fund contributions by tomorrow, the fifteenth, to avoid interest and penalties.\n\nOn the professional front, the Bombay Chartered Accountants\u0027 Society has urged SEBI to let CA firms monitor the use of funds in smaller issues, and to make monitoring agencies flag related-party payments. And YES Bank has asked the Supreme Court to review its October ruling against the write-down of 8,415 crore rupees of additional tier one bonds.\n\nA reminder from the tax side: buying property in a spouse\u0027s or parent\u0027s name with your own money can draw income tax scrutiny and action under the benami law.\n\nThat\u0027s your brief. Here\u0027s what to watch. The provident fund deadline is tomorrow. Next week brings the Mahanadi Coalfields offer, Crystal Crop on the eighteenth and Watrana on the nineteenth, along with wholesale inflation data and the minutes of the Federal Reserve\u0027s last meeting. On the Nifty, 25,000 is the line traders are watching. Have a good weekend.",
+                         "stories":  [
+                                         {
+                                             "title":  "Bank of Baroda hikes 555-day FD rates: How much will ₹1 lakh, ₹2 lakh and ₹5 lakh earn?",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/bank-of-baroda-hikes-555-day-fd-rates-how-much-will-1-lakh-2-lakh-and-5-lakh-earn-11794546244887.html"
+                                         },
+                                         {
+                                             "title":  "HDFC MF launches first SIF fund with hybrid long-short strategy",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/hdfc-mf-launches-first-sif-fund-with-hybrid-long-short-strategy-check-nfo-dates-investment-rules-and-risks-11794577378426.html"
+                                         },
+                                         {
+                                             "title":  "EPFO alert: Employers must file October 2026 ECR and deposit EPF contributions by November 15",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/epfo-alert-employers-must-file-october-2026-ecr-and-deposit-epf-contributions-by-november-15-11794552497573.html"
+                                         },
+                                         {
+                                             "title":  "BCAS urges SEBI to allow CA firms to monitor fund use in smaller issues",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/bcas-urges-sebi-to-allow-ca-firms-to-monitor-fund-use-in-smaller-issues-14079839.html"
+                                         },
+                                         {
+                                             "title":  "YES Bank files SC review plea over AT-1 bonds",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/yes-bank-files-sc-review-plea-over-at-1-bonds-what-does-it-mean-for-investors-after-stocks-15-rebound-11794591968232.html"
+                                         },
+                                         {
+                                             "title":  "Buying property in your wife\u0027s or parents\u0027 name? Know income tax rules, benami property risks and penalties in India",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/buying-property-in-your-wife-s-or-parents-name-know-income-tax-rules-benami-property-risks-and-penalties-in-india-11794580967194.html"
+                                         },
+                                         {
+                                             "title":  "Business in the Week Ahead: November 16-20, 2026",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/ipo/business-in-the-week-ahead-november-16-20-2026-14079544.html"
+                                         }
+                                     ]
+                     }
+                 ]
+}

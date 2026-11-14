@@ -1,6 +1,11 @@
 {
     "briefs":  [
                    {
+                       "date":  "2026-11-14",
+                       "edition":  "Morning",
+                       "headline":  "Inflation breaks 6 percent, yet markets log a third weekly gain"
+                   },
+                   {
                        "date":  "2026-11-13",
                        "edition":  "Morning",
                        "headline":  "Inflation breaks six percent, Nvidia\u0027s chief quits, oil back near 95 dollars"
@@ -64,11 +69,6 @@
                        "date":  "2026-11-01",
                        "edition":  "Evening",
                        "headline":  "GST hits a four-year growth high as Reliance posts a record quarter"
-                   },
-                   {
-                       "date":  "2026-10-31",
-                       "edition":  "Morning",
-                       "headline":  "Record Reliance profit, foreign buyers return, Wall Street tech slump"
                    }
                ]
 }
