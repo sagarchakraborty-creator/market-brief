@@ -2,10 +2,10 @@
     "slug":  "india-us-trade-deal",
     "title":  "The India–US trade deal",
     "started":  "2025-02-13",
-    "updatedAt":  "2026-11-13T11:20:00+05:30",
+    "updatedAt":  "2026-11-14T08:40:00+05:30",
     "status":  "active",
-    "summary":  "India and the United States began work on a Bilateral Trade Agreement in February 2025. The goal was to more than double two-way trade to 500 billion dollars by 2030. Talks soon ran into trouble. By late August 2025, American tariffs on most Indian goods had climbed to 50 percent, including a penalty over India\u0027s purchases of Russian oil.\n\nIn February 2026, the two sides agreed a framework for a first, interim deal. Washington cut its tariff on Indian goods to 18 percent and dropped the oil penalty. Weeks later, the US Supreme Court struck down the tariffs that the deal was built around, sending negotiators back to the table. In October 2026, Piyush Goyal said the first part was in legal drafting, while Marco Rubio and President Trump both called it close. In early November, a US team held talks in New Delhi on customs and trade facilitation, and Goyal said dairy and genetically modified imports stay shut. The Democrats then won both houses of Congress, but officials say the interim deal needs no approval from Congress and only a few issues are left, and the Global Trade Research Initiative thinks it could now be done within two months. On the twelfth of November, Goyal said India will get one of the best deals with the US, and former American diplomat Nisha Biswal says both sides want it done by the G20 Summit in Florida, though hard issues remain.",
-    "watch":  "The G20 Summit in Florida is now the target both sides are said to be working towards. The open questions are a signing date, the final tariff rate India gets compared with rivals like Vietnam, access for American dairy, and the outcome of American investigations into forced labour and excess industrial capacity, which officials say could still shape tariffs. Watch for any call between President Trump and Prime Minister Modi.",
+    "summary":  "India and the United States began work on a Bilateral Trade Agreement in February 2025. The goal was to more than double two-way trade to 500 billion dollars by 2030. Talks soon ran into trouble. By late August 2025, American tariffs on most Indian goods had climbed to 50 percent, including a penalty over India\u0027s purchases of Russian oil.\n\nIn February 2026, the two sides agreed a framework for a first, interim deal. Washington cut its tariff on Indian goods to 18 percent and dropped the oil penalty. Weeks later, the US Supreme Court struck down the tariffs that the deal was built around, sending negotiators back to the table. In October 2026, Piyush Goyal said the first part was in legal drafting, while Marco Rubio and President Trump both called it close. In early November, a US team held talks in New Delhi on customs and trade facilitation, and Goyal said dairy and genetically modified imports stay shut. The Democrats then won both houses of Congress, but officials say the interim deal needs no approval from Congress and only a few issues are left, and the Global Trade Research Initiative thinks it could now be done within two months. On the twelfth of November, Goyal said India will get one of the best deals with the US, and former American diplomat Nisha Biswal says both sides want it done by the G20 Summit in Florida. On the thirteenth, it was reported that Washington has assured India of lower tariffs than its peers, with the first phase covering goods and services left for later.",
+    "watch":  "The G20 Summit in Florida is now the target both sides are said to be working towards. The open questions are a signing date, the exact tariff rate India gets compared with rivals like Vietnam, access for American dairy, and the outcome of the American Section 301 probe into forced labour, on which the final tariff framework is said to hinge. Watch for any call between President Trump and Prime Minister Modi.",
     "timeline":  [
                      {
                          "date":  "2025-02-13",
@@ -373,9 +373,19 @@
                      },
                      {
                          "date":  "2026-11-13",
-                         "title":  "A G20 target date, but hard issues remain",
-                         "text":  "On Friday, the thirteenth of November, former American diplomat Nisha Biswal said both countries want to conclude the phase one deal by the G20 Summit in Florida. She said the talks are complex and significant issues remain, particularly around the sectors where India has a comparative advantage.",
+                         "title":  "US promises India lower tariffs than its peers",
+                         "text":  "On Friday, the thirteenth of November, former American diplomat Nisha Biswal said both countries want to conclude the phase one deal by the G20 Summit in Florida, though significant issues remain. The same day, it was reported that the United States has assured India of lower tariffs than its trading rivals under the deal. The first phase will cover goods only, with services left for a second phase. The final tariff framework hinges on an American Section 301 investigation into whether India and other countries enforce bans on goods made with forced labour.",
                          "sources":  [
+                                         {
+                                             "title":  "US assures India lower tariffs than peers in trade deal",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/foreign-trade/us-assures-india-lower-tariffs-than-peers-in-trade-deal/articleshow/135805660.cms"
+                                         },
+                                         {
+                                             "title":  "US has assured India will get comparative tariff over peers; final framework hinges on Section 301 probe",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/us-has-assured-india-will-get-comparative-over-peers-final-tariff-framework-hinges-on-section-301-probe-14079608.html"
+                                         },
                                          {
                                              "title":  "Desire within US, India to conclude trade deal by G20: ex-US diplomat",
                                              "source":  "Economic Times",
