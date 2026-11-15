@@ -1,6 +1,11 @@
 {
     "briefs":  [
                    {
+                       "date":  "2026-11-15",
+                       "edition":  "Morning",
+                       "headline":  "Inflation breaks 6 percent as foreign money floods back"
+                   },
+                   {
                        "date":  "2026-11-14",
                        "edition":  "Morning",
                        "headline":  "Inflation breaks 6 percent, yet markets log a third weekly gain"
@@ -64,11 +69,6 @@
                        "date":  "2026-11-02",
                        "edition":  "Morning",
                        "headline":  "GST jumps 23 percent, foreign buyers return, ITC reports today"
-                   },
-                   {
-                       "date":  "2026-11-01",
-                       "edition":  "Evening",
-                       "headline":  "GST hits a four-year growth high as Reliance posts a record quarter"
                    }
                ]
 }
