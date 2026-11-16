@@ -1,0 +1,300 @@
+{
+    "date":  "2026-11-16",
+    "edition":  "Morning",
+    "generatedAt":  "2026-11-16T09:35:00+05:30",
+    "headline":  "Foreign money pours back as Mahanadi Coalfields prices its big IPO",
+    "segments":  [
+                     {
+                         "title":  "The big picture",
+                         "script":  "Good morning. It\u0027s Monday, the sixteenth of November, and this is your Market Brief.\n\nThree things matter most this morning. First, foreign money is pouring back. Foreign portfolio investors put around 84,290 crore rupees into Indian shares in just nine sessions this month, after pulling money out in September and October.\n\nSecond, the biggest public issue of the season now has a price. Coal India\u0027s arm Mahanadi Coalfields will sell shares at 129 to 136 rupees each when its offer opens on Thursday.\n\nAnd third, the rate worry is growing. With inflation above 6 percent and oil near 95 dollars, economists now expect the Reserve Bank to raise rates further. And a big week for global technology lies ahead, with Nvidia\u0027s results due on Tuesday.",
+                         "stories":  [
+                                         {
+                                             "title":  "Foreign investors turn buyers, inject Rs 84,290 crore into Indian stocks in 9 sessions",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/foreign-investors-turn-buyers-inject-rs-84-290-crore-into-indian-stocks-in-9-sessions-14080410.html"
+                                         },
+                                         {
+                                             "title":  "Mahanadi Coalfields sets price band at Rs 129-136, Rs 8,981-crore IPO to open on November 19",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/ipo/mahanadi-coalfields-sets-price-band-at-rs-129-136-rs-8-981-crore-ipo-to-open-on-november-19-14080788.html"
+                                         },
+                                         {
+                                             "title":  "India braces for higher interest rates as inflation, oil prices rise",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/india-braces-for-higher-interest-rates-as-inflation-oil-prices-rise-126111600055_1.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "How markets closed",
+                         "script":  "Now to how markets closed. On Friday, the Nifty fell 0.6 percent to end at 25,144, as the inflation number rattled traders. Even so, it was the Nifty\u0027s third straight weekly gain, its first such streak since June. Mid and small caps did better than the leaders, and public sector banks and oil and gas stocks were among the gainers.\n\nThe flows tell the story. Foreign institutional investors bought about 5,737 crore rupees of shares on Friday alone, while domestic institutions sold about 2,254 crore rupees, using the rally to book profits. From the second to the thirteenth of November, foreign investors put in 84,290 crore rupees, after taking out about 34,843 crore in October and 35,861 crore in September. That has cut their net selling for the year to about 2.1 lakh crore rupees. Financials, telecom, capital goods, pharma and autos drew the most buying. A report carried by Moneycontrol says the MSCI India index has bounced 11 percent from its October low, as India\u0027s limited exposure to artificial intelligence turns into an advantage while money rotates out of the crowded AI trade.\n\nNot everyone is convinced. Sundaram\u0027s Anand Radhakrishnan says it is too early to call this a trend, and points to cheaper crude, a steadier rupee and better earnings as more lasting reasons than the AI retreat. Jefferies\u0027 Christopher Wood sees a fresh escalation involving Iran as the biggest risk for Indian shares.\n\nThis morning, the market opened firmer. In early trade, the Nifty was above 25,200 and the Sensex was up about 380 points, with Eicher Motors up 3 percent and Kaynes Technology down 10 percent. For the levels, Moneycontrol\u0027s analysts see support at 25,000 and then 24,800, with resistance at 25,200 to 25,300, and then 25,424 as the crucial hurdle.",
+                         "stories":  [
+                                         {
+                                             "title":  "Global markets weak | Nvidia earnings, Anthropic IPO ahead | Crude prices decline",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/videos/business/earnings/global-markets-weak-nvidia-earnings-anthropic-ipo-ahead-crude-prices-decline-14080750.html"
+                                         },
+                                         {
+                                             "title":  "FPIs pump ₹84,290 crore into equities in first fortnight of November",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/fpis-pump-84-290-crore-into-equities-in-first-fortnight-of-november-126111500184_1.html"
+                                         },
+                                         {
+                                             "title":  "Stock market outlook, November 16-20: Nifty logs 3-week winning streak, first since June",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/stock-market-outlook-november-16-20-nifty-logs-3-week-winning-streak-first-since-june-rally-ahead-or-a-pause-11794738601982.html"
+                                         },
+                                         {
+                                             "title":  "Moneycontrol Pro Market Outlook | Can oil\u0027s rebound halt India\u0027s market rally?",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/moneycontrol-pro-market-outlook-can-oil-s-rebound-halt-india-s-market-rally-14080617.html"
+                                         },
+                                         {
+                                             "title":  "AI retreat fuels India stock comeback in great rotation trade",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/ai-retreat-fuels-india-stock-comeback-in-great-rotation-trade-14080297.html"
+                                         },
+                                         {
+                                             "title":  "Too early to call FII return to Indian equities a trend, says Sundaram AMC\u0027s Radhakrishnan",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/too-early-to-call-fii-return-to-indian-equities-a-trend-says-sundaram-amcs-radhakrishnan-11794718561065.html"
+                                         },
+                                         {
+                                             "title":  "Will inflation, Iran tension spook the market bulls? Jefferies, HSBC answer",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/will-inflation-iran-tension-spook-the-market-bulls-jefferies-hsbc-answer-126111500228_1.html"
+                                         },
+                                         {
+                                             "title":  "Sensex Today | Stock Market LIVE Updates: Nifty opens above 25,200, Sensex up 380 pts",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/stock-market-live-updates-nifty50-share-price-sensex-share-price-crude-fii-gift-nifty-rupee-latest-updates-16-11-2026-alpha-liveblog-14080684.html"
+                                         },
+                                         {
+                                             "title":  "Trading Plan: Can Nifty 50, Bank Nifty rebound after profit booking?",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/trading-plan-can-nifty-50-bank-nifty-rebound-after-profit-booking-14080723.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "IPOs and deals",
+                         "script":  "Now to IPOs and deals. The primary market is back, with three issues worth over 10,000 crore rupees opening this week.\n\nThe headliner is Mahanadi Coalfields, Coal India\u0027s largest coal-producing subsidiary. The price band is 129 to 136 rupees a share. After the employee discount, the issue raises about 8,981 crore rupees, and values the company at about 90,010 crore rupees at the top of the band. It is a pure offer for sale, with Coal India selling 66.18 crore shares, or 10 percent of the company, so the money goes to Coal India, not to Mahanadi. The issue is open from Thursday, the nineteenth, to Monday, the twenty-third, and the shares are tentatively due to list on the twenty-seventh.\n\nBefore that, Crystal Crop Protection opens on Wednesday, the eighteenth, and closes on the twentieth. It is raising about 455 crore rupees at 259 to 272 rupees a share. Livemint reports a grey market premium of 14 rupees, pointing to a listing gain of around 5 percent. On the small-company platform, Watrana Rentals opens on the nineteenth with a 120 crore rupee issue, priced at 232 to 245 rupees, in lots of 600 shares.\n\nOne banking matter to note. A contempt petition by Axis Trustee Services against Yes Bank has brought back the Supreme Court ruling on its written-off additional tier one bonds, with a potential bill of around 8,400 crore rupees for the bank.",
+                         "stories":  [
+                                         {
+                                             "title":  "Mahanadi Coalfields sets price band at Rs 129-136, Rs 8,981-crore IPO to open on November 19",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/ipo/mahanadi-coalfields-sets-price-band-at-rs-129-136-rs-8-981-crore-ipo-to-open-on-november-19-14080788.html"
+                                         },
+                                         {
+                                             "title":  "Coal India\u0027s Mahanadi Coalfields IPO price band set at ₹129 - ₹136 per share",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/ipo/coal-indias-mahanadi-coalfields-ipo-price-band-set-at-rs-129-rs-136-per-share-check-gmp-issue-details-key-dates-11794795588725.html"
+                                         },
+                                         {
+                                             "title":  "IPO Action Returns: 3 public issues worth over Rs 10,000 crore to open next week",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/ipo/ipo-action-returns-3-public-issues-worth-over-rs-10-000-crore-to-open-next-week-14080294.html"
+                                         },
+                                         {
+                                             "title":  "Crystal Crop Protection IPO one lot profit calculator on latest GMP",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/ipo/crystal-crop-protection-ipo-one-lot-profit-calculator-on-latest-gmp-how-much-can-retail-and-hni-investors-earn-listing-11794744856974.html"
+                                         },
+                                         {
+                                             "title":  "Watrana Rentals IPO GMP profit calculator on latest GMP",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/ipo/watrana-rentals-ipo-gmp-one-lot-profit-calculator-on-latest-gmp-how-much-profit-can-retail-and-hni-investors-expect-11794759981622.html"
+                                         },
+                                         {
+                                             "title":  "A Rs 8,400-crore potential bill for Yes Bank – Should investors be worried?",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/opinion/a-rs-8-400-crore-potential-bill-for-yes-bank-should-investors-be-worried-14079059.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Results roundup",
+                         "script":  "A short results roundup, as the September quarter season winds down.\n\nIn autos, Tata Motors Passenger Vehicles, Eicher Motors, Ashok Leyland and Hero Motors are all in focus after their numbers, and Eicher rose about 3 percent in early trade. Electronics maker Kaynes Technology fell about 10 percent at the open after its results.\n\nIn capital goods, ABB India has reported, while Hitachi Energy\u0027s shares have soared on strong earnings, big order inflows and its confidence in upcoming high voltage transmission projects. More broadly, a Moneycontrol analysis finds that global headwinds squeezed capital goods margins, with resilient demand at home only partly making up for it.\n\nIn retail, Baazar Style Retail said revenue from operations fell from a year ago, to about 478 crore rupees, though the stock had gained about 20 percent in the week before the results. Godrej Industries and Zetwerk are among the other names in focus.",
+                         "stories":  [
+                                         {
+                                             "title":  "Stocks to Watch Today: Hindalco, Eicher Motors, Tata Motors PV, Zaggle Prepaid, Hero Motors, Zetwerk in focus on 16 November",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/stocks-to-watch-today-hindalco-eicher-motors-tata-motors-pv-zaggle-prepaid-hero-motors-zetwerk-deepak-fertilisers-inox-green-redington-in-focus-on-16-november-14080673.html"
+                                         },
+                                         {
+                                             "title":  "Stocks to watch: Ashok Leyland, BEL, Hero Moto, Coal India, Tata Motors PV",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/stocks-to-watch-ashok-leyland-bel-hero-moto-coal-india-jupiter-wagons-126111600057_1.html"
+                                         },
+                                         {
+                                             "title":  "Hitachi Energy\u0027s growth outlook powers rally. Have valuations run ahead?",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/mark-to-market/hitachi-energy-india-share-price-q2-results-revenue-growth-hvdc-orders-11794720208456.html"
+                                         },
+                                         {
+                                             "title":  "Global headwinds put capital goods firms\u0027 profits to test",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/opinion/global-headwinds-put-capital-goods-firms-profits-to-test-14078989.html"
+                                         },
+                                         {
+                                             "title":  "Stock to buy after Q2 Results 2026: Up 70% in YTD! Should you buy retail stock after strong guidance?",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/stock-to-buy-after-q2-results-2026-up-70-in-ytd-should-you-buy-this-retail-stock-after-strong-growth-guidance-target-11794751254602.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Economy and policy",
+                         "script":  "Now to the economy and policy.\n\nThe Reserve Bank\u0027s next move is the big question. Retail inflation rose to 6.09 percent in October, the ninth straight monthly rise, with food inflation near 9 percent. Business Standard reports that economists and traders now expect the Reserve Bank to raise its benchmark rate by another 50 to 75 basis points in the coming months, which would take it as high as 6.25 percent, from 5.5 percent now. Price pressure is also spreading. Mobile phone prices rose 8.65 percent in October, and a Moneycontrol analysis finds 95 of 358 items in the basket running above 6 percent. Wholesale inflation for October is due today.\n\nOn trade, October brought a record and a worry. Exports jumped 45 percent to a record 49.47 billion dollars, led by petroleum, electronics, engineering goods, and gems and jewellery. But imports rose 16 percent to 89.35 billion dollars, so the trade deficit widened to a one-year high of 39.88 billion dollars.\n\nOn growth, SBI Research expects the economy to have grown 7.8 percent in the September quarter, above the Reserve Bank\u0027s estimate of 7.2 percent.\n\nA few policy notes. Reserve Bank deputy governor Murmu said the central bank is unlikely to ease the 50 percent cap on how much of a borrower\u0027s income can go to microfinance repayments. The production linked incentive schemes have created 8.49 lakh jobs, just 28 percent of their target, and the government is looking at tweaks. Sebi chairman Tuhin Kanta Pandey said the regulator will soon issue rules for using artificial intelligence in the markets, built around disclosure, accountability and human oversight. And ahead of the Budget, industry bodies are asking for cuts to long-term capital gains tax.",
+                         "stories":  [
+                                         {
+                                             "title":  "India braces for higher interest rates as inflation, oil prices rise",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/india-braces-for-higher-interest-rates-as-inflation-oil-prices-rise-126111600055_1.html"
+                                         },
+                                         {
+                                             "title":  "India\u0027s retail inflation breaches RBI\u0027s 6% upper tolerance limit in October as food prices surge",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/retail-inflation-jumps-to-6-09-in-october-14078348.html"
+                                         },
+                                         {
+                                             "title":  "Digital inflation surges as mobile phones, laptops turn costlier",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/digital-inflation-surges-as-mobile-phones-laptops-turn-costlier-price-pressures-spread-across-consumption-basket-14079705.html"
+                                         },
+                                         {
+                                             "title":  "India\u0027s merchandise trade deficit widens to one-year high of $39.88 bn in October despite record exports",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/india-s-goods-trade-deficit-narrows-to-39-88-bn-in-october-14079488.html"
+                                         },
+                                         {
+                                             "title":  "Policy support, exporter resilience drive strong Oct trade performance: CII",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/policy-support-exporter-resilience-drive-strong-oct-trade-performance-cii-126111500334_1.html"
+                                         },
+                                         {
+                                             "title":  "India\u0027s Q2 GDP growth likely at 7.8%, above RBI estimate of 7.2%: SBI Research",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/india-s-q2-gdp-growth-likely-at-7-8-above-rbi-estimate-of-7-2-sbi-research-14077393.html"
+                                         },
+                                         {
+                                             "title":  "RBI unlikely to ease 50% FOIR limit for microfinance loans, says deputy governor Murmu",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/india/rbi-unlikely-to-ease-50-foir-limit-for-microfinance-loans-says-deputy-governor-murmu-14080469.html"
+                                         },
+                                         {
+                                             "title":  "PLI schemes create 8.49 lakh jobs, 3 sectors account for 72% of employment",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/india/pli/pli-schemes-create-8-49-lakh-jobs-3-sectors-account-for-72-of-employment-14079028.html"
+                                         },
+                                         {
+                                             "title":  "Sebi plans AI guardrails for capital markets, focus on investor protection",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/sebi-plans-ai-guardrails-for-capital-markets-focus-on-investor-protection-126111500187_1.html"
+                                         },
+                                         {
+                                             "title":  "Budget 2027: Industry bodies seek LTCG tax cuts even as FPIs return to Indian equities",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/budget/budget-2027-industry-bodies-seek-ltcg-tax-cuts-even-as-fpis-return-to-indian-equities-article-14077308.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Around the world",
+                         "script":  "Around the world, all eyes are on technology this week. Nvidia reports on Tuesday, a week after news of an affair involving chief executive Jensen Huang cut its market value by about 2 trillion dollars. Anthropic\u0027s IPO is also set to test the market. On Friday, the Nasdaq fell 0.9 percent as chip stocks came under pressure, and this morning Japan\u0027s Nikkei is down 0.6 percent.\n\nIn America, a hotter than expected wholesale inflation reading has strengthened bets on a quarter point Federal Reserve rate hike in December. The 10-year Treasury yield is at 5.14 percent, and the dollar index is at a 19-month high. The minutes of the Fed\u0027s last meeting and American retail sales are due this week.\n\nOn oil, Brent is around 95 dollars a barrel, a little lower this morning, as the International Energy Agency flags a growing global surplus. Analysts quoted by Moneycontrol see Brent testing 90 to 92 dollars, though fresh incidents in the Strait of Hormuz keep the risk alive.\n\nGold edged higher this morning as traders await remarks from Warsh at the Fed, after gold and silver lost over 4 percent last week. And Bitcoin slid to a three-month low of about 63,300 dollars as forced selling picked up.",
+                         "stories":  [
+                                         {
+                                             "title":  "Wall Street Week Ahead: Nvidia earnings, Anthropic IPO, Federal Reserve minutes, retail sales",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/wall-street-week-ahead-nvidia-earnings-anthropic-ipo-federal-reserve-minutes-retail-sales-top-things-to-watch-11794763105921.html"
+                                         },
+                                         {
+                                             "title":  "Nvidia\u0027s retail investors say they\u0027re not rattled by Jensen Huang scandal",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/artificial-intelligence/nvidia-s-retail-investors-say-they-re-not-rattled-by-jensen-huang-scandal-article-14080202.html"
+                                         },
+                                         {
+                                             "title":  "Asian shares fall before Nvidia earnings, Anthropic IPO test tech rally",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/asian-shares-fall-before-nvidia-earnings-anthropic-ipo-test-tech-rally-126111600048_1.html"
+                                         },
+                                         {
+                                             "title":  "Oil prices edge lower on expectations of supply surplus from West Asia",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/commodities/oil-prices-edge-lower-on-expectations-of-supply-surplus-from-west-asia-126111600050_1.html"
+                                         },
+                                         {
+                                             "title":  "Crude oil may extend losses next week, Brent seen testing $90-92/barrel: Analysts",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/india/crude-oil-may-extend-losses-next-week-brent-seen-testing-90-92-barrel-analysts-14080618.html"
+                                         },
+                                         {
+                                             "title":  "Gold edges higher as investors await Warsh remarks for rate signals",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/gold-edges-higher-as-investors-await-warsh-remarks-for-rate-signals-11794792432423.html"
+                                         },
+                                         {
+                                             "title":  "Gold, silver prices ahead of wedding season: Down over 4% this week",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/commodities/gold-silver-prices-ahead-of-wedding-season-down-over-4-this-week-investors-guide-before-us-fed-dec-meeting-11794742802767.html"
+                                         },
+                                         {
+                                             "title":  "Bitcoin tumbles to three-month low as liquidations accelerate",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/bitcoin-tumbles-to-three-month-low-as-liquidations-accelerate-14080286.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Your money",
+                         "script":  "Finally, your money.\n\nTwo tax rulings worth knowing. The Income Tax Appellate Tribunal deleted a 1.5 crore rupee addition against an advertising firm that the department had built on a WhatsApp chat and a photo of a 10 rupee note. The tribunal held that third-party messages and statements did not prove the company was part of the alleged cash deal. And the Mumbai bench allowed a deduction of 2.51 crore rupees under section 54F to a taxpayer who sold six commercial units and bought two flats on different floors.\n\nThe Jammu and Kashmir and Ladakh High Court held that a pension cannot be attached to recover someone else\u0027s loan, even when the retired employee stood guarantor. And a Delhi consumer commission ordered a bank to refund 70,084 rupees lost in unauthorised online transactions, plus 25,000 rupees in compensation and costs.\n\nOn deposits, Indian Overseas Bank raised its 444-day rate by up to 15 basis points, to 6.85 percent, and some small finance banks are offering up to 8.25 percent. Gold has fallen sharply at home, by over 6,600 rupees in three days in Meerut, to below 1.36 lakh rupees, just as the wedding season begins.\n\nA warning from SBI: fraudsters are calling about electricity bills, asking for KYC updates and sending payment links. The bank says not to fall for them. And bank branches in Patna and Ranchi are shut today for Chhath Puja.\n\nThat\u0027s your brief. Today, watch October\u0027s wholesale inflation, whether the foreign buying keeps going, and how the Nifty handles the 25,300 mark. Later in the week come Nvidia\u0027s results on Tuesday, the Fed minutes, and Mahanadi Coalfields opening on Thursday. Have a good Monday.",
+                         "stories":  [
+                                         {
+                                             "title":  "Income tax department flags ₹1.5 crore deal over WhatsApp chat and ₹10 note photo; why ITAT deleted the addition",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/income-tax-department-flags-1-5-crore-deal-over-whatsapp-chat-and-10-note-photo-why-itat-deleted-the-addition-11794764237082.html"
+                                         },
+                                         {
+                                             "title":  "Sold a commercial property? Can you claim tax exemption by investing the proceeds in two flats? ITAT clarifies",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/sold-a-commercial-property-can-you-claim-tax-exemption-by-investing-the-proceeds-in-two-flats-itat-clarifies-11794740699984.html"
+                                         },
+                                         {
+                                             "title":  "Pension cannot be attached to recover another person\u0027s loan even if retired employee stood as guarantor: J\u0026K\u0026L HC",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/pension-cannot-be-attached-to-recover-another-persons-loan-even-if-retired-employee-stood-as-guarantor-j-k-l-h-11794756500677.html"
+                                         },
+                                         {
+                                             "title":  "Woman loses ₹70,084 in online fraud, bank ordered to refund money and pay compensation",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/woman-loses-70-084-in-online-fraud-bank-ordered-to-refund-money-and-pay-compensation-what-happened-how-to-be-safe-11794734498752.html"
+                                         },
+                                         {
+                                             "title":  "FD interest rates hiked: This bank increased money gains for 444-day plan",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/fd-interest-rates-hiked-this-bank-increased-money-gains-for-444-day-plan-rs-1-lakh-rs-3-lakh-and-rs-5-lakhs-details-11794728170984.html"
+                                         },
+                                         {
+                                             "title":  "Small finance banks offer up to 8.25% FD interest",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/small-finance-banks-offer-up-to-8-25-fd-interest-compare-suryoday-ujjivan-and-utkarsh-rates-with-large-banks-11794724794627.html"
+                                         },
+                                         {
+                                             "title":  "Gold rate in this UP city sees major crash; price plunges over ₹6,611 in just 3 days",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/gold-rate-up-city-meerut-sees-major-crash-price-plunges-over-rs-6611-in-just-3-days-slips-below-rs-1-36-lakh-mark-silver-11794721026951.html"
+                                         },
+                                         {
+                                             "title":  "Electricity bill scam alert: Warning from SBI against fake KYC calls and suspicious payment links",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/electricity-bill-scam-alert-don-t-fall-prey-to-it-warning-from-sbi-against-fake-kyc-calls-and-suspicious-payment-links-11794731661619.html"
+                                         },
+                                         {
+                                             "title":  "Bank holiday today: Are branches in Patna, Ranchi closed for Chhath Puja on Monday, 16 November?",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/back-holiday-today-sbi-hdfc-icici-branches-closed-patna-ranchi-cities-chhath-puja-monday-16-november-check-rbi-calendar-11794793644031.html"
+                                         }
+                                     ]
+                     }
+                 ]
+}
