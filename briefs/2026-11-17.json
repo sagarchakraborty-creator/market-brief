@@ -1,0 +1,295 @@
+{
+    "date":  "2026-11-17",
+    "edition":  "Morning",
+    "generatedAt":  "2026-11-17T09:20:00+05:30",
+    "headline":  "Wholesale inflation hits a record 12.29 percent as AI stocks rattle Wall Street",
+    "segments":  [
+                     {
+                         "title":  "The big picture",
+                         "script":  "Good morning. It\u0027s Tuesday, the seventeenth of November, and here is your Market Brief.\n\nThree things matter most today. First, inflation. Wholesale prices rose 12.29 percent in October, the highest in the current series, and retail inflation has now broken above the Reserve Bank\u0027s upper limit of 6 percent. Traders are increasingly betting on a rate hike in December.\n\nSecond, Wall Street had a rough night. The Nasdaq fell about two and a half percent as artificial intelligence stocks slid ahead of Nvidia\u0027s results tonight, its first since chief executive Jensen Huang stepped down last week. Asian markets are lower this morning, and GIFT Nifty points to a flat, cautious start for us.\n\nAnd third, a tax story every investor will care about. The chairman of the Central Board of Direct Taxes says the government is examining proposals to change capital gains tax on equities, with any decision due in the Budget on the first of February.",
+                         "stories":  [
+                                         {
+                                             "title":  "Wholesale inflation hits series high of 12.29% in Oct on fuel price surge",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/wholesale-inflation-october-2026-series-high-fuel-power-prices-126111601037_1.html"
+                                         },
+                                         {
+                                             "title":  "Rising rate hike bets cloud market outlook as inflation breaches RBI\u0027s upper band",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/rising-rate-hike-bets-cloud-market-outlook-as-inflation-breaches-rbi-s-upper-band-14081299.html"
+                                         },
+                                         {
+                                             "title":  "GIFT Nifty flat, signals muted start for Sensex, Nifty as Nasdaq plunges 2.5%, Asian markets fall; crude slips",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/gift-nifty-flat-signals-muted-start-for-sensex-nifty-as-nasdaq-plunges-2-5-asian-markets-fall-crude-slips-14081780.html"
+                                         },
+                                         {
+                                             "title":  "FinMin examining suggestions for changes in equity capital gains tax: CBDT",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/finmin-examining-suggestions-for-changes-in-equity-capital-gains-tax-cbdt-126111601256_1.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "How markets closed",
+                         "script":  "Now to how markets closed on Monday. The Sensex and the Nifty each gained more than half a percent, led by banks and consumer goods companies. Punjab National Bank, Federal Bank, Kotak Mahindra Bank and Eternal all touched fresh 52-week highs.\n\nHospitals were the stars of the day. The BSE Hospitals index jumped 3.57 percent, and Max Healthcare rose as much as 7 percent to around 1,008 rupees. On the other side, pharma was the weakest sector, with Laurus Labs, Sai Life Sciences and Divi\u0027s falling as much as 10 percent. The broader market slipped too, with the BSE SmallCap 250 down almost 1 percent.\n\nForeign money keeps coming in. Business Standard reports more than 9 billion dollars of foreign equity inflows so far this month, and the rupee gained 32 paise on Monday, the best performer in Asia, helped by softer crude prices.\n\nThe levels to watch: analysts say the Nifty faces resistance at 25,300 to 25,400. A clear move above that could open the way to 25,500 and then 25,650. Support sits at 25,100 to 25,000. Looking further out, Morgan Stanley sees the Sensex at 95,000 by December next year, about 16 percent higher, on better earnings and domestic flows.",
+                         "stories":  [
+                                         {
+                                             "title":  "Sensex, Nifty gain over 0.5% as banks, FMCG shine; broader market slips",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/sensex-nifty-gain-over-0-5-as-banks-fmcg-shine-broader-market-slips-126111601579_1.html"
+                                         },
+                                         {
+                                             "title":  "PNB among 4 stocks hitting 52-week highs; stock rallies up to 24% in a month",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/pnb-among-4-stocks-hitting-52-week-highs-stock-rallies-up-to-24-in-a-month/slideshow/135888569.cms"
+                                         },
+                                         {
+                                             "title":  "Hospital stocks in focus: Max Healthcare, Aster DM, Fortis surge up to 7%",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/hospital-stocks-in-focus-max-healthcare-aster-dm-fortis-surge-up-to-7-126111600992_1.html"
+                                         },
+                                         {
+                                             "title":  "Pharma stocks under pressure; Laurus, Sai Life, Divi\u0027s slide up to 10%",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/pharma-stocks-under-pressure-laurus-sai-life-divi-s-slide-up-to-10-126111601200_1.html"
+                                         },
+                                         {
+                                             "title":  "Rupee flies high in Asia on easing crude oil prices, foreign flows",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/rupee-emerges-as-asia-s-best-performing-currency-on-strong-fpi-inflows-126111601656_1.html"
+                                         },
+                                         {
+                                             "title":  "Trading Plan: Can Nifty 50 reclaim 25,400, Bank Nifty hit a record high amid choppy trade?",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/trading-plan-can-nifty-50-reclaim-25-400-bank-nifty-hit-a-record-high-amid-choppy-trade-14081751.html"
+                                         },
+                                         {
+                                             "title":  "Morgan Stanley sees Sensex at 95K, an upside of 16%, by December 2027",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/morgan-stanley-sensex-target-95000-december-2027-indian-equities-126111601258_1.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "IPOs and deals",
+                         "script":  "To the primary market. Crystal Crop Protection opens its IPO tomorrow, the eighteenth, and it closes on Friday, the twentieth. The upper end of the price band is 272 rupees, and Livemint reports a grey market premium of about 13 rupees, which points to a modest listing gain of under 5 percent.\n\nThe bigger news is from the regulator. The Securities and Exchange Board of India has set up a ten-member panel, headed by National Stock Exchange chief Ashish Chauhan, to review the rules for raising capital. It will look at eligibility, promoter lock-ins, pricing, allotment and disclosures for IPOs, follow-on offers, qualified institutional placements and preferential issues. The aim is to cut duplication and make fundraising simpler.\n\nSebi is also expected to propose raising the threshold for identifying beneficial owners of foreign portfolio investors from 10 percent to 25 percent, in line with global practice. A consultation paper is due soon.\n\nOn deals, SML Mahindra\u0027s rights issue of about 1,450 crore rupees opens on the first of December, at 3,506 rupees a share, two shares for every seven held. The money will mainly fund its purchase of Mahindra\u0027s truck and bus business. And BSE has received American approval to offer its Bankex futures to investors in the United States.",
+                         "stories":  [
+                                         {
+                                             "title":  "Crystal Crop Protection IPO GMP today: How much listing gain is expected? Check profit calculator before bidding starts",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/ipo/crystal-crop-protection-ipo-gmp-today-how-much-listing-gain-is-expected-check-profit-calculator-before-bidding-starts-11794829781565.html"
+                                         },
+                                         {
+                                             "title":  "Sebi sets up expert panel to review IPO, FPO and capital-raising norms",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/sebi-sets-up-expert-panel-to-review-ipo-fpo-and-capital-raising-norms-126111601512_1.html"
+                                         },
+                                         {
+                                             "title":  "Sebi forms panel to simplify capital-raising rules",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/sebi-forms-panel-to-simplify-capital-raising-rules/articleshow/135889803.cms"
+                                         },
+                                         {
+                                             "title":  "Sebi may propose raising FPI beneficial ownership threshold to 25%",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/sebi-may-propose-raising-fpi-beneficial-ownership-threshold-to-25-126111601237_1.html"
+                                         },
+                                         {
+                                             "title":  "SML Mahindra Rights Issue: ₹1,450 crore offer opens December 1; check price, record date, ratio and key details",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/sml-mahindra-rights-issue-rs-1-450-crore-offer-opens-december-1-check-price-record-date-ratio-and-key-details-11794884978209.html"
+                                         },
+                                         {
+                                             "title":  "US investors can now access India\u0027s banking sector through BSE BANKEX futures",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/us-investors-can-now-access-india-s-banking-sector-through-bse-bankex-futures-14081619.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Results roundup",
+                         "script":  "Now the results roundup, and it\u0027s a mixed bag.\n\nAmong the winners, Belrise Industries saw net profit rise 25 percent to about 166 crore rupees in the September quarter, with revenue up 17 percent, and the shares jumped 13 percent. Kalyan Jewellers reported profit growth of 64 percent and revenue growth of 32 percent, and its stock has now risen 42 percent this month.\n\nIn new-age companies, Eternal, the parent of Zomato, grew revenue nearly 78 percent and profit 92 percent. Swiggy\u0027s revenue rose 36 percent, but its losses widened from the previous quarter as it spent on quick commerce.\n\nOn the other side, Inox Wind\u0027s profit fell 42 percent to 69 crore rupees on higher costs, and the stock lost 10 percent. Patanjali Foods slipped 4 percent after a weaker quarter, which Jefferies put down to festive-season timing and pressure on edible oil margins. Kaynes Technology missed estimates, and Jefferies cut its target while keeping its buy rating. And Amber Enterprises gave back 8 percent a day after a 9 percent jump, with Elara Securities and Equirus flagging margin pressure.",
+                         "stories":  [
+                                         {
+                                             "title":  "Belrise Industries shares rally 13% after Q2 PAT rises 25%, revenue up 17%",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/belrise-industries-shares-rally-13-after-q2-pat-rises-25-revenue-up-17-126111601219_1.html"
+                                         },
+                                         {
+                                             "title":  "42% rally in 11 sessions: This jewellery stock resumes its bull run after upbeat Q2 results, hits nearly 2-year high",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/42-rally-in-11-sessions-this-jewellery-stock-resumes-its-bull-run-after-upbeat-q2-results-hits-nearly-2-year-high-11794825957504.html"
+                                         },
+                                         {
+                                             "title":  "Swiggy vs Zomato parent Eternal: Which stock has the stronger growth and better earnings outlook after Q2 results?",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/swiggy-vs-eternal-which-stock-has-the-stronger-growth-and-better-earnings-outlook-after-q2-results-11794829911764.html"
+                                         },
+                                         {
+                                             "title":  "Inox Wind: 42% fall in Q2 PAT, margin squeeze hammers stock by 10%",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/inox-wind-42-fall-in-q2-pat-margin-squeeze-hammers-stock-by-10-126111601106_1.html"
+                                         },
+                                         {
+                                             "title":  "Patanjali Foods dips 4% as Q2 profit slips but analysts upbeat; here\u0027s why",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/patanjali-foods-share-price-dips-4-as-q2-profit-slips-but-analysts-upbeat-here-s-why-126111601051_1.html"
+                                         },
+                                         {
+                                             "title":  "Kaynes Technology faces slower earnings growth, valuation concerns; Jefferies cuts target after yesterday\u0027s rout",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/kaynes-technology-faces-slower-earnings-growth-valuation-concerns-jefferies-cuts-target-after-yesterday-s-rout-14081828.html"
+                                         },
+                                         {
+                                             "title":  "Day after 9% surge Amber Enterprises dips 8%; analysts flag margin worries",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/day-after-9-surge-amber-enterprises-dips-8-analysts-flag-margin-worries-126111601123_1.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Economy and policy",
+                         "script":  "To the economy, where the oil shock is showing up everywhere.\n\nWholesale inflation climbed to 12.29 percent in October from 11.39 percent in September. Fuel and power did most of the damage, with inflation there jumping to nearly 33 percent. Price pressure is also spreading in the retail basket. Moneycontrol finds mobile phone inflation at 8.65 percent, and 95 of 358 items rising faster than 6 percent. Some analysts now expect the Reserve Bank to lift the repo rate to 6.25 percent.\n\nThe trade numbers tell a similar story. October exports hit a record of about 49.5 billion dollars, up 45 percent from a year ago. But imports surged to about 89 billion dollars, so the goods trade deficit widened to nearly 40 billion dollars, a one-year high.\n\nThe government has raised the windfall tax on fuel exports. The export levy on diesel goes up to 14 rupees a litre from 11.50, and on aviation fuel to 12.50 rupees. Petrol is unchanged.\n\nThere was some good news on jobs. Unemployment eased to 4.9 percent in October, an eight-month low, as more women joined the workforce, especially in rural areas.\n\nAnd ahead of the Budget, economists told Finance Minister Nirmala Sitharaman to treat the oil shock as a one-time event, stick to the debt-reduction path and keep spending on infrastructure, even with Pay Commission costs coming.",
+                         "stories":  [
+                                         {
+                                             "title":  "Wholesale inflation rises to 12.29% in October as fuel and power prices surge",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/wholesale-inflation-rises-to-12-29-in-october-as-fuel-and-power-prices-surge-14081055.html"
+                                         },
+                                         {
+                                             "title":  "Digital inflation surges as mobile phones, laptops turn costlier; price pressures spread across consumption basket",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/digital-inflation-surges-as-mobile-phones-laptops-turn-costlier-price-pressures-spread-across-consumption-basket-14079705.html"
+                                         },
+                                         {
+                                             "title":  "RBI may raise interest rates to 6.25%, but this time the pain could be greater for India",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/rbi-may-raise-interest-rates-to-6-25-but-this-time-the-pain-could-be-greater-for-india-14080706.html"
+                                         },
+                                         {
+                                             "title":  "India\u0027s merchandise trade deficit widens to one-year high of $39.88 bn in October despite record exports",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/india-s-goods-trade-deficit-narrows-to-39-88-bn-in-october-14079488.html"
+                                         },
+                                         {
+                                             "title":  "Centre raises export duty on diesel, aviation fuel; petrol unchanged",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/centre-raises-export-duty-on-diesel-aviation-fuel-petrol-unchanged-126111602001_1.html"
+                                         },
+                                         {
+                                             "title":  "India\u0027s unemployment rate eases to eight-month low of 4.9% in October",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/india-s-unemployment-rate-eases-to-4-9-in-oct-female-participation-rises-126111601355_1.html"
+                                         },
+                                         {
+                                             "title":  "Stick to debt-reduction path, maintain capex amid shrinking fiscal space: Economists tell FM",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/stick-to-debt-reduction-path-maintain-capex-amid-shrinking-fiscal-space-economists-tell-fm-14081542.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Around the world",
+                         "script":  "Around the world, the artificial intelligence trade is being tested. On Wall Street, the Nasdaq fell 2.5 percent, the S and P 500 lost 1.9 percent and the Dow slipped 1.4 percent, while the fear gauge jumped 25 percent. Chipmakers were hit hardest. Nvidia fell another 4 percent on Monday and is down nearly a quarter this month, after Jensen Huang\u0027s exit as chief executive last week. A report says the board is not considering bringing him back. Nvidia reports results after the American close tonight, and Anthropic\u0027s Nasdaq listing is due on Thursday.\n\nAdding to the pressure, Washington has tightened curbs on Chinese companies using advanced chips in data centres in Thailand and Malaysia. In Asia this morning, Korea\u0027s Kospi is down 2 percent and Japan\u0027s Nikkei 1.3 percent.\n\nThe dollar has hit its highest level since April last year, wiping out all its losses since the Liberation Day tariffs, as traders bet on American rate hikes. Boston Fed President Susan Collins said gradual hikes would be appropriate.\n\nOil eased. Brent fell about three and a half percent to near 92 dollars a barrel after the International Energy Agency flagged a supply surplus, though tensions in the Strait of Hormuz remain. Goldman Sachs expects Brent to ease to 78 dollars by December next year. And gold is near a 14-month low, around 3,850 dollars an ounce, with Goldman saying it may take two years to reclaim its record.",
+                         "stories":  [
+                                         {
+                                             "title":  "Nasdaq slides 2.5% | Nvidia to report earnings today | Brent oil falls 3.5% on rising supply",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/videos/business/earnings/nasdaq-slides-2-5-nvidia-to-report-earnings-today-brent-oil-falls-3-5-on-rising-supply-14081803.html"
+                                         },
+                                         {
+                                             "title":  "Stocks end lower ahead of Nvidia earnings and Anthropic IPO; oil drops",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/markets/global-markets/stocks-end-lower-ahead-of-nvidia-earnings-and-anthropic-ipo-oil-drops-14081728.html"
+                                         },
+                                         {
+                                             "title":  "Nvidia stock hits intraday low as report says chip firm not considering Huang\u0027s return",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/markets/global-markets/nvidia-stock-hits-intraday-low-as-report-says-chip-firm-not-considering-huang-s-return-14081670.html"
+                                         },
+                                         {
+                                             "title":  "Asian shares fall as US tightens curbs on China\u0027s access to AI chips",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/asian-shares-fall-as-us-tightens-curbs-on-china-s-access-to-ai-chips-126111700065_1.html"
+                                         },
+                                         {
+                                             "title":  "Dollar hits highest since April 2025 as traders bet on rate hikes",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/dollar-hits-highest-since-april-2025-as-traders-bet-on-rate-hikes-14081720.html"
+                                         },
+                                         {
+                                             "title":  "Federal Reserve\u0027s Susan Collins sees \u0027gradual\u0027 hikes in interest rate to curb inflation, manage economy",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/federal-reserve-bank-of-boston-chief-susan-collins-sees-gradual-interest-rate-hikes-to-curb-inflation-manage-economy-11794813115478.html"
+                                         },
+                                         {
+                                             "title":  "Goldman sees Brent easing to $78 by December 2027 as oil market moves into surplus",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/goldman-sees-brent-easing-to-78-by-december-2027-as-oil-market-moves-into-surplus-14081550.html"
+                                         },
+                                         {
+                                             "title":  "Gold steadies near 14-month low as inflation pressure persists",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/gold-steadies-near-14-month-low-as-inflation-pressure-persists-14081725.html"
+                                         },
+                                         {
+                                             "title":  "Goldman Forecasts Gold to Take Two Years to Recapture All-Time Highs",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/goldman-forecasts-gold-to-take-two-years-to-recapture-all-time-highs-11794862583269.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Your money",
+                         "script":  "Finally, your money, starting with capital gains tax. Central Board of Direct Taxes chairman Ravi Agrawal says the Finance Ministry is studying proposals on long-term capital gains tax and the securities transaction tax. Industry bodies have asked for long-term capital gains tax to be scrapped. But economists who met the Finance Minister urged her to keep it and to keep the tax regime stable. Mr Agrawal\u0027s words: on the first of February, you will get to know.\n\nFor your corporate clients, a reminder that the tax board extended audit report and return deadlines for the 2026-27 assessment year by 21 days, and the extended audit report date falls this week, on the twenty-first.\n\nOne date for your calendar. New motor insurance rules start on the fifteenth of December. Policies will have four separate sections of cover, and some protection stays optional, so check whether your spouse, children or parents are actually covered as passengers.\n\nOn gold, the bullion association\u0027s rate on Monday put 24-carat gold at about 1,34,971 rupees per 10 grams, and silver at about 1,70,251 rupees a kilo. Prices are near one-year lows, but a strong dollar and rate-hike bets are still weighing on them.\n\nA few quick ones. The pension regulator has relaxed address-proof rules for NRI seafarers opening NPS accounts. And consumer courts are on your side on small charges. A Jaipur restaurant was fined 10,000 rupees for rounding up a bill by 50 paise, and a Bengaluru store must pay 8,020 rupees for charging 20 rupees for a carry bag.\n\nAn investor warning: the FBI has traced a 400 million dollar crypto theft scheme called FaceStealer to North Korean hackers, and Livemint lists the steps to take if you were affected.\n\nWhat to watch today: a flat start is likely, with the Nifty\u0027s 25,300 to 25,400 zone the hurdle. Nvidia\u0027s results land late tonight our time, so expect tech and IT names to react tomorrow. Crystal Crop\u0027s IPO opens tomorrow, and Anthropic lists on Thursday. That\u0027s your Market Brief. Have a good day.",
+                         "stories":  [
+                                         {
+                                             "title":  "FinMin studying LTCG tax, STT proposals, says CBDT chief Ravi Agrawal",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/cbdt-chief-says-ltcg-stt-proposals-under-review-ahead-of-union-budget-126111601853_1.html"
+                                         },
+                                         {
+                                             "title":  "Retain capital gains tax on equities, economists tell FM Sitharaman ahead of Budget 2027-28",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/retain-capital-gains-tax-on-equities-economists-tell-fm-sitharaman-ahead-of-budget-2027-28/articleshow/135890410.cms"
+                                         },
+                                         {
+                                             "title":  "ITR update: Extended deadline tax audit report filings this week — Check due date, which taxpayers are eligible, details",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/itr-update-extended-deadline-filing-tax-audit-report-this-week-21-november-due-date-taxpayers-eligible-corporates-ay27-11794801731405.html"
+                                         },
+                                         {
+                                             "title":  "Motor insurance rules from December 15: Your car policy may not cover your spouse, children or parents",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/motor-insurance-rules-from-december-15-your-car-policy-may-not-cover-your-spouse-children-or-parents-11794850544270.html"
+                                         },
+                                         {
+                                             "title":  "Gold rate today in Delhi: Check 24K and 22K gold PM rates on 16 November",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/gold-silver-rates-today-16-november-check-24k-22k-gold-and-999-silver-pm-rates-in-delhi-11794837422736.html"
+                                         },
+                                         {
+                                             "title":  "NRI seafarers get relief in NPS account opening: PFRDA relaxes address proof requirements under KYC rules",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/nri-seafarers-get-relief-in-nps-account-opening-pfrda-relaxes-address-proof-requirements-under-kyc-rules-11794874927851.html"
+                                         },
+                                         {
+                                             "title":  "Jaipur restaurant fined ₹10,000 for rounding off a bill by 50 paise: What customers should know",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/jaipur-restaurant-fined-10-000-for-for-rounding-off-a-bill-by-50-paise-what-customers-should-know-11794814851480.html"
+                                         },
+                                         {
+                                             "title":  "Bengaluru consumer court orders Tonique to pay ₹8,020 for charging ₹20 for a carry bag",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/bengaluru-consumer-court-orders-tonique-to-pay-8-020-for-charging-20-for-a-carry-bag-what-customers-should-know-11794808780434.html"
+                                         },
+                                         {
+                                             "title":  "FBI tracks $400 million \u0027FaceStealer\u0027 crypto theft to N Korea",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/fbi-investigate-facestealer-crypto-theft-scheme-traced-n-korea-hackers-what-you-should-do-affected-steps-how-avoid-scam-11794789541112.html"
+                                         }
+                                     ]
+                     }
+                 ]
+}
