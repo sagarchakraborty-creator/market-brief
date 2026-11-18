@@ -1,0 +1,350 @@
+{
+    "date":  "2026-11-18",
+    "edition":  "Morning",
+    "generatedAt":  "2026-11-18T08:40:00+05:30",
+    "headline":  "Nifty back at pre-war highs on record foreign buying; Nvidia beats",
+    "segments":  [
+                     {
+                         "title":  "The big picture",
+                         "script":  "Good morning. It\u0027s Wednesday, the eighteenth of November, and this is your Market Brief.\n\nThree things matter this morning. First, the Nifty has clawed its way back to where it stood before the war in West Asia. On Tuesday it crossed 25,500 during the day, a nine-month high, carried by banks and by record foreign buying of about 9.6 billion dollars so far this month.\n\nSecond, prices are still running hot. Wholesale inflation jumped to 12.29 percent in October, driven by fuel and power, and some economists now expect the Reserve Bank to raise rates in December.\n\nThird, the world was watching Nvidia overnight. The chipmaker beat expectations, and American stock futures rose. Even so, GIFT Nifty points to a weaker start here, down about 130 points.",
+                         "stories":  [
+                                         {
+                                             "title":  "Nifty reclaims pre-war levels intraday as Indian stocks lead Asia with 10% monthly gain",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/nifty-reclaims-pre-war-levels-intraday-as-indian-stocks-lead-asia-with-10-monthly-gain-11794923846111.html"
+                                         },
+                                         {
+                                             "title":  "GIFT Nifty falls 133 pts, signals weak start for Sensex, Nifty despite Nvidia earnings boost, Asian rally",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/gift-nifty-falls-133-pts-signals-weak-start-for-sensex-nifty-despite-nvidia-earnings-boost-asian-rally-14082996.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "How markets closed",
+                         "script":  "Now to how markets closed. The Sensex rose half a percent to end at 82,532. The Nifty gained 0.4 percent to 25,387, its second straight day of gains. During the day the Nifty touched 25,501, just above its February high of 25,476, and the Sensex was up as much as 800 points before trimming gains.\n\nBanks did the heavy lifting. The Bank Nifty closed at a fresh record above 62,300. It is up about 11.5 percent in a month, and around 8,800 points in just fifteen sessions. Punjab National Bank hit an eight-year high, up 31 percent in a month. Capital market stocks were hot too. Angel One jumped 6 percent, while Groww and NSE hit new highs. Adani Enterprises was the best Nifty stock, up over 3 percent, followed by Eicher Motors, Max Healthcare, Asian Paints and Axis Bank.\n\nThe bigger picture is striking. The Nifty is up about 3,100 points, or 14 percent, from its October low of around 22,180. Indian stocks have led Asia with a 10 percent gain in a month. Foreign institutional investors have put in a record 9.6 billion dollars in November, a sharp turn after selling in most months this year. One note of caution from Dharmesh Bhatt of Systematix. He points out that market breadth has been negative for three sessions, so fewer stocks are joining the rally.\n\nThe levels analysts are watching: 25,500 is the hurdle for the Nifty. Above it, they see 25,650 and then 25,800. Support sits at 25,200, and then 25,000. For the Bank Nifty, resistance is at 62,500 to 63,000, with support near 61,700.",
+                         "stories":  [
+                                         {
+                                             "title":  "Nifty 50 hits 9-month high, crosses 25,500: Can the rally extend towards 25,800? Here\u0027s what analysts say",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/nifty-50-hits-9-month-high-crosses-25-500-can-the-rally-extend-towards-25-800-heres-what-analysts-say-11794916441623.html"
+                                         },
+                                         {
+                                             "title":  "Sensex zooms 800 pts intraday, Nifty tops 25,500: 5 factors behind bull run",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/sensex-zooms-800-pts-intraday-nifty-tops-25-500-5-factors-behind-bull-run-126111700469_1.html"
+                                         },
+                                         {
+                                             "title":  "Nifty Bank extends gains to 11.5% in a month, hits fresh record high",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/nifty-bank-extends-gains-to-11-5-in-a-month-hits-fresh-record-high-126111701213_1.html"
+                                         },
+                                         {
+                                             "title":  "Bank Nifty surges 8,800 points in 15 sessions to hit fresh all-time high",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/bank-nifty-surges-8-800-points-in-15-sessions-to-hit-fresh-all-time-high-62-500-key-for-further-upside-but-consolidation-cannot-be-ruled-out-14082690.html"
+                                         },
+                                         {
+                                             "title":  "Punjab National Bank share price zooms 31% in 1 month; hits 8-year high",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/punjab-national-bank-share-price-zooms-31-in-1-month-hits-8-year-high-126111700500_1.html"
+                                         },
+                                         {
+                                             "title":  "Capital Market stocks shine: Angel One jumps 6%; Groww, NSE hit new highs",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/capital-market-stocks-shine-angel-one-jumps-6-groww-nse-hit-new-highs-126111700369_1.html"
+                                         },
+                                         {
+                                             "title":  "M\u0026M, Airtel, TechM, HDFC Bank lead Nifty\u0027s 3100 pts rally; more steam left?",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/m-m-airtel-techm-hdfc-bank-lead-nifty-s-3100-pts-rally-more-steam-left-126111700263_1.html"
+                                         },
+                                         {
+                                             "title":  "Foreign investors pour record $9.6 billion into stocks in November",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/foreign-investors-pour-record-9-6-billion-into-stocks-in-november-14082799.html"
+                                         },
+                                         {
+                                             "title":  "Nifty eyes breakout atop 25,500; Analyst flags divergence in market breadth",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/nifty-eyes-breakout-atop-25-500-analyst-flags-divergence-in-market-breadth-126111800133_1.html"
+                                         },
+                                         {
+                                             "title":  "Trading Plan: Can Nifty 50, Bank Nifty take a breather after recent rally?",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/trading-plan-can-nifty-50-bank-nifty-take-a-breather-after-recent-rally-14082974.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "IPOs and deals",
+                         "script":  "On to IPOs and deals. Crystal Crop Protection, backed by the International Finance Corporation, opens its IPO today and closes on Friday, the twentieth. The issue is about 456 crore rupees, at a price band of 259 to 272 rupees a share. Around 355 crore is fresh money, and about 101 crore is an offer for sale. It raised 136 crore rupees from anchor investors ahead of the opening.\n\nIn the pipeline, Rediff.com has filed updated draft papers to raise up to 600 crore rupees, Meganet has also filed, and Advanced Sys-Tek has received SEBI\u0027s approval.\n\nNow the big deals. Fairfax is selling up to 13.25 percent of IIFL Finance through a block deal, at a floor price of 611 rupees, about 3.9 percent below Tuesday\u0027s close. That is roughly 3,450 crore rupees. Livemint reports the money could help fund Fairfax\u0027s proposed 60 percent stake purchase in IDBI Bank.\n\nUrban Company\u0027s 2,500 crore rupee share sale to institutions drew bids of about 15,300 crore, around six times the size. SBI Mutual Fund, ICICI Prudential, Goldman Sachs Asset Management and Norges were among the bidders. Elsewhere, Ribbit Capital sold Groww shares worth 1,905 crore rupees, BlackRock lifted its stake in Axis Bank to 5 percent, and Alkem\u0027s promoters sold shares that four large mutual funds picked up at 5,050 rupees each.",
+                         "stories":  [
+                                         {
+                                             "title":  "IFC-backed Crystal Crop Protection raises Rs 136 crore via anchor book ahead of IPO",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/ipo/ifc-backed-crystal-crop-protection-raises-rs-136-crore-via-anchor-book-ahead-of-ipo-14082705.html"
+                                         },
+                                         {
+                                             "title":  "Crystal Crop Protection IPO opens today: Check review and other key details",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/crystal-crop-protection-ipo-opens-today-check-review-and-other-key-details-126111800142_1.html"
+                                         },
+                                         {
+                                             "title":  "Meganet, Rediff.com file IPO papers; Advanced Sys-Tek gets Sebi nod",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/ipo/meganet-rediff-com-file-ipo-papers-advanced-sys-tek-gets-sebi-nod-126111701516_1.html"
+                                         },
+                                         {
+                                             "title":  "Block deal alert: FIH Mauritius to sell up to 13.25% stake in IIFL Finance for $370 mn",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/block-deal-alert-fih-mauritius-to-sell-up-to-13-25-stake-in-iifl-finance-for-370-mn-14082684.html"
+                                         },
+                                         {
+                                             "title":  "After IDBI Bank stake buy, now Fairfax set to sell 13.25% stake in IIFL Finance via ₹3,454-crore block deal: Report",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/fairfax-likely-to-sell-13-25-stake-in-iifl-finance-via-rs-3-454-crore-block-deal-report-11794919349807.html"
+                                         },
+                                         {
+                                             "title":  "Urban Company QIP: Rs 2,500 crore QIP oversubscribed 6 times",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/urban-company-qip-rs-2-500-crore-qip-oversubscribed-6-times-sbi-mf-icici-prudential-goldman-sachs-norges-among-bidders-14082563.html"
+                                         },
+                                         {
+                                             "title":  "Block Deals: Ribbit Capital sells Groww stake worth Rs 1,905 crore; Happy Forgings promoters offload 1.7% stake",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/block-deals-ribbit-capital-sells-groww-stake-worth-rs-1-905-crore-happy-forgings-promoters-offload-1-7-stake-14082803.html"
+                                         },
+                                         {
+                                             "title":  "BlackRock raises its stake in Axis Bank to 5%",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/blackrock-raises-its-stake-in-axis-bank-to-5/articleshow/135929469.cms"
+                                         },
+                                         {
+                                             "title":  "Alkem Laboratories, Gallantt Ispat promoters sell shares; investors raise stake in Green Asia Impex",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/alkem-laboratories-gallantt-ispat-promoters-sell-shares-investors-raise-stake-in-green-asia-impex-14082833.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Results roundup",
+                         "script":  "In the results roundup, the headline is strong. India Inc posted its best quarterly profit growth in four years in the September quarter. Estimates from six brokerages put net profit growth at 19 to 27 percent, led by metals, energy, banks and industrials.\n\nCompany by company, the picture is mixed. In electronics manufacturing, Kaynes Technology has fallen 16 percent in two sessions. Its quarterly profit dropped to about 40 crore rupees from nearly 116 crore a year ago, and Jefferies flagged margin pressure. In autos, Ashok Leyland fell 4 percent as HSBC and Nomura stayed cautious on margins, with targets between 172 and 187 rupees. On the other side, Eicher Motors rose 3 percent, with analysts saying Royal Enfield is well placed as buyers move to premium two-wheelers.\n\nFirstCry\u0027s parent Brainbees jumped 13 percent after JM Financial said the worst is over, though the stock is still down 39 percent this year. And in jewellery, Senco Gold rose 8 percent on record festive sales of over 2,426 crore rupees in the 41 days to the eleventh of November.",
+                         "stories":  [
+                                         {
+                                             "title":  "India Inc logs best quarterly profit growth in 4 years, lifts market hopes",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/india-inc-logs-best-quarterly-profit-growth-in-4-years-lifts-market-hopes-126111700526_1.html"
+                                         },
+                                         {
+                                             "title":  "Kaynes Tech falls 16% in 2 sessions; Jefferies flags margin pressure",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/kaynes-tech-falls-16-in-2-sessions-jefferies-flags-margin-pressure-126111700486_1.html"
+                                         },
+                                         {
+                                             "title":  "Ashok Leyland shares fall 4% as brokerages slash price targets on margin pressures",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/ashok-leyland-shares-fall-4-as-brokerages-slash-price-targets-on-margin-pressures-14082555.html"
+                                         },
+                                         {
+                                             "title":  "Eicher Motors jumps 3%, stock top gainer in Nifty Auto; brokerages upbeat",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/eicher-motors-jumps-3-stock-top-gainer-in-nifty-auto-brokerages-upbeat-126111700622_1.html"
+                                         },
+                                         {
+                                             "title":  "Brainbees snaps 3-day losing run, jumps 13%; JM Fin says worst over post Q2",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/firstcry-parent-brainbees-shares-jump-13-jm-financial-says-worst-is-over-126111700371_1.html"
+                                         },
+                                         {
+                                             "title":  "Senco Gold shares jump 8% on record festive sales of ₹2,426 crore",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/senco-gold-shares-jump-8-on-record-festive-sales-of-2-426-crore-126111700328_1.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Economy and policy",
+                         "script":  "Now to the economy and policy. Wholesale inflation rose to 12.29 percent in October. Fuel and power inflation jumped to almost 33 percent, from about 26 percent in September, though food and manufactured goods eased. One report now sees wholesale inflation around 11 percent for the full year, and expects a quarter-point rate hike by the Reserve Bank in December. With retail inflation above 6 percent, some analysts see the repo rate going to 6.25 percent.\n\nGrowth is cooling, but gently. Rating agency ICRA expects the economy grew 7.5 percent in the September quarter, a five-quarter low, down from 7.8 percent. That is still above the Reserve Bank\u0027s forecast of 7.2 percent. Farming is the weak spot, seen growing just 0.2 percent. S Mahendra Dev, who chairs the Prime Minister\u0027s Economic Advisory Council, puts growth for the full year at 7.3 percent. And the farm worry is real. Rabi sowing is down 11.3 percent, with wheat acreage down over 15 percent, as post-monsoon rain was 34 percent below normal.\n\nOn trade, Union Bank of India sees the current account deficit reaching 1.2 percent of GDP this year, after October\u0027s merchandise trade deficit widened to 39.88 billion dollars. The government raised the windfall tax on diesel exports to 14 rupees a litre, from 11 rupees 50 paise, and raised it on jet fuel exports too. The European Union has put anti-dumping duty on steel from India and four other countries. And India and Egypt will set up a working group to explore a trade deal.\n\nOn the Budget, due on the first of February, the Finance Minister held her third pre-Budget meeting, this time with manufacturers. FICCI wants a development finance institution for manufacturing and a 12,000 crore rupee incentive scheme for battery components. Economists urged her to stick to cutting debt, and a cut in long-term capital gains tax on shares was discussed.\n\nFinally, the markets regulator. SEBI will cut margins on farm commodity derivatives by two percentage points from the first of December. And it may cap margin-funded stock buying, which has hit a record 1.53 lakh crore rupees, up 29 percent in a year, with about two-thirds in small and mid-sized companies.",
+                         "stories":  [
+                                         {
+                                             "title":  "Wholesale inflation rises to 12.29% in October as fuel and power prices surge",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/wholesale-inflation-rises-to-12-29-in-october-as-fuel-and-power-prices-surge-14081055.html"
+                                         },
+                                         {
+                                             "title":  "Wholesale inflation faces a triple squeeze from fuel, food and metals in FY27: Report",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/indicators/wholesale-inflation-faces-a-triple-squeeze-from-fuel-food-and-metals-in-fy27-report/articleshow/135909049.cms"
+                                         },
+                                         {
+                                             "title":  "RBI may raise interest rates to 6.25%, but this time the pain could be greater for India",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/rbi-may-raise-interest-rates-to-6-25-but-this-time-the-pain-could-be-greater-for-india-14080706.html"
+                                         },
+                                         {
+                                             "title":  "GDP growth likely to ease to 5-quarter low of 7.5% in July-September: Icra",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/gdp-growth-likely-to-ease-to-5-quarter-low-of-7-5-in-july-september-icra-126111700547_1.html"
+                                         },
+                                         {
+                                             "title":  "India\u0027s GDP growth pegged at 7.3% in FY26-27, may touch 7.7% next quarter: EAC-PM Chairman",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/indicators/indias-gdp-growth-pegged-at-7-3-in-fy26-27-may-touch-7-7-next-quarter-eac-pm-chairman/articleshow/135923170.cms"
+                                         },
+                                         {
+                                             "title":  "Rabi sowing falls 11.3% as wheat, pulses acreage declines amid rainfall deficit",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/rabi-sowing-falls-11-3-as-wheat-pulses-acreage-declines-amid-rainfall-deficit-14082080.html"
+                                         },
+                                         {
+                                             "title":  "India\u0027s CAD may touch 1.2% of GDP in FY27 as oil, gold demand pose risks: UBI",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/indicators/indias-cad-may-touch-1-2-of-gdp-in-fy27-as-oil-gold-demand-pose-risks-ubi/articleshow/135914575.cms"
+                                         },
+                                         {
+                                             "title":  "Centre raises windfall tax on diesel, ATF exports; petrol levy unchanged",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/centre-raises-windfall-tax-on-diesel-atf-exports-petrol-levy-unchanged-14081702.html"
+                                         },
+                                         {
+                                             "title":  "EU imposes anti-dumping duty on steel imports from India, 4 other nations",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/eu-imposes-anti-dumping-duty-on-steel-imports-from-india-4-other-nations-126111700316_1.html"
+                                         },
+                                         {
+                                             "title":  "India, Egypt agree to set up working group to explore bilateral trade deal",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/india-egypt-agree-to-set-up-working-group-to-explore-bilateral-trade-deal-126111700813_1.html"
+                                         },
+                                         {
+                                             "title":  "Budget 2027: FM Sitharaman chairs third pre-Budget consultation with manufacturing sector leaders",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/policy/budget-2027-fm-sitharaman-chairs-third-pre-budget-consultation-with-manufacturing-sector-leaders/articleshow/135918347.cms"
+                                         },
+                                         {
+                                             "title":  "Ficci seeks manufacturing DFI, sees ₹100 trn credit need over decade",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/ficci-budget-2027-manufacturing-dfi-rs-100-trillion-credit-pli-battery-components-126111700634_1.html"
+                                         },
+                                         {
+                                             "title":  "Stick to debt-reduction path, maintain capex amid shrinking fiscal space: Economists tell FM",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/stick-to-debt-reduction-path-maintain-capex-amid-shrinking-fiscal-space-economists-tell-fm-14081542.html"
+                                         },
+                                         {
+                                             "title":  "SEBI eases margin requirements from Dec 1 to revive agri-commodity trading",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/sebi-eases-margin-requirements-from-dec-1-to-revive-agri-commodity-trading-14082775.html"
+                                         },
+                                         {
+                                             "title":  "Sebi may limit margin-funded stock purchases as retail leverage hits record",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/sebi-may-limit-margin-funded-stock-purchases-as-retail-leverage-hits-record-126111700421_1.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Around the world",
+                         "script":  "Around the world, Nvidia reported its first results since Jensen Huang\u0027s exit, and they beat expectations. Its shares rose more than 4 percent in extended trading, and Nasdaq futures jumped 1.3 percent. That followed a rough Tuesday on Wall Street. The Dow fell nearly 850 points, or 1.6 percent, and the S\u0026P 500 lost 1 percent.\n\nThe mood on technology has soured. A Bank of America survey shows fund managers cut their tech holdings by the most since 2006. Some of that money is finding its way to India. BlackRock\u0027s India fund listed in America took in 316 million dollars last week, its biggest weekly inflow since June last year.\n\nAlso in artificial intelligence, Anthropic, the maker of Claude, is said to be guiding its IPO to the top of its 70 to 78 dollar range, or higher. With a private placement, it could raise 90.4 billion dollars, valuing the company at about 1.4 trillion dollars.\n\nOn oil, analysts see Brent testing 90 to 92 dollars a barrel, and Goldman Sachs expects it to ease to 78 dollars by December 2027 as supply moves into surplus. The American ten-year bond yield is close to its longest run above 5 percent in nearly two decades, as investors bet on more rate hikes by the Federal Reserve. And gold is struggling near a one-year low.",
+                         "stories":  [
+                                         {
+                                             "title":  "Nasdaq, S\u0026P 500 futures rise after Nvidia earnings",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/nasdaq-s-p-500-futures-rise-after-nvidia-earnings-14082960.html"
+                                         },
+                                         {
+                                             "title":  "Nvidia to declare Q3 results today, first since Huang\u0027s exit: Where to watch and what to expect",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/artificial-intelligence/nvidia-to-declare-q3-results-today-first-since-huang-s-exit-where-to-watch-and-what-to-expect-article-14082652.html"
+                                         },
+                                         {
+                                             "title":  "Sensex Today | Stock Market LIVE Updates: GIFT Nifty signals weak opening; US markets decline, Asian peers trade higher",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/stock-market-live-updates-nifty50-share-price-sensex-share-price-crude-fii-gift-nifty-rupee-latest-updates-18-11-2026-alpha-liveblog-14082953.html"
+                                         },
+                                         {
+                                             "title":  "Investors cut tech exposure by most since 2006, BofA survey shows",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/markets/global-markets/investors-cut-tech-exposure-by-most-since-2006-bofa-survey-shows-14082828.html"
+                                         },
+                                         {
+                                             "title":  "Traders pour cash into BlackRock\u0027s India ETF as AI rout deepens",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/traders-pour-cash-into-blackrocks-india-etf-as-ai-rout-deepens/articleshow/135909707.cms"
+                                         },
+                                         {
+                                             "title":  "Anthropic is said to guide IPO price to top of range or above",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/anthropic-is-said-to-guide-ipo-price-to-top-of-range-or-above-14082815.html"
+                                         },
+                                         {
+                                             "title":  "Crude oil may extend losses next week, Brent seen testing $90-92/barrel: Analysts",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/india/crude-oil-may-extend-losses-next-week-brent-seen-testing-90-92-barrel-analysts-14080618.html"
+                                         },
+                                         {
+                                             "title":  "Goldman sees Brent easing to $78 by December 2027 as oil market moves into surplus",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/goldman-sees-brent-easing-to-78-by-december-2027-as-oil-market-moves-into-surplus-14081550.html"
+                                         },
+                                         {
+                                             "title":  "US 10-Year Yield Set for Historic Run Above 5% on Fed Cycle",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/us-10-year-yield-set-for-historic-run-above-5-on-fed-cycle-11794948232494.html"
+                                         },
+                                         {
+                                             "title":  "Gold struggles to rebound from one-year low as US dollar, yields advance",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/gold-struggles-to-rebound-from-one-year-low-as-us-dollar-yields-advance-11794942964000.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Your money",
+                         "script":  "Now, your money. A useful tax ruling first. The Mumbai bench of the Income Tax Appellate Tribunal has ruled that your right to a flat you booked can be a capital asset, even without registration or possession. So if you surrender a booking before possession, it can attract capital gains tax.\n\nSome relief for loan guarantors. The High Court of Jammu and Kashmir and Ladakh ruled in favour of a retired employee whose bank was taking a defaulted borrower\u0027s loan instalments out of their pension.\n\nIf you are eyeing the Anthropic IPO from India, Chandni Anandan of ClearTax says most Indian brokers won\u0027t let retail investors apply directly. The route is to buy after the Nasdaq listing, through the Liberalised Remittance Scheme. Separately, there is speculation about possible Reserve Bank curbs on some transactions under that scheme, so watch for clarity.\n\nA few quick ones. Sukanya Samriddhi pays 8.2 percent for October to December. You can now check your provident fund balance and last five transactions on WhatsApp. Each of the four credit bureaus must give you one free full credit report a year, so it is worth checking for errors. And gold has eased, with 22-carat at 12,470 rupees a gram in Chennai on Tuesday, just as the wedding season begins.\n\nThat\u0027s your brief. Today, watch whether the Nifty can hold 25,200 after a weak start, how the Crystal Crop IPO fills up on day one, and how the IIFL Finance block deal goes. Also watch how IT stocks react to Nvidia\u0027s numbers. Have a good day.",
+                         "stories":  [
+                                         {
+                                             "title":  "Flat booking cancelled before possession? ITAT clarifies capital gains tax rules for property buyers and homebuyers",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/flat-booking-cancelled-before-possession-itat-clarifies-capital-gains-tax-rules-for-property-buyers-and-homebuyers-11794915202973.html"
+                                         },
+                                         {
+                                             "title":  "Guarantor loan liability: Can banks deduct EMIs from your pension account if borrower defaults? What High Court ruled",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/guarantor-loan-liability-can-banks-deduct-emis-from-your-pension-account-if-borrower-defaults-what-high-court-ruled-11794899485953.html"
+                                         },
+                                         {
+                                             "title":  "Anthropic IPO: Planning to invest from India? Check why IPO allotment may be difficult and what you can do instead",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/anthropic-ipo-planning-to-invest-from-india-check-why-ipo-allotment-may-be-difficult-and-what-you-can-do-instead-11794931790357.html"
+                                         },
+                                         {
+                                             "title":  "Liberalised Remittance Scheme: Should investors remit funds in one go or wait for clarity on RBI curbs? Check LRS rules",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/liberalised-remittance-scheme-should-investors-remit-funds-in-one-go-or-wait-for-clarity-on-rbi-curbs-11794917943930.html"
+                                         },
+                                         {
+                                             "title":  "Sukanya Samriddhi Yojana: How much can your daughter\u0027s account earn by investing ₹1,000, ₹5,000 or ₹12,500 every month?",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/sukanya-samriddhi-yojana-how-much-can-your-daughters-account-earn-by-investing-1-000-5-000-or-12-500-every-month-11794928030506.html"
+                                         },
+                                         {
+                                             "title":  "EPF balance check on WhatsApp: How to check your PF balance, view last 5 transactions and download passbook",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/epf-balance-check-on-whatsapp-how-to-check-your-pf-balance-view-last-5-transactions-and-download-passbook-11794909834046.html"
+                                         },
+                                         {
+                                             "title":  "How to get four free credit reports every year in India: Check your CIBIL score and credit history",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/how-to-get-four-free-credit-reports-every-year-in-india-check-your-cibil-score-and-credit-history-11794921506335.html"
+                                         },
+                                         {
+                                             "title":  "Gold, silver rate today Chennai, Coimbatore 17 November",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/gold-silver-rate-today-chennai-coimbatore-17-november-latest-prices-of-yellow-and-white-metal-in-tamil-nadu-cities-11794924097326.html"
+                                         }
+                                     ]
+                     }
+                 ]
+}
