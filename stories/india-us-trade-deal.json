@@ -2,10 +2,10 @@
     "slug":  "india-us-trade-deal",
     "title":  "The India–US trade deal",
     "started":  "2025-02-13",
-    "updatedAt":  "2026-11-15T11:20:00+05:30",
+    "updatedAt":  "2026-11-19T09:10:00+05:30",
     "status":  "active",
-    "summary":  "India and the United States began work on a Bilateral Trade Agreement in February 2025. The goal was to more than double two-way trade to 500 billion dollars by 2030. Talks soon ran into trouble. By late August 2025, American tariffs on most Indian goods had climbed to 50 percent, including a penalty over India\u0027s purchases of Russian oil.\n\nIn February 2026, the two sides agreed a framework for a first, interim deal. Washington cut its tariff on Indian goods to 18 percent and dropped the oil penalty. Weeks later, the US Supreme Court struck down the tariffs that the deal was built around, sending negotiators back to the table. In October 2026, Piyush Goyal said the first part was in legal drafting, while Marco Rubio and President Trump both called it close. In early November, a US team held talks in New Delhi on customs and trade facilitation, and Goyal said dairy and genetically modified imports stay shut. The Democrats then won both houses of Congress, but officials say the interim deal needs no approval from Congress and only a few issues are left, and the Global Trade Research Initiative thinks it could now be done within two months. On the twelfth of November, Goyal said India will get one of the best deals with the US, and former American diplomat Nisha Biswal says both sides want it done by the G20 Summit in Florida. On the thirteenth, it was reported that Washington has assured India of lower tariffs than its peers, with the first phase covering goods and services left for later. On the fourteenth, S Jaishankar said the bulk of the issues are sorted and the talks are at the finishing line, with most of what remains on the American side.",
-    "watch":  "The G20 Summit in Florida, about a month away, is now the target both sides are said to be working towards, with a possible Modi and Trump meeting on the sidelines. The open questions are a signing date, the exact tariff rate India gets compared with rivals like Vietnam, access for American dairy, and the outcome of the American Section 301 probe into forced labour, on which the final tariff framework is said to hinge. Watch for any call between President Trump and Prime Minister Modi.",
+    "summary":  "India and the United States began work on a Bilateral Trade Agreement in February 2025. The goal was to more than double two-way trade to 500 billion dollars by 2030. Talks soon ran into trouble. By late August 2025, American tariffs on most Indian goods had climbed to 50 percent, including a penalty over India\u0027s purchases of Russian oil.\n\nIn February 2026, the two sides agreed a framework for a first, interim deal. Washington cut its tariff on Indian goods to 18 percent and dropped the oil penalty. Weeks later, the US Supreme Court struck down the tariffs that the deal was built around, sending negotiators back to the table. In October 2026, Piyush Goyal said the first part was in legal drafting, while Marco Rubio and President Trump both called it close. In early November, a US team held talks in New Delhi on customs and trade facilitation, and Goyal said dairy and genetically modified imports stay shut. The Democrats then won both houses of Congress, but officials say the interim deal needs no approval from Congress and only a few issues are left, and the Global Trade Research Initiative thinks it could now be done within two months. On the twelfth of November, Goyal said India will get one of the best deals with the US, and former American diplomat Nisha Biswal says both sides want it done by the G20 Summit in Florida. On the thirteenth, it was reported that Washington has assured India of lower tariffs than its peers, with the first phase covering goods and services left for later. On the fourteenth, S Jaishankar said the bulk of the issues are sorted and the talks are at the finishing line, with most of what remains on the American side. On the eighteenth, Commerce Secretary Rajesh Agrawal said the legal texts are almost final, but the signing must wait until Washington settles its new tariff rules and its Section 301 investigations.",
+    "watch":  "The G20 Summit in Florida, now under a month away, is the target both sides are said to be working towards, with a possible Modi and Trump meeting on the sidelines. With the legal texts almost done, the real question is timing: India says signing waits on Washington\u0027s new tariff framework and its Section 301 probes. Also watch the exact tariff rate India gets compared with rivals like Vietnam, and any call between the two leaders.",
     "timeline":  [
                      {
                          "date":  "2025-02-13",
@@ -360,12 +360,12 @@
                          "text":  "On Thursday, the twelfth of November, Commerce Minister Piyush Goyal told reporters India will have one of the best trade deals with the US in every respect. He said India had negotiated a very good set of outcomes. He added that the framework for the first phase was done in February, but changes in American tariffs have meant more negotiation since.",
                          "sources":  [
                                          {
-                                             "title":  "India to have one of the 'best' trade deals with the US: Piyush Goyal",
+                                             "title":  "India to have one of the \u0027best\u0027 trade deals with the US: Piyush Goyal",
                                              "source":  "Business Standard",
                                              "link":  "https://www.business-standard.com/economy/news/india-to-have-one-of-the-best-trade-deals-with-the-us-piyush-goyal-126111201505_1.html"
                                          },
                                          {
-                                             "title":  "India will have one of the 'best' trade deals with the US: Commerce Minister Piyush Goyal",
+                                             "title":  "India will have one of the \u0027best\u0027 trade deals with the US: Commerce Minister Piyush Goyal",
                                              "source":  "Economic Times",
                                              "link":  "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-will-have-one-of-the-best-trade-deals-with-the-us-comerce-minister-piyush-goyal/articleshow/135771504.cms"
                                          }
@@ -396,7 +396,7 @@
                      {
                          "date":  "2026-11-14",
                          "title":  "Jaishankar says the deal is at the finishing line",
-                         "text":  "On Saturday, the fourteenth of November, External Affairs Minister S Jaishankar said India and the US have sorted out the bulk of the issues and the deal could be sealed soon. Speaking at the HT Leadership Summit, he said talks are approaching the finishing line, and that many of the remaining issues are not so much at India's end, with more changes happening on the American side. His remarks came a month before Prime Minister Modi's likely visit to the US for the G20 Summit, where he may meet President Trump.",
+                         "text":  "On Saturday, the fourteenth of November, External Affairs Minister S Jaishankar said India and the US have sorted out the bulk of the issues and the deal could be sealed soon. Speaking at the HT Leadership Summit, he said talks are approaching the finishing line, and that many of the remaining issues are not so much at India\u0027s end, with more changes happening on the American side. His remarks came a month before Prime Minister Modi\u0027s likely visit to the US for the G20 Summit, where he may meet President Trump.",
                          "sources":  [
                                          {
                                              "title":  "India-US trade deal nearing finish line, may be sealed soon: Jaishankar",
@@ -407,6 +407,23 @@
                                              "title":  "India, US have resolved bulk of trade deal issues, pact could be sealed soon: Jaishankar",
                                              "source":  "Economic Times",
                                              "link":  "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-us-have-resolved-bulk-of-trade-deal-issues-pact-could-be-sealed-soon-jaishankar/articleshow/135829335.cms"
+                                         }
+                                     ]
+                     },
+                     {
+                         "date":  "2026-11-18",
+                         "title":  "Legal texts almost final, signing must wait",
+                         "text":  "On Wednesday, the eighteenth of November, Commerce Secretary Rajesh Agrawal said the talks are nearing completion and the legal texts are almost finalised. He said the signing, though, may take time. It depends on Washington settling its new tariff rules and on the outcome of the ongoing American Section 301 investigations.",
+                         "sources":  [
+                                         {
+                                             "title":  "India, US close to finalising trade deal talks, signing may take time",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-us-close-to-finalising-trade-deal-talks-signing-may-take-time/articleshow/135962149.cms"
+                                         },
+                                         {
+                                             "title":  "Trade deal signing after US finalises tariff architecture: Commerce secy",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/india-us-trade-deal-signing-to-await-washington-s-new-tariff-architecture-126111801141_1.html"
                                          }
                                      ]
                      }
