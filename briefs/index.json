@@ -1,6 +1,11 @@
 {
     "briefs":  [
                    {
+                       "date":  "2026-11-19",
+                       "edition":  "Morning",
+                       "headline":  "Record foreign buying meets a hawkish Fed; Mahanadi Coalfields IPO opens"
+                   },
+                   {
                        "date":  "2026-11-18",
                        "edition":  "Morning",
                        "headline":  "Nifty back at pre-war highs on record foreign buying; Nvidia beats"
@@ -64,11 +69,6 @@
                        "date":  "2026-11-06",
                        "edition":  "Morning",
                        "headline":  "Wall Street\u0027s AI rout tests India\u0027s six-day rally on Dhanteras"
-                   },
-                   {
-                       "date":  "2026-11-05",
-                       "edition":  "Morning",
-                       "headline":  "Democrats sweep Congress, oil slides, and Nifty eyes a gap-up start"
                    }
                ]
 }
