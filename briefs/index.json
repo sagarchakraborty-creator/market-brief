@@ -1,6 +1,11 @@
 {
     "briefs":  [
                    {
+                       "date":  "2026-11-20",
+                       "edition":  "Morning",
+                       "headline":  "Nifty at nine-month high meets a global AI sell-off; gap-down open signalled"
+                   },
+                   {
                        "date":  "2026-11-19",
                        "edition":  "Morning",
                        "headline":  "Record foreign buying meets a hawkish Fed; Mahanadi Coalfields IPO opens"
@@ -64,11 +69,6 @@
                        "date":  "2026-11-07",
                        "edition":  "Morning",
                        "headline":  "Best week in six years for Sensex and Nifty as Samvat 2082 bows out"
-                   },
-                   {
-                       "date":  "2026-11-06",
-                       "edition":  "Morning",
-                       "headline":  "Wall Street\u0027s AI rout tests India\u0027s six-day rally on Dhanteras"
                    }
                ]
 }
