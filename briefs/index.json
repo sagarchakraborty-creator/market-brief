@@ -1,6 +1,11 @@
 {
     "briefs":  [
                    {
+                       "date":  "2026-11-21",
+                       "edition":  "Morning",
+                       "headline":  "India shrugs off Wall Street\u0027s AI rout as Bank Nifty hits a record"
+                   },
+                   {
                        "date":  "2026-11-20",
                        "edition":  "Morning",
                        "headline":  "Nifty at nine-month high meets a global AI sell-off; gap-down open signalled"
@@ -64,11 +69,6 @@
                        "date":  "2026-11-08",
                        "edition":  "Morning",
                        "headline":  "Muhurat trading opens Samvat 2083 after the best week since 2021"
-                   },
-                   {
-                       "date":  "2026-11-07",
-                       "edition":  "Morning",
-                       "headline":  "Best week in six years for Sensex and Nifty as Samvat 2082 bows out"
                    }
                ]
 }

@@ -1,0 +1,350 @@
+{
+    "date":  "2026-11-21",
+    "edition":  "Morning",
+    "generatedAt":  "2026-11-21T08:58:00+05:30",
+    "headline":  "India shrugs off Wall Street\u0027s AI rout as Bank Nifty hits a record",
+    "segments":  [
+                     {
+                         "title":  "The big picture",
+                         "script":  "Good morning. It\u0027s Saturday, the twenty-first of November, and this is your Market Brief.\n\nThree things matter most this weekend. First, India has broken away from a global sell-off. While Wall Street had its worst week since the pandemic on fears about artificial intelligence spending, the Sensex and Nifty closed Friday near nine-month highs, and Bank Nifty hit a fresh record.\n\nSecond, the rupee is heading for its best month in eight years. It crossed below 93 to the dollar on Friday, helped by foreign inflows and cheaper oil.\n\nAnd third, a Reuters poll says the Reserve Bank is expected to raise interest rates in December, as inflation breaches its tolerance limit of 6 percent.",
+                         "stories":  [
+                                         {
+                                             "title":  "Sensex, Nifty inching towards all-time high: India decouples from global rout, only major market in the green",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/sensex-nifty-inching-towards-all-time-high-india-decouples-from-global-rout-only-major-market-in-the-green-14085693.html"
+                                         },
+                                         {
+                                             "title":  "Rupee looks set for best monthly gains in 8 years; bond yields soften",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/rupee-set-for-best-monthly-gain-in-8-years-on-strong-foreign-fund-inflows-126112001061_1.html"
+                                         },
+                                         {
+                                             "title":  "RBI expected to raise rates in December, deliver final hike in February: Report",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/policy/rbi-expected-to-raise-rates-in-december-deliver-final-hike-in-february-report/articleshow/136021515.cms"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "How markets closed",
+                         "script":  "Let\u0027s start with how markets closed. The Sensex rose 1.08 percent on Friday to end at 83,919. The Nifty gained 1.12 percent to 25,800. It was a second straight day of gains, and a fourth straight weekly gain. For the week, the Sensex added 2.85 percent and the Nifty 2.61 percent. Over two days, the Sensex climbed close to 1,900 points.\n\nBanks led the charge. Bank Nifty topped 64,000 for the first time and touched a record of around 64,600, up 2.5 percent on the day. IndusInd Bank jumped around 8 percent, near its 52-week high, after returning to quarterly profit. HDFC Bank hit an eight-month high and regained a market value of 13 lakh crore rupees. It is up 22 percent in November alone. State-run lenders such as SBI, Punjab National Bank and Canara Bank have rallied by up to 27 percent this month.\n\nHospitals were the other bright spot, with Apollo Hospitals and Max Healthcare the top Nifty gainers. Textile stocks hit a new high, with Indo Count and Welspun Living up as much as 8 percent. On the other side, Titan, Tata Steel and NTPC were the biggest losers, and metal and consumer durable stocks stayed under pressure. Vedanta fell over 3 percent after Citi cut its target price, citing weak zinc demand. Stocks linked to artificial intelligence, such as E2E Networks and Hitachi Energy India, fell up to 5 percent.\n\nVolatility rose too, with India VIX up around 9 percent to above 17. Analysts told Business Standard that foreign institutional investors are buying so steadily that the bulls remain in control.\n\nThe levels to watch. Market experts expect the Nifty to head towards 26,000 next week. A move above that brings the record high of 26,373, from the fifth of January, into view. For Bank Nifty, one analyst sees support at 63,500 and resistance around 65,000.",
+                         "stories":  [
+                                         {
+                                             "title":  "Markets gain 2.6% on FPI inflows, rupee rally and cooling crude oil prices",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/markets-gain-2-6-on-fpi-inflows-rupee-rally-and-cooling-crude-oil-prices-126112000973_1.html"
+                                         },
+                                         {
+                                             "title":  "Live: Bank Nifty tops 64,000 for the 1st time; Nifty, Sensex surges 2% this week | Closing Bell",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/videos/business/earnings/live-bank-nifty-tops-64-000-for-the-1st-time-nifty-sensex-surges-2-this-week-closing-bell-14085681.html"
+                                         },
+                                         {
+                                             "title":  "Sensex zooms 1890 pts in 2 days; 5 key reasons",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/sensex-zooms-1790-pts-in-2-days-nifty-above-25-700-investors-wealth-grows-6-9-trn-5-factors-126112000541_1.html"
+                                         },
+                                         {
+                                             "title":  "Bank Nifty surges 2.5% to hit all-time high of 64,600; IndusInd, Axis Bank lead gains",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/bank-nifty-surges-2-5-to-hit-all-time-high-of-64-600-indusind-axis-bank-lead-gains-check-key-trading-levels-14085758.html"
+                                         },
+                                         {
+                                             "title":  "IndusInd Bank shares jump 8% on volume surge, near 52-week high",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/indusind-bank-shares-jump-8-on-volume-surge-near-52-week-high-126112000682_1.html"
+                                         },
+                                         {
+                                             "title":  "HDFC Bank shares recover 22% in Nov, adds 2.38 lakh crore in market value",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/hdfc-bank-shares-recover-22-in-nov-adds-rs-2-38-lakh-crore-in-market-value-whats-fuelling-the-rebound-11795182150085.html"
+                                         },
+                                         {
+                                             "title":  "SBI, PNB, 3 other PSBs zoom up to 27% in Nov; here\u0027s what tech analysts say",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/sbi-pnb-3-other-psu-bank-stocks-rally-up-to-27-in-nov-here-s-what-tech-analysts-say-126112000334_1.html"
+                                         },
+                                         {
+                                             "title":  "Textiles shares hit new high; Indo Count, Welspun Living rally up to 8%",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/textiles-shares-hit-new-high-indo-count-welspun-living-rally-up-to-8-126112000642_1.html"
+                                         },
+                                         {
+                                             "title":  "Vedanta shares fall over 3%, lead Nifty 100 losses as Citi cuts target price",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/vedanta-shares-fall-over-3-lead-nifty-100-losses-as-citi-cuts-target-price-flags-zinc-demand-concerns-14085594.html"
+                                         },
+                                         {
+                                             "title":  "E2E Networks, Hitachi Energy India, other AI-related stocks fall up to 5%",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/e2e-networks-hitachi-energy-india-other-ai-related-stocks-fall-up-to-5-as-ai-concerns-overshadow-anthropic-debut-14085629.html"
+                                         },
+                                         {
+                                             "title":  "India VIX up 9%, tops 17-mark; analysts say FII flows keep bulls in control",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/india-vix-up-9-tops-17-mark-analysts-say-fii-flows-keep-bulls-in-control-126112000547_1.html"
+                                         },
+                                         {
+                                             "title":  "Technical View: Bulls charge towards 26,000 on Nifty 50 after decisive breakout",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/technical-view-bulls-charge-towards-26-000-on-nifty-50-after-decisive-breakout-bank-nifty-eyes-65-000-next-week-as-record-rally-continues-14085729.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "IPOs and deals",
+                         "script":  "Now to IPOs and deals. The big story is Anthropic, the maker of the Claude chatbot, which listed on Nasdaq on Thursday after a record IPO of 93.5 billion dollars. Priced at 83 dollars, the shares closed 17 percent higher on day one. But on Friday they fell around 9 to 10 percent, nearly erasing the debut gain as the AI trade unravelled. Indian investors piled in. On debut day, Anthropic made up 40 percent of international investments on INDmoney and 11 percent of traded value on Vested.\n\nCloser home, SEBI has cleared IPOs from Pristine Logistics and Infraprojects, and from Arohan Financial Services. NSE shares hit a record of 2,251 rupees, about 25 percent above their September IPO price. That makes NSE the world\u0027s fifth-largest listed exchange operator, ahead of Nasdaq and Hong Kong Exchanges. JM Financial sees NSE as a strong candidate for the MSCI India index, with a decision expected in February.\n\nIn stake sales, TPG-backed Newquest sold Shadowfax shares worth 115 crore rupees, cutting its holding to around 6 percent. And one index change for your calendar: Shriram Finance will replace Trent in the Sensex from the twenty-first of December.",
+                         "stories":  [
+                                         {
+                                             "title":  "Anthropic shares tumble after record IPO as AI trade faces reality check",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/anthropic-shares-tumble-after-record-ipo-as-ai-trade-faces-reality-check-126112001268_1.html"
+                                         },
+                                         {
+                                             "title":  "Anthropic shares close 17% higher on first day of trading amid protest, arrests outside Nasdaq",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/anthropic-shares-close-17-higher-on-first-day-of-trading-amid-protest-arrests-outside-nasdaq/videoshow/136013757.cms"
+                                         },
+                                         {
+                                             "title":  "Anthropic share slump nearly erases IPO pop as AI trade unravels",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/anthropic-share-slump-nearly-erases-ipo-pop-as-ai-trade-unravels-14085850.html"
+                                         },
+                                         {
+                                             "title":  "Anthropic becomes one of the most-traded US stocks on Indian platforms on debut",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/technology/anthropic-becomes-one-of-the-most-traded-us-stocks-on-indian-platforms-on-debut-article-14085620.html"
+                                         },
+                                         {
+                                             "title":  "Pristine Logistics, Arohan Financial Services get SEBI nod to launch IPOs",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/ipo/pristine-logistics-arohan-financial-services-get-sebi-nod-to-launch-ipos-14085798.html"
+                                         },
+                                         {
+                                             "title":  "NSE becomes world\u0027s fifth-largest listed exchange operator by market cap, overtakes Nasdaq, Hong Kong Exchange",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/nse-becomes-world-s-fifth-largest-listed-exchange-operator-by-market-cap-overtakes-nasdaq-and-hkex-14085680.html"
+                                         },
+                                         {
+                                             "title":  "NSE shares jump 3% to fresh high; JM Financial sees MSCI entry in March",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/nse-shares-jump-3-to-fresh-high-jm-financial-sees-msci-entry-in-march-126112000339_1.html"
+                                         },
+                                         {
+                                             "title":  "TPG-backed Newquest sells Rs 115-crore Shadowfax stake; Gallantt Ispat promoter offloads 0.66%",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/tpg-backed-newquest-sells-rs-115-crore-shadowfax-stake-gallantt-ispat-promoter-offloads-0-66-14085871.html"
+                                         },
+                                         {
+                                             "title":  "BSE Sensex rejig: Shriram Finance to replace Trent",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/bse-sensex-rejig-shriram-finance-to-replace-trent-which-stocks-are-entering-and-exiting-other-bse-indices-check-full-11795179927182.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Results roundup",
+                         "script":  "A short results roundup. IndusInd Bank\u0027s September quarter showed a return to profit, stronger core income and better asset quality, though its margins narrowed. Across state-run banks, net profit hit a record 1.09 lakh crore rupees in the first half of this financial year, and their capital adequacy improved to 16.89 percent. In cement, a Moneycontrol analysis shows profit per tonne has dropped to its lowest level since early 2025, with companies raising prices to offset higher costs.",
+                         "stories":  [
+                                         {
+                                             "title":  "Bull run gathers pace! IndusInd Bank shares surge 8.5%, head for best week in over a year",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/bull-run-gathers-pace-indusind-bank-shares-surge-8-5-head-for-best-week-in-over-a-year-should-investors-still-buy-11795162715431.html"
+                                         },
+                                         {
+                                             "title":  "Public sector banks record highest-ever net profit of Rs 1.09 lakh crore in H1 FY27",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/banks/public-sector-banks-record-highest-ever-net-profit-of-rs-1-09-lakh-crore-in-h1-fy27-14083748.html"
+                                         },
+                                         {
+                                             "title":  "Chart of the Day | Cement makers\u0027 profit per tonne cracks to lowest level since early CY25",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/opinion/chart-of-the-day-cement-makers-profit-per-tonne-cracks-to-lowest-level-since-early-cy25-14085330.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Economy and policy",
+                         "script":  "Now to the economy and policy. A Reuters poll shows economists expect the Reserve Bank to raise the repo rate by a quarter point to 5.75 percent in December, and to 6 percent in February. Higher energy costs and an uneven monsoon are pushing prices up.\n\nThe rupee touched 92.91 to the dollar on Friday, a seven-month high. That\u0027s a gain of about 40 paise on the day and over a rupee this week, making it the best performing Asian currency in November. Chief Economic Adviser V Anantha Nageswaran said India may have to manage rupee strength, not weakness, next financial year, with several agencies expecting Brent crude below 80 dollars. Forex reserves, though, fell 14.21 billion dollars to 705.34 billion in the week to the thirteenth of November, mainly because of revaluation.\n\nCore sector output grew 10.9 percent in October, a 31-month high, led by coal, electricity, iron ore and cement. On the farm side, the area under wheat is set for its steepest fall in 26 years, as farmers switch to chickpeas and rapeseed after weak rains.\n\nSEBI was busy. It proposed scrapping the extra ownership disclosures for certain foreign portfolio investors, calling them out of step with global practice, and wants onboarding done in five business days. It also proposed an overall 12-year tenure cap for managing directors of exchanges and clearing corporations, and a lower age limit of 70 for public interest directors. Comments are due by the eleventh of December. Regulators are also studying dual-class shares for listings in India and GIFT City.\n\nOn tax, the Mumbai bench of the Income Tax Appellate Tribunal stayed a demand of 8,520 crore rupees on the Singapore government, over gains made through its fund GIC. And Finance Minister Nirmala Sitharaman held her eighth and ninth pre-Budget meetings, with labour, housing and urban development stakeholders. The Budget is due on the first of February. Among the wish lists, the brokers\u0027 body ANMI wants securities transaction tax scrapped on delivery trades.",
+                         "stories":  [
+                                         {
+                                             "title":  "RBI expected to raise rates in December, deliver final hike in February: Report",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/policy/rbi-expected-to-raise-rates-in-december-deliver-final-hike-in-february-report/articleshow/136021515.cms"
+                                         },
+                                         {
+                                             "title":  "Rupee rises past 93/USD, hits 7-month high on FPI inflows, softer oil",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/rupee-rises-past-93-usd-hits-7-month-high-on-fpi-inflows-softer-oil-126112000354_1.html"
+                                         },
+                                         {
+                                             "title":  "India may have to manage rupee strength, not weakness in FY28: CEA",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/india-may-have-to-manage-rupee-strength-not-weakness-in-fy28-cea-14083884.html"
+                                         },
+                                         {
+                                             "title":  "India\u0027s forex reserves fall $14.21 bn to $705.34 bn on revaluation",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/india-s-forex-reserves-fall-14-21-bn-to-705-34-bn-on-revaluation-126112001283_1.html"
+                                         },
+                                         {
+                                             "title":  "India\u0027s core sector growth hit 31-month high of 10.9% in October",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/core-sectors-growth-rises-to-10-9-in-oct-coal-iron-ore-key-drivers-126112000852_1.html"
+                                         },
+                                         {
+                                             "title":  "India\u0027s wheat area set for steepest decline in 26 years as farmers switch crops",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/agriculture/indias-wheat-area-set-for-steepest-decline-in-26-years-as-farmers-switch-crops/articleshow/136015985.cms"
+                                         },
+                                         {
+                                             "title":  "Sebi proposes easing disclosure rules for foreign funds",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/sebi-proposes-easing-disclosure-rules-for-foreign-funds-11795183389431.html"
+                                         },
+                                         {
+                                             "title":  "Sebi plans consultation paper to remove FPI constraints absent in other markets",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/sebi-plans-consultation-paper-to-remove-fpi-constraints-absent-in-other-markets/articleshow/136020808.cms"
+                                         },
+                                         {
+                                             "title":  "Sebi plans tighter tenure caps for exchange MDs, public interest directors",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/sebi-plans-tighter-tenure-caps-for-exchange-mds-public-interest-directors-126112001247_1.html"
+                                         },
+                                         {
+                                             "title":  "Sebi proposes limiting tenure of chief executives, independent directors at exchanges",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-limiting-tenure-of-chief-executives-independent-directors-at-exchanges/articleshow/136031465.cms"
+                                         },
+                                         {
+                                             "title":  "Indian finance hub eyes dual share model to kickstart public offers: Report",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/indian-finance-hub-eyes-dual-share-model-to-kickstart-public-offers-report/articleshow/136017941.cms"
+                                         },
+                                         {
+                                             "title":  "ITAT Mumbai stays 8,520-crore tax demand on Singapore government",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/itat-mumbai-stays-8-520-crore-tax-demand-on-singapore-govt-over-gains-126112000943_1.html"
+                                         },
+                                         {
+                                             "title":  "FM Sitharaman holds eighth pre-Budget consultation with labour, employment sector stakeholders",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/policy/fm-sitharaman-holds-eighth-pre-budget-consultation-with-labour-employment-sector-stakeholders/articleshow/136018379.cms"
+                                         },
+                                         {
+                                             "title":  "Nirmala Sitharaman chairs ninth pre-Budget consultation with housing, urbanisation and culture stakeholders",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/policy/nirmala-sitharaman-chairs-ninth-pre-budget-consultation-with-housing-urbanisation-and-culture-stakeholders/articleshow/136033324.cms"
+                                         },
+                                         {
+                                             "title":  "Budget 2027: ANMI seeks scrapping of STT on delivery trades, exemption from LTCG tax",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/budget-2027-anmi-seeks-scrapping-of-stt-on-delivery-trades-exemption-from-ltcg-tax-14085654.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Around the world",
+                         "script":  "Around the world, it was a rough week on Wall Street. The Nasdaq 100 lost 5.6 percent and posted its worst week since March 2020. The S\u0026P 500 fell for a seventh straight day, its longest losing streak since 2020, and slipped below its 200-day average. US markets lost about 6 trillion dollars in value in a week. Nvidia sank 14 percent after Reuters reported US regulators are looking into its accounting. AMD fell 7.7 percent after a short seller alleged China supply links, which AMD rejected. A hawkish Federal Reserve, signalling more rate hikes, added to the pressure.\n\nOil is heading for a third straight weekly fall, as shipments through the Strait of Hormuz recover. Mirae Asset Sharekhan sees Brent at 75 to 85 dollars next year. Gold had its worst week since March. And Bitcoin is near 61,000 dollars, down about a fifth since the end of October.",
+                         "stories":  [
+                                         {
+                                             "title":  "Nasdaq 100 sinks 5.6% in worst week since Covid, S\u0026P 500 corrects as investors sell off AI, tech stocks",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/us-stock-markets-nasdaq-100-5-6-pc-worst-week-since-covid-2020-s-p-500-3-7-pc-correction-investors-sell-off-ai-tech-11795223650589.html"
+                                         },
+                                         {
+                                             "title":  "US markets lose $6 trillion in a week as S\u0026P 500 suffers longest losing streak since 2020",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/us-markets-lose-6-trillion-in-a-week-as-s-p-500-suffers-longest-losing-streak-since-2020-14085922.html"
+                                         },
+                                         {
+                                             "title":  "After Nvidia, AMD now alleged to have China supply links; short seller flags ties, stock plunges 7.7%",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/stocks/after-nvidia-amd-now-alleged-to-have-china-supply-links-short-seller-flags-ties-stock-plunges-7-7-14085651.html"
+                                         },
+                                         {
+                                             "title":  "SoftBank shares crash 14.5%, biggest 1-day fall in 2 years",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/softbank-shares-crash-14-5-biggest-1-day-fall-in-2-years-why-anthropics-strong-ipo-debut-failed-to-revive-ai-trade-11795173623939.html"
+                                         },
+                                         {
+                                             "title":  "Oil prices set for 3rd straight week of decline on West Asia export flows",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/oil-prices-set-for-3rd-straight-week-of-decline-on-west-asia-export-flows-126112001415_1.html"
+                                         },
+                                         {
+                                             "title":  "Brent seen at $75-85 in 2027 as oil surplus builds: Mirae Asset Sharekhan",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/brent-seen-at-75-85-in-2027-as-oil-surplus-builds-mirae-asset-sharekhan-126112000518_1.html"
+                                         },
+                                         {
+                                             "title":  "Gold Logs Worst Week Since March on Hawkish Fed, AI Selloff",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/gold-logs-worst-week-since-march-on-hawkish-fed-ai-selloff-11795214360197.html"
+                                         },
+                                         {
+                                             "title":  "Bitcoin nears USD 60,000: What traders should watch, according to WazirX",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/content/press-releases-ani/bitcoin-nears-usd-60-000-what-traders-should-watch-according-to-wazirx-126112000892_1.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Your money",
+                         "script":  "Now to your money. The Income Tax Department has issued FAQs on FAST-DS, the one-time scheme to disclose foreign assets, which closes on the thirty-first of December. If you hold a foreign bank account with up to 20 lakh rupees from disclosed sources, you don\u0027t need to file a declaration. Joint holders must disclose separately. The FAQs also cover a fee of 1 lakh rupees for one category, a 20 percent tolerance on property valuation, and immunity for partial disclosures.\n\nTwo tribunal rulings are worth noting. The Hyderabad bench deleted an addition of about 16 lakh rupees, after a taxpayer relied on CBDT limits for family jewellery found during a search. And the Jaipur bench rejected a capital loss of 20.67 lakh rupees on the sale of a Mercedes, ruling that a personally used car is not a capital asset, even if it is shown in the balance sheet.\n\nOn gold, the jewellers\u0027 body GJC has alerted the Bureau of Indian Standards about reports of rhenium and iridium alloys being used to add weight without adding purity. It says there is no reason to panic, but urges buyers to report suspected adulteration. Gold futures fell 4 percent on Friday to around one lakh twenty-three thousand rupees per 10 grams, and silver dropped 6 percent.\n\nOne more warning. SBI has alerted pensioners to fake messages asking them to update their pension payment order. Don\u0027t click such links or share your details. And the Reserve Bank has clarified which service exporters must file the export declaration form under the new foreign exchange rules.\n\nThat\u0027s the week. Markets are shut for the weekend. Next week, watch whether the Nifty can clear 26,000, how Wall Street handles the AI sell-off, and US growth and jobs data, along with manufacturing numbers from major economies. Two dates for your calendar: the eleventh of December for SEBI\u0027s consultations, and the thirty-first for the FAST-DS deadline. Have a lovely weekend.",
+                         "stories":  [
+                                         {
+                                             "title":  "Income tax department releases FAST-DS FAQs: Rules for NRIs, foreign bank accounts and overseas property clarified",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/income-tax-department-releases-fast-ds-faqs-rules-for-nris-foreign-bank-accounts-and-overseas-property-clarified-11795169778284.html"
+                                         },
+                                         {
+                                             "title":  "No FAST-DS declaration needed for foreign bank a/c up to Rs 20 lakh with disclosed funds: I-T dept",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/policy/income-tax-department-no-fast-ds-declaration-required-for-foreign-bank-accounts-under-rs-20-lakh-with-disclosed-funds/articleshow/136028599.cms"
+                                         },
+                                         {
+                                             "title":  "Joint holders must disclose foreign bank accounts separately: I-T Dept",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/joint-holders-must-disclose-foreign-bank-accounts-separately-i-t-dept-126112001207_1.html"
+                                         },
+                                         {
+                                             "title":  "How much gold jewellery can you keep at home? ITAT ruling explains CBDT limits during income-tax searches",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/how-much-gold-jewellery-can-you-keep-at-home-itat-ruling-explains-cbdt-limits-during-income-tax-searches-11795191596907.html"
+                                         },
+                                         {
+                                             "title":  "Can you claim capital loss on a car sale? ITAT rejects 20.67 lakh claim, says personal cars are not capital assets",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/can-you-claim-capital-loss-on-a-car-sale-itat-rejects-20-67-lakh-claim-says-personal-cars-are-not-capital-assets-11795174869250.html"
+                                         },
+                                         {
+                                             "title":  "Industry body GJC alerts BIS over gold adulteration using Rhenium, Iridium",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/commodities/industry-body-gjc-alerts-bis-over-gold-adulteration-using-rhenium-iridium-126112000985_1.html"
+                                         },
+                                         {
+                                             "title":  "Gold, silver prices fall amid stronger dollar, hawkish Fed signals",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/commodities/gold-silver-prices-fall-amid-stronger-dollar-hawkish-fed-signals-126112000502_1.html"
+                                         },
+                                         {
+                                             "title":  "SBI alerts pensioners to fake PPO update messages",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/sbi-alerts-pensioners-to-fake-ppo-update-messages-warns-against-clicking-suspicious-links-and-sharing-personal-details-11795160041500.html"
+                                         },
+                                         {
+                                             "title":  "RBI clarifies new FEMA rules: Who needs to file export declaration form with bank?",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/rbi-clarifies-new-fema-rules-who-needs-to-file-export-declaration-form-with-bank-check-faqs-on-exemptions-thresholds-11795220937310.html"
+                                         },
+                                         {
+                                             "title":  "Business in the Week Ahead (November 23 – 27, 2026)",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/business-in-the-week-ahead-november-23-27-2026-14085589.html"
+                                         }
+                                     ]
+                     }
+                 ]
+}
