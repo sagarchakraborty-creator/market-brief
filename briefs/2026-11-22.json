@@ -1,0 +1,315 @@
+{
+    "date":  "2026-11-22",
+    "edition":  "Morning",
+    "generatedAt":  "2026-11-22T08:40:00+05:30",
+    "headline":  "Wall Street\u0027s AI rout deepens as Indian banks ride to record highs",
+    "segments":  [
+                     {
+                         "title":  "The big picture",
+                         "script":  "Good morning. It\u0027s Sunday, the twenty-second of November, and this is your Market Brief.\n\nThree things matter most this weekend. First, the AI sell-off on Wall Street turned into a rout. The Nasdaq 100 had its worst week since March 2020, and American markets lost around six trillion dollars of value in five days.\n\nSecond, India is moving the other way. The Nifty and the Sensex stretched their winning run to four sessions, and Bank Nifty climbed to a fresh all-time high.\n\nAnd third, gold. The metal fell to a fourteen-month low on Friday, down nearly 10 percent in a single week. If you bought jewellery or coins this Diwali, we\u0027ll come to what that means in a moment.",
+                         "stories":  [
+                                         {
+                                             "title":  "US markets lose $6 trillion in a week as S\u0026P 500 suffers longest losing streak since 2020",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/us-markets-lose-6-trillion-in-a-week-as-s-p-500-suffers-longest-losing-streak-since-2020-14085922.html"
+                                         },
+                                         {
+                                             "title":  "Upcoming dividend, split, rights issue record dates next week, Nov 23-27: Pashupati Cotspin, Zee Ent, Varvee, and more",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/upcoming-dividend-split-rights-issue-record-dates-next-week-nov-23-27-pashupati-cotspin-zee-ent-varvee-and-more-11795245232145.html"
+                                         },
+                                         {
+                                             "title":  "Gold rate today in India at 14-month low; will it hit ₹1 lakh? Experts list out 3 reasons for gold price drop in 2026",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/commodities/gold-rate-today-in-india-at-14-month-low-will-it-hit-rs-1-lakh-experts-list-out-3-reasons-for-gold-price-drop-in-2026-11795283484060.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "How markets closed",
+                         "script":  "Let\u0027s start at home. The exact closing points weren\u0027t in this morning\u0027s reports, but the shape of the week is clear. The Nifty and the Sensex closed higher for a fourth straight session on Friday, and banks did the heavy lifting.\n\nBank Nifty jumped two and a half percent to an all-time high of around 64,600, with IndusInd Bank and Axis Bank leading. Livemint reports the banking index is up around 16 percent so far this month, with both public sector and private banks joining in. Brokerages point to healthy credit demand and strong lending pipelines.\n\nHospital stocks also had a good week, rising as much as 14 percent over five sessions. Apollo, Fortis, Max Healthcare and Aster all gained on Friday. On the other side, metal stocks such as Hindalco, NALCO, Vedanta Aluminium and Hindustan Zinc came under pressure as base metal prices fell.\n\nNow to the money flows. Fund managers think foreign investors are turning friendlier. Raghvendra Nath of Ladderup Asset Managers expects foreign money to keep coming into Indian shares as long as the AI trade stays volatile. P Krishnan of Spark Investment Management is more measured. He says the buying is no big shift towards India, but the worst of foreign selling is over. And Jefferies strategist Christopher Wood has raised India\u0027s weight in his Asia portfolio to 15 percent, his second increase in three weeks, taking the money from Taiwan.\n\nOn Indian IT, Rajeev Thakkar of PPFAS Mutual Fund argues the market has overstated the threat from AI, saying four years is enough time for these companies to adapt.\n\nThe levels to watch. Technical analysts expect the Nifty to head for the 26,000 mark next week. A decisive move above it could bring a test of the record high of 26,373 from the fifth of January. For Bank Nifty, analysts see support at 63,500 and then 63,000, with resistance between 65,000 and 65,700.",
+                         "stories":  [
+                                         {
+                                             "title":  "Bank Nifty surges 2.5% to hit all-time high of 64,600; IndusInd, Axis Bank lead gains: Check key trading levels",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/bank-nifty-surges-2-5-to-hit-all-time-high-of-64-600-indusind-axis-bank-lead-gains-check-key-trading-levels-14085758.html"
+                                         },
+                                         {
+                                             "title":  "PSU vs Private banks: Who is powering Nifty Bank\u0027s record-high rally after 5% surge?",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/psu-vs-private-banks-who-is-powering-nifty-banks-record-high-rally-after-5-surge-sbi-hdfc-au-canara-target-price-11795255387777.html"
+                                         },
+                                         {
+                                             "title":  "Technical View: Bulls charge towards 26,000 on Nifty 50 after decisive breakout; Bank Nifty eyes 65,000 next week",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/technical-view-bulls-charge-towards-26-000-on-nifty-50-after-decisive-breakout-bank-nifty-eyes-65-000-next-week-as-record-rally-continues-14085729.html"
+                                         },
+                                         {
+                                             "title":  "Max Healthcare, Fortis, Apollo, Aster: Hospital stocks steal show on D-Street with up to 14% rally",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/max-healthcare-fortis-apollo-aster-hospital-stocks-steal-show-on-d-street-with-up-to-14-rally-buy-now-or-wait-11795262811423.html"
+                                         },
+                                         {
+                                             "title":  "Hindalco vs NALCO vs Vedanta Aluminium vs Hindustan Zinc: Which metal stocks to buy for good returns?",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/hindalco-vs-nalco-vs-vedanta-aluminium-vs-hindustan-zinc-which-metal-stocks-to-buy-for-good-returns-target-sl-11795248944730.html"
+                                         },
+                                         {
+                                             "title":  "Daily Voice: Q3 results may not match Q2 FY27 performance; large caps best positioned, says Raghvendra Nath",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/daily-voice-q3-results-may-not-match-q2-fy27-performance-large-caps-best-positioned-to-outperform-broader-market-says-raghvendra-nath-14086341.html"
+                                         },
+                                         {
+                                             "title":  "Daily Voice: FII buying is no big shift towards India, but worst of foreign selling is over, says Spark CIO",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/daily-voice-fii-buying-is-no-big-shift-towards-india-but-worst-of-foreign-selling-is-over-says-spark-cio-14085897.html"
+                                         },
+                                         {
+                                             "title":  "GREED \u0026 fear Report: Jefferies Chris Wood hikes India exposure for 2nd time in 3 weeks, cuts Taiwan",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/greed-fear-report-jefferies-chris-wood-hikes-india-exposure-for-2nd-time-in-3-weeks-cuts-taiwan-new-allocations-11795235087351.html"
+                                         },
+                                         {
+                                             "title":  "PPFAS\u0027 CIO Rajeev Thakkar pushes back on AI doom narrative for Indian IT",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/ppfas-cio-rajeev-thakkar-pushes-back-on-ai-doom-narrative-for-indian-it-four-years-is-enough-time-14086228.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "IPOs and deals",
+                         "script":  "To the primary market, where the mood is cautious. The biggest issue in the market, Mahanadi Coalfields\u0027 8,981 crore rupee offer, was still undersubscribed after two days. Its grey market premium has collapsed by 92 percent, to just 70 paise a share. Brokerages still like its production scale, cash flows and dividends, but investor demand so far is thin.\n\nTwo smaller companies have cut their plans. Medicap Healthcare, which makes pharmaceutical bottle caps in Vadodara, has trimmed its issue by 29 percent to 170 crore rupees and dropped a pre-IPO placement. And passenger mobility company Chartered Speed has cut its issue to 433 crore rupees after the market regulator\u0027s rule changes, with 333 crore of fresh shares and 100 crore offered by existing holders.\n\nOn the approvals list, the Securities and Exchange Board of India has cleared Pristine Logistics and Arohan Financial Services to launch their public issues.\n\nIn deals, TPG-backed Newquest sold a 115 crore rupee stake in Shadowfax, cutting its holding to around 6 percent from 7.35 percent. A Gallantt Ispat promoter sold 0.66 percent of that company. And the government\u0027s land monetisation company has eased terms on an 830 crore rupee auction of Hindustan Insecticides land in Delhi, giving buyers 240 days to pay.",
+                         "stories":  [
+                                         {
+                                             "title":  "Mahanadi CoalFields IPO GMP Check: Down 92% from ₹9.25 to ₹0.7, issue struggles to attract bids",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/ipo/mahanadi-coalfields-ipo-gmp-check-down-92-from-rs-9-25-to-rs-0-7-issue-struggles-to-attract-bids-subscribe-or-avoid-11795252154826.html"
+                                         },
+                                         {
+                                             "title":  "Medicap Healthcare cuts IPO size by 29% to Rs 170 crore, drops pre-IPO placement",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/ipo/medicap-healthcare-cuts-ipo-size-by-29-to-rs-170-crore-drops-pre-ipo-placement-14086163.html"
+                                         },
+                                         {
+                                             "title":  "Passenger mobility company Chartered Speed cuts IPO size to Rs 433 crore after SEBI regulatory changes",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/ipo/passenger-mobility-company-chartered-speed-cuts-ipo-size-to-rs-433-crore-after-sebi-regulatory-changes-14085875.html"
+                                         },
+                                         {
+                                             "title":  "Pristine Logistics, Arohan Financial Services get SEBI nod to launch IPOs",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/ipo/pristine-logistics-arohan-financial-services-get-sebi-nod-to-launch-ipos-14085798.html"
+                                         },
+                                         {
+                                             "title":  "TPG-backed Newquest sells Rs 115-crore Shadowfax stake; Gallantt Ispat promoter offloads 0.66%",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/tpg-backed-newquest-sells-rs-115-crore-shadowfax-stake-gallantt-ispat-promoter-offloads-0-66-14085871.html"
+                                         },
+                                         {
+                                             "title":  "NLMC eases payment terms for Rs 830-crore HIL land auction in Delhi; allows 240 days to pay",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/nlmc-eases-payment-terms-for-rs-830-crore-hil-land-auction-in-delhi-allows-240-days-to-pay-14085835.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Results roundup",
+                         "script":  "Results season is winding down, so this morning it\u0027s the sector picture. Public sector banks posted their highest-ever profit for the first half of this financial year, 1.09 lakh crore rupees, and their capital adequacy ratio improved to 16.89 percent.\n\nCement is the weak spot. Moneycontrol\u0027s analysis shows cement makers\u0027 profit per tonne at its lowest since early 2025. They are raising prices, but demand will decide whether that sticks.\n\nPaint companies expect a better December quarter, helped by the shift in the festival calendar and the wedding season. Margins are still squeezed, though, because price increases haven\u0027t fully covered higher input costs.\n\nAnd a note of caution from Raghvendra Nath of Ladderup, who expects December quarter results may not match the September quarter, and sees large companies best placed to do better than the broader market.",
+                         "stories":  [
+                                         {
+                                             "title":  "Public sector banks record highest-ever net profit of Rs 1.09 lakh crore in H1 FY27",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/banks/public-sector-banks-record-highest-ever-net-profit-of-rs-1-09-lakh-crore-in-h1-fy27-14083748.html"
+                                         },
+                                         {
+                                             "title":  "Chart of the Day | Cement makers\u0027 profit per tonne cracks to lowest level since early CY25",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/opinion/chart-of-the-day-cement-makers-profit-per-tonne-cracks-to-lowest-level-since-early-cy25-14085330.html"
+                                         },
+                                         {
+                                             "title":  "Paint companies eye stronger Q3 demand on festival shift, weddings",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/stock-market-news/markets-stock-market-paint-sector-demand-q3fy27-asian-paints-berger-kansai-nerolac-outlook-126112200081_1.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Economy and policy",
+                         "script":  "Now to the economy, and a strong number. Growth in India\u0027s eight core industries hit a thirty-one month high of 10.9 percent in October. Coal output rose 23.1 percent and electricity generation 21.6 percent, though both are measured against a weak October last year when they had contracted. Cement and steel also picked up.\n\nAhead of next week\u0027s GDP data, one Moneycontrol column expects growth of around 7.5 percent for the July to September quarter.\n\nOn the rupee, the Chief Economic Adviser made an interesting point. He said India may have to manage rupee strength, not weakness, next financial year, noting that several agencies expect Brent crude to fall below 80 dollars a barrel.\n\nOn trade, India and Canada wrapped up a sixth round of talks on their proposed economic partnership agreement on the twentieth. With the United Kingdom, there\u0027s a snag. The Directorate of Revenue Intelligence has applied an effective duty of 162.5 percent on bulk Scotch imports, higher than the 150 percent before the free trade agreement, and the Centre is working to resolve it. India is also the country most exposed to new European Union steel duties, with the bloc taking nearly 96 percent of its cold-rolled coil exports last year.\n\nIn Delhi, Prime Minister Modi challenged India Inc to show whether it has raised wages and created jobs after the tax cuts and trade deals. Food Processing Minister Chirag Paswan says the 40 percent goods and services tax on low-priced beverages is a concern and he\u0027ll push for relief. And ahead of the Budget, finance companies want a fund for lending to small businesses, managed by SIDBI.\n\nFrom the market regulator, two consultation papers. One proposes scrapping extra ownership disclosures for certain foreign portfolio investors. The other tightens rules for directors of exchanges and depositories, lowering the age ceiling for public interest directors to 70 and capping a managing director\u0027s tenure at twelve years.",
+                         "stories":  [
+                                         {
+                                             "title":  "Core sector growth hits 31-month high of 10.9% in October as coal, power output surge",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/core-sector-growth-hits-31-month-high-of-10-9-in-october-as-coal-power-output-surge-14085772.html"
+                                         },
+                                         {
+                                             "title":  "OPINION | July-September quarter GDP growth likely to be a robust 7.5%",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/opinion/july-september-quarter-gdp-growth-likely-to-be-a-robust-7-5-14083349.html"
+                                         },
+                                         {
+                                             "title":  "India may have to manage rupee strength, not weakness in FY28: CEA",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/india-may-have-to-manage-rupee-strength-not-weakness-in-fy28-cea-14083884.html"
+                                         },
+                                         {
+                                             "title":  "India, Canada conclude sixth round of talks for proposed trade pact",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/india-canada-conclude-sixth-round-of-talks-for-proposed-trade-pact-126112100793_1.html"
+                                         },
+                                         {
+                                             "title":  "Centre works to resolve Scotch import deadlock over UK trade pact provisions",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/india/centre-works-to-resolve-scotch-import-deadlock-over-uk-trade-pact-provisions-14084630.html"
+                                         },
+                                         {
+                                             "title":  "India most exposed to EU steel duties but trade partners offer room to diversify",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/india-most-exposed-to-eu-steel-duties-but-trade-partners-offer-room-to-diversify-14083415.html"
+                                         },
+                                         {
+                                             "title":  "Have you raised wages, created jobs? Modi challenges India Inc after tax cuts, trade deals",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/have-you-raised-wages-created-jobs-modi-challenges-india-inc-after-tax-cuts-trade-deals-14084459.html"
+                                         },
+                                         {
+                                             "title":  "40% GST on low-priced beverages a concern, will push for relief: Chirag Paswan",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/40-gst-on-low-priced-beverages-a-concern-will-push-for-relief-chirag-paswan-14085627.html"
+                                         },
+                                         {
+                                             "title":  "Budget 2027: NBFCs seek dedicated fund for lending to MSMEs to reduce dependence on banks",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/budget/budget-2027-nbfcs-seek-dedicated-fund-for-lending-to-msmes-to-reduce-dependence-on-banks-article-14083889.html"
+                                         },
+                                         {
+                                             "title":  "SEBI proposes scrapping FPI concentration, size-based disclosures; seeks review of beneficial ownership norms",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/sebi-proposes-scrapping-fpi-concentration-size-based-disclosures-seeks-review-of-beneficial-ownership-norms-14085824.html"
+                                         },
+                                         {
+                                             "title":  "SEBI proposes tighter tenure, age limits for MII directors; extends restrictions on PIDs",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/sebi-proposes-tighter-tenure-age-limits-for-mii-directors-extends-restrictions-on-pids-14085906.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Around the world",
+                         "script":  "Around the world, it was a brutal week for technology shares. The Nasdaq 100 fell 5.6 percent over the week and dropped for a seventh straight day on Friday. The S\u0026P 500 is on its longest losing streak since 2020 and has spent three sessions below its 200-day average, with traders watching the 7,200 line.\n\nThe trigger is worry about sky-high AI valuations, funding costs and whether data centre spending can last. Nvidia sank 14 percent after Reuters reported that US regulators are looking into its accounting. And Anthropic, the maker of the Claude chatbot, fell around 9 percent on its second day as a listed company, nearly erasing its jump from the 83 dollar IPO price.\n\nThe pain spread across Asia. Taiwan\u0027s benchmark had its worst week in thirty-five years, and regulators there have banned short selling below the previous close and say they\u0027ve been buying shares. Chinese AI stocks have lost around 1.7 trillion dollars in value. Bitcoin slipped below 60,000 dollars, a two-year low.\n\nOne more from Washington. President Trump cited India\u0027s 7 percent growth to attack the Federal Reserve, saying lower rates could make the American economy grow far faster.\n\nThe week ahead is shortened by Thanksgiving in the US, but it brings the core inflation reading the Fed watches most closely, and a live debate on whether the Fed may actually raise rates.",
+                         "stories":  [
+                                         {
+                                             "title":  "Nasdaq 100 has worst week since 2020 on AI drama",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/nasdaq-100-has-worst-week-since-2020-on-ai-drama-14085933.html"
+                                         },
+                                         {
+                                             "title":  "S\u0026P 500 faces technical make-or-break moment below 7,200 line",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/s-p-500-faces-technical-make-or-break-moment-below-7-200-line-14085828.html"
+                                         },
+                                         {
+                                             "title":  "Anthropic share slump nearly erases IPO pop as AI trade unravels",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/anthropic-share-slump-nearly-erases-ipo-pop-as-ai-trade-unravels-14085850.html"
+                                         },
+                                         {
+                                             "title":  "Nvidia vs Anthropic shares: AI chip stock tanks 14% while Claude-maker falls 8.5%",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/nvidia-vs-anthropic-shares-ai-chip-stock-tanks-14-while-claude-maker-falls-8-5-see-who-wins-in-earnings-valuation-11795238170165.html"
+                                         },
+                                         {
+                                             "title":  "Taiwan Widens Short Sale Curbs After Shares Plunge on AI Concern",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/taiwan-widens-short-sale-curbs-after-shares-plunge-on-ai-concern-11795255471195.html"
+                                         },
+                                         {
+                                             "title":  "China\u0027s $1.7 trillion AI rout turns hot trade into losing bet",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/markets/global-markets/china-s-1-7-trillion-ai-rout-turns-hot-trade-into-losing-bet-14086363.html"
+                                         },
+                                         {
+                                             "title":  "Bitcoin crashes to over two-year low below $60,000 level",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/cryptocurrency/bitcoin-crashes-to-over-two-year-low-below-60-000-level-what-do-experts-expect-from-crypto-markets-going-ahead-11795234024656.html"
+                                         },
+                                         {
+                                             "title":  "\u0027Look at India\u0027: Trump cites 7% growth to criticise US Fed\u0027s rate policy",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/world-news/look-at-india-trump-cites-7-growth-to-criticise-us-fed-s-rate-policy-126112100312_1.html"
+                                         },
+                                         {
+                                             "title":  "US Core PCE, Fed hike debate and AI sentiment set to decide whether the metals rout extends",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/opinion/us-core-pce-fed-hike-debate-and-ai-sentiment-set-to-decide-whether-the-metals-rout-extends-14086340.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Your money",
+                         "script":  "Finally, your money, and gold first. MCX gold finished Friday at a fourteen-month low of around 1,21,950 rupees for ten grams, while international gold ended near 3,539 dollars an ounce. That\u0027s a fall of nearly 10 percent in a week, blamed on a stronger dollar, talk of Fed rate hikes and the AI sell-off. Since Diwali on the eighth of November, gold is down about 12.9 percent. Silver has had it far worse, down around 65 percent from its January peak. DSP Mutual Fund says it is buying gold and silver gradually at set price levels rather than trying to call the bottom.\n\nNow to tax rulings, three worth knowing. The Mumbai bench of the Income Tax Appellate Tribunal has stayed an 8,520 crore rupee demand on the Government of Singapore, where the department argued investments through GIC were commercial and not covered by sovereign immunity. The Delhi bench held that capital gains on the transfer of a US entity by FireEye Ireland are not taxable in India under the India-Ireland tax treaty. And in Bangalore, the tribunal gave relief to a businessman in a 12 crore rupee case, allowing the seized cash to be treated as business income.\n\nIf you\u0027re parking money, company fixed deposits are paying up to 8.95 percent, led by Muthoot Capital, while NRE deposits for non-residents go up to 6.80 percent.\n\nA warning too. A Bengaluru engineer lost 5.47 lakh rupees to credit card fraud without sharing his OTP or PIN, a reminder to set card limits and report unknown transactions at once. And banks will be shut on five days between the twenty-third and the thirtieth in different regions, so check your city before you plan a branch visit.\n\nThat\u0027s the brief. Today, watch for how markets open on Monday after Wall Street\u0027s rough week. The big tests are whether the Nifty can take the 26,000 mark, whether Bank Nifty holds above 63,500, and how the Mahanadi Coalfields issue finishes. Later in the week, the US inflation number will set the tone for gold, metals and technology shares. Enjoy your Sunday, and I\u0027ll be with you again tomorrow morning.",
+                         "stories":  [
+                                         {
+                                             "title":  "Gold rate today in India at 14-month low; will it hit ₹1 lakh?",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/commodities/gold-rate-today-in-india-at-14-month-low-will-it-hit-rs-1-lakh-experts-list-out-3-reasons-for-gold-price-drop-in-2026-11795283484060.html"
+                                         },
+                                         {
+                                             "title":  "Gold prices crash nearly 10% in a week: Mega reasons behind massive yellow metal rate fall",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/gold-prices-crash-nearly-10-in-a-week-mega-reasons-behind-massive-yellow-metal-rate-fall-list-11795249539231.html"
+                                         },
+                                         {
+                                             "title":  "Bought gold on Diwali? Prices fall 12.9% in a fortnight",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/bought-gold-on-diwali-prices-fall-12-9-in-a-fortnight-check-todays-value-of-your-22k-and-24k-gold-purchases-in-india-11795236108431.html"
+                                         },
+                                         {
+                                             "title":  "Gold vs silver price crash compared: White metal loses 65%, gold sheds 37% from record highs",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/gold-vs-silver-price-crash-compared-white-metal-loses-65-gold-sheds-37-from-record-highs-wealth-wiped-returns-11795241673262.html"
+                                         },
+                                         {
+                                             "title":  "Gold, silver price crash: DSP Mutual Fund turns bullish on bullion, reveals new buying strategy",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/commodities/gold-silver-price-crash-dsp-mutual-fund-turns-bullish-on-bullion-reveals-new-buying-strategy-check-price-levels-11795252615511.html"
+                                         },
+                                         {
+                                             "title":  "Mumbai ITAT grants Singapore government stay on Rs 8,520 crore tax demand",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/mumbai-itat-grants-singapore-government-stay-on-rs-8-520-crore-tax-demand-14085712.html"
+                                         },
+                                         {
+                                             "title":  "Income Tax rules: Delhi ITAT holds capital gains on transfer of US entity not taxable in India",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/income-tax-rules-delhi-itat-holds-capital-gains-transfer-of-us-entity-not-taxable-expert-explains-why-india-ireland-dtaa-11795251378231.html"
+                                         },
+                                         {
+                                             "title":  "ITAT Bangalore relief to businessman in ₹12 crore tax case",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/itat-bangalore-relief-to-businessman-in-rs-12-crore-tax-case-why-income-tax-departments-seizure-failed-11795257680485.html"
+                                         },
+                                         {
+                                             "title":  "Company FD interest rates in November 2026: Muthoot Capital offers 8.95%",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/company-fd-interest-rates-in-november-2026-muthoot-capital-offers-8-95-compare-shriram-bajaj-finance-and-others-now-11795310664714.html"
+                                         },
+                                         {
+                                             "title":  "NRE FD interest rates in November 2026: PNB, Kotak, Federal Bank offer up to 6.80%",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/nre-fd-interest-rates-in-november-2026-pnb-kotak-federal-bank-offer-up-to-6-80-compare-top-bank-rates-for-nris-now-11795230455215.html"
+                                         },
+                                         {
+                                             "title":  "Credit card fraud: Software engineer loses ₹5.47 lakh despite not sharing OTP or PIN",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/credit-card-fraud-software-engineer-loses-5-47-lakh-despite-not-sharing-otp-or-pin-heres-how-to-protect-your-money-11795235698441.html"
+                                         },
+                                         {
+                                             "title":  "Bank holidays next week: SBI, HDFC, ICICI branches will be closed on these five days from 23-30 Nov",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/bank-holidays-next-week-sbi-hdfc-icici-axis-branches-closed-these-five-days-23-30-november-check-city-dates-rbi-calendar-11795311812498.html"
+                                         }
+                                     ]
+                     }
+                 ]
+}

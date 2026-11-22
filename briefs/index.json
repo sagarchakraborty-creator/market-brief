@@ -1,6 +1,11 @@
 {
     "briefs":  [
                    {
+                       "date":  "2026-11-22",
+                       "edition":  "Morning",
+                       "headline":  "Wall Street\u0027s AI rout deepens as Indian banks ride to record highs"
+                   },
+                   {
                        "date":  "2026-11-21",
                        "edition":  "Morning",
                        "headline":  "India shrugs off Wall Street\u0027s AI rout as Bank Nifty hits a record"
@@ -64,11 +69,6 @@
                        "date":  "2026-11-09",
                        "edition":  "Morning",
                        "headline":  "A quiet start to Samvat 2083 as foreign money floods back"
-                   },
-                   {
-                       "date":  "2026-11-08",
-                       "edition":  "Morning",
-                       "headline":  "Muhurat trading opens Samvat 2083 after the best week since 2021"
                    }
                ]
 }
