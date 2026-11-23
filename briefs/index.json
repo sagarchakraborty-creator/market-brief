@@ -1,6 +1,11 @@
 {
     "briefs":  [
                    {
+                       "date":  "2026-11-23",
+                       "edition":  "Morning",
+                       "headline":  "India shrugs off Wall Street\u0027s AI rout; Tata Steel\u0027s big APL Apollo deal"
+                   },
+                   {
                        "date":  "2026-11-22",
                        "edition":  "Morning",
                        "headline":  "Wall Street\u0027s AI rout deepens as Indian banks ride to record highs"
@@ -64,11 +69,6 @@
                        "date":  "2026-11-10",
                        "edition":  "Morning",
                        "headline":  "Markets shut for Balipratipada; oil slides as Citi, HSBC turn bullish on India"
-                   },
-                   {
-                       "date":  "2026-11-09",
-                       "edition":  "Morning",
-                       "headline":  "A quiet start to Samvat 2083 as foreign money floods back"
                    }
                ]
 }
