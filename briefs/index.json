@@ -1,6 +1,11 @@
 {
     "briefs":  [
                    {
+                       "date":  "2026-11-25",
+                       "edition":  "Morning",
+                       "headline":  "Markets eye a rebound as rate-hike talk builds before the RBI meet"
+                   },
+                   {
                        "date":  "2026-11-23",
                        "edition":  "Morning",
                        "headline":  "India shrugs off Wall Street\u0027s AI rout; Tata Steel\u0027s big APL Apollo deal"
@@ -64,11 +69,6 @@
                        "date":  "2026-11-11",
                        "edition":  "Morning",
                        "headline":  "Markets reopen after Diwali as foreign money returns and oil eases"
-                   },
-                   {
-                       "date":  "2026-11-10",
-                       "edition":  "Morning",
-                       "headline":  "Markets shut for Balipratipada; oil slides as Citi, HSBC turn bullish on India"
                    }
                ]
 }
