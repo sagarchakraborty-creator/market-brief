@@ -1,6 +1,11 @@
 {
     "briefs":  [
                    {
+                       "date":  "2026-11-26",
+                       "edition":  "Morning",
+                       "headline":  "US proposes up to 25 percent tariff on India as markets extend rally"
+                   },
+                   {
                        "date":  "2026-11-25",
                        "edition":  "Morning",
                        "headline":  "Markets eye a rebound as rate-hike talk builds before the RBI meet"
@@ -64,11 +69,6 @@
                        "date":  "2026-11-12",
                        "edition":  "Morning",
                        "headline":  "Nifty at a nine-month high on foreign buying; Nvidia turmoil clouds the open"
-                   },
-                   {
-                       "date":  "2026-11-11",
-                       "edition":  "Morning",
-                       "headline":  "Markets reopen after Diwali as foreign money returns and oil eases"
                    }
                ]
 }
