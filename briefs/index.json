@@ -1,6 +1,11 @@
 {
     "briefs":  [
                    {
+                       "date":  "2026-11-27",
+                       "edition":  "Morning",
+                       "headline":  "Tariff threat sharpens deal push as Nifty eyes its best month in six years"
+                   },
+                   {
                        "date":  "2026-11-26",
                        "edition":  "Morning",
                        "headline":  "US proposes up to 25 percent tariff on India as markets extend rally"
@@ -64,11 +69,6 @@
                        "date":  "2026-11-13",
                        "edition":  "Morning",
                        "headline":  "Inflation breaks six percent, Nvidia\u0027s chief quits, oil back near 95 dollars"
-                   },
-                   {
-                       "date":  "2026-11-12",
-                       "edition":  "Morning",
-                       "headline":  "Nifty at a nine-month high on foreign buying; Nvidia turmoil clouds the open"
                    }
                ]
 }

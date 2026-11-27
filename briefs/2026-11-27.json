@@ -1,0 +1,300 @@
+{
+    "date":  "2026-11-27",
+    "edition":  "Morning",
+    "generatedAt":  "2026-11-27T09:00:00+05:30",
+    "headline":  "Tariff threat sharpens deal push as Nifty eyes its best month in six years",
+    "segments":  [
+                     {
+                         "title":  "The big picture",
+                         "script":  "Good morning. It\u0027s Friday, the twenty-seventh of November, and here is your Market Brief.\n\nThree things matter most today. First, Washington\u0027s proposed tariff of up to 25 percent on Indian goods is still the talk of the town. Exporters want a deal signed quickly, because a deal would bring that rate down to 17 percent.\n\nSecond, the market is on a strong run. The Nifty is up more than 12 percent in November, on course for its best month since April 2020. Foreign investors have now bought Indian shares for twelve sessions in a row.\n\nAnd third, Mahanadi Coalfields, the Coal India unit, makes its stock market debut today. It\u0027s the first listing since the market regulator barred the publishing of grey market prices for IPO shares.",
+                         "stories":  [
+                                         {
+                                             "title":  "Nifty surges over 12% in November, eyes biggest monthly gain in six years; BSE, Eternal, Trent among top gainers",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/nifty-surges-over-12-in-november-eyes-biggest-monthly-gain-in-six-years-bse-eternal-trent-among-top-gainers-11795694066553.html"
+                                         },
+                                         {
+                                             "title":  "Mahanadi Coalfields Set for Mumbai Debut After $969 Million IPO",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/mahanadi-coalfields-set-for-mumbai-debut-after-969-million-ipo-11795746565861.html"
+                                         },
+                                         {
+                                             "title":  "First Tick: Top global cues to watch in today\u0027s trade",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/first-tick-top-global-cues-to-watch-in-today-s-trade-44-14089760.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "How markets closed",
+                         "script":  "The Nifty ended Thursday at 25,884 and a half, with both the Sensex and the Nifty near ten-month highs. The index spent much of the day just below the flat line, while realty stole the show. The Nifty Realty index rose about 3 percent to a fifty-two-week high, led by Prestige Estates and Brigade Enterprises. Brigade said it sold homes worth 1,600 crore rupees in the launch weekend of a Bengaluru project.\n\nAmong the big names, HDFC Bank has climbed about 30 percent from its October low and overtook Bharti Airtel to become the second most valuable listed company, at around 13.4 lakh crore rupees. Wipro rose 4 percent on a new partnership with BP. And the exchange stocks keep running. NSE shares are up 9 percent in two days, taking its value close to 6 lakh crore rupees. Livemint reports that makes it the world\u0027s third largest listed exchange, ahead of Nasdaq and the London Stock Exchange.\n\nNow to the flows. Foreign institutional investors bought shares worth about 5,843 crore rupees on Thursday, and domestic institutional investors added about 5,631 crore rupees.\n\nThe levels to watch: analysts see 26,000 as the immediate hurdle on the Nifty, then 26,200. Support sits at 25,800, and then the 25,600 to 25,700 zone. For the Bank Nifty, they want it to hold 63,000 and cross 64,000. Early signals from GIFT Nifty are mixed this morning, with most pointing to a muted start, as the market eyes a fifth straight weekly gain.\n\nOn the outlook, J P Morgan calls Indian shares a safe haven from the global A I trade and sees the Nifty at 29,000 by the end of 2027. PL Capital has raised its twelve-month Nifty target to about 28,560.",
+                         "stories":  [
+                                         {
+                                             "title":  "Indian shares set to open higher, eye fifth weekly gain as inflows boost momentum",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/indian-shares-set-to-open-higher-eye-fifth-weekly-gain-as-inflows-boost-momentum-11795747396152.html"
+                                         },
+                                         {
+                                             "title":  "Nifty Realty hits 52-wk high, up 3% led by Prestige, Brigade Enterprises",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/nifty-realty-hits-52-week-high-up-3-led-by-brigade-enterprises-prestige-estates-126112600658_1.html"
+                                         },
+                                         {
+                                             "title":  "₹1,600-cr sales in B\u0027luru project drive Brigade Enterprises stock 4% higher",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/1-600-cr-sales-in-b-luru-project-drive-brigade-enterprises-stock-4-higher-126112600490_1.html"
+                                         },
+                                         {
+                                             "title":  "HDFC Bank vaults 30% from Oct low; surpasses Airtel in market cap ranking",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/hdfc-bank-share-price-hdfc-bank-vaults-30-from-oct-low-surpasses-airtel-in-market-cap-ranking-126112600392_1.html"
+                                         },
+                                         {
+                                             "title":  "Wipro shares jump 4% on partnership with BP, emerges top Nifty IT gainer",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/wipro-share-price-jump-4-percent-on-partnership-with-bp-emerges-top-nifty-it-gainer-126112600489_1.html"
+                                         },
+                                         {
+                                             "title":  "NSE is now world\u0027s third-largest listed exchange by market cap, overtakes Nasdaq, LSE",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/nse-is-now-worlds-third-largest-listed-exchange-by-market-cap-overtakes-nasdaq-lse-which-two-exchanges-are-ahead-11795697484423.html"
+                                         },
+                                         {
+                                             "title":  "Technical View: Consolidation may continue until Nifty 50 breaks convincingly above 26,000",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/technical-view-consolidation-may-continue-until-nifty-50-breaks-convincingly-above-26-000-bank-nifty-must-cross-64-000-to-strengthen-its-uptrend-14089705.html"
+                                         },
+                                         {
+                                             "title":  "Nifty 50 to hit 29,000? J.P. Morgan calls Indian stocks a \u0027safe haven\u0027 from AI trades",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/nifty-50-to-hit-29-000-j-p-morgan-calls-indian-stocks-a-safe-haven-from-ai-trades-sees-12-upside-key-reasons-11795710323279.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "IPOs and deals",
+                         "script":  "On the IPO front, Mahanadi Coalfields lists today after an offer worth about 969 million dollars. Crystal Crop Protection listed on Thursday at a premium of about 2 to 3 percent, after its issue was subscribed seventeen times. Coming up, diaper maker Swara Baby Products opens an 800 crore rupee IPO on the second of December, with a price band of 105 to 111 rupees. Its shares are due to list on the ninth. Meanwhile, Pentacle Consultants and Bvishal Oil and Energy have withdrawn their draft papers. And the regulator is moving to cut off the commercial incentives for regulated firms that promote grey market premiums, which it likens to betting.\n\nNow to the deals. The South Korean parent of LG Electronics India sold a 2 percent stake, taking its holding from 85 to 83 percent, and the shares fell over 3 percent. The promoter of Schaeffler India sold 6 and a half percent, yet the stock rose nearly 3 percent. Capital Group sold over 1 percent of IIFL Finance.\n\nThe IDBI Bank sale has entered a crucial stage. The disinvestment secretary says the Reserve Bank is examining Fairfax as a bidder. The Cabinet has also approved Prudential\u0027s foreign investment in Bharti Life Insurance.\n\nOne more boardroom battle to note. Tata Trusts has decided to go to the Bombay High Court to challenge the reappointment of N Chandrasekaran as chairman of Tata Sons, and Tata stocks traded mixed on the news. And Supriya Lifescience will consider a share buyback on the second of December, after its September quarter profit fell 42 percent to about 29 crore rupees.",
+                         "stories":  [
+                                         {
+                                             "title":  "Crystal Crop Protection lists at 3% premium after 17-times IPO subscription",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/crystal-crop-protection-lists-at-3-premium-after-17-times-ipo-subscription-126112600232_1.html"
+                                         },
+                                         {
+                                             "title":  "Diaper maker Swara Baby Products to open Rs 800-crore IPO on Dec 2; sets price band at Rs 105-111",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/ipo/diaper-maker-swara-baby-products-to-open-rs-800-crore-ipo-on-dec-2-sets-price-band-at-rs-105-111-14089909.html"
+                                         },
+                                         {
+                                             "title":  "Pentacle Consultants, Bvishal Oil and Energy withdraw IPO papers",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/ipo/pentacle-consultants-bvishal-oil-and-energy-withdraw-ipo-papers-14089745.html"
+                                         },
+                                         {
+                                             "title":  "Grey market premium is akin to betting, SEBI seeks to choke revenue incentives for such platforms",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/grey-market-premium-is-akin-to-betting-sebi-seeks-to-choke-revenue-incentives-for-such-platforms-14089829.html"
+                                         },
+                                         {
+                                             "title":  "South Korean promoter sells 2% stake in LG Electronics India; Capital Group offloads 1.31% in IIFL Finance",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/south-korean-promoter-sells-2-stake-in-lg-electronics-india-capital-group-offloads-1-31-in-iifl-finance-14089864.html"
+                                         },
+                                         {
+                                             "title":  "Block Deals: Schaeffler India promoter sells 6.5% stake; Norwest Venture Partners offloads over 2% in Amagi Media Labs",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/block-deals-schaeffler-india-promoter-sells-6-5-stake-norwest-venture-partners-offloads-over-2-in-amagi-media-labs-14089858.html"
+                                         },
+                                         {
+                                             "title":  "IDBI Bank disinvestment enters crucial stage as RBI examines Fairfax, says DIPAM secretary Chawla",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/idbi-bank-disinvestment-enters-crucial-stage-as-rbi-examines-fairfax-says-dipam-secretary-chawla-14089847.html"
+                                         },
+                                         {
+                                             "title":  "Union Cabinet approves Prudential\u0027s FDI proposal in Bharti Life Insurance",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/union-cabinet-approves-prudential-s-fdi-proposal-in-bharti-life-insurance-14088799.html"
+                                         },
+                                         {
+                                             "title":  "Tata stocks trade mixed as Trusts to challenge Chandra\u0027s reappointment",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/tata-stocks-trade-mixed-as-trusts-to-challenge-chandra-s-reappointment-126112600409_1.html"
+                                         },
+                                         {
+                                             "title":  "Buyback alert! Supriya Lifescience sets December 2 board meeting to consider share buyback",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/buyback-alert-supriya-lifescience-sets-december-2-board-meeting-to-consider-share-buyback-details-here-11795714356991.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Economy and policy",
+                         "script":  "Now to the economy, and the rupee came under pressure on Thursday. It settled at 92.44 to the dollar as crude climbed, and the ten-year government bond yield rose 7 basis points to 7.24 percent.\n\nOn tariffs, the reaction to Washington\u0027s proposal is split. Exporters\u0027 body president S C Ralhan wants a deal as soon as possible, saying orders from American buyers are strong. But his colleague Ajay Sahai warns that even 17 percent may give little edge, as South East Asian rivals could get better terms. He estimates an extra cost of about 8 percent for exporters if the rate goes to 25. Moneycontrol\u0027s analysis finds India could win close to 3 billion dollars of Vietnam\u0027s exports to America, while garments and electrical equipment are most exposed. ASSOCHAM still expects total exports to cross 1 trillion dollars this financial year.\n\nFrom the Reserve Bank, its first switch auction for state bonds drew 8,003 crore rupees, with Tamil Nadu the largest share, and traders now expect more such rounds. The Reserve Bank has also cleared the National Stock Exchange to launch corporate bond index futures. Its bulletin shows non-bank lenders now rely on banks for nearly 40 percent of their borrowing, and gold loans grew 75 percent last financial year to 3.67 lakh crore rupees.\n\nOn the Budget, the government is reported to see crude settling at 80 to 85 dollars a barrel, and may use that for next year\u0027s numbers. The Finance Minister also held her first pre-Budget meeting with young people.\n\nTwo Supreme Court matters for you. The court has asked HDFC Bank, ICICI Bank, Sammaan Capital and PNB Housing Finance to sanction the prosecution of staff in the builder subvention scheme cases, within a week. And it has suggested Parliament amend section 26E of the SARFAESI Act, to define what all other debts means for secured creditors\u0027 priority.\n\nAnd one sobering number: infrastructure projects carry a cost overrun of 3.28 lakh crore rupees, as of October.",
+                         "stories":  [
+                                         {
+                                             "title":  "Rupee falls as oil climbs above $96/barrel; 10-year bond yield rises 7 bps",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/rupee-falls-as-oil-climbs-above-96-barrel-10-year-bond-yield-rises-7-bps-126112601278_1.html"
+                                         },
+                                         {
+                                             "title":  "Even 17% tariff under India-US trade deal may offer little competitive advantage to Indian exporters: FIEO",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/foreign-trade/even-17-tariff-under-india-us-trade-deal-may-offer-little-competitive-advantage-to-indian-exporters-fieo/articleshow/136191482.cms"
+                                         },
+                                         {
+                                             "title":  "Exporters seek early trade deal with US, cite 17% tariff advantage",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/exporters-seek-early-trade-deal-with-us-cite-17-tariff-advantage-126112600601_1.html"
+                                         },
+                                         {
+                                             "title":  "New US tariff proposal could help India tap $2.69 billion of Vietnam\u0027s exports to America",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/new-us-tariff-proposal-could-help-india-tap-2-69-billion-of-vietnam-s-exports-to-america-14089277.html"
+                                         },
+                                         {
+                                             "title":  "India\u0027s exports to cross $1 trillion in FY27 despite proposed 25% US tariff: ASSOCHAM secy general",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/india-s-exports-to-cross-1-trillion-in-fy27-despite-proposed-25-us-tariff-assocham-secy-general-14089786.html"
+                                         },
+                                         {
+                                             "title":  "RBI accepts ₹8,003 crore of state bonds in its first switch auction",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/rbi-accepts-8-003-crore-of-state-bonds-in-its-first-switch-auction-126112601198_1.html"
+                                         },
+                                         {
+                                             "title":  "NSE receives RBI\u0027s approval to launch corporate bond index futures",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/nse-receives-rbi-s-approval-to-launch-corporate-bond-index-futures-126112601165_1.html"
+                                         },
+                                         {
+                                             "title":  "NBFCs\u0027 reliance on bank borrowings rises to nearly 40 percent in FY26, RBI Bulletin says",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/nbfcs-reliance-on-bank-borrowings-rises-to-nearly-40-percent-in-fy26-rbi-bulletin-says-14089009.html"
+                                         },
+                                         {
+                                             "title":  "Govt sees crude stabilising at $80-85 a barrel, may use it for FY28 Budget calculations",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/commodities/crude-oil/govt-sees-crude-stabilising-at-80-85-a-barrel-may-use-it-for-fy28-budget-calculations-14088851.html"
+                                         },
+                                         {
+                                             "title":  "SC asks HDFC Bank, three others to ok staff prosecution",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/sc-asks-hdfc-bank-three-others-to-ok-staff-prosecution/articleshow/136206787.cms"
+                                         },
+                                         {
+                                             "title":  "SC suggests Parliament to bring amendment to section 26E of SARFAESI Act",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/industry/news/sc-suggests-parliament-to-bring-amendment-to-section-26e-of-sarfaesi-act-126112601249_1.html"
+                                         },
+                                         {
+                                             "title":  "Infra projects see cost overrun of ₹3.28 trillion in October: MoSPI",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/india-news/infra-projects-see-cost-overrun-of-3-28-trillion-in-october-mospi-126112600997_1.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Around the world",
+                         "script":  "Around the world, oil is back in focus. Brent crude has crossed 96 dollars a barrel, trading near 97, after a Houthi attack on a key Saudi refinery. It\u0027s up about 4 and a half percent this week, set for its first weekly gain this month.\n\nAmerican markets were shut for Thanksgiving, but stronger than expected core inflation data has firmed up the case for a Federal Reserve rate hike next month. That has pushed the dollar close to a twenty-two-month high, and kept gold near a fifteen-month low, around 3,560 dollars an ounce.\n\nIn Asia, shares rose for a second day as nerves over the A I trade eased. Japan\u0027s Nikkei gained 0.7 percent and South Korea\u0027s Kospi 1.5 percent. Still, the Bank of England has warned that the big A I firms\u0027 financial exposure has passed 4 trillion dollars, which it says raises risks across markets. And Bitcoin is back above 60,000 dollars, though it is still down by more than half from its peak.",
+                         "stories":  [
+                                         {
+                                             "title":  "Commodity Corner: Oil set for first weekly gain this month; gold steadies",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/commodities/commodity-corner-oil-set-for-first-weekly-gain-this-month-gold-steadies-14089752.html"
+                                         },
+                                         {
+                                             "title":  "Sensex, Nifty Near 10-Month High | US futures tick higher | Brent crude tops $96 | Opening Bell",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/videos/business/earnings/sensex-nifty-near-10-month-high-us-futures-tick-higher-brent-crude-tops-96-opening-bell-14089977.html"
+                                         },
+                                         {
+                                             "title":  "Gold wavers near 15-month low as traders eye Fed path, AI stocks",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/gold-wavers-near-15-month-low-as-traders-eye-fed-path-ai-stocks-14089768.html"
+                                         },
+                                         {
+                                             "title":  "Dollar lingers near 22-month peak as AI worries simmer",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/dollar-lingers-near-22-month-peak-as-ai-worries-simmer-11795741427005.html"
+                                         },
+                                         {
+                                             "title":  "Sensex Today | Stock Market LIVE Updates: GIFT Nifty signals weak opening; Asian markets trade higher",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/stock-market-live-updates-nifty50-share-price-sensex-share-price-crude-fii-gift-nifty-rupee-latest-updates-27-11-2026-alpha-liveblog-14089935.html"
+                                         },
+                                         {
+                                             "title":  "AI firms\u0027 $4 trillion exposure amplifies global market risks: BOE",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/technology/artificial-intelligence/ai-firms-4-trillion-exposure-amplifies-global-market-risks-boe-126112601042_1.html"
+                                         },
+                                         {
+                                             "title":  "Bitcoin price today: World\u0027s largest crypto rebounds above $60,000, but remains down over 50% from peak",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/bitcoin-price-today-worlds-largest-crypto-rebounds-above-60-000-but-remains-down-over-50-from-peak-11795716656707.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Stories you\u0027re following",
+                         "script":  "An update on the India and US trade deal you\u0027re following. A day after Washington put a price on the deal, 17 percent with an agreement and up to 25 without, exporters urged the government to sign quickly. The brokerage Jefferies said the threat is likely to hasten the deal, while a traders\u0027 body called for a 25 percent retaliatory duty if the higher rate goes ahead.",
+                         "stories":  [
+                                         {
+                                             "title":  "Tariff threat likely to hasten India-US trade deal, says Jefferies report",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/tariff-threat-likely-to-hasten-india-us-trade-deal-says-jefferies-report-126112601345_1.html"
+                                         },
+                                         {
+                                             "title":  "US tariff threat: Indian traders urge Modi to hit back with 25% duty",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/news/economy/foreign-trade/us-tariff-threat-indian-traders-urge-modi-to-hit-back-with-25-duty/articleshow/136178272.cms"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Your money",
+                         "script":  "Finally, your money. December is a busy month on the tax calendar, with T D S payments, the next advance tax instalment, the last window for belated returns, and the FAST-DS scheme all due. And if you hold foreign shares through stock options or restricted stock units, Livemint has a useful guide on correcting past gaps in foreign asset disclosure, including the related brokerage accounts.\n\nIf you have an old provident fund account with no deposits for three years, check it. The provident fund body says such accounts can turn inoperative and stop earning interest. You can claim the balance with Form 19, or move it to your new employer with Form 13, once your K Y C is updated.\n\nFor government staff, dearness allowance has gone up by 3 points to 63 percent, and the Eighth Pay Commission is expected to report by May 2027. On deposits, Punjab National Bank\u0027s special 680-day deposit offers up to about seven and a half percent. Federal Bank now lets eligible customers open a pension account instantly under the Tatkal N P S scheme. And with gold falling, only two gold exchange traded funds show positive returns over the past year.\n\nOne investor warning. The market regulator has barred Le Lavoir, its chairman and thirteen others over alleged price manipulation and diversion of issue money, acting before a share lock-in was due to expire.\n\nThat\u0027s the brief. Today, watch the Mahanadi Coalfields debut, whether the Nifty can finally clear 26,000 and close out a fifth weekly gain, and how crude near 97 dollars weighs on the rupee. Have a good Friday.",
+                         "stories":  [
+                                         {
+                                             "title":  "Income tax calendar December 2026: Check key deadlines for TDS payments, advance tax, belated ITR and FAST-DS scheme",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/income-tax-calendar-december-2026-check-key-deadlines-for-tds-payments-advance-tax-belated-itr-and-fast-ds-scheme-11795681500577.html"
+                                         },
+                                         {
+                                             "title":  "How to correct past disclosure lapses in foreign assets",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/how-to-correct-past-disclosure-lapses-in-foreign-assets-11795672144561.html"
+                                         },
+                                         {
+                                             "title":  "No PF deposit for 3 years? EPFO clarifies inoperative account rules",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/no-pf-deposit-for-3-years-epfo-clarifies-inoperative-account-rules-this-is-how-you-can-claim-your-money-11795683188052.html"
+                                         },
+                                         {
+                                             "title":  "8th Pay Commission update: With DA hiked under 7th CPC, what central and state govt employees can expect next",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/8th-pay-commission-update-da-hike-announced-what-central-and-state-employees-can-expect-11795690487940.html"
+                                         },
+                                         {
+                                             "title":  "PNB 680-day FD rates: Calculate returns on ₹5 lakh and ₹10 lakh",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/pnb-680-day-fd-offers-up-to-7-55-interest-returns-on-5-lakh-and-10-lakh-11795670913594.html"
+                                         },
+                                         {
+                                             "title":  "This bank enables instant NPS through PFRDA\u0027s \u0027Tatkal NPS\u0027",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/federal-bank-enables-instant-nps-through-pfrda-tatkal-nps-check-key-features-steps-how-to-apply-online-mobile-app-11795679758294.html"
+                                         },
+                                         {
+                                             "title":  "Gold ETFs: Same gold prices, why are two funds gaining while others have negative 1-year returns?",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/gold-etfs-same-gold-prices-why-are-two-funds-gaining-while-others-have-negative-1-year-returns-key-factors-to-check-11795684999656.html"
+                                         },
+                                         {
+                                             "title":  "SEBI bars Le Lavoir, chairman and 13 others over alleged price manipulation, fund diversion",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/sebi-bars-le-lavoir-chairman-and-13-others-over-alleged-price-manipulation-fund-diversion-action-before-lock-in-expiry-14089883.html"
+                                         }
+                                     ]
+                     }
+                 ]
+}
