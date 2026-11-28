@@ -1,6 +1,11 @@
 {
     "briefs":  [
                    {
+                       "date":  "2026-11-28",
+                       "edition":  "Morning",
+                       "headline":  "Rally snaps as oil climbs; GDP and RBI rate call loom next week"
+                   },
+                   {
                        "date":  "2026-11-27",
                        "edition":  "Morning",
                        "headline":  "Tariff threat sharpens deal push as Nifty eyes its best month in six years"
@@ -64,11 +69,6 @@
                        "date":  "2026-11-14",
                        "edition":  "Morning",
                        "headline":  "Inflation breaks 6 percent, yet markets log a third weekly gain"
-                   },
-                   {
-                       "date":  "2026-11-13",
-                       "edition":  "Morning",
-                       "headline":  "Inflation breaks six percent, Nvidia\u0027s chief quits, oil back near 95 dollars"
                    }
                ]
 }

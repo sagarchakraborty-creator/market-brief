@@ -1,0 +1,295 @@
+{
+    "date":  "2026-11-28",
+    "edition":  "Morning",
+    "generatedAt":  "2026-11-28T08:58:00+05:30",
+    "headline":  "Rally snaps as oil climbs; GDP and RBI rate call loom next week",
+    "segments":  [
+                     {
+                         "title":  "The big picture",
+                         "script":  "Good morning. It\u0027s Saturday, the twenty-eighth of November, and this is your Market Brief.\n\nThree things matter most as you start the weekend. First, the market\u0027s four-week winning streak is over. The Nifty fell about one percent on Friday, dragged down by IT and bank heavyweights, as oil climbed and the rupee weakened.\n\nSecond, a big week is coming. Growth figures for the September quarter land next week, and so does the Reserve Bank\u0027s policy decision, with the brokerage Nomura now expecting a half-point rate hike.\n\nAnd third, the Tata Steel and APL Apollo deal is now firmly in the regulator\u0027s sights. Sebi has summoned APL Apollo officials, and its chairman says the interests of minority shareholders are very important.",
+                         "stories":  [
+                                         {
+                                             "title":  "IT, bank heavyweights drag markets down 1% amid rising crude oil prices",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/it-bank-heavyweights-drag-markets-down-1-amid-rising-crude-oil-prices-126112701207_1.html"
+                                         },
+                                         {
+                                             "title":  "Nomura now sees India\u0027s RBI hiking by 50 basis points in December",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/nomura-now-sees-india-s-rbi-hiking-by-50-basis-points-in-december-14090343.html"
+                                         },
+                                         {
+                                             "title":  "SEBI summons APL Apollo officials over Tata Steel deal, examines possible RPT rule violations",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/sebi-summons-apl-apollo-officials-over-tata-steel-deal-examines-possible-rpt-rule-violations-14090239.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "How markets closed",
+                         "script":  "Friday was a day of profit booking after a strong November. The Sensex shed 989 points, and the Nifty dropped 277 points, or a little over one percent, to close near 25,600. For the week, both indices lost about 0.7 percent, ending a four-week run of gains. That comes after a rally of nearly 13 percent this month, according to Mint.\n\nIT and financial stocks led the fall. TCS, Infosys, HCL Tech, Shriram Finance and Bajaj Auto were among the biggest losers. On the other side, metals gained for a second day, and Titan, Bharat Electronics and JSW Steel were among the Nifty gainers. Mid and small caps held up better than the benchmarks.\n\nNow some big movers. Defence shares jumped as much as 17 percent after India and the UAE agreed to co-develop defence equipment, with BEML, Bharat Dynamics and HAL leading. And textile exporters such as Gokaldas Exports rose up to 11 percent, after Reuters reported that global fashion brands shifted nearly a tenth of their monthly orders away from Bangladesh in early November, with India the main beneficiary.\n\nOn flows, the latest provisional data showed foreign institutional investors buying 4,479 crore rupees of shares, and domestic institutional investors buying 4,019 crore rupees. That was only the second day this month that domestic funds were net buyers.\n\nAnd the levels to watch. Analysts quoted by Moneycontrol see 25,300 as the key support for the Nifty, and 26,000 as resistance, with the Bank Nifty needing to hold 62,500. Geojit\u0027s V K Vijayakumar says a phase of consolidation looks likely in the near term.",
+                         "stories":  [
+                                         {
+                                             "title":  "Taking Stock: Market snaps 4-week rally; Nifty below 25,650, Sensex sheds 989 pts",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/taking-stock-market-snaps-4-week-rally-nifty-below-25-650-sensex-sheds-989-pts-14090358.html"
+                                         },
+                                         {
+                                             "title":  "Stock market today: Sensex tumbles 1,000 points, Nifty drops 277 points as TCS, Infosys, Shriram Finance lead losses",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/stock-market-today-sensex-tumbles-1-000-points-nifty-drops-277-points-as-tcs-infosys-shriram-finance-lead-losses-11795774138976.html"
+                                         },
+                                         {
+                                             "title":  "Pulse of the Street: Profit booking snaps four-week rally; markets brace consolidation?",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-bse-sensex-nse-nifty-shares-indian-equities-technology-ai-11795785437907.html"
+                                         },
+                                         {
+                                             "title":  "Sensex, Nifty down 0.5% this week; Brent above $98, Rupee at 93/$ | Closing Bell",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/videos/business/earnings/sensex-nifty-down-0-5-this-week-brent-above-98-rupee-at-93-closing-bell-14090342.html"
+                                         },
+                                         {
+                                             "title":  "Defence shares skyrocket up to 17% as India, UAE to co-develop defence equipment; BEML, BDL, HAL lead gains",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/defence-shares-skyrocket-up-to-15-beml-bdl-hal-lead-gains-14090189.html"
+                                         },
+                                         {
+                                             "title":  "Gokaldas Exports to Trident: Textile stocks gain up to 8% as global brands turn to India; what\u0027s the opportunity?",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/gokaldas-exports-to-trident-textile-stocks-gain-up-to-8-as-global-brands-turn-to-india-whats-the-opportunity-11795782603918.html"
+                                         },
+                                         {
+                                             "title":  "DIIs turn net buyers for only a second time in Nov, pick up Rs 4,019 crore while FIIs buy Rs 4,479 crore",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/diis-turn-net-buyers-for-only-a-second-time-in-nov-pick-up-rs-4-019-crore-while-fiis-buy-rs-4-479-crore-14089086.html"
+                                         },
+                                         {
+                                             "title":  "Nifty crashes over 1% to close near 25,600: Short the benchmark only below 25,300, say analysts",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/nifty-crashes-over-1-to-close-near-25-600-short-the-benchmark-only-below-25-300-say-analysts-14090432.html"
+                                         },
+                                         {
+                                             "title":  "Technical View: Cooling momentum signals further consolidation in Nifty 50; 25,300 key support for next week, Bank Nifty must hold 62,500",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/technical-view-cooling-momentum-signals-further-consolidation-in-nifty-50-25-300-key-support-for-next-week-bank-nifty-must-hold-62-500-14090392.html"
+                                         },
+                                         {
+                                             "title":  "Sensex falls 1120 pts intraday post 2-day rise: Consolidation here to stay?",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/sensex-tanks-780-pts-intraday-after-2-day-rise-nifty-below-25-700-consolidation-here-to-stay-126112700425_1.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "IPOs and deals",
+                         "script":  "Now to IPOs and deals. The Foodlink F and B Holdings issue was subscribed 1.47 times by its second day, with the retail portion booked four times over. It is expected to list on Thursday, the third of December. The pipeline keeps filling. Sebi has cleared eight companies for IPOs, including Sterlite Electric and Svatantra Microfin, and Swaraj Green Power and Fuel has filed papers to raise 1,100 crore rupees. One more for IPO investors: a Sebi executive director said the two lakh rupee limit for retail investors, unchanged for over two decades, could be examined by a working group.\n\nOn deals, Blackstone sold about 1.55 percent of International Gemological Institute for around 280 crore rupees, at an average of 417 rupees a share, to meet minimum public shareholding rules. Buyers included Stallion Asset and Old Bridge Mutual Fund.\n\nThe biggest deal story remains Tata Steel and APL Apollo Tubes. Sebi has summoned APL Apollo officials and is examining whether linked transactions were structured to avoid a vote by minority shareholders. Sebi chairman Tuhin Kanta Pandey said proxy advisers have every right to raise such concerns. Sebi has also given Tata Steel until the eighth of December for the open offer. Tata Steel\u0027s chief executive, T V Narendran, said the company is looking at ways to restructure the deal, but is not calling it off for now. APL Apollo shares rose 3.5 percent, after a 30 percent fall.\n\nA few dates for shareholders. Zee Entertainment\u0027s 600 crore rupee buyback opens on Tuesday, the first of December, and closes on the seventh, at 91 rupees a share. Holders on the record date of the twenty-fifth of November can tender about one share for every fourteen held, and promoters are staying out. Tech Mahindra\u0027s bonus record date is Monday, the thirtieth. And Bosch has set the twenty-third of December as the record date for its stock split and bonus issue.",
+                         "stories":  [
+                                         {
+                                             "title":  "Foodlink F\u0026B Holdings IPO subscribed 1.47 times on Day 2; retail portion booked 4 times",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/ipo/foodlink-f-b-holdings-ipo-subscribed-1-4-times-on-day-2-so-far-retail-portion-booked-4-times-14090112.html"
+                                         },
+                                         {
+                                             "title":  "Sterlite Electric, Svatantra Microfin among 8 firms cleared for IPOs",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/ipo/sebi-approves-eight-ipos-sterlite-electric-svatantra-microfin-11795783678926.html"
+                                         },
+                                         {
+                                             "title":  "SEBI may revisit Rs 2 lakh retail investor limit in IPOs if warranted; ICDR working group to examine issue",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/sebi-may-revisit-rs-2-lakh-retail-investor-limit-in-ipos-if-warranted-icdr-working-group-may-examine-issue-14089835.html"
+                                         },
+                                         {
+                                             "title":  "Blackstone sells 1.55% stake in IGI for Rs 280 crore to meet public shareholding norms",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/blackstone-sells-1-55-stake-in-igi-for-rs-280-crore-to-meet-public-shareholding-norms/articleshow/136228297.cms"
+                                         },
+                                         {
+                                             "title":  "International Gemological Institute achieves MPS as Blackstone sells 1.55% stake to Stallion Asset, Old Bridge MF among seven investors",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/international-gemological-institute-achieves-mps-as-blackstone-sells-1-55-stake-to-stallion-asset-old-bridge-mf-among-seven-investors-14090553.html"
+                                         },
+                                         {
+                                             "title":  "SEBI summons APL Apollo officials over Tata Steel deal, examines possible RPT rule violations",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/sebi-summons-apl-apollo-officials-over-tata-steel-deal-examines-possible-rpt-rule-violations-14090239.html"
+                                         },
+                                         {
+                                             "title":  "Sebi grants Tata Steel extension till Dec 8 for APL Apollo Tubes open offer",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/sebi-grants-tata-steel-extension-till-dec-8-for-apl-apollo-tubes-open-offer-126112701221_1.html"
+                                         },
+                                         {
+                                             "title":  "APL Apollo Tubes shares rise 3.5% after 30% rout; Tata Steel weighs options to address investor concerns",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/markets/apl-apollo-tubes-shares-rise-3-5-after-30-rout-tata-steel-weighs-options-to-address-investor-concerns-14090231.html"
+                                         },
+                                         {
+                                             "title":  "Zee Entertainment ₹600 crore buyback opens on December 1; what eligible shareholders need to know",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/zee-entertainment-rs-600-crore-buyback-opens-on-december-1-what-eligible-shareholders-need-to-know-11795797877733.html"
+                                         },
+                                         {
+                                             "title":  "Last day to buy Tech Mahindra shares for bonus eligibility: Key details",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/last-day-to-buy-tech-mahindra-shares-for-bonus-eligibility-key-details-126112700385_1.html"
+                                         },
+                                         {
+                                             "title":  "Bosch announces record date for stock split, bonus issue; key details",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/bosch-announces-record-date-for-stock-split-bonus-issue-key-details-126112700618_1.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Economy and policy",
+                         "script":  "Now to the economy, and a packed week ahead. Growth figures for the September quarter are due. A Moneycontrol poll of 22 economists expects growth of 7.6 percent, above the Reserve Bank\u0027s estimate of 7.2 percent. Yes Bank\u0027s Indranil Pan is a touch higher, at 7.7 percent. But the economists also warn that rising inflation, weak rural demand and tighter money could weigh on growth in the second half of the year.\n\nThen comes the policy decision. The Reserve Bank raised rates last month for the first time in four years, taking the key rate to 5.5 percent. Nomura now expects a half-point hike in December, and most economists in the Moneycontrol poll see the rate at 6 percent by March.\n\nMeanwhile, with banking liquidity slipping into deficit, the Reserve Bank has reversed its tighter daily cash reserve rule. From the first of December, banks need to maintain at least 90 percent of the requirement each day, not 99 percent. It has also urged banks to speed up lending to small businesses and rely less on collateral.\n\nA Reserve Bank bulletin showed gold loans were the fastest-growing retail credit segment last year, up 75 percent to 3.67 lakh crore rupees. The rupee was at about 93 to the dollar on Friday, and the Prime Minister\u0027s adviser Tarun Kapoor said high energy prices cost India an extra six to seven lakh crore rupees a year in imports.\n\nFor companies, the rating agency Icra expects operating margins to slip by half to three quarters of a percentage point in the December quarter, even as revenue grows 18 to 20 percent.\n\nAnd ahead of the Budget, the capital market industry is hoping for relief on capital gains tax, according to Lakha Nair of Axis Capital. Sebi chairman Pandey, meanwhile, wants to cut onboarding for foreign portfolio investors from months to as little as five business days.",
+                         "stories":  [
+                                         {
+                                             "title":  "Moneycontrol Poll: GDP growth likely to ease to 7.6% in Q2; most economists expect policy rate at 6% by March 2027",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/moneycontrol-poll-gdp-growth-likely-to-ease-to-7-6-in-q2-most-economists-expect-policy-rate-at-6-by-march-2027-14090163.html"
+                                         },
+                                         {
+                                             "title":  "Strong economic growth expected in Q2, but headwinds loom ahead",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/opinion/strong-economic-growth-expected-in-q2-but-headwinds-loom-ahead-14090566.html"
+                                         },
+                                         {
+                                             "title":  "Nomura now sees India\u0027s RBI hiking by 50 basis points in December",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/nomura-now-sees-india-s-rbi-hiking-by-50-basis-points-in-december-14090343.html"
+                                         },
+                                         {
+                                             "title":  "RBI rolls back tighter daily CRR requirement as banking liquidity slips into deficit",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/rbi-reverses-daily-crr-rule-as-bank-liquidity-tightens-11795780978865.html"
+                                         },
+                                         {
+                                             "title":  "RBI urges banks to expedite MSME lending, reduce reliance on collateral",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/rbi-urges-banks-to-expedite-msme-lending-reduce-reliance-on-collateral-126112701194_1.html"
+                                         },
+                                         {
+                                             "title":  "Only 20-30% of eligible Indian exports use FTA benefits: RBI Governor",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/india-exports-fta-benefits-msmes-sanjay-malhotra-rbi-126112700520_1.html"
+                                         },
+                                         {
+                                             "title":  "India spends ₹6-7 trillion extra a year on energy imports: PM\u0027s Advisor",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/high-energy-prices-cost-india-an-extra-6-7-trn-annually-tarun-kapoor-126112700837_1.html"
+                                         },
+                                         {
+                                             "title":  "India Inc margins may fall 50-75 bps, revenue growth at 18-20% in Q3: Icra",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/companies/news/india-inc-margins-may-fall-50-75-bps-revenue-growth-at-18-20-in-q3-icra-126112700206_1.html"
+                                         },
+                                         {
+                                             "title":  "Sebi aims to cut FPI onboarding time to five business days: Chairman",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/sebi-aims-to-cut-fpi-onboarding-time-to-five-business-days-chairman-126112700698_1.html"
+                                         },
+                                         {
+                                             "title":  "Capital market industry hopes for relief in capital gains taxation in Budget 2027-28: Axis Capital MD",
+                                             "source":  "Economic Times",
+                                             "link":  "https://economictimes.indiatimes.com/markets/stocks/news/capital-market-industry-hopes-for-relief-in-capital-gains-taxation-in-budget-2027-28-axis-capital-md/articleshow/136224186.cms"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Around the world",
+                         "script":  "Around the world, oil is the worry. Brent crude was above 98 dollars a barrel on Friday, on track to end a three-week losing streak on fears over supplies from West Asia. Tanker tracking showed a 31 percent drop in traffic through the Strait of Hormuz last week, and Mirae Asset Sharekhan expects Brent to test 100 dollars in the coming days.\n\nWall Street bounced back after Thanksgiving, in a shortened session. The Nasdaq 100 gained about 1.5 percent and the S and P 500 about 1.1 percent, as investors returned to beaten-down AI stocks. But the indices are still headed for steep losses in November, with worries over AI spending and expectations of a Federal Reserve rate hike in December. The AI unwind has been brutal in South Korea, where the Kospi is down 48 percent from its record high.\n\nPrecious metals rebounded. Gold climbed back to around 3,630 dollars an ounce after a 15-month low, and silver jumped over 4 percent. In India, silver hit its upper limit at 1.54 lakh rupees a kilo. Not everyone thinks the fall is over, though. HSBC warns gold could test 3,400 dollars.",
+                         "stories":  [
+                                         {
+                                             "title":  "Oil on track to snap 3-week losing streak over West Asia supply fears",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/commodities/oil-on-track-to-snap-3-week-losing-streak-over-west-asia-supply-fears-126112700293_1.html"
+                                         },
+                                         {
+                                             "title":  "Brent to test $100 in coming days, says Mirae Asset Sharekhan; here\u0027s why",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/markets/news/brent-to-test-100-in-coming-days-says-mirae-asset-sharekhan-here-s-why-126112700506_1.html"
+                                         },
+                                         {
+                                             "title":  "SanDisk, AMD and Broadcom shares rebound as investors return to battered AI shares; what changed on Wall Street?",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/sandisk-amd-and-broadcom-shares-rebound-as-investors-return-to-battered-ai-shares-what-changed-on-wall-street-11795793954207.html"
+                                         },
+                                         {
+                                             "title":  "South Korea\u0027s Kospi crashes 48% from record high: How the AI trade unwind is hitting investors and pension funds",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/stock-market-news/south-koreas-kospi-crashes-48-from-record-high-how-the-ai-trade-unwind-is-hitting-investors-and-pension-funds-11795784179412.html"
+                                         },
+                                         {
+                                             "title":  "Silver rate today 27 November: MCX Price 6% upper circuit at ₹1.54 lakh/kg, up ₹8,500 in a day",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/market/commodities/silver-rate-today-27-november-mcx-price-6-upper-circuit-at-rs-1-54-lakh-kg-up-rs-8-500-in-a-day-right-time-to-buy-11795772565257.html"
+                                         },
+                                         {
+                                             "title":  "Gold prices: Is the correction over? HSBC warns bullion could test $3,400 as global equity markets remain under pressure",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/gold-prices-is-the-correction-over-hsbc-warns-bullion-could-test-3-400-as-global-equity-markets-remain-under-pressure-11795779330096.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Stories you\u0027re following",
+                         "script":  "An update on the India and US trade deal you\u0027re following. On Friday, Commerce Minister Piyush Goyal said the deal is close to culmination, and that the process which had always held it back is now taking shape. That comes two days after Washington proposed a tariff of up to 25 percent on Indian goods, falling to 17 percent with a deal. The brokerage Emkay calls the impact manageable, and the industry body ASSOCHAM still expects India\u0027s exports to cross one trillion dollars this financial year.",
+                         "stories":  [
+                                         {
+                                             "title":  "India-US trade deal close to completion: Goyal amid fresh tariff threat",
+                                             "source":  "Business Standard",
+                                             "link":  "https://www.business-standard.com/economy/news/india-us-trade-deal-nears-completion-piyush-goyal-amid-fresh-tariff-threat-126112700246_1.html"
+                                         },
+                                         {
+                                             "title":  "US tariff impact on India to be \u0027manageable\u0027 despite disadvantage against Asian peers, says Emkay",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/us-tariff-impact-on-india-to-be-manageable-despite-disadvantage-against-asian-peers-says-emkay-14090144.html"
+                                         },
+                                         {
+                                             "title":  "India\u0027s exports to cross $1 trillion in FY27 despite proposed 25% US tariff: ASSOCHAM secy general",
+                                             "source":  "Moneycontrol",
+                                             "link":  "https://www.moneycontrol.com/news/business/economy/india-s-exports-to-cross-1-trillion-in-fy27-despite-proposed-25-us-tariff-assocham-secy-general-14089786.html"
+                                         }
+                                     ]
+                     },
+                     {
+                         "title":  "Your money",
+                         "script":  "Finally, your money. The Reserve Bank has issued new rules for ATMs and cards. The 23 rupee cap on ATM fees stays, banks must tell customers about ATM charges, and contactless card payments of up to 5,000 rupees won\u0027t need extra authentication. It has also folded 25 separate card circulars into one framework.\n\nA tax case worth knowing. A taxpayer sold gold he had received from his parents and grandmother to buy a house, and claimed an exemption of 34.39 lakh rupees under Section 54F. The tax department also questioned 25.69 lakh rupees of cash deposits. The Mumbai bench of the Income Tax Appellate Tribunal has now sent the case back for fresh examination.\n\nFor retirees, the EPFO\u0027s proposed systematic withdrawal plan would let members take periodic payouts from their provident fund, or withdraw only the interest and keep the principal.\n\nA warning for late buyers of precious metals. Mint reports that some gold and silver ETFs have fallen as much as 62 percent from their peaks, with investors who chased the rally bearing the brunt. And for central government staff, Deutsche Bank estimates the Eighth Pay Commission could add at least three lakh crore rupees to the Centre\u0027s spending.\n\nThat\u0027s the brief. Markets are shut this weekend, so here\u0027s what to watch in the week ahead. Growth figures for the September quarter, and the Reserve Bank\u0027s rate decision. Oil, and whether Brent crosses 100 dollars. The rupee, near 93 to the dollar. The new cash reserve rule from Tuesday, the Zee buyback opening the same day, Foodlink\u0027s listing on Thursday, and any new structure for the Tata Steel and APL Apollo deal. Have a good weekend, and thank you for listening.",
+                         "stories":  [
+                                         {
+                                             "title":  "RBI issues new ATM and card rules: What happens to your free withdrawals, extra charges and contactless payments?",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/rbi-issues-new-atm-and-card-rules-what-happens-to-your-free-withdrawals-extra-charges-and-contactless-payments-11795803175498.html"
+                                         },
+                                         {
+                                             "title":  "RBI consolidates 25 card payment circulars into one framework; what debit and credit card users should know",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/rbi-consolidates-25-card-payment-circulars-into-one-framework-what-debit-and-credit-card-users-should-know-11795785543520.html"
+                                         },
+                                         {
+                                             "title":  "Man sold parents\u0027 gold to buy a house, faced ₹60 lakh tax additions: What taxpayers should know",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/man-sold-parents-gold-to-buy-a-house-faced-rs-60-lakh-tax-additions-what-taxpayers-should-know-11795785468079.html"
+                                         },
+                                         {
+                                             "title":  "EPF withdrawal rules: How retirees can generate monthly income from PF interest without dipping into their savings",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/epf-withdrawal-rules-how-retirees-can-generate-monthly-income-from-pf-interest-without-dipping-into-their-savings-11795790426321.html"
+                                         },
+                                         {
+                                             "title":  "Bought gold or silver at peak? ETFs plunge up to 62% as late investors bear the brunt of sharp price correction",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/bought-gold-or-silver-at-peak-etfs-plunge-up-to-62-as-late-investors-bear-the-brunt-of-sharp-correction-11795782657816.html"
+                                         },
+                                         {
+                                             "title":  "8th Pay Commission implementation: Why a delay until 2028 could prove costly for the Centre\u0027s finances",
+                                             "source":  "Livemint",
+                                             "link":  "https://www.livemint.com/money/personal-finance/8th-pay-commission-implementation-why-a-delay-until-2028-could-prove-costly-for-the-centres-finances-11795827461855.html"
+                                         }
+                                     ]
+                     }
+                 ]
+}
